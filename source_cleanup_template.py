@@ -133,7 +133,26 @@ class SourceCleanupAnalyzer:
         metric_type = row['metric_type']
         year = row['year']
         
-        # 1. FIRST CHECK: Handle duplicates properly
+        # SPECIAL HANDLING FOR ZERO VALUES - Check context first
+        if value == 0.0 and unit == 'percentage':
+            # Check if it's meaningful (e.g., "0% increase", "no change")
+            meaningful_zero_keywords = ['no change', 'zero', 'unchanged', 'baseline', 'none', 'not', 'without', 'decrease']
+            if not any(keyword in context for keyword in meaningful_zero_keywords):
+                # Check context length - very short contexts are often artifacts
+                if len(context) < 50:
+                    self.records_to_remove.append({
+                        'original_id': idx,
+                        'value': value,
+                        'unit': unit,
+                        'year': year,
+                        'metric_type': metric_type,
+                        'context_preview': context[:100] + '...' if len(context) > 100 else context,
+                        'reason': 'Zero percentage likely extraction artifact',
+                        'confidence': 0.75
+                    })
+                    return
+        
+        # CHECK FOR DUPLICATES - but with context awareness
         dup_key = (value, unit, year)
         if dup_key in self.duplicate_groups:
             dup_info = self.duplicate_groups[dup_key]
@@ -142,18 +161,20 @@ class SourceCleanupAnalyzer:
                 # This is the first occurrence - continue processing
                 pass
             elif idx in dup_info['duplicates']:
-                # This is a duplicate - mark for removal
-                self.records_to_remove.append({
-                    'original_id': idx,
-                    'value': value,
-                    'unit': unit,
-                    'year': year,
-                    'metric_type': metric_type,
-                    'context_preview': context[:100] + '...' if len(context) > 100 else context,
-                    'reason': 'Duplicate record (keeping first occurrence)',
-                    'confidence': 0.90
-                })
-                return
+                # For meaningful values, check if contexts are actually similar
+                if value != 0.0 or not self._is_meaningful_context(context):
+                    # This is a duplicate - mark for removal
+                    self.records_to_remove.append({
+                        'original_id': idx,
+                        'value': value,
+                        'unit': unit,
+                        'year': year,
+                        'metric_type': metric_type,
+                        'context_preview': context[:100] + '...' if len(context) > 100 else context,
+                        'reason': 'Duplicate record (keeping first occurrence)',
+                        'confidence': 0.90
+                    })
+                    return
         
         # 2. Check for problematic units
         if unit in ['energy_unit', 'unknown', 'multiple', 'co2_emissions']:
@@ -186,26 +207,7 @@ class SourceCleanupAnalyzer:
                 })
             return
             
-        # 3. Check for zero values that might be artifacts
-        if value == 0.0 and unit == 'percentage':
-            # Check if it's meaningful (e.g., "0% increase", "no change")
-            meaningful_zero_keywords = ['no change', 'zero', 'unchanged', 'baseline', 'none', 'not', 'without', 'decrease']
-            if not any(keyword in context for keyword in meaningful_zero_keywords):
-                # Check context length - very short contexts are often artifacts
-                if len(context) < 50:
-                    self.records_to_remove.append({
-                        'original_id': idx,
-                        'value': value,
-                        'unit': unit,
-                        'year': year,
-                        'metric_type': metric_type,
-                        'context_preview': context[:100] + '...' if len(context) > 100 else context,
-                        'reason': 'Zero percentage likely extraction artifact',
-                        'confidence': 0.75
-                    })
-                    return
-                    
-        # 4. Check for vague metric classifications
+        # 3. Check for vague metric classifications
         if metric_type in ['general_rate', 'general_metric', 'unknown_metric']:
             new_type = self.classify_metric_type(context, value, unit, metric_type)
             if new_type != metric_type:
@@ -236,7 +238,7 @@ class SourceCleanupAnalyzer:
                 })
             return
             
-        # 5. Check for financial metric unit inconsistencies
+        # 4. Check for financial metric unit inconsistencies
         if unit == 'billions_usd':
             # Check if context suggests smaller amounts
             small_amount_indicators = ['thousand', 'hundred', '100k', '500k', 'k usd', 'k$']
@@ -285,6 +287,9 @@ class SourceCleanupAnalyzer:
         
     def classify_metric_type(self, context, value, unit, current_type):
         """Classify vague metric types based on context"""
+        # Convert context to lowercase for consistent matching
+        context = context.lower()
+        
         # AI readiness/maturity
         if any(word in context for word in ['readiness', 'maturity', 'stage', 'level', 'preparedness']):
             return 'readiness_metric'
@@ -293,13 +298,15 @@ class SourceCleanupAnalyzer:
         if any(word in context for word in ['strategy', 'strategic', 'plan', 'initiative', 'roadmap']):
             return 'strategy_metric'
             
-        # Cost/financial
-        if any(word in context for word in ['cost', 'roi', 'return', 'investment', 'spend', 'expense', 'budget']):
+        # Cost/financial - Check this BEFORE adoption since ROI is financial
+        if any(word in context for word in ['cost', 'roi', 'return on investment', 'investment', 'spend', 'expense', 'budget']):
             return 'cost_metric'
             
-        # Adoption/implementation
+        # Adoption/implementation - but exclude financial contexts
         if any(word in context for word in ['adopt', 'implement', 'deploy', 'use', 'using', 'utiliz']):
-            return 'adoption_metric'
+            # Don't classify as adoption if it's about ROI or investment
+            if not any(financial_word in context for financial_word in ['roi', 'return', 'investment']):
+                return 'adoption_metric'
             
         # Performance/productivity
         if any(word in context for word in ['performance', 'productivity', 'efficiency', 'output', 'improvement']):
@@ -319,6 +326,12 @@ class SourceCleanupAnalyzer:
             
         # Return original if no match
         return current_type
+        
+    def _is_meaningful_context(self, context):
+        """Check if a context contains meaningful information"""
+        meaningful_keywords = ['no change', 'zero', 'unchanged', 'baseline', 'none', 'not', 
+                              'without', 'decrease', 'growth', 'increase', 'reduction']
+        return any(keyword in context.lower() for keyword in meaningful_keywords)
         
     def extract_sector(self, context):
         """Extract sector information from context"""

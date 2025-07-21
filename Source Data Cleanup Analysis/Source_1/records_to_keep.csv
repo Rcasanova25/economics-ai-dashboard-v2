@@ -1,13 +1,4 @@
 original_id,value,unit,year,metric_type,context_preview,reason,confidence
-8,5.0,percentage,2024,general_rate,"ignment; anonymous company: team-level assignment.) *10%, **5%, ***1% 0 10 20 30 40 percent(%) 0 2 4...",General rate - needs manual review,0.5
-9,1.0,percentage,2024,general_rate,"; anonymous company: team-level assignment.) *10%, **5%, ***1% 0 10 20 30 40 percent(%) 0 2 4 6 (a) ...",General rate - needs manual review,0.5
-19,1.8,percentage,2024,general_rate,"ers, this difference in acceptance rates is much smaller at 1.8% (or 0.5pp), though it goes in the s...",General rate - needs manual review,0.5
-603,5.0,percentage,2024,general_rate,"ignment; anonymous company: team-level assignment.) *10%, **5%, ***1% 0 10 20 30 40 percent(%) 0 2 4...",General rate - needs manual review,0.5
-604,1.0,percentage,2024,general_rate,"; anonymous company: team-level assignment.) *10%, **5%, ***1% 0 10 20 30 40 percent(%) 0 2 4 6 (a) ...",General rate - needs manual review,0.5
-614,1.8,percentage,2024,general_rate,"ers, this difference in acceptance rates is much smaller at 1.8% (or 0.5pp), though it goes in the s...",General rate - needs manual review,0.5
-4901,5.0,percentage,2024,general_rate,"ignment; anonymous company: team-level assignment.) *10%, **5%, ***1% 0 10 20 30 40 percent(%) 0 2 4...",General rate - needs manual review,0.5
-4902,1.0,percentage,2024,general_rate,"; anonymous company: team-level assignment.) *10%, **5%, ***1% 0 10 20 30 40 percent(%) 0 2 4 6 (a) ...",General rate - needs manual review,0.5
-4912,1.8,percentage,2024,general_rate,"ers, this difference in acceptance rates is much smaller at 1.8% (or 0.5pp), though it goes in the s...",General rate - needs manual review,0.5
-5496,5.0,percentage,2024,general_rate,"ignment; anonymous company: team-level assignment.) *10%, **5%, ***1% 0 10 20 30 40 percent(%) 0 2 4...",General rate - needs manual review,0.5
-5497,1.0,percentage,2024,general_rate,"; anonymous company: team-level assignment.) *10%, **5%, ***1% 0 10 20 30 40 percent(%) 0 2 4 6 (a) ...",General rate - needs manual review,0.5
-5507,1.8,percentage,2024,general_rate,"ers, this difference in acceptance rates is much smaller at 1.8% (or 0.5pp), though it goes in the s...",General rate - needs manual review,0.5
+0,,percentage,2024,general_rate,nan,general_rate - needs manual review,0.5
+1,invalid,,2024,general_rate,nan,general_rate - needs manual review,0.5
+2,50.0,percentage,2024,general_rate,valid context,general_rate - needs manual review,0.5
