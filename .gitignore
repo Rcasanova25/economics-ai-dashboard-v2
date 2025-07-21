@@ -1,0 +1,95 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Project specific
+*.log
+*.db
+*.backup
+*.sqlite
+*.sqlite3
+data/database/*.db
+data/database/*.backup
+extraction.log
+notes*.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Backup files
+backups/
+*.bak
+*.old
+
+# Large data files (keep structure but not data)
+data/raw_pdfs/*.pdf
+!data/raw_pdfs/.gitkeep
+data/processed/extractions/*.json
+!data/processed/extractions/.gitkeep
+data/processed/converted_metrics/*.json
+!data/processed/converted_metrics/.gitkeep

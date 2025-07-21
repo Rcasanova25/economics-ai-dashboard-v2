@@ -1,0 +1,86 @@
+{
+  "source_id": 7,
+  "source_name": "cost-benefit-analysis-artificial-intelligence-evidence-from-a-field-experiment-on-gpt-4o-1.pdf",
+  "total_records": 2472,
+  "major_issues": {
+    "massive_zero_duplicates": {
+      "count": 1996,
+      "percentage": 80.74433656957929,
+      "description": "Likely from table parsing where empty cells became 0.0%"
+    },
+    "general_rate_overuse": {
+      "count": 2104,
+      "percentage": 85.11326860841424,
+      "description": "Vague metric classification that needs context-based reclassification"
+    },
+    "table_extraction_artifacts": {
+      "count": 2424,
+      "percentage": 98.05825242718447,
+      "description": "Context contains table formatting characters"
+    },
+    "unit_errors": {
+      "energy_unit": 4,
+      "description": "Wrong unit classification - these are actually years from references"
+    }
+  },
+  "value_distribution": {
+    "top_10_values": {
+      "0.0": 1996,
+      "250.0": 24,
+      "249.0": 22,
+      "60.0": 20,
+      "40.0": 16,
+      "10.0": 14,
+      "999.0": 12,
+      "500.0": 12,
+      "47.0": 12,
+      "20.0": 12
+    },
+    "unique_values": 76
+  },
+  "metric_type_distribution": {
+    "general_rate": 2104,
+    "percentages": 170,
+    "labor_metrics": 58,
+    "employment_metric": 28,
+    "revenue_metric": 20,
+    "labor_metric": 12,
+    "unknown_metric": 12,
+    "employment": 10,
+    "adoption_rate": 10,
+    "investment": 10,
+    "cost": 8,
+    "gdp_metric": 8,
+    "investment_metric": 8,
+    "adoption_metrics": 4,
+    "impact_metrics": 4,
+    "revenue": 4,
+    "growth_rate": 2
+  },
+  "unit_distribution": {
+    "percentage": 2344,
+    "number": 76,
+    "millions_usd": 28,
+    "billions_usd": 20,
+    "energy_unit": 4
+  },
+  "year_distribution": {
+    "2014": 4,
+    "2016": 2,
+    "2017": 26,
+    "2018": 20,
+    "2019": 16,
+    "2020": 18,
+    "2021": 10,
+    "2022": 36,
+    "2023": 24,
+    "2024": 2090,
+    "2025": 226
+  },
+  "cleaning_strategy": [
+    "Remove records that are clearly from table headers/formatting",
+    "Deduplicate the 0.0% records keeping only meaningful ones",
+    "Reclassify general_rate based on context analysis",
+    "Fix unit misclassifications"
+  ]
+}

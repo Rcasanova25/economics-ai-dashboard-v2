@@ -1,0 +1,399 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence,proposed_action
+0,26.08,percentage,2024,general_rate,"experiments and 4,867 de- velopers, our analysis reveals a 26.08% increase (se: 10.3%) in completed ...",Reclassify based on context: growth_metric,0.8,MODIFY
+1,10.3,percentage,2024,general_rate,"7 de- velopers, our analysis reveals a 26.08% increase (se: 10.3%) in completed tasks among develope...",Reclassify based on context: growth_metric,0.8,MODIFY
+2,80.0,percentage,2024,general_rate,"that generative ai can per- form tasks associated with over 80% of u.s. jobs, with particularly high...",Reclassify based on context: employment_metric,0.8,MODIFY
+3,13.55,percentage,2024,general_rate,"y interest, our results support this interpretation, with a 13.55% (se: 10.0%) increase in the numbe...",Reclassify based on context: growth_metric,0.8,MODIFY
+4,38.38,percentage,2024,general_rate,.0%) increase in the number of code updates (commits) and a 38.38% (se: 12.55%) increase in the numb...,Reclassify based on context: growth_metric,0.8,MODIFY
+5,12.0,percentage,2024,general_rate,ic the day-to-day work at a consulting company increased by 12%–25%. evidence from these experiments...,Reclassify based on context: growth_metric,0.8,MODIFY
+6,50.4,percentage,2024,general_rate,"rimarily located in the united states. of these developers, 50.4% were randomly selected to receive ...",General rate - needs manual review,0.5,KEEP
+7,61.3,percentage,2024,general_rate,"t asia. randomization occurred at the developer level, with 61.3% of the 320 developers assigned to ...",General rate - needs manual review,0.5,KEEP
+8,5.0,percentage,2024,general_rate,"ignment; anonymous company: team-level assignment.) *10%, **5%, ***1% 0 10 20 30 40 percent(%) 0 2 4...",General rate - needs manual review,0.5,KEEP
+9,1.0,percentage,2024,general_rate,"; anonymous company: team-level assignment.) *10%, **5%, ***1% 0 10 20 30 40 percent(%) 0 2 4 6 (a) ...",General rate - needs manual review,0.5,KEEP
+10,34.01,percentage,2024,general_rate,.90% > 0) 0 10 20 30 40 percent(%) 0 1 2 3 4 (c) anonymous (34.01% > 0) figure 1: distribution of pu...,General rate - needs manual review,0.5,KEEP
+11,8.5,percentage,2024,general_rate,"uring the first two weeks of the microsoft experiment, only 8.5 % of the treated group signed up for...",General rate - needs manual review,0.5,KEEP
+12,42.5,percentage,2023,general_rate,2023. these additional emails increased the take-up rate to 42.5% within two weeks. as discussed bef...,Reclassify based on context: growth_metric,0.8,MODIFY
+13,0.5,percentage,2024,general_rate,p was not perfect because a few control group de- velopers (0.5%) required access to copilot to work...,General rate - needs manual review,0.5,KEEP
+14,69.4,percentage,2024,general_rate,"group. by april 2024, the treated group’s adoption rate was 69.4%, while the control group’s adoptio...",Reclassify based on context: adoption_metric,0.8,MODIFY
+15,100.0,percentage,2024,general_rate,"nts. despite this, the adoption rate is significantly below 100% in all three experiments, with arou...",Reclassify based on context: adoption_metric,0.8,MODIFY
+16,21.34,percentage,2024,general_rate,"the number of pull requests made by developers increases by 21.34% (se: 9.92%), the number of commit...",Reclassify based on context: growth_metric,0.8,MODIFY
+17,15.39,percentage,2024,general_rate,"s by 21.34% (se: 9.92%), the number of commits increases by 15.39% (se: 9.69%), and the number of bu...",Reclassify based on context: growth_metric,0.8,MODIFY
+18,4.3,percentage,2024,general_rate,e 5 reveals that higher-tenure developers are approximately 4.3% (or 1.0pp) less likely to accept co...,General rate - needs manual review,0.5,KEEP
+19,1.8,percentage,2024,general_rate,"ers, this difference in acceptance rates is much smaller at 1.8% (or 0.5pp), though it goes in the s...",General rate - needs manual review,0.5,KEEP
+20,7.0,percentage,2024,general_rate,to 40% while senior developers have more marginal gains of 7% to 16%. the estimates for above- and b...,Reclassify based on context: ai_metric,0.8,MODIFY
+21,150.0,percentage,2024,general_rate,59 24 28 -5 39 19 19 -6 57 18 9 8 2 -2 -5 -0 -50 0 50 100 150 % increase in outcome pull requests co...,Reclassify based on context: growth_metric,0.8,MODIFY
+22,12.0,percentage,2024,growth_metric,signed to mimic the day-to-day work at a consulting company increased by 12%–25%. evidence from thes...,Duplicate record (keeping first occurrence),0.9,REMOVE
+23,2025.0,number,2025,unknown_metric,"sonia jaffe, leon musolff, sida peng, and tobias salz june 2025 abstract this study evaluates the ef...",No issues detected,0.8,KEEP
+24,2023.0,energy_unit,2024,unknown_metric,"ls can be used to estimate demand (brand, israeli, and ngwe 2023; goli and singh 2024; gui and toubi...",Energy unit is a misclassified year/reference,0.95,MODIFY
+25,24.0,billions_usd,2024,adoption_metric,"9
+1
+cumulative rate
+oct 23
+nov 23
+dec 23
+jan 24
+feb 24
+mar 24
+date
+invite
+adopt
+(c) anonymous compan...",Likely from figure/table numbering,0.85,REMOVE
+26,4.0,percentage,2024,adoption_metric,"4%, while the control group’s adoption rate was 24",No issues detected,0.8,KEEP
+27,21.0,percentage,2024,profit_metric,"still, there is no difference in usage conditional on adoption
+between junior and senior developers ...",No issues detected,0.8,KEEP
+28,40.0,percentage,2024,profit_metric,"still, there is no difference in usage conditional on adoption
+between junior and senior developers ...",No issues detected,0.8,KEEP
+29,7.0,percentage,2024,profit_metric,"still, there is no difference in usage conditional on adoption
+between junior and senior developers ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+30,16.0,percentage,2024,profit_metric,"still, there is no difference in usage conditional on adoption
+between junior and senior developers ...",No issues detected,0.8,KEEP
+31,26.08,percentage,2024,impact_metrics,"oisy, when data is combined across three experiments and 4,867 de- velopers, our analysis reveals a ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+32,58.0,percentage,2024,impact_metrics,nan,No issues detected,0.8,KEEP
+595,26.08,percentage,2024,general_rate,"experiments and 4,867 de- velopers, our analysis reveals a 26.08% increase (se: 10.3%) in completed ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+596,10.3,percentage,2024,general_rate,"7 de- velopers, our analysis reveals a 26.08% increase (se: 10.3%) in completed tasks among develope...",Duplicate record (keeping first occurrence),0.9,REMOVE
+597,80.0,percentage,2024,general_rate,"that generative ai can per- form tasks associated with over 80% of u.s. jobs, with particularly high...",Duplicate record (keeping first occurrence),0.9,REMOVE
+598,13.55,percentage,2024,general_rate,"y interest, our results support this interpretation, with a 13.55% (se: 10.0%) increase in the numbe...",Duplicate record (keeping first occurrence),0.9,REMOVE
+599,38.38,percentage,2024,general_rate,.0%) increase in the number of code updates (commits) and a 38.38% (se: 12.55%) increase in the numb...,Duplicate record (keeping first occurrence),0.9,REMOVE
+600,12.0,percentage,2024,general_rate,ic the day-to-day work at a consulting company increased by 12%–25%. evidence from these experiments...,Duplicate record (keeping first occurrence),0.9,REMOVE
+601,50.4,percentage,2024,general_rate,"rimarily located in the united states. of these developers, 50.4% were randomly selected to receive ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+602,61.3,percentage,2024,general_rate,"t asia. randomization occurred at the developer level, with 61.3% of the 320 developers assigned to ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+603,5.0,percentage,2024,general_rate,"ignment; anonymous company: team-level assignment.) *10%, **5%, ***1% 0 10 20 30 40 percent(%) 0 2 4...",Duplicate record (keeping first occurrence),0.9,REMOVE
+604,1.0,percentage,2024,general_rate,"; anonymous company: team-level assignment.) *10%, **5%, ***1% 0 10 20 30 40 percent(%) 0 2 4 6 (a) ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+605,34.01,percentage,2024,general_rate,.90% > 0) 0 10 20 30 40 percent(%) 0 1 2 3 4 (c) anonymous (34.01% > 0) figure 1: distribution of pu...,Duplicate record (keeping first occurrence),0.9,REMOVE
+606,8.5,percentage,2024,general_rate,"uring the first two weeks of the microsoft experiment, only 8.5 % of the treated group signed up for...",Duplicate record (keeping first occurrence),0.9,REMOVE
+607,42.5,percentage,2023,general_rate,2023. these additional emails increased the take-up rate to 42.5% within two weeks. as discussed bef...,Duplicate record (keeping first occurrence),0.9,REMOVE
+608,0.5,percentage,2024,general_rate,p was not perfect because a few control group de- velopers (0.5%) required access to copilot to work...,Duplicate record (keeping first occurrence),0.9,REMOVE
+609,69.4,percentage,2024,general_rate,"group. by april 2024, the treated group’s adoption rate was 69.4%, while the control group’s adoptio...",Duplicate record (keeping first occurrence),0.9,REMOVE
+610,100.0,percentage,2024,general_rate,"nts. despite this, the adoption rate is significantly below 100% in all three experiments, with arou...",Duplicate record (keeping first occurrence),0.9,REMOVE
+611,21.34,percentage,2024,general_rate,"the number of pull requests made by developers increases by 21.34% (se: 9.92%), the number of commit...",Duplicate record (keeping first occurrence),0.9,REMOVE
+612,15.39,percentage,2024,general_rate,"s by 21.34% (se: 9.92%), the number of commits increases by 15.39% (se: 9.69%), and the number of bu...",Duplicate record (keeping first occurrence),0.9,REMOVE
+613,4.3,percentage,2024,general_rate,e 5 reveals that higher-tenure developers are approximately 4.3% (or 1.0pp) less likely to accept co...,Duplicate record (keeping first occurrence),0.9,REMOVE
+614,1.8,percentage,2024,general_rate,"ers, this difference in acceptance rates is much smaller at 1.8% (or 0.5pp), though it goes in the s...",Duplicate record (keeping first occurrence),0.9,REMOVE
+615,7.0,percentage,2024,general_rate,to 40% while senior developers have more marginal gains of 7% to 16%. the estimates for above- and b...,Duplicate record (keeping first occurrence),0.9,REMOVE
+616,150.0,percentage,2024,general_rate,59 24 28 -5 39 19 19 -6 57 18 9 8 2 -2 -5 -0 -50 0 50 100 150 % increase in outcome pull requests co...,Duplicate record (keeping first occurrence),0.9,REMOVE
+617,12.0,percentage,2024,growth_metric,signed to mimic the day-to-day work at a consulting company increased by 12%–25%. evidence from thes...,Duplicate record (keeping first occurrence),0.9,REMOVE
+618,2025.0,number,2025,unknown_metric,"sonia jaffe, leon musolff, sida peng, and tobias salz june 2025 abstract this study evaluates the ef...",Duplicate record (keeping first occurrence),0.9,REMOVE
+619,2023.0,energy_unit,2024,unknown_metric,"ls can be used to estimate demand (brand, israeli, and ngwe 2023; goli and singh 2024; gui and toubi...",Duplicate record (keeping first occurrence),0.9,REMOVE
+620,24.0,billions_usd,2024,adoption_metric,"9
+1
+cumulative rate
+oct 23
+nov 23
+dec 23
+jan 24
+feb 24
+mar 24
+date
+invite
+adopt
+(c) anonymous compan...",Duplicate record (keeping first occurrence),0.9,REMOVE
+621,4.0,percentage,2024,adoption_metric,"4%, while the control group’s adoption rate was 24",Duplicate record (keeping first occurrence),0.9,REMOVE
+622,21.0,percentage,2024,profit_metric,"still, there is no difference in usage conditional on adoption
+between junior and senior developers ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+623,40.0,percentage,2024,profit_metric,"still, there is no difference in usage conditional on adoption
+between junior and senior developers ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+624,7.0,percentage,2024,profit_metric,"still, there is no difference in usage conditional on adoption
+between junior and senior developers ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+625,16.0,percentage,2024,profit_metric,"still, there is no difference in usage conditional on adoption
+between junior and senior developers ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+626,26.08,percentage,2024,impact_metrics,"oisy, when data is combined across three experiments and 4,867 de- velopers, our analysis reveals a ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+627,58.0,percentage,2024,impact_metrics,nan,Duplicate record (keeping first occurrence),0.9,REMOVE
+628,26.08,percentage,2025,growth_rate,"experiments and 4,867 de- velopers, our analysis reveals a 26.08% increase (se: 10.3%) in completed ...",No issues detected,0.8,KEEP
+629,10.3,percentage,2025,growth_rate,"7 de- velopers, our analysis reveals a 26.08% increase (se: 10.3%) in completed tasks among develope...",No issues detected,0.8,KEEP
+630,80.0,percentage,2025,employment,"that generative ai can per- form tasks associated with over 80% of u.s. jobs, with particularly high...",No issues detected,0.8,KEEP
+631,26.08,percentage,2025,growth_rate,ression suggest that usage of the coding assistant causes a 26.08% (se: 10.3%) increase in the weekl...,Duplicate record (keeping first occurrence),0.9,REMOVE
+632,10.3,percentage,2025,growth_rate,est that usage of the coding assistant causes a 26.08% (se: 10.3%) increase in the weekly number of ...,Duplicate record (keeping first occurrence),0.9,REMOVE
+633,13.55,percentage,2025,growth_rate,"y interest, our results support this interpretation, with a 13.55% (se: 10.0%) increase in the numbe...",No issues detected,0.8,KEEP
+634,10.0,percentage,2025,growth_rate,"our results support this interpretation, with a 13.55% (se: 10.0%) increase in the number of code up...",No issues detected,0.8,KEEP
+635,38.38,percentage,2025,growth_rate,.0%) increase in the number of code updates (commits) and a 38.38% (se: 12.55%) increase in the numb...,No issues detected,0.8,KEEP
+636,12.55,percentage,2025,growth_rate,e in the number of code updates (commits) and a 38.38% (se: 12.55%) increase in the number of times ...,No issues detected,0.8,KEEP
+637,12.0,percentage,2025,growth_rate,ic the day-to-day work at a consulting company increased by 12%–25%. evidence from these experiments...,No issues detected,0.8,KEEP
+638,25.0,percentage,2025,growth_rate,he day-to-day work at a consulting company increased by 12%–25%. evidence from these experiments gen...,No issues detected,0.8,KEEP
+639,14.0,percentage,2025,percentages,eases the pro- ductivity of customer chat support agents by 14%. the drawback of these studies is th...,No issues detected,0.8,KEEP
+640,50.4,percentage,2025,percentages,"rimarily located in the united states. of these developers, 50.4% were randomly selected to receive ...",No issues detected,0.8,KEEP
+641,61.3,percentage,2025,percentages,"t asia. randomization occurred at the developer level, with 61.3% of the 320 developers assigned to ...",No issues detected,0.8,KEEP
+642,10.0,percentage,2025,percentages,"ual assignment; anonymous company: team-level assignment.) *10%, **5%, ***1% 0 10 20 30 40 percent(%...",Duplicate record (keeping first occurrence),0.9,REMOVE
+643,5.0,percentage,2025,percentages,"ignment; anonymous company: team-level assignment.) *10%, **5%, ***1% 0 10 20 30 40 percent(%) 0 2 4...",No issues detected,0.8,KEEP
+644,1.0,percentage,2025,percentages,"; anonymous company: team-level assignment.) *10%, **5%, ***1% 0 10 20 30 40 percent(%) 0 2 4 6 (a) ...",No issues detected,0.8,KEEP
+645,37.09,percentage,2025,percentages,"**5%, ***1% 0 10 20 30 40 percent(%) 0 2 4 6 (a) microsoft (37.09% > 0) 0 10 20 30 40 50 percent(%) ...",No issues detected,0.8,KEEP
+646,12.9,percentage,2025,percentages,09% > 0) 0 10 20 30 40 50 percent(%) 0 1 2 3 (b) accenture (12.90% > 0) 0 10 20 30 40 percent(%) 0 1...,No issues detected,0.8,KEEP
+647,34.01,percentage,2025,percentages,.90% > 0) 0 10 20 30 40 percent(%) 0 1 2 3 4 (c) anonymous (34.01% > 0) figure 1: distribution of pu...,No issues detected,0.8,KEEP
+648,8.5,percentage,2025,percentages,"uring the first two weeks of the microsoft experiment, only 8.5 % of the treated group signed up for...",No issues detected,0.8,KEEP
+649,42.5,percentage,2023,growth_rate,2023. these additional emails increased the take-up rate to 42.5% within two weeks. as discussed bef...,Duplicate record (keeping first occurrence),0.9,REMOVE
+650,0.5,percentage,2025,percentages,p was not perfect because a few control group de- velopers (0.5%) required access to copilot to work...,No issues detected,0.8,KEEP
+651,64.0,percentage,2024,percentages,"ver, even in january 2024, adop- tion in the control group (64.0%) still remained below that in the ...",No issues detected,0.8,KEEP
+652,75.6,percentage,2025,adoption_rate,"oup (64.0%) still remained below that in the treated group (75.6%), thus providing (limited) long-ru...",No issues detected,0.8,KEEP
+653,60.0,percentage,2025,adoption_rate,"e to two months, adoption slowed down and plateaued at over 60%. con- trol group participants starte...",No issues detected,0.8,KEEP
+654,69.4,percentage,2024,adoption_rate,"group. by april 2024, the treated group’s adoption rate was 69.4%, while the control group’s adoptio...",Duplicate record (keeping first occurrence),0.9,REMOVE
+655,24.4,percentage,2025,adoption_rate,"rate was 69.4%, while the control group’s adoption rate was 24.4%. panel (c) shows the staggered inv...",No issues detected,0.8,KEEP
+656,100.0,percentage,2025,adoption_rate,"nts. despite this, the adoption rate is significantly below 100% in all three experiments, with arou...",No issues detected,0.8,KEEP
+657,40.0,percentage,2025,percentages,"icantly below 100% in all three experiments, with around 30-40% of the developers not even trying th...",No issues detected,0.8,KEEP
+658,10.0,percentage,2025,percentages,"ombined with the treatment/control split at the other two. *10%, **5%, ***1% these errors. although ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+659,5.0,percentage,2025,percentages,"with the treatment/control split at the other two. *10%, **5%, ***1% these errors. although not alwa...",Duplicate record (keeping first occurrence),0.9,REMOVE
+660,1.0,percentage,2025,percentages,"he treatment/control split at the other two. *10%, **5%, ***1% these errors. although not always sta...",Duplicate record (keeping first occurrence),0.9,REMOVE
+661,26.08,percentage,2025,growth_rate,"ber of weekly pull requests made by developers increases by 26.08% (se: 10.3%), the number of weekly...",Duplicate record (keeping first occurrence),0.9,REMOVE
+662,10.3,percentage,2025,growth_rate,"y pull requests made by developers increases by 26.08% (se: 10.3%), the number of weekly commits inc...",Duplicate record (keeping first occurrence),0.9,REMOVE
+663,13.55,percentage,2025,growth_rate,".08% (se: 10.3%), the number of weekly commits increases by 13.55% (se: 10.0%), and the number of we...",Duplicate record (keeping first occurrence),0.9,REMOVE
+664,10.0,percentage,2025,growth_rate,".3%), the number of weekly commits increases by 13.55% (se: 10.0%), and the number of weekly builds ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+665,38.38,percentage,2025,growth_rate,"% (se: 10.0%), and the number of weekly builds increases by 38.38% (se: 12.55%). a less optimistic i...",Duplicate record (keeping first occurrence),0.9,REMOVE
+666,12.55,percentage,2025,growth_rate,"), and the number of weekly builds increases by 38.38% (se: 12.55%). a less optimistic interpretatio...",Duplicate record (keeping first occurrence),0.9,REMOVE
+667,42.0,percentage,2025,percentages,"ccenture that was abandoned due to a large layoff affecting 42% of participants, resulting in a lack...",No issues detected,0.8,KEEP
+668,39.18,percentage,2025,percentages,negative and statistically insignificant point estimate of -39.18% (se: 36.78%) on the number of com...,No issues detected,0.8,KEEP
+669,36.78,percentage,2025,percentages,statistically insignificant point estimate of -39.18% (se: 36.78%) on the number of completed pull r...,No issues detected,0.8,KEEP
+670,43.04,percentage,2025,percentages,leted pull requests. the estimates on the number of commits 43.04% (se: 38.80%) and builds 12.33% (s...,No issues detected,0.8,KEEP
+671,38.8,percentage,2025,percentages,equests. the estimates on the number of commits 43.04% (se: 38.80%) and builds 12.33% (se: 53.60%) a...,No issues detected,0.8,KEEP
+672,12.33,percentage,2025,percentages,"tes on the number of commits 43.04% (se: 38.80%) and builds 12.33% (se: 53.60%) are both positive, t...",No issues detected,0.8,KEEP
+673,53.6,percentage,2025,percentages,"umber of commits 43.04% (se: 38.80%) and builds 12.33% (se: 53.60%) are both positive, though also n...",No issues detected,0.8,KEEP
+674,21.34,percentage,2025,growth_rate,"the number of pull requests made by developers increases by 21.34% (se: 9.92%), the number of commit...",No issues detected,0.8,KEEP
+675,9.92,percentage,2025,growth_rate,"f pull requests made by developers increases by 21.34% (se: 9.92%), the number of commits increases ...",No issues detected,0.8,KEEP
+676,15.39,percentage,2025,growth_rate,"s by 21.34% (se: 9.92%), the number of commits increases by 15.39% (se: 9.69%), and the number of bu...",No issues detected,0.8,KEEP
+677,9.69,percentage,2025,growth_rate,"(se: 9.92%), the number of commits increases by 15.39% (se: 9.69%), and the number of builds increas...",No issues detected,0.8,KEEP
+678,37.03,percentage,2025,growth_rate,"y 15.39% (se: 9.69%), and the number of builds increases by 37.03% (se: 12.22%). 4.3 results on code...",No issues detected,0.8,KEEP
+679,12.22,percentage,2025,growth_rate,": 9.69%), and the number of builds increases by 37.03% (se: 12.22%). 4.3 results on code quality giv...",No issues detected,0.8,KEEP
+680,10.0,percentage,2025,adoption_rate,"nd that the approval rate of pull requests goes up by about 10%, suggesting that the code produced a...",Duplicate record (keeping first occurrence),0.9,REMOVE
+681,10.0,percentage,2025,percentages,"essions, but are expressed as % of the pre-treatment mean. *10%, **5%, ***1% to such code. overall, ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+682,5.0,percentage,2025,percentages,", but are expressed as % of the pre-treatment mean. *10%, **5%, ***1% to such code. overall, we do n...",Duplicate record (keeping first occurrence),0.9,REMOVE
+683,1.0,percentage,2025,percentages,"re expressed as % of the pre-treatment mean. *10%, **5%, ***1% to such code. overall, we do not find...",Duplicate record (keeping first occurrence),0.9,REMOVE
+684,95.0,percentage,2025,percentages,.7 .8 .9 1 cumulative rate oct 22 apr 23 oct 23 apr 24 date 95% ci for short tenure 95% ci for long ...,No issues detected,0.8,KEEP
+685,95.0,percentage,2025,adoption_rate,te oct 22 apr 23 oct 23 apr 24 date 95% ci for short tenure 95% ci for long tenure short tenure long...,Duplicate record (keeping first occurrence),0.9,REMOVE
+686,95.0,percentage,2025,percentages,.7 .8 .9 1 cumulative rate oct 22 apr 23 oct 23 apr 24 date 95% ci for junior level 95% ci for senio...,Duplicate record (keeping first occurrence),0.9,REMOVE
+687,95.0,percentage,2025,adoption_rate,te oct 22 apr 23 oct 23 apr 24 date 95% ci for junior level 95% ci for senior level junior level sen...,Duplicate record (keeping first occurrence),0.9,REMOVE
+688,95.0,percentage,2025,productivity,.7 .8 .9 1 cumulative rate oct 22 apr 23 oct 23 apr 24 date 95% ci for low pre-productivity 95% ci f...,Duplicate record (keeping first occurrence),0.9,REMOVE
+689,95.0,percentage,2025,productivity,2 apr 23 oct 23 apr 24 date 95% ci for low pre-productivity 95% ci for high pre-productivity low pre...,Duplicate record (keeping first occurrence),0.9,REMOVE
+690,81.6,percentage,2025,percentages,"re likely to adopt copilot by the end of our sample period (81.6% vs 72.1%), consistent 20we measure...",No issues detected,0.8,KEEP
+691,72.1,percentage,2023,percentages,"to adopt copilot by the end of our sample period (81.6% vs 72.1%), consistent 20we measure level as ...",No issues detected,0.8,KEEP
+692,95.0,percentage,2025,adoption_rate,10 -5 0 5 10 months after adpotion short tenure long tenure 95% ci (a) usage (since adoption) by ten...,Duplicate record (keeping first occurrence),0.9,REMOVE
+693,95.0,percentage,2025,adoption_rate,0 -5 0 5 10 months after adpotion junior level senior level 95% ci (b) usage (since adoption) by lev...,Duplicate record (keeping first occurrence),0.9,REMOVE
+694,95.0,percentage,2025,adoption_rate,s after adpotion low pre-productivity high pre-productivity 95% ci (c) usage (since adoption) by pre...,Duplicate record (keeping first occurrence),0.9,REMOVE
+695,28.0,percentage,2025,percentages,.7 25.9 24.2 p=0.14 ︷ p=0.51 ︷ p=0.01 ︷ 24.0 25.0 26.0 27.0 28.0 % of copilot suggestions accepted t...,No issues detected,0.8,KEEP
+696,100.0,percentage,2025,growth_rate,7 8 35 9 -0 -3 p=0.21 ︷ ︷ p=0.28 p=0.26 ︷ p=0.69 ︷ -50 0 50 100 % increase in outcome pull requests ...,Duplicate record (keeping first occurrence),0.9,REMOVE
+697,100.0,percentage,2025,growth_rate,16 29 13 -0 -3 p=0.13 ︷ ︷ p=0.77 p=0.47 ︷ p=0.63 ︷ -50 0 50 100 % increase in outcome pull requests ...,Duplicate record (keeping first occurrence),0.9,REMOVE
+698,100.0,percentage,2025,growth_rate,14 30 18 0 -3 p=0.65 ︷ ︷ p=0.38 p=0.55 ︷ p=0.64 ︷ -50 0 50 100 % increase in outcome pull requests c...,Duplicate record (keeping first occurrence),0.9,REMOVE
+699,95.0,percentage,2025,percentages,s total number of completed pull requests. the bars provide 95% confidence intervals based on standa...,Duplicate record (keeping first occurrence),0.9,REMOVE
+700,79.2,percentage,2025,adoption_rate,"developers, who are 4.7pp (se: 2.2pp) more likely to adopt (79.2% vs. 74.4%), though the adoption di...",No issues detected,0.8,KEEP
+701,74.4,percentage,2025,adoption_rate,", who are 4.7pp (se: 2.2pp) more likely to adopt (79.2% vs. 74.4%), though the adoption difference i...",No issues detected,0.8,KEEP
+702,4.3,percentage,2025,percentages,e 5 reveals that higher-tenure developers are approximately 4.3% (or 1.0pp) less likely to accept co...,No issues detected,0.8,KEEP
+703,1.8,percentage,2025,percentages,"ers, this difference in acceptance rates is much smaller at 1.8% (or 0.5pp), though it goes in the s...",No issues detected,0.8,KEEP
+704,27.0,percentage,2025,growth_rate,measures: short-tenure developers increase their output by 27% to 39% while long-tenure developers e...,No issues detected,0.8,KEEP
+705,39.0,percentage,2025,growth_rate,es: short-tenure developers increase their output by 27% to 39% while long-tenure developers experie...,No issues detected,0.8,KEEP
+706,8.0,percentage,2025,percentages,"9% while long-tenure developers experience smaller gains of 8% to 13%. however, we note that because...",No issues detected,0.8,KEEP
+707,13.0,percentage,2025,percentages,"le long-tenure developers experience smaller gains of 8% to 13%. however, we note that because of ou...",No issues detected,0.8,KEEP
+708,21.0,percentage,2025,growth_rate,gure 6(b) that ju- nior developers increase their output by 21% to 40% while senior developers have ...,No issues detected,0.8,KEEP
+709,40.0,percentage,2025,growth_rate,b) that ju- nior developers increase their output by 21% to 40% while senior developers have more ma...,Duplicate record (keeping first occurrence),0.9,REMOVE
+710,7.0,percentage,2025,percentages,to 40% while senior developers have more marginal gains of 7% to 16%. the estimates for above- and b...,No issues detected,0.8,KEEP
+711,16.0,percentage,2025,productivity,% while senior developers have more marginal gains of 7% to 16%. the estimates for above- and below-...,No issues detected,0.8,KEEP
+712,26.08,percentage,2025,productivity,uggestion tool increases software developer productivity by 26.08% (se: 10.3%). we note that this es...,Duplicate record (keeping first occurrence),0.9,REMOVE
+713,10.3,percentage,2025,productivity,ol increases software developer productivity by 26.08% (se: 10.3%). we note that this estimate is su...,Duplicate record (keeping first occurrence),0.9,REMOVE
+714,58.0,percentage,2023,percentages,estimates are less precise. 19 stantially smaller than the 58% decrease peng et al. (2023) find for ...,No issues detected,0.8,KEEP
+715,44.2,percentage,2025,percentages,"ages of the experiment were quite small: at microsoft, only 44.2% of developers adopted copilot in t...",No issues detected,0.8,KEEP
+716,61.7,percentage,2025,adoption_rate,"period). at accenture, adoption was only slightly higher at 61.7% by the end of the initial phase. o...",No issues detected,0.8,KEEP
+717,10.0,percentage,2025,percentages,"ssions but are expressed as a % of the pre-treatment mean. *10%, **5%, ***1% 25 b.2 heterogeneity in...",Duplicate record (keeping first occurrence),0.9,REMOVE
+718,5.0,percentage,2025,percentages,"but are expressed as a % of the pre-treatment mean. *10%, **5%, ***1% 25 b.2 heterogeneity in itt es...",Duplicate record (keeping first occurrence),0.9,REMOVE
+719,1.0,percentage,2025,percentages,"expressed as a % of the pre-treatment mean. *10%, **5%, ***1% 25 b.2 heterogeneity in itt estimates ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+720,100.0,percentage,2025,growth_rate,-5 15 -3 1 -0 p=0.00 ︷ ︷ p=0.00 p=0.00 ︷ p=0.21 ︷ -50 0 50 100 % increase in outcome pull requests c...,Duplicate record (keeping first occurrence),0.9,REMOVE
+721,100.0,percentage,2025,growth_rate,-4 11 -2 1 -1 p=0.00 ︷ ︷ p=0.00 p=0.02 ︷ p=0.23 ︷ -50 0 50 100 % increase in outcome pull requests c...,Duplicate record (keeping first occurrence),0.9,REMOVE
+722,100.0,percentage,2025,growth_rate,10 -3 9 1 2 -0 p=0.01 ︷ ︷ p=0.01 p=0.16 ︷ p=0.28 ︷ -50 0 50 100 % increase in outcome pull requests ...,Duplicate record (keeping first occurrence),0.9,REMOVE
+723,95.0,percentage,2025,percentages,r total number of completed pull requests. the bars provide 95% confidence intervals based on standa...,Duplicate record (keeping first occurrence),0.9,REMOVE
+724,10.0,percentage,2025,percentages,"ssions but are expressed as a % of the pre-treatment mean. *10%, **5%, ***1% 27 d comparison between...",Duplicate record (keeping first occurrence),0.9,REMOVE
+725,5.0,percentage,2025,percentages,"but are expressed as a % of the pre-treatment mean. *10%, **5%, ***1% 27 d comparison between experi...",Duplicate record (keeping first occurrence),0.9,REMOVE
+726,1.0,percentage,2025,percentages,"expressed as a % of the pre-treatment mean. *10%, **5%, ***1% 27 d comparison between experiments in...",Duplicate record (keeping first occurrence),0.9,REMOVE
+727,36.0,percentage,2018,percentages,"ode reviews are frequent: according to macleod et al. 2018, 36% of microsoft developers review code ...",No issues detected,0.8,KEEP
+728,12.0,percentage,2025,growth_rate,signed to mimic the day-to-day work at a consulting company increased by 12%–25%. evidence from thes...,Duplicate record (keeping first occurrence),0.9,REMOVE
+4893,26.08,percentage,2024,general_rate,"experiments and 4,867 de- velopers, our analysis reveals a 26.08% increase (se: 10.3%) in completed ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+4894,10.3,percentage,2024,general_rate,"7 de- velopers, our analysis reveals a 26.08% increase (se: 10.3%) in completed tasks among develope...",Duplicate record (keeping first occurrence),0.9,REMOVE
+4895,80.0,percentage,2024,general_rate,"that generative ai can per- form tasks associated with over 80% of u.s. jobs, with particularly high...",Duplicate record (keeping first occurrence),0.9,REMOVE
+4896,13.55,percentage,2024,general_rate,"y interest, our results support this interpretation, with a 13.55% (se: 10.0%) increase in the numbe...",Duplicate record (keeping first occurrence),0.9,REMOVE
+4897,38.38,percentage,2024,general_rate,.0%) increase in the number of code updates (commits) and a 38.38% (se: 12.55%) increase in the numb...,Duplicate record (keeping first occurrence),0.9,REMOVE
+4898,12.0,percentage,2024,general_rate,ic the day-to-day work at a consulting company increased by 12%–25%. evidence from these experiments...,Duplicate record (keeping first occurrence),0.9,REMOVE
+4899,50.4,percentage,2024,general_rate,"rimarily located in the united states. of these developers, 50.4% were randomly selected to receive ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+4900,61.3,percentage,2024,general_rate,"t asia. randomization occurred at the developer level, with 61.3% of the 320 developers assigned to ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+4901,5.0,percentage,2024,general_rate,"ignment; anonymous company: team-level assignment.) *10%, **5%, ***1% 0 10 20 30 40 percent(%) 0 2 4...",Duplicate record (keeping first occurrence),0.9,REMOVE
+4902,1.0,percentage,2024,general_rate,"; anonymous company: team-level assignment.) *10%, **5%, ***1% 0 10 20 30 40 percent(%) 0 2 4 6 (a) ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+4903,34.01,percentage,2024,general_rate,.90% > 0) 0 10 20 30 40 percent(%) 0 1 2 3 4 (c) anonymous (34.01% > 0) figure 1: distribution of pu...,Duplicate record (keeping first occurrence),0.9,REMOVE
+4904,8.5,percentage,2024,general_rate,"uring the first two weeks of the microsoft experiment, only 8.5 % of the treated group signed up for...",Duplicate record (keeping first occurrence),0.9,REMOVE
+4905,42.5,percentage,2023,general_rate,2023. these additional emails increased the take-up rate to 42.5% within two weeks. as discussed bef...,Duplicate record (keeping first occurrence),0.9,REMOVE
+4906,0.5,percentage,2024,general_rate,p was not perfect because a few control group de- velopers (0.5%) required access to copilot to work...,Duplicate record (keeping first occurrence),0.9,REMOVE
+4907,69.4,percentage,2024,general_rate,"group. by april 2024, the treated group’s adoption rate was 69.4%, while the control group’s adoptio...",Duplicate record (keeping first occurrence),0.9,REMOVE
+4908,100.0,percentage,2024,general_rate,"nts. despite this, the adoption rate is significantly below 100% in all three experiments, with arou...",Duplicate record (keeping first occurrence),0.9,REMOVE
+4909,21.34,percentage,2024,general_rate,"the number of pull requests made by developers increases by 21.34% (se: 9.92%), the number of commit...",Duplicate record (keeping first occurrence),0.9,REMOVE
+4910,15.39,percentage,2024,general_rate,"s by 21.34% (se: 9.92%), the number of commits increases by 15.39% (se: 9.69%), and the number of bu...",Duplicate record (keeping first occurrence),0.9,REMOVE
+4911,4.3,percentage,2024,general_rate,e 5 reveals that higher-tenure developers are approximately 4.3% (or 1.0pp) less likely to accept co...,Duplicate record (keeping first occurrence),0.9,REMOVE
+4912,1.8,percentage,2024,general_rate,"ers, this difference in acceptance rates is much smaller at 1.8% (or 0.5pp), though it goes in the s...",Duplicate record (keeping first occurrence),0.9,REMOVE
+4913,7.0,percentage,2024,general_rate,to 40% while senior developers have more marginal gains of 7% to 16%. the estimates for above- and b...,Duplicate record (keeping first occurrence),0.9,REMOVE
+4914,150.0,percentage,2024,general_rate,59 24 28 -5 39 19 19 -6 57 18 9 8 2 -2 -5 -0 -50 0 50 100 150 % increase in outcome pull requests co...,Duplicate record (keeping first occurrence),0.9,REMOVE
+4915,12.0,percentage,2024,growth_metric,signed to mimic the day-to-day work at a consulting company increased by 12%–25%. evidence from thes...,Duplicate record (keeping first occurrence),0.9,REMOVE
+4916,2025.0,number,2025,unknown_metric,"sonia jaffe, leon musolff, sida peng, and tobias salz june 2025 abstract this study evaluates the ef...",Duplicate record (keeping first occurrence),0.9,REMOVE
+4917,2023.0,energy_unit,2024,unknown_metric,"ls can be used to estimate demand (brand, israeli, and ngwe 2023; goli and singh 2024; gui and toubi...",Duplicate record (keeping first occurrence),0.9,REMOVE
+4918,24.0,billions_usd,2024,adoption_metric,"9
+1
+cumulative rate
+oct 23
+nov 23
+dec 23
+jan 24
+feb 24
+mar 24
+date
+invite
+adopt
+(c) anonymous compan...",Duplicate record (keeping first occurrence),0.9,REMOVE
+4919,4.0,percentage,2024,adoption_metric,"4%, while the control group’s adoption rate was 24",Duplicate record (keeping first occurrence),0.9,REMOVE
+4920,21.0,percentage,2024,profit_metric,"still, there is no difference in usage conditional on adoption
+between junior and senior developers ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+4921,40.0,percentage,2024,profit_metric,"still, there is no difference in usage conditional on adoption
+between junior and senior developers ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+4922,7.0,percentage,2024,profit_metric,"still, there is no difference in usage conditional on adoption
+between junior and senior developers ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+4923,16.0,percentage,2024,profit_metric,"still, there is no difference in usage conditional on adoption
+between junior and senior developers ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+4924,26.08,percentage,2024,impact_metrics,"oisy, when data is combined across three experiments and 4,867 de- velopers, our analysis reveals a ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+4925,58.0,percentage,2024,impact_metrics,nan,Duplicate record (keeping first occurrence),0.9,REMOVE
+5488,26.08,percentage,2024,general_rate,"experiments and 4,867 de- velopers, our analysis reveals a 26.08% increase (se: 10.3%) in completed ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5489,10.3,percentage,2024,general_rate,"7 de- velopers, our analysis reveals a 26.08% increase (se: 10.3%) in completed tasks among develope...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5490,80.0,percentage,2024,general_rate,"that generative ai can per- form tasks associated with over 80% of u.s. jobs, with particularly high...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5491,13.55,percentage,2024,general_rate,"y interest, our results support this interpretation, with a 13.55% (se: 10.0%) increase in the numbe...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5492,38.38,percentage,2024,general_rate,.0%) increase in the number of code updates (commits) and a 38.38% (se: 12.55%) increase in the numb...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5493,12.0,percentage,2024,general_rate,ic the day-to-day work at a consulting company increased by 12%–25%. evidence from these experiments...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5494,50.4,percentage,2024,general_rate,"rimarily located in the united states. of these developers, 50.4% were randomly selected to receive ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5495,61.3,percentage,2024,general_rate,"t asia. randomization occurred at the developer level, with 61.3% of the 320 developers assigned to ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5496,5.0,percentage,2024,general_rate,"ignment; anonymous company: team-level assignment.) *10%, **5%, ***1% 0 10 20 30 40 percent(%) 0 2 4...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5497,1.0,percentage,2024,general_rate,"; anonymous company: team-level assignment.) *10%, **5%, ***1% 0 10 20 30 40 percent(%) 0 2 4 6 (a) ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5498,34.01,percentage,2024,general_rate,.90% > 0) 0 10 20 30 40 percent(%) 0 1 2 3 4 (c) anonymous (34.01% > 0) figure 1: distribution of pu...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5499,8.5,percentage,2024,general_rate,"uring the first two weeks of the microsoft experiment, only 8.5 % of the treated group signed up for...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5500,42.5,percentage,2023,general_rate,2023. these additional emails increased the take-up rate to 42.5% within two weeks. as discussed bef...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5501,0.5,percentage,2024,general_rate,p was not perfect because a few control group de- velopers (0.5%) required access to copilot to work...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5502,69.4,percentage,2024,general_rate,"group. by april 2024, the treated group’s adoption rate was 69.4%, while the control group’s adoptio...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5503,100.0,percentage,2024,general_rate,"nts. despite this, the adoption rate is significantly below 100% in all three experiments, with arou...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5504,21.34,percentage,2024,general_rate,"the number of pull requests made by developers increases by 21.34% (se: 9.92%), the number of commit...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5505,15.39,percentage,2024,general_rate,"s by 21.34% (se: 9.92%), the number of commits increases by 15.39% (se: 9.69%), and the number of bu...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5506,4.3,percentage,2024,general_rate,e 5 reveals that higher-tenure developers are approximately 4.3% (or 1.0pp) less likely to accept co...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5507,1.8,percentage,2024,general_rate,"ers, this difference in acceptance rates is much smaller at 1.8% (or 0.5pp), though it goes in the s...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5508,7.0,percentage,2024,general_rate,to 40% while senior developers have more marginal gains of 7% to 16%. the estimates for above- and b...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5509,150.0,percentage,2024,general_rate,59 24 28 -5 39 19 19 -6 57 18 9 8 2 -2 -5 -0 -50 0 50 100 150 % increase in outcome pull requests co...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5510,12.0,percentage,2024,growth_metric,signed to mimic the day-to-day work at a consulting company increased by 12%–25%. evidence from thes...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5511,2025.0,number,2025,unknown_metric,"sonia jaffe, leon musolff, sida peng, and tobias salz june 2025 abstract this study evaluates the ef...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5512,2023.0,energy_unit,2024,unknown_metric,"ls can be used to estimate demand (brand, israeli, and ngwe 2023; goli and singh 2024; gui and toubi...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5513,24.0,billions_usd,2024,adoption_metric,"9
+1
+cumulative rate
+oct 23
+nov 23
+dec 23
+jan 24
+feb 24
+mar 24
+date
+invite
+adopt
+(c) anonymous compan...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5514,4.0,percentage,2024,adoption_metric,"4%, while the control group’s adoption rate was 24",Duplicate record (keeping first occurrence),0.9,REMOVE
+5515,21.0,percentage,2024,profit_metric,"still, there is no difference in usage conditional on adoption
+between junior and senior developers ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5516,40.0,percentage,2024,profit_metric,"still, there is no difference in usage conditional on adoption
+between junior and senior developers ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5517,7.0,percentage,2024,profit_metric,"still, there is no difference in usage conditional on adoption
+between junior and senior developers ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5518,16.0,percentage,2024,profit_metric,"still, there is no difference in usage conditional on adoption
+between junior and senior developers ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5519,26.08,percentage,2024,impact_metrics,"oisy, when data is combined across three experiments and 4,867 de- velopers, our analysis reveals a ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5520,58.0,percentage,2024,impact_metrics,nan,Duplicate record (keeping first occurrence),0.9,REMOVE
+5521,26.08,percentage,2025,growth_rate,"experiments and 4,867 de- velopers, our analysis reveals a 26.08% increase (se: 10.3%) in completed ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5522,10.3,percentage,2025,growth_rate,"7 de- velopers, our analysis reveals a 26.08% increase (se: 10.3%) in completed tasks among develope...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5523,80.0,percentage,2025,employment,"that generative ai can per- form tasks associated with over 80% of u.s. jobs, with particularly high...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5524,26.08,percentage,2025,growth_rate,ression suggest that usage of the coding assistant causes a 26.08% (se: 10.3%) increase in the weekl...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5525,10.3,percentage,2025,growth_rate,est that usage of the coding assistant causes a 26.08% (se: 10.3%) increase in the weekly number of ...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5526,13.55,percentage,2025,growth_rate,"y interest, our results support this interpretation, with a 13.55% (se: 10.0%) increase in the numbe...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5527,10.0,percentage,2025,growth_rate,"our results support this interpretation, with a 13.55% (se: 10.0%) increase in the number of code up...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5528,38.38,percentage,2025,growth_rate,.0%) increase in the number of code updates (commits) and a 38.38% (se: 12.55%) increase in the numb...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5529,12.55,percentage,2025,growth_rate,e in the number of code updates (commits) and a 38.38% (se: 12.55%) increase in the number of times ...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5530,12.0,percentage,2025,growth_rate,ic the day-to-day work at a consulting company increased by 12%–25%. evidence from these experiments...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5531,25.0,percentage,2025,growth_rate,he day-to-day work at a consulting company increased by 12%–25%. evidence from these experiments gen...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5532,14.0,percentage,2025,percentages,eases the pro- ductivity of customer chat support agents by 14%. the drawback of these studies is th...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5533,50.4,percentage,2025,percentages,"rimarily located in the united states. of these developers, 50.4% were randomly selected to receive ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5534,61.3,percentage,2025,percentages,"t asia. randomization occurred at the developer level, with 61.3% of the 320 developers assigned to ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5535,10.0,percentage,2025,percentages,"ual assignment; anonymous company: team-level assignment.) *10%, **5%, ***1% 0 10 20 30 40 percent(%...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5536,5.0,percentage,2025,percentages,"ignment; anonymous company: team-level assignment.) *10%, **5%, ***1% 0 10 20 30 40 percent(%) 0 2 4...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5537,1.0,percentage,2025,percentages,"; anonymous company: team-level assignment.) *10%, **5%, ***1% 0 10 20 30 40 percent(%) 0 2 4 6 (a) ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5538,37.09,percentage,2025,percentages,"**5%, ***1% 0 10 20 30 40 percent(%) 0 2 4 6 (a) microsoft (37.09% > 0) 0 10 20 30 40 50 percent(%) ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5539,12.9,percentage,2025,percentages,09% > 0) 0 10 20 30 40 50 percent(%) 0 1 2 3 (b) accenture (12.90% > 0) 0 10 20 30 40 percent(%) 0 1...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5540,34.01,percentage,2025,percentages,.90% > 0) 0 10 20 30 40 percent(%) 0 1 2 3 4 (c) anonymous (34.01% > 0) figure 1: distribution of pu...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5541,8.5,percentage,2025,percentages,"uring the first two weeks of the microsoft experiment, only 8.5 % of the treated group signed up for...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5542,42.5,percentage,2023,growth_rate,2023. these additional emails increased the take-up rate to 42.5% within two weeks. as discussed bef...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5543,0.5,percentage,2025,percentages,p was not perfect because a few control group de- velopers (0.5%) required access to copilot to work...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5544,64.0,percentage,2024,percentages,"ver, even in january 2024, adop- tion in the control group (64.0%) still remained below that in the ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5545,75.6,percentage,2025,adoption_rate,"oup (64.0%) still remained below that in the treated group (75.6%), thus providing (limited) long-ru...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5546,60.0,percentage,2025,adoption_rate,"e to two months, adoption slowed down and plateaued at over 60%. con- trol group participants starte...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5547,69.4,percentage,2024,adoption_rate,"group. by april 2024, the treated group’s adoption rate was 69.4%, while the control group’s adoptio...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5548,24.4,percentage,2025,adoption_rate,"rate was 69.4%, while the control group’s adoption rate was 24.4%. panel (c) shows the staggered inv...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5549,100.0,percentage,2025,adoption_rate,"nts. despite this, the adoption rate is significantly below 100% in all three experiments, with arou...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5550,40.0,percentage,2025,percentages,"icantly below 100% in all three experiments, with around 30-40% of the developers not even trying th...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5551,10.0,percentage,2025,percentages,"ombined with the treatment/control split at the other two. *10%, **5%, ***1% these errors. although ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5552,5.0,percentage,2025,percentages,"with the treatment/control split at the other two. *10%, **5%, ***1% these errors. although not alwa...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5553,1.0,percentage,2025,percentages,"he treatment/control split at the other two. *10%, **5%, ***1% these errors. although not always sta...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5554,26.08,percentage,2025,growth_rate,"ber of weekly pull requests made by developers increases by 26.08% (se: 10.3%), the number of weekly...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5555,10.3,percentage,2025,growth_rate,"y pull requests made by developers increases by 26.08% (se: 10.3%), the number of weekly commits inc...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5556,13.55,percentage,2025,growth_rate,".08% (se: 10.3%), the number of weekly commits increases by 13.55% (se: 10.0%), and the number of we...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5557,10.0,percentage,2025,growth_rate,".3%), the number of weekly commits increases by 13.55% (se: 10.0%), and the number of weekly builds ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5558,38.38,percentage,2025,growth_rate,"% (se: 10.0%), and the number of weekly builds increases by 38.38% (se: 12.55%). a less optimistic i...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5559,12.55,percentage,2025,growth_rate,"), and the number of weekly builds increases by 38.38% (se: 12.55%). a less optimistic interpretatio...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5560,42.0,percentage,2025,percentages,"ccenture that was abandoned due to a large layoff affecting 42% of participants, resulting in a lack...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5561,39.18,percentage,2025,percentages,negative and statistically insignificant point estimate of -39.18% (se: 36.78%) on the number of com...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5562,36.78,percentage,2025,percentages,statistically insignificant point estimate of -39.18% (se: 36.78%) on the number of completed pull r...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5563,43.04,percentage,2025,percentages,leted pull requests. the estimates on the number of commits 43.04% (se: 38.80%) and builds 12.33% (s...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5564,38.8,percentage,2025,percentages,equests. the estimates on the number of commits 43.04% (se: 38.80%) and builds 12.33% (se: 53.60%) a...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5565,12.33,percentage,2025,percentages,"tes on the number of commits 43.04% (se: 38.80%) and builds 12.33% (se: 53.60%) are both positive, t...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5566,53.6,percentage,2025,percentages,"umber of commits 43.04% (se: 38.80%) and builds 12.33% (se: 53.60%) are both positive, though also n...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5567,21.34,percentage,2025,growth_rate,"the number of pull requests made by developers increases by 21.34% (se: 9.92%), the number of commit...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5568,9.92,percentage,2025,growth_rate,"f pull requests made by developers increases by 21.34% (se: 9.92%), the number of commits increases ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5569,15.39,percentage,2025,growth_rate,"s by 21.34% (se: 9.92%), the number of commits increases by 15.39% (se: 9.69%), and the number of bu...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5570,9.69,percentage,2025,growth_rate,"(se: 9.92%), the number of commits increases by 15.39% (se: 9.69%), and the number of builds increas...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5571,37.03,percentage,2025,growth_rate,"y 15.39% (se: 9.69%), and the number of builds increases by 37.03% (se: 12.22%). 4.3 results on code...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5572,12.22,percentage,2025,growth_rate,": 9.69%), and the number of builds increases by 37.03% (se: 12.22%). 4.3 results on code quality giv...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5573,10.0,percentage,2025,adoption_rate,"nd that the approval rate of pull requests goes up by about 10%, suggesting that the code produced a...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5574,10.0,percentage,2025,percentages,"essions, but are expressed as % of the pre-treatment mean. *10%, **5%, ***1% to such code. overall, ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5575,5.0,percentage,2025,percentages,", but are expressed as % of the pre-treatment mean. *10%, **5%, ***1% to such code. overall, we do n...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5576,1.0,percentage,2025,percentages,"re expressed as % of the pre-treatment mean. *10%, **5%, ***1% to such code. overall, we do not find...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5577,95.0,percentage,2025,percentages,.7 .8 .9 1 cumulative rate oct 22 apr 23 oct 23 apr 24 date 95% ci for short tenure 95% ci for long ...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5578,95.0,percentage,2025,adoption_rate,te oct 22 apr 23 oct 23 apr 24 date 95% ci for short tenure 95% ci for long tenure short tenure long...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5579,95.0,percentage,2025,percentages,.7 .8 .9 1 cumulative rate oct 22 apr 23 oct 23 apr 24 date 95% ci for junior level 95% ci for senio...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5580,95.0,percentage,2025,adoption_rate,te oct 22 apr 23 oct 23 apr 24 date 95% ci for junior level 95% ci for senior level junior level sen...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5581,95.0,percentage,2025,productivity,.7 .8 .9 1 cumulative rate oct 22 apr 23 oct 23 apr 24 date 95% ci for low pre-productivity 95% ci f...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5582,95.0,percentage,2025,productivity,2 apr 23 oct 23 apr 24 date 95% ci for low pre-productivity 95% ci for high pre-productivity low pre...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5583,81.6,percentage,2025,percentages,"re likely to adopt copilot by the end of our sample period (81.6% vs 72.1%), consistent 20we measure...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5584,72.1,percentage,2023,percentages,"to adopt copilot by the end of our sample period (81.6% vs 72.1%), consistent 20we measure level as ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5585,95.0,percentage,2025,adoption_rate,10 -5 0 5 10 months after adpotion short tenure long tenure 95% ci (a) usage (since adoption) by ten...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5586,95.0,percentage,2025,adoption_rate,0 -5 0 5 10 months after adpotion junior level senior level 95% ci (b) usage (since adoption) by lev...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5587,95.0,percentage,2025,adoption_rate,s after adpotion low pre-productivity high pre-productivity 95% ci (c) usage (since adoption) by pre...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5588,28.0,percentage,2025,percentages,.7 25.9 24.2 p=0.14 ︷ p=0.51 ︷ p=0.01 ︷ 24.0 25.0 26.0 27.0 28.0 % of copilot suggestions accepted t...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5589,100.0,percentage,2025,growth_rate,7 8 35 9 -0 -3 p=0.21 ︷ ︷ p=0.28 p=0.26 ︷ p=0.69 ︷ -50 0 50 100 % increase in outcome pull requests ...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5590,100.0,percentage,2025,growth_rate,16 29 13 -0 -3 p=0.13 ︷ ︷ p=0.77 p=0.47 ︷ p=0.63 ︷ -50 0 50 100 % increase in outcome pull requests ...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5591,100.0,percentage,2025,growth_rate,14 30 18 0 -3 p=0.65 ︷ ︷ p=0.38 p=0.55 ︷ p=0.64 ︷ -50 0 50 100 % increase in outcome pull requests c...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5592,95.0,percentage,2025,percentages,s total number of completed pull requests. the bars provide 95% confidence intervals based on standa...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5593,79.2,percentage,2025,adoption_rate,"developers, who are 4.7pp (se: 2.2pp) more likely to adopt (79.2% vs. 74.4%), though the adoption di...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5594,74.4,percentage,2025,adoption_rate,", who are 4.7pp (se: 2.2pp) more likely to adopt (79.2% vs. 74.4%), though the adoption difference i...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5595,4.3,percentage,2025,percentages,e 5 reveals that higher-tenure developers are approximately 4.3% (or 1.0pp) less likely to accept co...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5596,1.8,percentage,2025,percentages,"ers, this difference in acceptance rates is much smaller at 1.8% (or 0.5pp), though it goes in the s...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5597,27.0,percentage,2025,growth_rate,measures: short-tenure developers increase their output by 27% to 39% while long-tenure developers e...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5598,39.0,percentage,2025,growth_rate,es: short-tenure developers increase their output by 27% to 39% while long-tenure developers experie...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5599,8.0,percentage,2025,percentages,"9% while long-tenure developers experience smaller gains of 8% to 13%. however, we note that because...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5600,13.0,percentage,2025,percentages,"le long-tenure developers experience smaller gains of 8% to 13%. however, we note that because of ou...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5601,21.0,percentage,2025,growth_rate,gure 6(b) that ju- nior developers increase their output by 21% to 40% while senior developers have ...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5602,40.0,percentage,2025,growth_rate,b) that ju- nior developers increase their output by 21% to 40% while senior developers have more ma...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5603,7.0,percentage,2025,percentages,to 40% while senior developers have more marginal gains of 7% to 16%. the estimates for above- and b...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5604,16.0,percentage,2025,productivity,% while senior developers have more marginal gains of 7% to 16%. the estimates for above- and below-...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5605,26.08,percentage,2025,productivity,uggestion tool increases software developer productivity by 26.08% (se: 10.3%). we note that this es...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5606,10.3,percentage,2025,productivity,ol increases software developer productivity by 26.08% (se: 10.3%). we note that this estimate is su...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5607,58.0,percentage,2023,percentages,estimates are less precise. 19 stantially smaller than the 58% decrease peng et al. (2023) find for ...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5608,44.2,percentage,2025,percentages,"ages of the experiment were quite small: at microsoft, only 44.2% of developers adopted copilot in t...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5609,61.7,percentage,2025,adoption_rate,"period). at accenture, adoption was only slightly higher at 61.7% by the end of the initial phase. o...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5610,10.0,percentage,2025,percentages,"ssions but are expressed as a % of the pre-treatment mean. *10%, **5%, ***1% 25 b.2 heterogeneity in...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5611,5.0,percentage,2025,percentages,"but are expressed as a % of the pre-treatment mean. *10%, **5%, ***1% 25 b.2 heterogeneity in itt es...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5612,1.0,percentage,2025,percentages,"expressed as a % of the pre-treatment mean. *10%, **5%, ***1% 25 b.2 heterogeneity in itt estimates ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5613,100.0,percentage,2025,growth_rate,-5 15 -3 1 -0 p=0.00 ︷ ︷ p=0.00 p=0.00 ︷ p=0.21 ︷ -50 0 50 100 % increase in outcome pull requests c...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5614,100.0,percentage,2025,growth_rate,-4 11 -2 1 -1 p=0.00 ︷ ︷ p=0.00 p=0.02 ︷ p=0.23 ︷ -50 0 50 100 % increase in outcome pull requests c...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5615,100.0,percentage,2025,growth_rate,10 -3 9 1 2 -0 p=0.01 ︷ ︷ p=0.01 p=0.16 ︷ p=0.28 ︷ -50 0 50 100 % increase in outcome pull requests ...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5616,95.0,percentage,2025,percentages,r total number of completed pull requests. the bars provide 95% confidence intervals based on standa...,Duplicate record (keeping first occurrence),0.9,REMOVE
+5617,10.0,percentage,2025,percentages,"ssions but are expressed as a % of the pre-treatment mean. *10%, **5%, ***1% 27 d comparison between...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5618,5.0,percentage,2025,percentages,"but are expressed as a % of the pre-treatment mean. *10%, **5%, ***1% 27 d comparison between experi...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5619,1.0,percentage,2025,percentages,"expressed as a % of the pre-treatment mean. *10%, **5%, ***1% 27 d comparison between experiments in...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5620,36.0,percentage,2018,percentages,"ode reviews are frequent: according to macleod et al. 2018, 36% of microsoft developers review code ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+5621,12.0,percentage,2025,growth_rate,signed to mimic the day-to-day work at a consulting company increased by 12%–25%. evidence from thes...,Duplicate record (keeping first occurrence),0.9,REMOVE

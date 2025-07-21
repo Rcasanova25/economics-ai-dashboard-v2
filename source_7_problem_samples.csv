@@ -1,0 +1,25 @@
+Problem_Type,Record_ID,Value,Unit,Year,Metric_Type,Context_Preview,Confidence
+Zero_Duplicate,264,0.0,percentage,2024,general_rate,intelligence? • the enterprise does not spend on r&d • 0% • between 1 % and 10% • between 11% and 30% • more th,0.7
+Zero_Duplicate,265,0.0,percentage,2024,general_rate,important considerations can 50-249 ict 19 (63.3%) 0 (0.0%) 11 (36.7%) manufacturing 22 (73.3%) 2 (6.7%) 6 (,0.7
+Zero_Duplicate,266,0.0,percentage,2024,general_rate,%) 9 (30.0%) 12 (40.0%) deu 50-249 ict 17 (56.7%) 0 (0.0%) 13 (43.3%) manufacturing 13 (43.3%) 4 (13.3%) 13,0.7
+Zero_Duplicate,267,0.0,percentage,2024,general_rate,%) 6 (20.0%) 20 (66.7%) fra 50-249 ict 21 (70.0%) 0 (0.0%) 9 (30.0%) manufacturing 26 (86.7%) 0 (0.0%) 4 (1,0.7
+Zero_Duplicate,268,0.0,percentage,2024,general_rate,%) 0 (0.0%) 9 (30.0%) manufacturing 26 (86.7%) 0 (0.0%) 4 (13.3%) 250+ ict 18 (60.0%) 0 (0.0%) 12 (40.0%),0.7
+Zero_Duplicate,269,0.0,percentage,2024,general_rate,(86.7%) 0 (0.0%) 4 (13.3%) 250+ ict 18 (60.0%) 0 (0.0%) 12 (40.0%) manufacturing 15 (50.0%) 1 (3.3%) 14,0.7
+Zero_Duplicate,270,0.0,percentage,2024,general_rate,(60.0%) 5 (16.7%) 7 (23.3%) 250+ ict 16 (53.3%) 0 (0.0%) 14 (46.7%) manufacturing 8 (26.7%) 3 (10.0%) 19,0.7
+Zero_Duplicate,271,0.0,percentage,2024,general_rate,%) 3 (10.0%) 19 (63.3%) ita 50-249 ict 14 (46.7%) 0 (0.0%) 16 (53.3%) manufacturing 10 (33.3%) 8 (26.7%) 12,0.7
+Zero_Duplicate,272,0.0,percentage,2024,general_rate,%) 6 (20.0%) 15 (50.0%) jpn 50-249 ict 19 (63.3%) 0 (0.0%) 11 (36.7%) manufacturing 22 (73.3%) 3 (10.0%) 5,0.7
+Zero_Duplicate,273,0.0,percentage,2024,general_rate,(73.3%) 3 (10.0%) 5 (16.7%) 250+ ict 25 (83.3%) 0 (0.0%) 5 (16.7%) manufacturing 17 (56.7%) 1 (3.3%) 12 (,0.7
+General_Rate,237,47.0,percentage,2024,general_rate,"ty of computation of over 700 occupations, concluding that 47% of total us employment is attributable to occupations poten",0.7
+General_Rate,238,9.0,percentage,2022,general_rate,"upations and conclude that across 21 oecd countries, around 9% of jobs are automatable. (lassébie and quintini, 2022[5]).",0.7
+General_Rate,239,28.0,percentage,2024,general_rate,"ccupations at highest risk of automation account for about 28% of jobs. more recently, in research for the international",0.7
+General_Rate,240,40.0,percentage,2024,general_rate,"ts or replaces job roles. the authors conclude that almost 40% of global employment is exposed to ai, rising to around 60%",0.7
+General_Rate,241,60.0,percentage,2024,general_rate,"40% of global employment is exposed to ai, rising to around 60% of jobs in advanced economies, owing to the greater presen",0.7
+General_Rate,242,1.9,percentage,2017,general_rate,r of survey) country manufacturing ict source canada 1.9% 20.4% statistics canada (2017) germany 2.2-11.0% (depen,0.7
+General_Rate,243,20.4,percentage,2017,general_rate,survey) country manufacturing ict source canada 1.9% 20.4% statistics canada (2017) germany 2.2-11.0% (depending on,0.7
+General_Rate,244,11.0,percentage,2017,general_rate,"canada 1.9% 20.4% statistics canada (2017) germany 2.2-11.0% (depending on the subsector) 18.3% zew (rammer, fernández",0.7
+General_Rate,245,18.3,percentage,2022,general_rate,"da (2017) germany 2.2-11.0% (depending on the subsector) 18.3% zew (rammer, fernández and czarnitzki, 2022[13]). germany",0.7
+General_Rate,246,33.0,percentage,2023,general_rate,"ammer, fernández and czarnitzki, 2022[13]). germany 9.0% 33% destatis (destatis, 2023[14]) sweden 3.5% 22.7% statis",0.7
+Energy_Unit_Error,772,2014.0,energy_unit,2014,unknown_metric,"tps://data.europa.eu/doi/10.2759/759368. [18] knight, w. (2014), “how human-robot teamwork will upend manufacturing”, mit",0.7
+Energy_Unit_Error,5029,2014.0,energy_unit,2014,unknown_metric,"tps://data.europa.eu/doi/10.2759/759368. [18] knight, w. (2014), “how human-robot teamwork will upend manufacturing”, mit",0.7
+Energy_Unit_Error,6901,2014.0,energy_unit,2014,unknown_metric,"tps://data.europa.eu/doi/10.2759/759368. [18] knight, w. (2014), “how human-robot teamwork will upend manufacturing”, mit",0.7
+Energy_Unit_Error,11158,2014.0,energy_unit,2014,unknown_metric,"tps://data.europa.eu/doi/10.2759/759368. [18] knight, w. (2014), “how human-robot teamwork will upend manufacturing”, mit",0.7

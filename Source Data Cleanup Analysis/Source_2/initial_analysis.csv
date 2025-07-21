@@ -1,0 +1,641 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence,proposed_action
+0,20.0,percentage,2024,general_rate,"service portfolio and accelerating innovation, compared to 20% in the earliest stage. leaders tend t...",Reclassify based on context: readiness_metric,0.8,MODIFY
+1,34.0,percentage,2024,general_rate,eated the question once they’d completed the survey. while 34% initially placed their organizations ...,General rate - needs manual review,0.5,KEEP
+2,28.0,percentage,2024,general_rate,"anizations at the highest two stages of ai readiness, only 28% still did so after answering all ques...",Reclassify based on context: readiness_metric,0.8,MODIFY
+3,25.0,percentage,2024,general_rate,.3 the model yielded an even more conservative view: only 25% fell into the highest two stages of ai...,Reclassify based on context: readiness_metric,0.8,MODIFY
+4,3.0,percentage,2024,general_rate,"they are seeing value at each stage of ai readiness, from 3% at the earliest “exploring” stage to 96...",Reclassify based on context: readiness_metric,0.8,MODIFY
+5,96.0,percentage,2024,general_rate,"i readiness, from 3% at the earliest “exploring” stage to 96% at the most advanced “realizing” stage...",Reclassify based on context: readiness_metric,0.8,MODIFY
+6,12.0,percentage,2024,general_rate,realizing value at each stage of ai readiness 3% exploring 12% planning 23% implementing 61% scaling...,Reclassify based on context: readiness_metric,0.8,MODIFY
+7,61.0,percentage,2024,general_rate,of ai readiness 3% exploring 12% planning 23% implementing 61% scaling 96% realizing figure 4: focus...,Reclassify based on context: readiness_metric,0.8,MODIFY
+8,80.0,percentage,2024,general_rate,e value from ai efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implementin...,Reclassify based on context: strategy_metric,0.8,MODIFY
+9,40.0,percentage,2024,general_rate,from ai efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implementing planni...,Reclassify based on context: strategy_metric,0.8,MODIFY
+10,0.0,percentage,2024,general_rate,efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implementing planning reali...,Zero percentage likely extraction artifact,0.75,REMOVE
+11,1.0,percentage,2024,general_rate,"commitment to, ai as critical to the business, compared to 1% at the “exploring” stage (see figure 8...",Reclassify based on context: readiness_metric,0.8,MODIFY
+12,0.0,percentage,2024,general_rate,municates vision and commitment to ai 100% 80% 60% 40% 20% 0% 1% exploring 5% planning 21% implement...,Zero percentage likely extraction artifact,0.75,REMOVE
+13,5.0,percentage,2024,general_rate,n and commitment to ai 100% 80% 60% 40% 20% 0% 1% exploring 5% planning 21% implementing 81% scaling...,Reclassify based on context: strategy_metric,0.8,MODIFY
+14,6.0,percentage,2024,general_rate,"zing” stage have appointed a chief ai officer, compared to 6% in the “exploring stage”. finally, a c...",Reclassify based on context: readiness_metric,0.8,MODIFY
+15,18.0,percentage,2024,general_rate,cer 64% in the “realizing” stage 36% in the “scaling” stage 18% in the “implementing” stage 9% in th...,Reclassify based on context: readiness_metric,0.8,MODIFY
+16,9.0,percentage,2024,general_rate,36% in the “scaling” stage 18% in the “implementing” stage 9% in the “planning” stage 6% in the “exp...,Reclassify based on context: readiness_metric,0.8,MODIFY
+17,49.0,percentage,2024,general_rate,reported the lowest ai readiness scores in ai governance (49% in the “exploring” and “planning” stag...,Reclassify based on context: readiness_metric,0.8,MODIFY
+18,16.0,percentage,2024,general_rate,experimenting with it in select areas of the organization. 16% are at this stage 20+ yrs. average ag...,Reclassify based on context: readiness_metric,0.8,MODIFY
+19,7.0,percentage,2024,general_rate,"ics departments where 61% are deploying ai. however, only 7% of organizations in the financial servi...",Reclassify based on context: adoption_metric,0.8,MODIFY
+20,8.0,percentage,2024,general_rate,"er. the sector also outperforms the industry average, with 8% reporting consistently high roi from a...",Reclassify based on context: cost_metric,0.8,MODIFY
+21,10.0,percentage,2024,general_rate,g functions driving adoption. 21% have a chief ai officer 10% see consistently high roi from ai ai s...,Reclassify based on context: cost_metric,0.8,MODIFY
+22,70.0,percentage,2024,general_rate,ustomer experience. among financial services organizations: 70% are currently using big data analyti...,Reclassify based on context: adoption_metric,0.8,MODIFY
+23,2.0,percentage,2024,general_rate,28% high 39% low organization and culture 21% 18% 29% 34% 2% 19% high 47% low ai governance 17% 15% ...,General rate - needs manual review,0.5,KEEP
+24,14.0,percentage,2024,general_rate,"ll industries in the “scaling” and “realizing” stage. yet, 14% of healthcare organizations claim the...",Reclassify based on context: readiness_metric,0.8,MODIFY
+25,2.48,billions_usd,2024,financial_metric,% see consistently high roi from ai ai spend/month (mean) $2.48m cloud first 18% 61% data and analyt...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+26,2.22,billions_usd,2024,financial_metric,% see consistently high roi from ai ai spend/month (mean) $2.22m cloud first 20% 53% it functional d...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+27,1.99,billions_usd,2024,financial_metric,% see consistently high roi from ai ai spend/month (mean) $1.99m cloud first 17% 53% it functional d...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+28,5.0,billions_usd,2024,financial_metric,the cloud cross-industry average: 69% 13% spend more than $5m on ai per month cross-industry average...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+29,100.0,billions_usd,2024,financial_metric,nvestment with 23% of manufacturing organizations spending $100k to less than $500k on cloud per mon...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+30,500.0,billions_usd,2024,financial_metric,"of manufacturing organizations spending $100k to less than $500k on cloud per month, exceeding the 2...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+31,1956.0,number,2024,unknown_metric,"industry 3 executive summary ai has come a long way since 1956, when john mccarthy first coined the ...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+32,67.0,percentage,2024,productivity_metric,"overall ai readiness in financial services
+it is promising to see that 67% of working hours in banki...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+33,30.0,percentage,2024,productivity_metric,"overall ai readiness in financial services
+it is promising to see that 67% of working hours in banki...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+34,3.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+35,12.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+36,23.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+37,61.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+38,96.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+39,80.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+40,40.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+41,20.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+42,0.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Zero percentage likely extraction artifact,0.75,REMOVE
+43,58.0,percentage,2024,training_metric,"the finance sector is more proactive in enhancing ai implementation, 
+as 58% allocate budgets for ai...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+44,52.0,percentage,2024,training_metric,"the finance sector is more proactive in enhancing ai implementation, 
+as 58% allocate budgets for ai...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+45,10.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implementati...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+46,7.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implementati...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+47,39.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implementati...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+48,30.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implementati...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+49,44.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implementati...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+50,22.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implementati...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+562,20.0,percentage,2024,general_rate,"service portfolio and accelerating innovation, compared to 20% in the earliest stage. leaders tend t...",Reclassify based on context: readiness_metric,0.8,MODIFY
+563,34.0,percentage,2024,general_rate,eated the question once they’d completed the survey. while 34% initially placed their organizations ...,General rate - needs manual review,0.5,KEEP
+564,28.0,percentage,2024,general_rate,"anizations at the highest two stages of ai readiness, only 28% still did so after answering all ques...",Reclassify based on context: readiness_metric,0.8,MODIFY
+565,25.0,percentage,2024,general_rate,.3 the model yielded an even more conservative view: only 25% fell into the highest two stages of ai...,Reclassify based on context: readiness_metric,0.8,MODIFY
+566,3.0,percentage,2024,general_rate,"they are seeing value at each stage of ai readiness, from 3% at the earliest “exploring” stage to 96...",Reclassify based on context: readiness_metric,0.8,MODIFY
+567,96.0,percentage,2024,general_rate,"i readiness, from 3% at the earliest “exploring” stage to 96% at the most advanced “realizing” stage...",Reclassify based on context: readiness_metric,0.8,MODIFY
+568,12.0,percentage,2024,general_rate,realizing value at each stage of ai readiness 3% exploring 12% planning 23% implementing 61% scaling...,Reclassify based on context: readiness_metric,0.8,MODIFY
+569,61.0,percentage,2024,general_rate,of ai readiness 3% exploring 12% planning 23% implementing 61% scaling 96% realizing figure 4: focus...,Reclassify based on context: readiness_metric,0.8,MODIFY
+570,80.0,percentage,2024,general_rate,e value from ai efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implementin...,Reclassify based on context: strategy_metric,0.8,MODIFY
+571,40.0,percentage,2024,general_rate,from ai efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implementing planni...,Reclassify based on context: strategy_metric,0.8,MODIFY
+572,0.0,percentage,2024,general_rate,efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implementing planning reali...,Zero percentage likely extraction artifact,0.75,REMOVE
+573,1.0,percentage,2024,general_rate,"commitment to, ai as critical to the business, compared to 1% at the “exploring” stage (see figure 8...",Reclassify based on context: readiness_metric,0.8,MODIFY
+574,0.0,percentage,2024,general_rate,municates vision and commitment to ai 100% 80% 60% 40% 20% 0% 1% exploring 5% planning 21% implement...,Zero percentage likely extraction artifact,0.75,REMOVE
+575,5.0,percentage,2024,general_rate,n and commitment to ai 100% 80% 60% 40% 20% 0% 1% exploring 5% planning 21% implementing 81% scaling...,Reclassify based on context: strategy_metric,0.8,MODIFY
+576,6.0,percentage,2024,general_rate,"zing” stage have appointed a chief ai officer, compared to 6% in the “exploring stage”. finally, a c...",Reclassify based on context: readiness_metric,0.8,MODIFY
+577,18.0,percentage,2024,general_rate,cer 64% in the “realizing” stage 36% in the “scaling” stage 18% in the “implementing” stage 9% in th...,Reclassify based on context: readiness_metric,0.8,MODIFY
+578,9.0,percentage,2024,general_rate,36% in the “scaling” stage 18% in the “implementing” stage 9% in the “planning” stage 6% in the “exp...,Reclassify based on context: readiness_metric,0.8,MODIFY
+579,49.0,percentage,2024,general_rate,reported the lowest ai readiness scores in ai governance (49% in the “exploring” and “planning” stag...,Reclassify based on context: readiness_metric,0.8,MODIFY
+580,16.0,percentage,2024,general_rate,experimenting with it in select areas of the organization. 16% are at this stage 20+ yrs. average ag...,Reclassify based on context: readiness_metric,0.8,MODIFY
+581,7.0,percentage,2024,general_rate,"ics departments where 61% are deploying ai. however, only 7% of organizations in the financial servi...",Reclassify based on context: adoption_metric,0.8,MODIFY
+582,8.0,percentage,2024,general_rate,"er. the sector also outperforms the industry average, with 8% reporting consistently high roi from a...",Reclassify based on context: cost_metric,0.8,MODIFY
+583,10.0,percentage,2024,general_rate,g functions driving adoption. 21% have a chief ai officer 10% see consistently high roi from ai ai s...,Reclassify based on context: cost_metric,0.8,MODIFY
+584,70.0,percentage,2024,general_rate,ustomer experience. among financial services organizations: 70% are currently using big data analyti...,Reclassify based on context: adoption_metric,0.8,MODIFY
+585,2.0,percentage,2024,general_rate,28% high 39% low organization and culture 21% 18% 29% 34% 2% 19% high 47% low ai governance 17% 15% ...,General rate - needs manual review,0.5,KEEP
+586,14.0,percentage,2024,general_rate,"ll industries in the “scaling” and “realizing” stage. yet, 14% of healthcare organizations claim the...",Reclassify based on context: readiness_metric,0.8,MODIFY
+587,2.48,billions_usd,2024,financial_metric,% see consistently high roi from ai ai spend/month (mean) $2.48m cloud first 18% 61% data and analyt...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+588,2.22,billions_usd,2024,financial_metric,% see consistently high roi from ai ai spend/month (mean) $2.22m cloud first 20% 53% it functional d...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+589,1.99,billions_usd,2024,financial_metric,% see consistently high roi from ai ai spend/month (mean) $1.99m cloud first 17% 53% it functional d...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+590,5.0,billions_usd,2024,financial_metric,the cloud cross-industry average: 69% 13% spend more than $5m on ai per month cross-industry average...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+591,100.0,billions_usd,2024,financial_metric,nvestment with 23% of manufacturing organizations spending $100k to less than $500k on cloud per mon...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+592,500.0,billions_usd,2024,financial_metric,"of manufacturing organizations spending $100k to less than $500k on cloud per month, exceeding the 2...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+593,1956.0,number,2024,unknown_metric,"industry 3 executive summary ai has come a long way since 1956, when john mccarthy first coined the ...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+594,67.0,percentage,2024,productivity_metric,"overall ai readiness in financial services
+it is promising to see that 67% of working hours in banki...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+595,30.0,percentage,2024,productivity_metric,"overall ai readiness in financial services
+it is promising to see that 67% of working hours in banki...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+596,3.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+597,12.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+598,23.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+599,61.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+600,96.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+601,80.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+602,40.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+603,20.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+604,0.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Zero percentage likely extraction artifact,0.75,REMOVE
+605,58.0,percentage,2024,training_metric,"the finance sector is more proactive in enhancing ai implementation, 
+as 58% allocate budgets for ai...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+606,52.0,percentage,2024,training_metric,"the finance sector is more proactive in enhancing ai implementation, 
+as 58% allocate budgets for ai...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+607,10.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implementati...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+608,7.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implementati...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+609,39.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implementati...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+610,30.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implementati...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+611,44.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implementati...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+612,22.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implementati...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+613,20.0,percentage,2025,percentages,"service portfolio and accelerating innovation, compared to 20% in the earliest stage. leaders tend t...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+614,34.0,percentage,2025,percentages,eated the question once they’d completed the survey. while 34% initially placed their organizations ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+615,28.0,percentage,2025,percentages,"anizations at the highest two stages of ai readiness, only 28% still did so after answering all ques...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+616,25.0,percentage,2025,percentages,.3 the model yielded an even more conservative view: only 25% fell into the highest two stages of ai...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+617,3.0,percentage,2025,percentages,"they are seeing value at each stage of ai readiness, from 3% at the earliest “exploring” stage to 96...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+618,96.0,percentage,2025,percentages,"i readiness, from 3% at the earliest “exploring” stage to 96% at the most advanced “realizing” stage...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+619,37.0,percentage,2025,growth_rate,wth nearly doubles as organizations report value from ai: 37% at the “realizing” stage prioritize gr...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+620,20.0,percentage,2025,growth_rate,37% at the “realizing” stage prioritize growth compared to 20% in the “exploring” stage. figure 3: p...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+621,3.0,percentage,2025,percentages,that report realizing value at each stage of ai readiness 3% exploring 12% planning 23% implementing...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+622,12.0,percentage,2025,percentages,realizing value at each stage of ai readiness 3% exploring 12% planning 23% implementing 61% scaling...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+623,23.0,percentage,2025,percentages,ue at each stage of ai readiness 3% exploring 12% planning 23% implementing 61% scaling 96% realizin...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+624,61.0,percentage,2025,growth_rate,of ai readiness 3% exploring 12% planning 23% implementing 61% scaling 96% realizing figure 4: focus...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+625,96.0,percentage,2025,growth_rate,ness 3% exploring 12% planning 23% implementing 61% scaling 96% realizing figure 4: focus on growth ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+626,100.0,percentage,2025,cost,ealize value from ai efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implem...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+627,80.0,percentage,2025,cost,e value from ai efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implementin...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+628,60.0,percentage,2025,cost,lue from ai efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implementing pl...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+629,40.0,percentage,2025,cost,from ai efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implementing planni...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+630,20.0,percentage,2025,cost,ai efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implementing planning re...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+631,0.0,percentage,2025,cost,efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implementing planning reali...,Zero percentage likely extraction artifact,0.75,REMOVE
+632,1.0,percentage,2025,percentages,"commitment to, ai as critical to the business, compared to 1% at the “exploring” stage (see figure 8...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+633,100.0,percentage,2025,percentages,eadership clearly communicates vision and commitment to ai 100% 80% 60% 40% 20% 0% 1% exploring 5% p...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+634,80.0,percentage,2025,percentages,ship clearly communicates vision and commitment to ai 100% 80% 60% 40% 20% 0% 1% exploring 5% planni...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+635,60.0,percentage,2025,percentages,clearly communicates vision and commitment to ai 100% 80% 60% 40% 20% 0% 1% exploring 5% planning 21...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+636,40.0,percentage,2025,percentages,arly communicates vision and commitment to ai 100% 80% 60% 40% 20% 0% 1% exploring 5% planning 21% i...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+637,20.0,percentage,2025,percentages,communicates vision and commitment to ai 100% 80% 60% 40% 20% 0% 1% exploring 5% planning 21% implem...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+638,0.0,percentage,2025,percentages,municates vision and commitment to ai 100% 80% 60% 40% 20% 0% 1% exploring 5% planning 21% implement...,Zero percentage likely extraction artifact,0.75,REMOVE
+639,1.0,percentage,2025,percentages,icates vision and commitment to ai 100% 80% 60% 40% 20% 0% 1% exploring 5% planning 21% implementing...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+640,5.0,percentage,2025,percentages,n and commitment to ai 100% 80% 60% 40% 20% 0% 1% exploring 5% planning 21% implementing 81% scaling...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+641,21.0,percentage,2025,percentages,ment to ai 100% 80% 60% 40% 20% 0% 1% exploring 5% planning 21% implementing 81% scaling 100% realiz...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+642,81.0,percentage,2025,percentages,0% 60% 40% 20% 0% 1% exploring 5% planning 21% implementing 81% scaling 100% realizing conclusion pa...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+643,100.0,percentage,2025,percentages,0% 0% 1% exploring 5% planning 21% implementing 81% scaling 100% realizing conclusion part 3 part 2 ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+644,100.0,percentage,2025,percentages,realizing conclusion part 3 part 2 introduction part 1 17 100% of leaders of organizations at the “r...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+645,64.0,percentage,2025,percentages,r as they mature in their use of ai. the survey shows that 64% of organizations in the “realizing” s...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+646,6.0,percentage,2025,percentages,"zing” stage have appointed a chief ai officer, compared to 6% in the “exploring stage”. finally, a c...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+647,64.0,percentage,2025,percentages,age of organizations that have appointed a chief ai officer 64% in the “realizing” stage 36% in the ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+648,36.0,percentage,2025,percentages,e appointed a chief ai officer 64% in the “realizing” stage 36% in the “scaling” stage 18% in the “i...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+649,18.0,percentage,2025,percentages,cer 64% in the “realizing” stage 36% in the “scaling” stage 18% in the “implementing” stage 9% in th...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+650,9.0,percentage,2025,percentages,36% in the “scaling” stage 18% in the “implementing” stage 9% in the “planning” stage 6% in the “exp...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+651,6.0,percentage,2025,percentages,18% in the “implementing” stage 9% in the “planning” stage 6% in the “exploring” stage figure 9: org...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+652,49.0,percentage,2025,percentages,reported the lowest ai readiness scores in ai governance (49% in the “exploring” and “planning” stag...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+653,26.0,percentage,2025,percentages,ry reported the highest percentage in the top two stages (26%) compared to the average (22%). it is ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+654,22.0,percentage,2025,percentages,ntage in the top two stages (26%) compared to the average (22%). it is possible that these numbers m...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+655,49.0,percentage,2025,percentages,eported the lowest ai readiness scores in ai governance (49% in the “exploring” and “planning” stage...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+656,16.0,percentage,2025,percentages,experimenting with it in select areas of the organization. 16% are at this stage 20+ yrs. average ag...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+657,21.0,percentage,2025,percentages,ganization 300 to 10k number of employees cloud first 21% 3% seeing significant value from ai planni...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+658,3.0,percentage,2025,percentages,zation 300 to 10k number of employees cloud first 21% 3% seeing significant value from ai planning o...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+659,23.0,percentage,2025,percentages,"nning proofs of concept, and planning for ai deployments. 23% are at this stage 20+ yrs. average age...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+660,20.0,percentage,2025,percentages,rganization all sizes number of employees cloud first 20% 12% seeing significant value from ai imple...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+661,12.0,percentage,2025,percentages,ization all sizes number of employees cloud first 20% 12% seeing significant value from ai implement...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+662,36.0,percentage,2025,percentages,moving from proofs of concept and pilots into production. 36% are at this stage average age of organ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+663,20.0,percentage,2025,percentages,on 15 yrs. 500 to 10k number of employees cloud first 20% 23% seeing significant value from ai scali...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+664,23.0,percentage,2025,percentages,5 yrs. 500 to 10k number of employees cloud first 20% 23% seeing significant value from ai scaling o...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+665,20.0,percentage,2025,percentages,is stage are scaling ai projects across the organization. 20% are at this stage average age of organ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+666,31.0,percentage,2025,percentages,5-15 yrs. number of employees 500 to 10k cloud first 31% 61% seeing significant value from ai realiz...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+667,61.0,percentage,2025,percentages,5 yrs. number of employees 500 to 10k cloud first 31% 61% seeing significant value from ai realizing...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+668,5.0,percentage,2025,percentages,repeatable and measurable value across the organization. 5% are at this stage average age of organiz...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+669,52.0,percentage,2025,percentages,n 5-15 yrs. 1k to 10k number of employees cloud first 52% 96% seeing significant value from ai guida...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+670,96.0,percentage,2025,percentages,15 yrs. 1k to 10k number of employees cloud first 52% 96% seeing significant value from ai guidance ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+671,20.0,percentage,2025,percentages,"ss, we also see other indications of momentum. on average, 20% of companies now have a chief ai offi...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+672,61.0,percentage,2025,percentages,"of department, led by data and analytics departments where 61% are deploying ai. however, only 7% of...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+673,7.0,percentage,2025,percentages,"ics departments where 61% are deploying ai. however, only 7% of organizations in the financial servi...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+674,18.0,percentage,2025,investment,"healthcare’s ai readiness is driven by it investment, with 18% of companies having a chief ai office...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+675,20.0,percentage,2025,percentages,"tment, with 18% of companies having a chief ai officer and 20% being cloud first. despite being one ...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+676,5.0,percentage,2025,percentages,tage of healthcare organizations in the “realizing” stage (5%) is consistent with the average. this ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+677,28.0,percentage,2025,percentages,"ing surpasses the industry average for ai management, with 28% of organizations having a chief ai of...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+678,8.0,percentage,2025,percentages,"er. the sector also outperforms the industry average, with 8% reporting consistently high roi from a...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+679,21.0,percentage,2025,percentages,"th the highest roi from ai, driven by marketing functions. 21% of retailers have a chief ai officer,...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+680,61.0,percentage,2025,adoption_rate,"ry compares. financial services spends the most on ai, with 61% of projects led by ai adoption in da...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+681,16.0,percentage,2025,adoption_rate,ects led by ai adoption in data and analytics departments. 16% have a chief ai officer 7% see consis...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+682,7.0,percentage,2025,percentages,ata and analytics departments. 16% have a chief ai officer 7% see consistently high roi from ai ai s...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+683,18.0,percentage,2025,percentages,high roi from ai ai spend/month (mean) $2.48m cloud first 18% 61% data and analytics functional driv...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+684,61.0,percentage,2025,percentages,h roi from ai ai spend/month (mean) $2.48m cloud first 18% 61% data and analytics functional driver ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+685,18.0,percentage,2025,investment,of ai readiness in this sector is driven by it investment. 18% have a chief ai officer 5% see consis...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+686,5.0,percentage,2025,investment,or is driven by it investment. 18% have a chief ai officer 5% see consistently high roi from ai ai s...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+687,20.0,percentage,2025,percentages,high roi from ai ai spend/month (mean) $2.22m cloud first 20% 53% it functional driver for ai manufa...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+688,53.0,percentage,2025,percentages,h roi from ai ai spend/month (mean) $2.22m cloud first 20% 53% it functional driver for ai manufactu...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+689,28.0,percentage,2025,percentages,"ai manufacturing reports the most engaged leadership, with 28% of companies reporting to have a chie...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+690,28.0,percentage,2025,percentages,th 28% of companies reporting to have a chief ai officer. 28% have a chief ai officer 8% see consist...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+691,8.0,percentage,2025,percentages,g to have a chief ai officer. 28% have a chief ai officer 8% see consistently high roi from ai ai sp...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+692,17.0,percentage,2025,percentages,high roi from ai ai spend/month (mean) $1.99m cloud first 17% 53% it functional driver for ai retail...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+693,53.0,percentage,2025,percentages,h roi from ai ai spend/month (mean) $1.99m cloud first 17% 53% it functional driver for ai retail th...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+694,21.0,percentage,2025,adoption_rate,"value from ai, with marketing functions driving adoption. 21% have a chief ai officer 10% see consis...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+695,10.0,percentage,2025,adoption_rate,g functions driving adoption. 21% have a chief ai officer 10% see consistently high roi from ai ai s...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+696,25.0,percentage,2025,percentages,high roi from ai ai spend/month (mean) $1.83m cloud first 25% 60% marketing functional driver for ai...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+697,60.0,percentage,2025,percentages,h roi from ai ai spend/month (mean) $1.83m cloud first 25% 60% marketing functional driver for ai co...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+698,16.0,percentage,2025,percentages,try exploring planning implementing scaling realizing total 16% 24% 36% 20% 5% 25% high 40% low 13% ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+699,24.0,percentage,2025,percentages,exploring planning implementing scaling realizing total 16% 24% 36% 20% 5% 25% high 40% low 13% 21% ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+700,36.0,percentage,2025,percentages,oring planning implementing scaling realizing total 16% 24% 36% 20% 5% 25% high 40% low 13% 21% 40% ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+701,20.0,percentage,2025,percentages,g planning implementing scaling realizing total 16% 24% 36% 20% 5% 25% high 40% low 13% 21% 40% 24% ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+702,5.0,percentage,2025,percentages,anning implementing scaling realizing total 16% 24% 36% 20% 5% 25% high 40% low 13% 21% 40% 24% 3% 2...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+703,25.0,percentage,2025,percentages,ing implementing scaling realizing total 16% 24% 36% 20% 5% 25% high 40% low 13% 21% 40% 24% 3% 27% ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+704,40.0,percentage,2025,percentages,menting scaling realizing total 16% 24% 36% 20% 5% 25% high 40% low 13% 21% 40% 24% 3% 27% high 34% ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+705,13.0,percentage,2025,percentages,scaling realizing total 16% 24% 36% 20% 5% 25% high 40% low 13% 21% 40% 24% 3% 27% high 34% low fina...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+706,21.0,percentage,2025,percentages,ing realizing total 16% 24% 36% 20% 5% 25% high 40% low 13% 21% 40% 24% 3% 27% high 34% low financia...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+707,40.0,percentage,2025,percentages,realizing total 16% 24% 36% 20% 5% 25% high 40% low 13% 21% 40% 24% 3% 27% high 34% low financial se...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+708,24.0,percentage,2025,percentages,izing total 16% 24% 36% 20% 5% 25% high 40% low 13% 21% 40% 24% 3% 27% high 34% low financial servic...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+709,3.0,percentage,2025,percentages,g total 16% 24% 36% 20% 5% 25% high 40% low 13% 21% 40% 24% 3% 27% high 34% low financial services 1...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+710,27.0,percentage,2025,percentages,otal 16% 24% 36% 20% 5% 25% high 40% low 13% 21% 40% 24% 3% 27% high 34% low financial services 17% ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+711,34.0,percentage,2025,percentages,24% 36% 20% 5% 25% high 40% low 13% 21% 40% 24% 3% 27% high 34% low financial services 17% 21% 35% 2...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+712,17.0,percentage,2025,percentages,low 13% 21% 40% 24% 3% 27% high 34% low financial services 17% 21% 35% 23% 5% 28% high 38% low manuf...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+713,2.48,usd,2025,dollar_amounts,% see consistently high roi from ai ai spend/month (mean) $2.48m cloud first 18% 61% data and analyt...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+714,2.22,usd,2025,dollar_amounts,% see consistently high roi from ai ai spend/month (mean) $2.22m cloud first 20% 53% it functional d...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+715,1.99,usd,2025,dollar_amounts,% see consistently high roi from ai ai spend/month (mean) $1.99m cloud first 17% 53% it functional d...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+716,1.83,usd,2025,dollar_amounts,% see consistently high roi from ai ai spend/month (mean) $1.83m cloud first 25% 60% marketing funct...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+717,5.0,usd,2025,dollar_amounts,the cloud cross-industry average: 69% 13% spend more than $5m on ai per month cross-industry average...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+718,5.0,usd,2025,dollar_amounts,orale. among healthcare organizations: 12% spend more than $5m on cloud per month cross-industry ave...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+719,100.0,usd,2025,cost,nvestment with 23% of manufacturing organizations spending $100k to less than $500k on cloud per mon...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+720,500.0,usd,2025,cost,"of manufacturing organizations spending $100k to less than $500k on cloud per month, exceeding the 2...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+4726,20.0,percentage,2024,general_rate,"service portfolio and accelerating innovation, compared to 20% in the earliest stage. leaders tend t...",Reclassify based on context: readiness_metric,0.8,MODIFY
+4727,34.0,percentage,2024,general_rate,eated the question once they’d completed the survey. while 34% initially placed their organizations ...,General rate - needs manual review,0.5,KEEP
+4728,28.0,percentage,2024,general_rate,"anizations at the highest two stages of ai readiness, only 28% still did so after answering all ques...",Reclassify based on context: readiness_metric,0.8,MODIFY
+4729,25.0,percentage,2024,general_rate,.3 the model yielded an even more conservative view: only 25% fell into the highest two stages of ai...,Reclassify based on context: readiness_metric,0.8,MODIFY
+4730,3.0,percentage,2024,general_rate,"they are seeing value at each stage of ai readiness, from 3% at the earliest “exploring” stage to 96...",Reclassify based on context: readiness_metric,0.8,MODIFY
+4731,96.0,percentage,2024,general_rate,"i readiness, from 3% at the earliest “exploring” stage to 96% at the most advanced “realizing” stage...",Reclassify based on context: readiness_metric,0.8,MODIFY
+4732,12.0,percentage,2024,general_rate,realizing value at each stage of ai readiness 3% exploring 12% planning 23% implementing 61% scaling...,Reclassify based on context: readiness_metric,0.8,MODIFY
+4733,61.0,percentage,2024,general_rate,of ai readiness 3% exploring 12% planning 23% implementing 61% scaling 96% realizing figure 4: focus...,Reclassify based on context: readiness_metric,0.8,MODIFY
+4734,80.0,percentage,2024,general_rate,e value from ai efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implementin...,Reclassify based on context: strategy_metric,0.8,MODIFY
+4735,40.0,percentage,2024,general_rate,from ai efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implementing planni...,Reclassify based on context: strategy_metric,0.8,MODIFY
+4736,0.0,percentage,2024,general_rate,efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implementing planning reali...,Zero percentage likely extraction artifact,0.75,REMOVE
+4737,1.0,percentage,2024,general_rate,"commitment to, ai as critical to the business, compared to 1% at the “exploring” stage (see figure 8...",Reclassify based on context: readiness_metric,0.8,MODIFY
+4738,0.0,percentage,2024,general_rate,municates vision and commitment to ai 100% 80% 60% 40% 20% 0% 1% exploring 5% planning 21% implement...,Zero percentage likely extraction artifact,0.75,REMOVE
+4739,5.0,percentage,2024,general_rate,n and commitment to ai 100% 80% 60% 40% 20% 0% 1% exploring 5% planning 21% implementing 81% scaling...,Reclassify based on context: strategy_metric,0.8,MODIFY
+4740,6.0,percentage,2024,general_rate,"zing” stage have appointed a chief ai officer, compared to 6% in the “exploring stage”. finally, a c...",Reclassify based on context: readiness_metric,0.8,MODIFY
+4741,18.0,percentage,2024,general_rate,cer 64% in the “realizing” stage 36% in the “scaling” stage 18% in the “implementing” stage 9% in th...,Reclassify based on context: readiness_metric,0.8,MODIFY
+4742,9.0,percentage,2024,general_rate,36% in the “scaling” stage 18% in the “implementing” stage 9% in the “planning” stage 6% in the “exp...,Reclassify based on context: readiness_metric,0.8,MODIFY
+4743,49.0,percentage,2024,general_rate,reported the lowest ai readiness scores in ai governance (49% in the “exploring” and “planning” stag...,Reclassify based on context: readiness_metric,0.8,MODIFY
+4744,16.0,percentage,2024,general_rate,experimenting with it in select areas of the organization. 16% are at this stage 20+ yrs. average ag...,Reclassify based on context: readiness_metric,0.8,MODIFY
+4745,7.0,percentage,2024,general_rate,"ics departments where 61% are deploying ai. however, only 7% of organizations in the financial servi...",Reclassify based on context: adoption_metric,0.8,MODIFY
+4746,8.0,percentage,2024,general_rate,"er. the sector also outperforms the industry average, with 8% reporting consistently high roi from a...",Reclassify based on context: cost_metric,0.8,MODIFY
+4747,10.0,percentage,2024,general_rate,g functions driving adoption. 21% have a chief ai officer 10% see consistently high roi from ai ai s...,Reclassify based on context: cost_metric,0.8,MODIFY
+4748,70.0,percentage,2024,general_rate,ustomer experience. among financial services organizations: 70% are currently using big data analyti...,Reclassify based on context: adoption_metric,0.8,MODIFY
+4749,2.0,percentage,2024,general_rate,28% high 39% low organization and culture 21% 18% 29% 34% 2% 19% high 47% low ai governance 17% 15% ...,General rate - needs manual review,0.5,KEEP
+4750,14.0,percentage,2024,general_rate,"ll industries in the “scaling” and “realizing” stage. yet, 14% of healthcare organizations claim the...",Reclassify based on context: readiness_metric,0.8,MODIFY
+4751,2.48,billions_usd,2024,financial_metric,% see consistently high roi from ai ai spend/month (mean) $2.48m cloud first 18% 61% data and analyt...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+4752,2.22,billions_usd,2024,financial_metric,% see consistently high roi from ai ai spend/month (mean) $2.22m cloud first 20% 53% it functional d...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+4753,1.99,billions_usd,2024,financial_metric,% see consistently high roi from ai ai spend/month (mean) $1.99m cloud first 17% 53% it functional d...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+4754,5.0,billions_usd,2024,financial_metric,the cloud cross-industry average: 69% 13% spend more than $5m on ai per month cross-industry average...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+4755,100.0,billions_usd,2024,financial_metric,nvestment with 23% of manufacturing organizations spending $100k to less than $500k on cloud per mon...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+4756,500.0,billions_usd,2024,financial_metric,"of manufacturing organizations spending $100k to less than $500k on cloud per month, exceeding the 2...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+4757,1956.0,number,2024,unknown_metric,"industry 3 executive summary ai has come a long way since 1956, when john mccarthy first coined the ...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+4758,67.0,percentage,2024,productivity_metric,"overall ai readiness in financial services
+it is promising to see that 67% of working hours in banki...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+4759,30.0,percentage,2024,productivity_metric,"overall ai readiness in financial services
+it is promising to see that 67% of working hours in banki...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+4760,3.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+4761,12.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+4762,23.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+4763,61.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+4764,96.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+4765,80.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+4766,40.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+4767,20.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+4768,0.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Zero percentage likely extraction artifact,0.75,REMOVE
+4769,58.0,percentage,2024,training_metric,"the finance sector is more proactive in enhancing ai implementation, 
+as 58% allocate budgets for ai...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+4770,52.0,percentage,2024,training_metric,"the finance sector is more proactive in enhancing ai implementation, 
+as 58% allocate budgets for ai...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+4771,10.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implementati...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+4772,7.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implementati...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+4773,39.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implementati...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+4774,30.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implementati...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+4775,44.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implementati...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+4776,22.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implementati...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5288,20.0,percentage,2024,general_rate,"service portfolio and accelerating innovation, compared to 20% in the earliest stage. leaders tend t...",Reclassify based on context: readiness_metric,0.8,MODIFY
+5289,34.0,percentage,2024,general_rate,eated the question once they’d completed the survey. while 34% initially placed their organizations ...,General rate - needs manual review,0.5,KEEP
+5290,28.0,percentage,2024,general_rate,"anizations at the highest two stages of ai readiness, only 28% still did so after answering all ques...",Reclassify based on context: readiness_metric,0.8,MODIFY
+5291,25.0,percentage,2024,general_rate,.3 the model yielded an even more conservative view: only 25% fell into the highest two stages of ai...,Reclassify based on context: readiness_metric,0.8,MODIFY
+5292,3.0,percentage,2024,general_rate,"they are seeing value at each stage of ai readiness, from 3% at the earliest “exploring” stage to 96...",Reclassify based on context: readiness_metric,0.8,MODIFY
+5293,96.0,percentage,2024,general_rate,"i readiness, from 3% at the earliest “exploring” stage to 96% at the most advanced “realizing” stage...",Reclassify based on context: readiness_metric,0.8,MODIFY
+5294,12.0,percentage,2024,general_rate,realizing value at each stage of ai readiness 3% exploring 12% planning 23% implementing 61% scaling...,Reclassify based on context: readiness_metric,0.8,MODIFY
+5295,61.0,percentage,2024,general_rate,of ai readiness 3% exploring 12% planning 23% implementing 61% scaling 96% realizing figure 4: focus...,Reclassify based on context: readiness_metric,0.8,MODIFY
+5296,80.0,percentage,2024,general_rate,e value from ai efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implementin...,Reclassify based on context: strategy_metric,0.8,MODIFY
+5297,40.0,percentage,2024,general_rate,from ai efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implementing planni...,Reclassify based on context: strategy_metric,0.8,MODIFY
+5298,0.0,percentage,2024,general_rate,efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implementing planning reali...,Zero percentage likely extraction artifact,0.75,REMOVE
+5299,1.0,percentage,2024,general_rate,"commitment to, ai as critical to the business, compared to 1% at the “exploring” stage (see figure 8...",Reclassify based on context: readiness_metric,0.8,MODIFY
+5300,0.0,percentage,2024,general_rate,municates vision and commitment to ai 100% 80% 60% 40% 20% 0% 1% exploring 5% planning 21% implement...,Zero percentage likely extraction artifact,0.75,REMOVE
+5301,5.0,percentage,2024,general_rate,n and commitment to ai 100% 80% 60% 40% 20% 0% 1% exploring 5% planning 21% implementing 81% scaling...,Reclassify based on context: strategy_metric,0.8,MODIFY
+5302,6.0,percentage,2024,general_rate,"zing” stage have appointed a chief ai officer, compared to 6% in the “exploring stage”. finally, a c...",Reclassify based on context: readiness_metric,0.8,MODIFY
+5303,18.0,percentage,2024,general_rate,cer 64% in the “realizing” stage 36% in the “scaling” stage 18% in the “implementing” stage 9% in th...,Reclassify based on context: readiness_metric,0.8,MODIFY
+5304,9.0,percentage,2024,general_rate,36% in the “scaling” stage 18% in the “implementing” stage 9% in the “planning” stage 6% in the “exp...,Reclassify based on context: readiness_metric,0.8,MODIFY
+5305,49.0,percentage,2024,general_rate,reported the lowest ai readiness scores in ai governance (49% in the “exploring” and “planning” stag...,Reclassify based on context: readiness_metric,0.8,MODIFY
+5306,16.0,percentage,2024,general_rate,experimenting with it in select areas of the organization. 16% are at this stage 20+ yrs. average ag...,Reclassify based on context: readiness_metric,0.8,MODIFY
+5307,7.0,percentage,2024,general_rate,"ics departments where 61% are deploying ai. however, only 7% of organizations in the financial servi...",Reclassify based on context: adoption_metric,0.8,MODIFY
+5308,8.0,percentage,2024,general_rate,"er. the sector also outperforms the industry average, with 8% reporting consistently high roi from a...",Reclassify based on context: cost_metric,0.8,MODIFY
+5309,10.0,percentage,2024,general_rate,g functions driving adoption. 21% have a chief ai officer 10% see consistently high roi from ai ai s...,Reclassify based on context: cost_metric,0.8,MODIFY
+5310,70.0,percentage,2024,general_rate,ustomer experience. among financial services organizations: 70% are currently using big data analyti...,Reclassify based on context: adoption_metric,0.8,MODIFY
+5311,2.0,percentage,2024,general_rate,28% high 39% low organization and culture 21% 18% 29% 34% 2% 19% high 47% low ai governance 17% 15% ...,General rate - needs manual review,0.5,KEEP
+5312,14.0,percentage,2024,general_rate,"ll industries in the “scaling” and “realizing” stage. yet, 14% of healthcare organizations claim the...",Reclassify based on context: readiness_metric,0.8,MODIFY
+5313,2.48,billions_usd,2024,financial_metric,% see consistently high roi from ai ai spend/month (mean) $2.48m cloud first 18% 61% data and analyt...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5314,2.22,billions_usd,2024,financial_metric,% see consistently high roi from ai ai spend/month (mean) $2.22m cloud first 20% 53% it functional d...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5315,1.99,billions_usd,2024,financial_metric,% see consistently high roi from ai ai spend/month (mean) $1.99m cloud first 17% 53% it functional d...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5316,5.0,billions_usd,2024,financial_metric,the cloud cross-industry average: 69% 13% spend more than $5m on ai per month cross-industry average...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5317,100.0,billions_usd,2024,financial_metric,nvestment with 23% of manufacturing organizations spending $100k to less than $500k on cloud per mon...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5318,500.0,billions_usd,2024,financial_metric,"of manufacturing organizations spending $100k to less than $500k on cloud per month, exceeding the 2...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5319,1956.0,number,2024,unknown_metric,"industry 3 executive summary ai has come a long way since 1956, when john mccarthy first coined the ...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5320,67.0,percentage,2024,productivity_metric,"overall ai readiness in financial services
+it is promising to see that 67% of working hours in banki...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5321,30.0,percentage,2024,productivity_metric,"overall ai readiness in financial services
+it is promising to see that 67% of working hours in banki...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5322,3.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5323,12.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5324,23.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5325,61.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5326,96.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5327,80.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5328,40.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5329,20.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5330,0.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3%
+...",Zero percentage likely extraction artifact,0.75,REMOVE
+5331,58.0,percentage,2024,training_metric,"the finance sector is more proactive in enhancing ai implementation, 
+as 58% allocate budgets for ai...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5332,52.0,percentage,2024,training_metric,"the finance sector is more proactive in enhancing ai implementation, 
+as 58% allocate budgets for ai...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5333,10.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implementati...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5334,7.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implementati...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5335,39.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implementati...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5336,30.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implementati...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5337,44.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implementati...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5338,22.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implementati...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5339,20.0,percentage,2025,percentages,"service portfolio and accelerating innovation, compared to 20% in the earliest stage. leaders tend t...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5340,34.0,percentage,2025,percentages,eated the question once they’d completed the survey. while 34% initially placed their organizations ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5341,28.0,percentage,2025,percentages,"anizations at the highest two stages of ai readiness, only 28% still did so after answering all ques...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5342,25.0,percentage,2025,percentages,.3 the model yielded an even more conservative view: only 25% fell into the highest two stages of ai...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5343,3.0,percentage,2025,percentages,"they are seeing value at each stage of ai readiness, from 3% at the earliest “exploring” stage to 96...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5344,96.0,percentage,2025,percentages,"i readiness, from 3% at the earliest “exploring” stage to 96% at the most advanced “realizing” stage...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5345,37.0,percentage,2025,growth_rate,wth nearly doubles as organizations report value from ai: 37% at the “realizing” stage prioritize gr...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5346,20.0,percentage,2025,growth_rate,37% at the “realizing” stage prioritize growth compared to 20% in the “exploring” stage. figure 3: p...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5347,3.0,percentage,2025,percentages,that report realizing value at each stage of ai readiness 3% exploring 12% planning 23% implementing...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5348,12.0,percentage,2025,percentages,realizing value at each stage of ai readiness 3% exploring 12% planning 23% implementing 61% scaling...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5349,23.0,percentage,2025,percentages,ue at each stage of ai readiness 3% exploring 12% planning 23% implementing 61% scaling 96% realizin...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5350,61.0,percentage,2025,growth_rate,of ai readiness 3% exploring 12% planning 23% implementing 61% scaling 96% realizing figure 4: focus...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5351,96.0,percentage,2025,growth_rate,ness 3% exploring 12% planning 23% implementing 61% scaling 96% realizing figure 4: focus on growth ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5352,100.0,percentage,2025,cost,ealize value from ai efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implem...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5353,80.0,percentage,2025,cost,e value from ai efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implementin...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5354,60.0,percentage,2025,cost,lue from ai efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implementing pl...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5355,40.0,percentage,2025,cost,from ai efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implementing planni...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5356,20.0,percentage,2025,cost,ai efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implementing planning re...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5357,0.0,percentage,2025,cost,efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implementing planning reali...,Zero percentage likely extraction artifact,0.75,REMOVE
+5358,1.0,percentage,2025,percentages,"commitment to, ai as critical to the business, compared to 1% at the “exploring” stage (see figure 8...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5359,100.0,percentage,2025,percentages,eadership clearly communicates vision and commitment to ai 100% 80% 60% 40% 20% 0% 1% exploring 5% p...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5360,80.0,percentage,2025,percentages,ship clearly communicates vision and commitment to ai 100% 80% 60% 40% 20% 0% 1% exploring 5% planni...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5361,60.0,percentage,2025,percentages,clearly communicates vision and commitment to ai 100% 80% 60% 40% 20% 0% 1% exploring 5% planning 21...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5362,40.0,percentage,2025,percentages,arly communicates vision and commitment to ai 100% 80% 60% 40% 20% 0% 1% exploring 5% planning 21% i...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5363,20.0,percentage,2025,percentages,communicates vision and commitment to ai 100% 80% 60% 40% 20% 0% 1% exploring 5% planning 21% implem...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5364,0.0,percentage,2025,percentages,municates vision and commitment to ai 100% 80% 60% 40% 20% 0% 1% exploring 5% planning 21% implement...,Zero percentage likely extraction artifact,0.75,REMOVE
+5365,1.0,percentage,2025,percentages,icates vision and commitment to ai 100% 80% 60% 40% 20% 0% 1% exploring 5% planning 21% implementing...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5366,5.0,percentage,2025,percentages,n and commitment to ai 100% 80% 60% 40% 20% 0% 1% exploring 5% planning 21% implementing 81% scaling...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5367,21.0,percentage,2025,percentages,ment to ai 100% 80% 60% 40% 20% 0% 1% exploring 5% planning 21% implementing 81% scaling 100% realiz...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5368,81.0,percentage,2025,percentages,0% 60% 40% 20% 0% 1% exploring 5% planning 21% implementing 81% scaling 100% realizing conclusion pa...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5369,100.0,percentage,2025,percentages,0% 0% 1% exploring 5% planning 21% implementing 81% scaling 100% realizing conclusion part 3 part 2 ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5370,100.0,percentage,2025,percentages,realizing conclusion part 3 part 2 introduction part 1 17 100% of leaders of organizations at the “r...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5371,64.0,percentage,2025,percentages,r as they mature in their use of ai. the survey shows that 64% of organizations in the “realizing” s...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5372,6.0,percentage,2025,percentages,"zing” stage have appointed a chief ai officer, compared to 6% in the “exploring stage”. finally, a c...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5373,64.0,percentage,2025,percentages,age of organizations that have appointed a chief ai officer 64% in the “realizing” stage 36% in the ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5374,36.0,percentage,2025,percentages,e appointed a chief ai officer 64% in the “realizing” stage 36% in the “scaling” stage 18% in the “i...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5375,18.0,percentage,2025,percentages,cer 64% in the “realizing” stage 36% in the “scaling” stage 18% in the “implementing” stage 9% in th...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5376,9.0,percentage,2025,percentages,36% in the “scaling” stage 18% in the “implementing” stage 9% in the “planning” stage 6% in the “exp...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5377,6.0,percentage,2025,percentages,18% in the “implementing” stage 9% in the “planning” stage 6% in the “exploring” stage figure 9: org...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5378,49.0,percentage,2025,percentages,reported the lowest ai readiness scores in ai governance (49% in the “exploring” and “planning” stag...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5379,26.0,percentage,2025,percentages,ry reported the highest percentage in the top two stages (26%) compared to the average (22%). it is ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5380,22.0,percentage,2025,percentages,ntage in the top two stages (26%) compared to the average (22%). it is possible that these numbers m...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5381,49.0,percentage,2025,percentages,eported the lowest ai readiness scores in ai governance (49% in the “exploring” and “planning” stage...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5382,16.0,percentage,2025,percentages,experimenting with it in select areas of the organization. 16% are at this stage 20+ yrs. average ag...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5383,21.0,percentage,2025,percentages,ganization 300 to 10k number of employees cloud first 21% 3% seeing significant value from ai planni...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5384,3.0,percentage,2025,percentages,zation 300 to 10k number of employees cloud first 21% 3% seeing significant value from ai planning o...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5385,23.0,percentage,2025,percentages,"nning proofs of concept, and planning for ai deployments. 23% are at this stage 20+ yrs. average age...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5386,20.0,percentage,2025,percentages,rganization all sizes number of employees cloud first 20% 12% seeing significant value from ai imple...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5387,12.0,percentage,2025,percentages,ization all sizes number of employees cloud first 20% 12% seeing significant value from ai implement...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5388,36.0,percentage,2025,percentages,moving from proofs of concept and pilots into production. 36% are at this stage average age of organ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5389,20.0,percentage,2025,percentages,on 15 yrs. 500 to 10k number of employees cloud first 20% 23% seeing significant value from ai scali...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5390,23.0,percentage,2025,percentages,5 yrs. 500 to 10k number of employees cloud first 20% 23% seeing significant value from ai scaling o...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5391,20.0,percentage,2025,percentages,is stage are scaling ai projects across the organization. 20% are at this stage average age of organ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5392,31.0,percentage,2025,percentages,5-15 yrs. number of employees 500 to 10k cloud first 31% 61% seeing significant value from ai realiz...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5393,61.0,percentage,2025,percentages,5 yrs. number of employees 500 to 10k cloud first 31% 61% seeing significant value from ai realizing...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5394,5.0,percentage,2025,percentages,repeatable and measurable value across the organization. 5% are at this stage average age of organiz...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5395,52.0,percentage,2025,percentages,n 5-15 yrs. 1k to 10k number of employees cloud first 52% 96% seeing significant value from ai guida...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5396,96.0,percentage,2025,percentages,15 yrs. 1k to 10k number of employees cloud first 52% 96% seeing significant value from ai guidance ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5397,20.0,percentage,2025,percentages,"ss, we also see other indications of momentum. on average, 20% of companies now have a chief ai offi...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5398,61.0,percentage,2025,percentages,"of department, led by data and analytics departments where 61% are deploying ai. however, only 7% of...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5399,7.0,percentage,2025,percentages,"ics departments where 61% are deploying ai. however, only 7% of organizations in the financial servi...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5400,18.0,percentage,2025,investment,"healthcare’s ai readiness is driven by it investment, with 18% of companies having a chief ai office...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5401,20.0,percentage,2025,percentages,"tment, with 18% of companies having a chief ai officer and 20% being cloud first. despite being one ...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5402,5.0,percentage,2025,percentages,tage of healthcare organizations in the “realizing” stage (5%) is consistent with the average. this ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5403,28.0,percentage,2025,percentages,"ing surpasses the industry average for ai management, with 28% of organizations having a chief ai of...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5404,8.0,percentage,2025,percentages,"er. the sector also outperforms the industry average, with 8% reporting consistently high roi from a...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5405,21.0,percentage,2025,percentages,"th the highest roi from ai, driven by marketing functions. 21% of retailers have a chief ai officer,...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5406,61.0,percentage,2025,adoption_rate,"ry compares. financial services spends the most on ai, with 61% of projects led by ai adoption in da...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5407,16.0,percentage,2025,adoption_rate,ects led by ai adoption in data and analytics departments. 16% have a chief ai officer 7% see consis...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5408,7.0,percentage,2025,percentages,ata and analytics departments. 16% have a chief ai officer 7% see consistently high roi from ai ai s...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5409,18.0,percentage,2025,percentages,high roi from ai ai spend/month (mean) $2.48m cloud first 18% 61% data and analytics functional driv...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5410,61.0,percentage,2025,percentages,h roi from ai ai spend/month (mean) $2.48m cloud first 18% 61% data and analytics functional driver ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5411,18.0,percentage,2025,investment,of ai readiness in this sector is driven by it investment. 18% have a chief ai officer 5% see consis...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5412,5.0,percentage,2025,investment,or is driven by it investment. 18% have a chief ai officer 5% see consistently high roi from ai ai s...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5413,20.0,percentage,2025,percentages,high roi from ai ai spend/month (mean) $2.22m cloud first 20% 53% it functional driver for ai manufa...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5414,53.0,percentage,2025,percentages,h roi from ai ai spend/month (mean) $2.22m cloud first 20% 53% it functional driver for ai manufactu...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5415,28.0,percentage,2025,percentages,"ai manufacturing reports the most engaged leadership, with 28% of companies reporting to have a chie...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5416,28.0,percentage,2025,percentages,th 28% of companies reporting to have a chief ai officer. 28% have a chief ai officer 8% see consist...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5417,8.0,percentage,2025,percentages,g to have a chief ai officer. 28% have a chief ai officer 8% see consistently high roi from ai ai sp...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5418,17.0,percentage,2025,percentages,high roi from ai ai spend/month (mean) $1.99m cloud first 17% 53% it functional driver for ai retail...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5419,53.0,percentage,2025,percentages,h roi from ai ai spend/month (mean) $1.99m cloud first 17% 53% it functional driver for ai retail th...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5420,21.0,percentage,2025,adoption_rate,"value from ai, with marketing functions driving adoption. 21% have a chief ai officer 10% see consis...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5421,10.0,percentage,2025,adoption_rate,g functions driving adoption. 21% have a chief ai officer 10% see consistently high roi from ai ai s...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5422,25.0,percentage,2025,percentages,high roi from ai ai spend/month (mean) $1.83m cloud first 25% 60% marketing functional driver for ai...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5423,60.0,percentage,2025,percentages,h roi from ai ai spend/month (mean) $1.83m cloud first 25% 60% marketing functional driver for ai co...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5424,16.0,percentage,2025,percentages,try exploring planning implementing scaling realizing total 16% 24% 36% 20% 5% 25% high 40% low 13% ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5425,24.0,percentage,2025,percentages,exploring planning implementing scaling realizing total 16% 24% 36% 20% 5% 25% high 40% low 13% 21% ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5426,36.0,percentage,2025,percentages,oring planning implementing scaling realizing total 16% 24% 36% 20% 5% 25% high 40% low 13% 21% 40% ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5427,20.0,percentage,2025,percentages,g planning implementing scaling realizing total 16% 24% 36% 20% 5% 25% high 40% low 13% 21% 40% 24% ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5428,5.0,percentage,2025,percentages,anning implementing scaling realizing total 16% 24% 36% 20% 5% 25% high 40% low 13% 21% 40% 24% 3% 2...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5429,25.0,percentage,2025,percentages,ing implementing scaling realizing total 16% 24% 36% 20% 5% 25% high 40% low 13% 21% 40% 24% 3% 27% ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5430,40.0,percentage,2025,percentages,menting scaling realizing total 16% 24% 36% 20% 5% 25% high 40% low 13% 21% 40% 24% 3% 27% high 34% ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5431,13.0,percentage,2025,percentages,scaling realizing total 16% 24% 36% 20% 5% 25% high 40% low 13% 21% 40% 24% 3% 27% high 34% low fina...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5432,21.0,percentage,2025,percentages,ing realizing total 16% 24% 36% 20% 5% 25% high 40% low 13% 21% 40% 24% 3% 27% high 34% low financia...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5433,40.0,percentage,2025,percentages,realizing total 16% 24% 36% 20% 5% 25% high 40% low 13% 21% 40% 24% 3% 27% high 34% low financial se...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5434,24.0,percentage,2025,percentages,izing total 16% 24% 36% 20% 5% 25% high 40% low 13% 21% 40% 24% 3% 27% high 34% low financial servic...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5435,3.0,percentage,2025,percentages,g total 16% 24% 36% 20% 5% 25% high 40% low 13% 21% 40% 24% 3% 27% high 34% low financial services 1...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5436,27.0,percentage,2025,percentages,otal 16% 24% 36% 20% 5% 25% high 40% low 13% 21% 40% 24% 3% 27% high 34% low financial services 17% ...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5437,34.0,percentage,2025,percentages,24% 36% 20% 5% 25% high 40% low 13% 21% 40% 24% 3% 27% high 34% low financial services 17% 21% 35% 2...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5438,17.0,percentage,2025,percentages,low 13% 21% 40% 24% 3% 27% high 34% low financial services 17% 21% 35% 23% 5% 28% high 38% low manuf...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5439,2.48,usd,2025,dollar_amounts,% see consistently high roi from ai ai spend/month (mean) $2.48m cloud first 18% 61% data and analyt...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5440,2.22,usd,2025,dollar_amounts,% see consistently high roi from ai ai spend/month (mean) $2.22m cloud first 20% 53% it functional d...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5441,1.99,usd,2025,dollar_amounts,% see consistently high roi from ai ai spend/month (mean) $1.99m cloud first 17% 53% it functional d...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5442,1.83,usd,2025,dollar_amounts,% see consistently high roi from ai ai spend/month (mean) $1.83m cloud first 25% 60% marketing funct...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5443,5.0,usd,2025,dollar_amounts,the cloud cross-industry average: 69% 13% spend more than $5m on ai per month cross-industry average...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5444,5.0,usd,2025,dollar_amounts,orale. among healthcare organizations: 12% spend more than $5m on cloud per month cross-industry ave...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5445,100.0,usd,2025,cost,nvestment with 23% of manufacturing organizations spending $100k to less than $500k on cloud per mon...,Duplicate record (same value/unit/year/similar context),0.85,REMOVE
+5446,500.0,usd,2025,cost,"of manufacturing organizations spending $100k to less than $500k on cloud per month, exceeding the 2...",Duplicate record (same value/unit/year/similar context),0.85,REMOVE

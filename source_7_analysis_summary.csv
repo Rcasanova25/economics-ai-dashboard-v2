@@ -1,0 +1,6 @@
+Category,Count,Percentage,Description
+Total Records,2472,100.0,Total records from Source 7
+Zero Duplicates (0.0%),1996,80.74433656957929,Empty table cells parsed as 0.0%
+General Rate Metrics,2104,85.11326860841424,Vague classification needing reclassification
+Table Artifacts,2424,98.05825242718447,Contains table formatting characters
+Energy Unit Errors,4,0.16181229773462785,Years misclassified as energy units

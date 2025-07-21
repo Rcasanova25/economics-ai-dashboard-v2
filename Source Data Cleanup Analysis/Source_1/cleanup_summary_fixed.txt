@@ -1,0 +1,42 @@
+SOURCE 1 CLEANUP ANALYSIS SUMMARY - FIXED
+Generated: 2025-07-21 15:11:02
+
+FILE: Affects of GenAI on Highskilled Work.pdf
+Original Records: 334
+
+PROPOSED ACTIONS:
+- Records to KEEP: 72
+- Records to REMOVE: 248
+- Records to MODIFY: 14
+
+DUPLICATE HANDLING:
+- Duplicate groups identified: 87
+- First occurrences kept: 87
+- Subsequent duplicates removed: 247
+
+REMOVAL REASONS:
+  - Duplicate record (keeping first occurrence): 247 records
+  - Likely from figure/table numbering: 1 records
+
+MODIFICATION SUMMARY:
+  - general_rate -> growth_metric: 9 records
+  - general_rate -> employment_metric: 1 records
+  - general_rate -> adoption_metric: 2 records
+  - general_rate -> ai_metric: 1 records
+  - unknown_metric -> reference_year: 1 records
+
+CONFIDENCE DISTRIBUTION:
+- High confidence (>0.85): 248 records
+- Medium confidence (0.70-0.85): 77 records  
+- Low confidence (<0.70): 9 records
+
+KEY IMPROVEMENT:
+- This analysis now properly keeps the first occurrence of each duplicate
+- Previous analysis removed ALL occurrences of duplicated records
+- This ensures no valuable data points are completely lost
+
+NEXT STEPS:
+1. Review the CSV files to validate proposed actions
+2. Verify that important metrics are preserved
+3. Check metric reclassifications
+4. Approve or modify the cleanup plan before execution

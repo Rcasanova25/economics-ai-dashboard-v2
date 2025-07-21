@@ -1,0 +1,2000 @@
+{
+  "analysis_date": "2025-07-21T12:16:31.356247",
+  "total_records": 12258,
+  "total_issues": "5779",
+  "issues": {
+    "duplicates": [
+      {
+        "metric_type": "general_rate",
+        "stats": {
+          "total_duplicates": 4536,
+          "unique_duplicate_sets": 756,
+          "examples": [
+            {
+              "value": 0.0,
+              "unit": "percentage",
+              "year": 2020,
+              "context": "2000- 2010 2010- 2020 after 2020 can 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.7%) 3 (10.0%) 4 (13....",
+              "occurrences": 6,
+              "source_ids": [
+                7,
+                17
+              ]
+            },
+            {
+              "value": 0.0,
+              "unit": "percentage",
+              "year": 2020,
+              "context": "2010- 2020 after 2020 can 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.7%) 3 (10.0%) 4 (13.3%) 13 (43....",
+              "occurrences": 6,
+              "source_ids": [
+                7,
+                17
+              ]
+            },
+            {
+              "value": 0.0,
+              "unit": "percentage",
+              "year": 2020,
+              "context": "after 2020 can 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.7%) 3 (10.0%) 4 (13.3%) 13 (43.3%) 8 (26.7",
+              "occurrences": 6,
+              "source_ids": [
+                7,
+                17
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "growth_metric",
+        "stats": {
+          "total_duplicates": 30,
+          "unique_duplicate_sets": 5,
+          "examples": [
+            {
+              "value": 12.0,
+              "unit": "percentage",
+              "year": 2024,
+              "context": "signed to mimic the day-to-day work at a consulting company increased by 12%\u201325%. evidence from thes...",
+              "occurrences": 6,
+              "source_ids": [
+                1,
+                17
+              ]
+            },
+            {
+              "value": 16.0,
+              "unit": "percentage",
+              "year": 2024,
+              "context": "rew 30% faster than overall talent, while supply typically grew by 16% across major economies. as th...",
+              "occurrences": 6,
+              "source_ids": [
+                4,
+                17
+              ]
+            },
+            {
+              "value": 20.0,
+              "unit": "percentage",
+              "year": 2018,
+              "context": "oritize these skills, the significance of people skills has increased by 20% since 2018. as they loo...",
+              "occurrences": 6,
+              "source_ids": [
+                4,
+                17
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "unknown_metric",
+        "stats": {
+          "total_duplicates": 138,
+          "unique_duplicate_sets": 23,
+          "examples": [
+            {
+              "value": 1956.0,
+              "unit": "number",
+              "year": 2024,
+              "context": "industry 3 executive summary ai has come a long way since 1956, when john mccarthy first coined the ...",
+              "occurrences": 6,
+              "source_ids": [
+                2,
+                17
+              ]
+            },
+            {
+              "value": 2014.0,
+              "unit": "energy_unit",
+              "year": 2014,
+              "context": "tps://data.europa.eu/doi/10.2759/759368. [18] knight, w. (2014), \u201chow human-robot teamwork will upen...",
+              "occurrences": 6,
+              "source_ids": [
+                7,
+                17
+              ]
+            },
+            {
+              "value": 2015.0,
+              "unit": "co2_emissions",
+              "year": 2015,
+              "context": "such as the \u2018not-invented-here syndrome\u2019 (antons and piller 2015) and tech\u00ad nology acceptance issues...",
+              "occurrences": 6,
+              "source_ids": [
+                8,
+                17
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "adoption_metric",
+        "stats": {
+          "total_duplicates": 90,
+          "unique_duplicate_sets": 15,
+          "examples": [
+            {
+              "value": 0.0,
+              "unit": "percentage",
+              "year": 2024,
+              "context": "Generative AI adoption rates by country and business size\n52%\n56%\n42%\n36%\n44%\n30%\n68%\n63%\n42%\n42%\n48...",
+              "occurrences": 6,
+              "source_ids": [
+                4,
+                17
+              ]
+            },
+            {
+              "value": 4.0,
+              "unit": "percentage",
+              "year": 2024,
+              "context": "4%, while the control group\u2019s adoption rate was 24",
+              "occurrences": 6,
+              "source_ids": [
+                1,
+                17
+              ]
+            },
+            {
+              "value": 10.0,
+              "unit": "billions_usd",
+              "year": 2024,
+              "context": "10\nBusinesses in India and the US lead in GAI adoption compared to their \nEuropean counterparts\nOver...",
+              "occurrences": 6,
+              "source_ids": [
+                4,
+                17
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "profit_metric",
+        "stats": {
+          "total_duplicates": 30,
+          "unique_duplicate_sets": 5,
+          "examples": [
+            {
+              "value": 5.0,
+              "unit": "billions_usd",
+              "year": 2024,
+              "context": "In Seattle, Microsoft\u2019s AI for Good Open Call has set aside \n$5 million in Azure credits, paired wit...",
+              "occurrences": 6,
+              "source_ids": [
+                13,
+                17
+              ]
+            },
+            {
+              "value": 7.0,
+              "unit": "percentage",
+              "year": 2024,
+              "context": "Still, there is no difference in usage conditional on adoption\nbetween junior and senior developers ...",
+              "occurrences": 6,
+              "source_ids": [
+                1,
+                17
+              ]
+            },
+            {
+              "value": 16.0,
+              "unit": "percentage",
+              "year": 2024,
+              "context": "Still, there is no difference in usage conditional on adoption\nbetween junior and senior developers ...",
+              "occurrences": 6,
+              "source_ids": [
+                1,
+                17
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "impact_metrics",
+        "stats": {
+          "total_duplicates": 54,
+          "unique_duplicate_sets": 2,
+          "examples": [
+            {
+              "value": 6.8,
+              "unit": "percentage",
+              "year": 2024,
+              "context": "rademarks associated with AI but no increase in sales per worker. Conversely, ref. [20] estimated a ...",
+              "occurrences": 6,
+              "source_ids": [
+                6,
+                17
+              ]
+            },
+            {
+              "value": 26.08,
+              "unit": "percentage",
+              "year": 2024,
+              "context": "oisy, when data is combined across three experiments and 4,867 de- velopers, our analysis reveals a ...",
+              "occurrences": 6,
+              "source_ids": [
+                1,
+                17
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "financial_metric",
+        "stats": {
+          "total_duplicates": 360,
+          "unique_duplicate_sets": 60,
+          "examples": [
+            {
+              "value": 0.0,
+              "unit": "billions_usd",
+              "year": 2024,
+              "context": "chnical preview period. students can obtain copilot and pay $0 per month. similarly, github rewards ...",
+              "occurrences": 6,
+              "source_ids": [
+                9,
+                17
+              ]
+            },
+            {
+              "value": 1.0,
+              "unit": "billions_usd",
+              "year": 2024,
+              "context": "are driving profitability as a result. in fact, for every $1 a company invests in generative ai, the...",
+              "occurrences": 6,
+              "source_ids": [
+                3,
+                17
+              ]
+            },
+            {
+              "value": 1.0,
+              "unit": "billions_usd",
+              "year": 2024,
+              "context": "olling for medical needs, care for black patients averages $1,800 less per year. new technologies ar...",
+              "occurrences": 6,
+              "source_ids": [
+                5,
+                17
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "productivity_metric",
+        "stats": {
+          "total_duplicates": 42,
+          "unique_duplicate_sets": 7,
+          "examples": [
+            {
+              "value": 2.0,
+              "unit": "percentage",
+              "year": 2024,
+              "context": "AI's impact on labor productivity depends on its\ncapability and adoption timeline\nEffect of AI adopt...",
+              "occurrences": 6,
+              "source_ids": [
+                11,
+                17
+              ]
+            },
+            {
+              "value": 7.0,
+              "unit": "percentage",
+              "year": 2024,
+              "context": "As tools using advances in natural language processing work their way into\nbusinesses and society, t...",
+              "occurrences": 6,
+              "source_ids": [
+                11,
+                17
+              ]
+            },
+            {
+              "value": 15.0,
+              "unit": "percentage",
+              "year": 2024,
+              "context": "Access to AI assistance \nincreases worker productivity, as measured by issues resolved per hour, by ...",
+              "occurrences": 6,
+              "source_ids": [
+                10,
+                17
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "cost_metric",
+        "stats": {
+          "total_duplicates": 120,
+          "unique_duplicate_sets": 20,
+          "examples": [
+            {
+              "value": 0.0,
+              "unit": "percentage",
+              "year": 2024,
+              "context": "Figure 3: Percentage of organizations that report realizing value at \neach stage of AI readiness\n3%\n...",
+              "occurrences": 6,
+              "source_ids": [
+                2,
+                17
+              ]
+            },
+            {
+              "value": 3.0,
+              "unit": "billions_usd",
+              "year": 2024,
+              "context": "The \nGPT-3 model included 175 billion parameters, was trained on 300 \nbillion tokens, and incurred a...",
+              "occurrences": 6,
+              "source_ids": [
+                10,
+                17
+              ]
+            },
+            {
+              "value": 3.0,
+              "unit": "billions_usd",
+              "year": 2024,
+              "context": "This paper\u2019s primary contributions are to provide a set of measurements of LLM impact po-\n3Baumol\u2019s ...",
+              "occurrences": 6,
+              "source_ids": [
+                15,
+                17
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "training_metric",
+        "stats": {
+          "total_duplicates": 192,
+          "unique_duplicate_sets": 32,
+          "examples": [
+            {
+              "value": 0.0,
+              "unit": "percentage",
+              "year": 2024,
+              "context": "00%\nHas your organization provided any AI-related\ntraining or education programs for its employees?\n...",
+              "occurrences": 6,
+              "source_ids": [
+                6,
+                17
+              ]
+            },
+            {
+              "value": 1.0,
+              "unit": "billions_usd",
+              "year": 2024,
+              "context": "AI_Integration_level (scale 1\u201310)\nscale\nnumeric\nOn a scale of 1\u201310, how would you rate the complexit...",
+              "occurrences": 6,
+              "source_ids": [
+                6,
+                17
+              ]
+            },
+            {
+              "value": 2.0,
+              "unit": "percentage",
+              "year": 2024,
+              "context": "In terms of skill content, more routine occupations such as office and admin\nwork, production and tr...",
+              "occurrences": 6,
+              "source_ids": [
+                16,
+                17
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "employment_metric",
+        "stats": {
+          "total_duplicates": 144,
+          "unique_duplicate_sets": 24,
+          "examples": [
+            {
+              "value": 0.0,
+              "unit": "millions_usd",
+              "year": 2024,
+              "context": "administrations, g being a larger municipality with over 5,000 employees while h has 200. cases c to...",
+              "occurrences": 6,
+              "source_ids": [
+                8,
+                17
+              ]
+            },
+            {
+              "value": 0.0,
+              "unit": "millions_usd",
+              "year": 2024,
+              "context": "his technology. when smbs \u2013 or companies with fewer than 1,000 employees \u2013 have implemented gai tech...",
+              "occurrences": 6,
+              "source_ids": [
+                4,
+                17
+              ]
+            },
+            {
+              "value": 0.0,
+              "unit": "millions_usd",
+              "year": 2024,
+              "context": "nal tier of government with over 1,000 (case c) and over 4,000 employees (case d). in cases e and f,...",
+              "occurrences": 6,
+              "source_ids": [
+                8,
+                17
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "gdp_metric",
+        "stats": {
+          "total_duplicates": 60,
+          "unique_duplicate_sets": 10,
+          "examples": [
+            {
+              "value": 2.0,
+              "unit": "percentage",
+              "year": 2024,
+              "context": "AI's impact on labor productivity depends on its\ncapability and adoption timeline\nEffect of AI adopt...",
+              "occurrences": 6,
+              "source_ids": [
+                11,
+                17
+              ]
+            },
+            {
+              "value": 7.0,
+              "unit": "percentage",
+              "year": 2023,
+              "context": "Artificial Intelligence\nGenerative AI could raise global GDP by 7%\nApr 5, 2023\nShare share\nDownload ...",
+              "occurrences": 6,
+              "source_ids": [
+                11,
+                17
+              ]
+            },
+            {
+              "value": 7.0,
+              "unit": "percentage",
+              "year": 2024,
+              "context": "\u201cGenerative AI could raise global GDP by 7%",
+              "occurrences": 6,
+              "source_ids": [
+                9,
+                17
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "revenue_metric",
+        "stats": {
+          "total_duplicates": 84,
+          "unique_duplicate_sets": 14,
+          "examples": [
+            {
+              "value": 3.0,
+              "unit": "billions_usd",
+              "year": 2018,
+              "context": "For instance, one study of companies with revenues over USD 3 billion found that organisations \nthat...",
+              "occurrences": 6,
+              "source_ids": [
+                7,
+                17
+              ]
+            },
+            {
+              "value": 4.0,
+              "unit": "percentage",
+              "year": 2024,
+              "context": "4% for low-income countries, respectively",
+              "occurrences": 6,
+              "source_ids": [
+                16,
+                17
+              ]
+            },
+            {
+              "value": 8.0,
+              "unit": "percentage",
+              "year": 2024,
+              "context": "8% increase in sales per worker for firms innovating in AI technologies, while [5] put this\nnumber a...",
+              "occurrences": 6,
+              "source_ids": [
+                6,
+                17
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "labor_metric",
+        "stats": {
+          "total_duplicates": 90,
+          "unique_duplicate_sets": 15,
+          "examples": [
+            {
+              "value": 2.0,
+              "unit": "percentage",
+              "year": 2024,
+              "context": "AI's impact on labor productivity depends on its\ncapability and adoption timeline\nEffect of AI adopt...",
+              "occurrences": 6,
+              "source_ids": [
+                11,
+                17
+              ]
+            },
+            {
+              "value": 7.0,
+              "unit": "percentage",
+              "year": 2024,
+              "context": "AI's impact on labor productivity depends on its\ncapability and adoption timeline\nEffect of AI adopt...",
+              "occurrences": 6,
+              "source_ids": [
+                11,
+                17
+              ]
+            },
+            {
+              "value": 10.0,
+              "unit": "percentage",
+              "year": 2023,
+              "context": "(2023) estimate\nthat up to 80% of US workforce could have at least 10% of their tasks replaced and 1...",
+              "occurrences": 6,
+              "source_ids": [
+                16,
+                17
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "comparison_metrics",
+        "stats": {
+          "total_duplicates": 30,
+          "unique_duplicate_sets": 1,
+          "examples": [
+            {
+              "value": 23.9,
+              "unit": "percentage",
+              "year": 2024,
+              "context": "ng for time and location \ufb01xed effects, access to AI rec- ommendations increases RPH by 0.47 chats, u...",
+              "occurrences": 6,
+              "source_ids": [
+                10,
+                17
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "comparative_metric",
+        "stats": {
+          "total_duplicates": 12,
+          "unique_duplicate_sets": 2,
+          "examples": [
+            {
+              "value": 73.0,
+              "unit": "percentage",
+              "year": 2024,
+              "context": "eir \nbalance of resources and agility. Compared to small businesses, medium firms have greater acces...",
+              "occurrences": 6,
+              "source_ids": [
+                4,
+                17
+              ]
+            },
+            {
+              "value": 83.0,
+              "unit": "percentage",
+              "year": 2024,
+              "context": "eir \nbalance of resources and agility. Compared to small businesses, medium firms have greater acces...",
+              "occurrences": 6,
+              "source_ids": [
+                4,
+                17
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "energy_metric",
+        "stats": {
+          "total_duplicates": 30,
+          "unique_duplicate_sets": 5,
+          "examples": [
+            {
+              "value": 0.0,
+              "unit": "percentage",
+              "year": 2024,
+              "context": "00%\nEnergy sector\n1",
+              "occurrences": 6,
+              "source_ids": [
+                6,
+                17
+              ]
+            },
+            {
+              "value": 1.0,
+              "unit": "billions_usd",
+              "year": 2024,
+              "context": "1\nMarket Competition\nConcern over monopoly power in AI-related sectors permeate the public debate, a...",
+              "occurrences": 6,
+              "source_ids": [
+                16,
+                17
+              ]
+            },
+            {
+              "value": 2.0,
+              "unit": "percentage",
+              "year": 2024,
+              "context": "AI's impact on labor productivity depends on its\ncapability and adoption timeline\nEffect of AI adopt...",
+              "occurrences": 6,
+              "source_ids": [
+                11,
+                17
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "investment_metric",
+        "stats": {
+          "total_duplicates": 12,
+          "unique_duplicate_sets": 2,
+          "examples": [
+            {
+              "value": 10.0,
+              "unit": "percentage",
+              "year": 2024,
+              "context": "38% of enterprises that allocate between \n0-10% of their R&D spending to AI considered AI to be crit...",
+              "occurrences": 6,
+              "source_ids": [
+                7,
+                17
+              ]
+            },
+            {
+              "value": 38.0,
+              "unit": "percentage",
+              "year": 2024,
+              "context": "38% of enterprises that allocate between \n0-10% of their R&D spending to AI considered AI to be crit...",
+              "occurrences": 6,
+              "source_ids": [
+                7,
+                17
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "adoption_metrics",
+        "stats": {
+          "total_duplicates": 12,
+          "unique_duplicate_sets": 1,
+          "examples": [
+            {
+              "value": 8.7,
+              "unit": "percentage",
+              "year": 2024,
+              "context": "S also show that the overall adoption rate remains relatively modest across the economy, with only 8...",
+              "occurrences": 6,
+              "source_ids": [
+                13,
+                17
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "ai_cost_metric",
+        "stats": {
+          "total_duplicates": 6,
+          "unique_duplicate_sets": 1,
+          "examples": [
+            {
+              "value": 300.0,
+              "unit": "billions_usd",
+              "year": 2024,
+              "context": "gpt-3 model included 175 billion parameters, was trained on 300 billion tokens, and incurred approxi...",
+              "occurrences": 6,
+              "source_ids": [
+                10,
+                17
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "tokens_metric",
+        "stats": {
+          "total_duplicates": 36,
+          "unique_duplicate_sets": 6,
+          "examples": [
+            {
+              "value": 3.0,
+              "unit": "billions_usd",
+              "year": 2024,
+              "context": "The \nGPT-3 model included 175 billion parameters, was trained on 300 \nbillion tokens, and incurred a...",
+              "occurrences": 6,
+              "source_ids": [
+                10,
+                17
+              ]
+            },
+            {
+              "value": 5.0,
+              "unit": "billions_usd",
+              "year": 2024,
+              "context": "The \nGPT-3 model included 175 billion parameters, was trained on 300 \nbillion tokens, and incurred a...",
+              "occurrences": 6,
+              "source_ids": [
+                10,
+                17
+              ]
+            },
+            {
+              "value": 6.0,
+              "unit": "billions_usd",
+              "year": 2024,
+              "context": "u Share\nf\nh\nd\nReading Time: 6 mins\nUnder the hood of every AI application are algorithms that churn ...",
+              "occurrences": 6,
+              "source_ids": [
+                14,
+                17
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "investment",
+        "stats": {
+          "total_duplicates": 330,
+          "unique_duplicate_sets": 78,
+          "examples": [
+            {
+              "value": 0.93,
+              "unit": "percentage",
+              "year": 2025,
+              "context": "in the next 10 years should also be modest, in the range of 0.93% \u22121.16% over 10 years in total, pro...",
+              "occurrences": 4,
+              "source_ids": [
+                17
+              ]
+            },
+            {
+              "value": 1.0,
+              "unit": "billions_usd",
+              "year": 2013,
+              "context": "investment events that involved funding sizes greater than $1 billion. 45.43 2013 2014 2015 2016 201...",
+              "occurrences": 4,
+              "source_ids": [
+                17,
+                12
+              ]
+            },
+            {
+              "value": 1.0,
+              "unit": "billions_usd",
+              "year": 2024,
+              "context": "AMD, 2024 Sep 5, 2024 Safe Superintelligence (SSI) secures $1 billion in funding. Investment/funding...",
+              "occurrences": 4,
+              "source_ids": [
+                17,
+                12
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "carbon_emissions",
+        "stats": {
+          "total_duplicates": 6,
+          "unique_duplicate_sets": 0,
+          "examples": []
+        }
+      },
+      {
+        "metric_type": "financial_metrics",
+        "stats": {
+          "total_duplicates": 6,
+          "unique_duplicate_sets": 0,
+          "examples": []
+        }
+      },
+      {
+        "metric_type": "productivity",
+        "stats": {
+          "total_duplicates": 180,
+          "unique_duplicate_sets": 45,
+          "examples": [
+            {
+              "value": 0.66,
+              "unit": "percentage",
+              "year": 2025,
+              "context": "conomic effects appear nontrivial but modest\u2014no more than a 0.66% increase in total factor productiv...",
+              "occurrences": 4,
+              "source_ids": [
+                17
+              ]
+            },
+            {
+              "value": 1.0,
+              "unit": "percentage",
+              "year": 2025,
+              "context": "l. *, **, and *** indicate significance at the 10%, 5%, and 1% levels. 4.4 R&D Efficiency Finally, I...",
+              "occurrences": 4,
+              "source_ids": [
+                17,
+                18
+              ]
+            },
+            {
+              "value": 1.5,
+              "unit": "percentage",
+              "year": 2025,
+              "context": "7% increase in global GDP, equivalent to $7 trillion, and a 1.5% per annum increase in US productivi...",
+              "occurrences": 4,
+              "source_ids": [
+                17
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "percentages",
+        "stats": {
+          "total_duplicates": 3340,
+          "unique_duplicate_sets": 829,
+          "examples": [
+            {
+              "value": 0.0,
+              "unit": "percentage",
+              "year": 2025,
+              "context": "Share of occupational workload exposed to automation by AI 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80%...",
+              "occurrences": 4,
+              "source_ids": [
+                17,
+                11
+              ]
+            },
+            {
+              "value": 0.0,
+              "unit": "percentage",
+              "year": 2025,
+              "context": "ct Management 1 2 3 4 5 6 7 8 Quarters since GA 30% 20% 10% 0% 10% 20% 30% % relative to baseline No...",
+              "occurrences": 4,
+              "source_ids": [
+                17,
+                9
+              ]
+            },
+            {
+              "value": 0.0,
+              "unit": "percentage",
+              "year": 2025,
+              "context": "es (1\u20135, 5 for Significant improvement) Significant decline 0.00% Slight decline 2.15% No change 56....",
+              "occurrences": 4,
+              "source_ids": [
+                17,
+                6
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "growth_rate",
+        "stats": {
+          "total_duplicates": 476,
+          "unique_duplicate_sets": 118,
+          "examples": [
+            {
+              "value": 0.064,
+              "unit": "percentage",
+              "year": 2025,
+              "context": "about a 0.66% increase in total within 10 years, or about a 0.064% increase in annual TFP growth. Wh...",
+              "occurrences": 4,
+              "source_ids": [
+                17
+              ]
+            },
+            {
+              "value": 0.064,
+              "unit": "percentage",
+              "year": 2025,
+              "context": "in 10 years, or annual TFP growth will be higher by around 0.064%. This is a nontrivial, but modest ...",
+              "occurrences": 4,
+              "source_ids": [
+                17
+              ]
+            },
+            {
+              "value": 0.064,
+              "unit": "percentage",
+              "year": 2025,
+              "context": "rs should be no more than 0.66% in total\u2014or approximately a 0.064% increase in TFP growth annually. ...",
+              "occurrences": 4,
+              "source_ids": [
+                17
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "cost",
+        "stats": {
+          "total_duplicates": 304,
+          "unique_duplicate_sets": 75,
+          "examples": [
+            {
+              "value": 0.0,
+              "unit": "percentage",
+              "year": 2025,
+              "context": "Efficiency and cost focus Growth focus 100% 80% 60% 40% 20% 0% Exploring Implementing Planning Reali...",
+              "occurrences": 4,
+              "source_ids": [
+                2,
+                17
+              ]
+            },
+            {
+              "value": 0.12,
+              "unit": "usd",
+              "year": 2024,
+              "context": "costs declined from $15 per million tokens in May 2024 to $0.12 per million tokens by December 2024 ...",
+              "occurrences": 4,
+              "source_ids": [
+                17,
+                12
+              ]
+            },
+            {
+              "value": 0.28,
+              "unit": "percentage",
+              "year": 2025,
+              "context": "GDP,28 while a lower bound on IT security is 78 billion or 0.28% of US GDP.29 Assuming that spending...",
+              "occurrences": 4,
+              "source_ids": [
+                17
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "revenue",
+        "stats": {
+          "total_duplicates": 100,
+          "unique_duplicate_sets": 25,
+          "examples": [
+            {
+              "value": 0.4,
+              "unit": "percentage",
+              "year": 2025,
+              "context": ".4% to augmentation from AI, while the same percentages are 0.4% and 10.4% for low-income countries,...",
+              "occurrences": 4,
+              "source_ids": [
+                17,
+                16
+              ]
+            },
+            {
+              "value": 1.6,
+              "unit": "billions_usd",
+              "year": 2024,
+              "context": "Source: Salesforce, 2024 Sep 20, 2024 Microsoft announces a $1.6 billion deal with Constellation Ene...",
+              "occurrences": 4,
+              "source_ids": [
+                17,
+                12
+              ]
+            },
+            {
+              "value": 2.0,
+              "unit": "billions_usd",
+              "year": 2024,
+              "context": "psys, 2024 Feb 21, 2024 Reports claim that OpenAI surpassed $2 billion in annualized revenue in Dece...",
+              "occurrences": 4,
+              "source_ids": [
+                17,
+                12
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "employment",
+        "stats": {
+          "total_duplicates": 412,
+          "unique_duplicate_sets": 103,
+          "examples": [
+            {
+              "value": 0.0,
+              "unit": "number",
+              "year": 2025,
+              "context": "h potential implications for the workforce. There are 3,504,000 workers for whom we lack data on edu...",
+              "occurrences": 4,
+              "source_ids": [
+                17,
+                15
+              ]
+            },
+            {
+              "value": 0.0,
+              "unit": "number",
+              "year": 2025,
+              "context": "ith populations below 250,000 and average employment of 64,000 workers\u2014supported just about 5% of th...",
+              "occurrences": 4,
+              "source_ids": [
+                17,
+                13
+              ]
+            },
+            {
+              "value": 0.0,
+              "unit": "percentage",
+              "year": 2025,
+              "context": "er than 50% \ud835\udefd ex- posure in Job Zones 1 through 5 have \ud835\udefd at 0.00% (Job Zone 1), 6.11% (Job Zone 2), ...",
+              "occurrences": 4,
+              "source_ids": [
+                17,
+                15
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "dollar_amounts",
+        "stats": {
+          "total_duplicates": 480,
+          "unique_duplicate_sets": 116,
+          "examples": [
+            {
+              "value": 0.0,
+              "unit": "usd",
+              "year": 2025,
+              "context": "chnical preview period. Students can obtain Copilot and pay $0 per month. Similarly, GitHub rewards ...",
+              "occurrences": 4,
+              "source_ids": [
+                17,
+                9
+              ]
+            },
+            {
+              "value": 0.07,
+              "unit": "usd",
+              "year": 2022,
+              "context": "ed from $20.00 per million tokens in November 2022 to just $0.07 per million tokens by October 2024 ...",
+              "occurrences": 8,
+              "source_ids": [
+                17,
+                12
+              ]
+            },
+            {
+              "value": 0.07,
+              "unit": "usd",
+              "year": 2022,
+              "context": "opped from $20 per million tokens in November 2022 to just $0.07 per million tokens by October 2024 ...",
+              "occurrences": 4,
+              "source_ids": [
+                17,
+                12
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "energy",
+        "stats": {
+          "total_duplicates": 28,
+          "unique_duplicate_sets": 6,
+          "examples": [
+            {
+              "value": 1.0,
+              "unit": "number",
+              "year": 2025,
+              "context": "nd what you can learn from them to help you: Empower the workforce 1 Reinvent customer engagement 2 ...",
+              "occurrences": 4,
+              "source_ids": [
+                3,
+                17
+              ]
+            },
+            {
+              "value": 1.6,
+              "unit": "billions_usd",
+              "year": 2025,
+              "context": "tracting interest in nuclear energy. Microsoft announced a $1.6 billion deal to revive the Three Mil...",
+              "occurrences": 8,
+              "source_ids": [
+                17,
+                12
+              ]
+            },
+            {
+              "value": 16.0,
+              "unit": "percentage",
+              "year": 2025,
+              "context": "t of any industry in the country. In the US, this figure is 16%. GAI-powered tools can reduce admini...",
+              "occurrences": 4,
+              "source_ids": [
+                4,
+                17
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "adoption_rate",
+        "stats": {
+          "total_duplicates": 300,
+          "unique_duplicate_sets": 75,
+          "examples": [
+            {
+              "value": 0.0,
+              "unit": "number",
+              "year": 2025,
+              "context": "his technology. When SMBs \u2013 or companies with fewer than 1,000 employees \u2013 have implemented GAI tech...",
+              "occurrences": 4,
+              "source_ids": [
+                4,
+                17
+              ]
+            },
+            {
+              "value": 0.0,
+              "unit": "number",
+              "year": 2025,
+              "context": "on, medium-sized businesses \u2013 those with between 200 and 1,000 employees \u2013 have the highest adoption...",
+              "occurrences": 4,
+              "source_ids": [
+                4,
+                17
+              ]
+            },
+            {
+              "value": 3.0,
+              "unit": "percentage",
+              "year": 2023,
+              "context": "June 2023. During each week, usage is relatively low, with 3% weekly exposure and 0.17 days of Copil...",
+              "occurrences": 4,
+              "source_ids": [
+                17,
+                9
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "labor_metrics",
+        "stats": {
+          "total_duplicates": 156,
+          "unique_duplicate_sets": 39,
+          "examples": [
+            {
+              "value": 0.0,
+              "unit": "number",
+              "year": 2025,
+              "context": "administrations, G being a larger municipality with over 5,000 employees while H has 200. Cases C to...",
+              "occurrences": 4,
+              "source_ids": [
+                17,
+                8
+              ]
+            },
+            {
+              "value": 0.0,
+              "unit": "number",
+              "year": 2025,
+              "context": "nal tier of government with over 1,000 (Case C) and over 4,000 employees (Case D). In Cases E and F,...",
+              "occurrences": 4,
+              "source_ids": [
+                17,
+                8
+              ]
+            },
+            {
+              "value": 0.0,
+              "unit": "number",
+              "year": 2025,
+              "context": "tandard definition for SMBs as businesses with fewer than 1,000 employees. Small sized businesses ar...",
+              "occurrences": 4,
+              "source_ids": [
+                4,
+                17
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "growth_rates",
+        "stats": {
+          "total_duplicates": 16,
+          "unique_duplicate_sets": 4,
+          "examples": [
+            {
+              "value": 4.0,
+              "unit": "percentage",
+              "year": 2025,
+              "context": "ery in perspective, the lab\u2019s research output per scientist declined by 4% over the preceding five y...",
+              "occurrences": 4,
+              "source_ids": [
+                17,
+                18
+              ]
+            },
+            {
+              "value": 14.5,
+              "unit": "percentage",
+              "year": 2019,
+              "context": "r of accepted papers on privacy and data governance topics decreased by 14.5% at select AI conferenc...",
+              "occurrences": 4,
+              "source_ids": [
+                17,
+                12
+              ]
+            },
+            {
+              "value": 21.3,
+              "unit": "percentage",
+              "year": 2016,
+              "context": "ave mentioned AI since 2016. In the past year, AI mentions rose by 21.3%, increasing from 1,557 in 2...",
+              "occurrences": 4,
+              "source_ids": [
+                17,
+                12
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "metric_type": "token_metrics",
+        "stats": {
+          "total_duplicates": 16,
+          "unique_duplicate_sets": 4,
+          "examples": [
+            {
+              "value": 0.0,
+              "unit": "number",
+              "year": 2025,
+              "context": "y OpenAI and Meta, featured context windows of 8,000 and 4,000 tokens, respectively. In contrast, mo...",
+              "occurrences": 4,
+              "source_ids": [
+                17,
+                12
+              ]
+            },
+            {
+              "value": 2.0,
+              "unit": "number",
+              "year": 2020,
+              "context": "ge language model revolution, was trained on approximately 2 billion tokens. By 2020, GPT-3 175B\u2014one...",
+              "occurrences": 4,
+              "source_ids": [
+                17,
+                12
+              ]
+            },
+            {
+              "value": 82.0,
+              "unit": "number",
+              "year": 2025,
+              "context": "rom unstructured electronic health records, was trained on 82 billion tokens. In contrast, Llama 3 w...",
+              "occurrences": 4,
+              "source_ids": [
+                17,
+                12
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "invalid_years": [],
+    "invalid_units": [
+      {
+        "metric_type": "unknown_metric",
+        "wrong_unit": "energy_unit",
+        "count": "24",
+        "examples": [
+          {
+            "value": 2023.0,
+            "year": 2024,
+            "context": "ls can be used to estimate demand (brand, israeli, and ngwe 2023; goli and singh 2024; gui and toubia 2023), studies that sh"
+          },
+          {
+            "value": 2018.0,
+            "year": 2018,
+            "context": "cation,\u201d proceedings of machine learning research 81:1\u201315, 2018, http://proceedings.mlr.press/v81/buolamwini18a/buolamwini1"
+          },
+          {
+            "value": 2014.0,
+            "year": 2014,
+            "context": "tps://data.europa.eu/doi/10.2759/759368. [18] knight, w. (2014), \u201chow human-robot teamwork will upend manufacturing\u201d, mit"
+          }
+        ]
+      },
+      {
+        "metric_type": "adoption_metric",
+        "unusual_unit": "billions_usd",
+        "count": "24",
+        "examples": [
+          {
+            "value": 24.0,
+            "year": 2024,
+            "context": "9\n1\nCumulative Rate\nOct 23\nNov 23\nDec 23\nJan 24\nFeb 24\nMar 24\nDate\nInvite\nAdopt\n(c) Anonymous Company Experiment\nFigure 2: Cumulative Adoption Rates\nNotes: The first two graphs show the cumulative rat"
+          },
+          {
+            "value": 10.0,
+            "year": 2024,
+            "context": "10\nBusinesses in India and the US lead in GAI adoption compared to their \nEuropean counterparts\nOverall, India (62%) and the US (51%) report the highest adoption rates, followed by Germany (41%), the "
+          },
+          {
+            "value": 620.0,
+            "year": 2024,
+            "context": "Generative AI adoption rates by country and business size\n52%\n56%\n42%\n36%\n44%\n30%\n68%\n63%\n42%\n42%\n48%\n25%\n36%\n34%\n24%\n0%\n10%\n20%\n30%\n40%\n50%\n60%\n70%\nUS\nGermany\nIndia\nUK\nFrance\nSource: Access Partnersh"
+          }
+        ]
+      },
+      {
+        "metric_type": "cost_metric",
+        "unusual_unit": "multiple",
+        "count": "12",
+        "examples": [
+          {
+            "value": 20.0,
+            "year": 2024,
+            "context": "In one case,\nintegrating software optimizations and adopting the latest generation NVIDIA GPUs reduced cost per\ntoken by 20x compared to unoptimized processes on previous-generation GPUs \u2014 delivering "
+          },
+          {
+            "value": 25.0,
+            "year": 2024,
+            "context": "In one case,\nintegrating software optimizations and adopting the latest generation NVIDIA GPUs reduced cost per\ntoken by 20x compared to unoptimized processes on previous-generation GPUs \u2014 delivering "
+          },
+          {
+            "value": 20.0,
+            "year": 2024,
+            "context": "In one case,\nintegrating software optimizations and adopting the latest generation NVIDIA GPUs reduced cost per\ntoken by 20x compared to unoptimized processes on previous-generation GPUs \u2014 delivering "
+          }
+        ]
+      },
+      {
+        "metric_type": "employment_metric",
+        "unusual_unit": "millions_usd",
+        "count": "96",
+        "examples": [
+          {
+            "value": 0.0,
+            "year": 2024,
+            "context": "tandard definition for smbs as businesses with fewer than 1,000 employees. small sized businesses are defined as those with fewer th"
+          },
+          {
+            "value": 200.0,
+            "year": 2024,
+            "context": "mall sized businesses are defined as those with fewer than 200 employees and medium sized businesses are defined as those with 200 t"
+          },
+          {
+            "value": 1000.0,
+            "year": 2024,
+            "context": "nd medium sized businesses are defined as those with 200 to 1000 employees. 2 chapter 1 the economic imperative: businesses and go"
+          }
+        ]
+      },
+      {
+        "metric_type": "employment_metric",
+        "unusual_unit": "billions_usd",
+        "count": "6",
+        "examples": [
+          {
+            "value": 60.0,
+            "year": 2024,
+            "context": "ly see technologically-driven mass unemployment. even if 60 jobs remain plentiful, the automation-resistant jobs might end"
+          },
+          {
+            "value": 60.0,
+            "year": 2024,
+            "context": "ly see technologically-driven mass unemployment. even if 60 jobs remain plentiful, the automation-resistant jobs might end"
+          },
+          {
+            "value": 60.0,
+            "year": 2024,
+            "context": "ly see technologically-driven mass unemployment. even if 60 jobs remain plentiful, the automation-resistant jobs might end"
+          }
+        ]
+      },
+      {
+        "metric_type": "revenue_metric",
+        "unusual_unit": "multiple",
+        "count": "12",
+        "examples": [
+          {
+            "value": 20.0,
+            "year": 2024,
+            "context": "In one case,\nintegrating software optimizations and adopting the latest generation NVIDIA GPUs reduced cost per\ntoken by 20x compared to unoptimized processes on previous-generation GPUs \u2014 delivering "
+          },
+          {
+            "value": 25.0,
+            "year": 2024,
+            "context": "In one case,\nintegrating software optimizations and adopting the latest generation NVIDIA GPUs reduced cost per\ntoken by 20x compared to unoptimized processes on previous-generation GPUs \u2014 delivering "
+          },
+          {
+            "value": 20.0,
+            "year": 2024,
+            "context": "In one case,\nintegrating software optimizations and adopting the latest generation NVIDIA GPUs reduced cost per\ntoken by 20x compared to unoptimized processes on previous-generation GPUs \u2014 delivering "
+          }
+        ]
+      }
+    ],
+    "outliers": [
+      {
+        "metric_type": "general_rate",
+        "unit": "percentage",
+        "outlier_count": 654,
+        "value_range": "0.00 to 800.00",
+        "normal_range": "-17.55 to 23.40",
+        "examples": [
+          {
+            "value": 800.0,
+            "year": 2025,
+            "context": "nd savannah, ga., have seen ai job postings grow more than 800% between april 2018 and 2025, highlighting rapid early- stag"
+          },
+          {
+            "value": 800.0,
+            "year": 2025,
+            "context": "nd savannah, ga., have seen ai job postings grow more than 800% between april 2018 and 2025, highlighting rapid early- stag"
+          },
+          {
+            "value": 800.0,
+            "year": 2025,
+            "context": "nd savannah, ga., have seen ai job postings grow more than 800% between april 2018 and 2025, highlighting rapid early- stag"
+          }
+        ]
+      },
+      {
+        "metric_type": "growth_metric",
+        "unit": "percentage",
+        "outlier_count": 6,
+        "value_range": "12.00 to 177.00",
+        "normal_range": "-26.00 to 72.00",
+        "examples": [
+          {
+            "value": 177.0,
+            "year": 2024,
+            "context": "the number of ai literacy skills added by linkedin members increased by 177%. the most frequently added ai literacy skills were chatgpt"
+          },
+          {
+            "value": 177.0,
+            "year": 2024,
+            "context": "the number of ai literacy skills added by linkedin members increased by 177%. the most frequently added ai literacy skills were chatgpt"
+          },
+          {
+            "value": 177.0,
+            "year": 2024,
+            "context": "the number of ai literacy skills added by linkedin members increased by 177%. the most frequently added ai literacy skills were chatgpt"
+          }
+        ]
+      },
+      {
+        "metric_type": "unknown_metric",
+        "unit": "number",
+        "outlier_count": 6,
+        "value_range": "1956.00 to 2025.00",
+        "normal_range": "2017.00 to 2031.00",
+        "examples": [
+          {
+            "value": 1956.0,
+            "year": 2024,
+            "context": "industry 3 executive summary ai has come a long way since 1956, when john mccarthy first coined the term at a conference"
+          },
+          {
+            "value": 1956.0,
+            "year": 2024,
+            "context": "industry 3 executive summary ai has come a long way since 1956, when john mccarthy first coined the term at a conference"
+          },
+          {
+            "value": 1956.0,
+            "year": 2024,
+            "context": "industry 3 executive summary ai has come a long way since 1956, when john mccarthy first coined the term at a conference"
+          }
+        ]
+      },
+      {
+        "metric_type": "financial_metric",
+        "unit": "billions_usd",
+        "outlier_count": 42,
+        "value_range": "0.00 to 837.00",
+        "normal_range": "-293.58 to 403.10",
+        "examples": [
+          {
+            "value": 837.0,
+            "year": 2023,
+            "context": "f the country\u2019s gdp in 2023. the us is followed by germany ($837 billion or 18% of 2023 gdp), india ($621 billion or 18% of 2023 gdp"
+          },
+          {
+            "value": 837.0,
+            "year": 2023,
+            "context": "f the country\u2019s gdp in 2023. the us is followed by germany ($837 billion or 18% of 2023 gdp), india ($621 billion or 18% of 2023 gdp"
+          },
+          {
+            "value": 837.0,
+            "year": 2023,
+            "context": "f the country\u2019s gdp in 2023. the us is followed by germany ($837 billion or 18% of 2023 gdp), india ($621 billion or 18% of 2023 gdp"
+          }
+        ]
+      },
+      {
+        "metric_type": "employment_metric",
+        "unit": "number",
+        "outlier_count": 6,
+        "value_range": "0.00 to 272.00",
+        "normal_range": "-150.00 to 200.00",
+        "examples": [
+          {
+            "value": 272.0,
+            "year": 2024,
+            "context": "/www.nber.org/digest/jul18/automation-can-be-response-aging-workforce 272 https://www.scientificamerican.com/article/despite-what-you-"
+          },
+          {
+            "value": 272.0,
+            "year": 2024,
+            "context": "/www.nber.org/digest/jul18/automation-can-be-response-aging-workforce 272 https://www.scientificamerican.com/article/despite-what-you-"
+          },
+          {
+            "value": 272.0,
+            "year": 2024,
+            "context": "/www.nber.org/digest/jul18/automation-can-be-response-aging-workforce 272 https://www.scientificamerican.com/article/despite-what-you-"
+          }
+        ]
+      },
+      {
+        "metric_type": "percentages",
+        "unit": "percentage",
+        "outlier_count": 12,
+        "value_range": "0.00 to 585.00",
+        "normal_range": "-121.90 to 184.56",
+        "examples": [
+          {
+            "value": 585.0,
+            "year": 2025,
+            "context": "icantly, including UniProt (31%), PDB (23%), and AlphaFold (585%). This expansion has important implications for scientific"
+          },
+          {
+            "value": 585.0,
+            "year": 2025,
+            "context": "icantly, including UniProt (31%), PDB (23%), and AlphaFold (585%). This expansion has important implications for scientific"
+          },
+          {
+            "value": 585.0,
+            "year": 2025,
+            "context": "icantly, including UniProt (31%), PDB (23%), and AlphaFold (585%). This expansion has important implications for scientific"
+          }
+        ]
+      },
+      {
+        "metric_type": "growth_rate",
+        "unit": "percentage",
+        "outlier_count": 16,
+        "value_range": "0.06 to 300.00",
+        "normal_range": "-86.30 to 139.10",
+        "examples": [
+          {
+            "value": 300.0,
+            "year": 2025,
+            "context": "ity of much higher \u201caggressive\u201d AGI growth rates, such as a 300% increase in GDP. Many others are seeing recent developments"
+          },
+          {
+            "value": 300.0,
+            "year": 2025,
+            "context": "ity of much higher \u201caggressive\u201d AGI growth rates, such as a 300% increase in GDP. Many others are seeing recent developments"
+          },
+          {
+            "value": 300.0,
+            "year": 2025,
+            "context": "ity of much higher \u201caggressive\u201d AGI growth rates, such as a 300% increase in GDP. Many others are seeing recent developments"
+          }
+        ]
+      },
+      {
+        "metric_type": "cost",
+        "unit": "usd",
+        "outlier_count": 4,
+        "value_range": "0.12 to 670.00",
+        "normal_range": "-440.00 to 610.00",
+        "examples": [
+          {
+            "value": 670.0,
+            "year": 2019,
+            "context": "ure that underpins virtually every modern LLM, cost around $670 to train. RoBERTa Large, released in 2019, which achieved s"
+          },
+          {
+            "value": 670.0,
+            "year": 2019,
+            "context": "ure that underpins virtually every modern LLM, cost around $670 to train. RoBERTa Large, released in 2019, which achieved s"
+          },
+          {
+            "value": 670.0,
+            "year": 2019,
+            "context": "ure that underpins virtually every modern LLM, cost around $670 to train. RoBERTa Large, released in 2019, which achieved s"
+          }
+        ]
+      },
+      {
+        "metric_type": "revenue",
+        "unit": "percentage",
+        "outlier_count": 4,
+        "value_range": "0.40 to 57.00",
+        "normal_range": "-10.00 to 25.00",
+        "examples": [
+          {
+            "value": 57.0,
+            "year": 2025,
+            "context": "report revenue gains, 63% in supply chain management, and 57% in service operations, but the most common level of revenue"
+          },
+          {
+            "value": 57.0,
+            "year": 2025,
+            "context": "report revenue gains, 63% in supply chain management, and 57% in service operations, but the most common level of revenue"
+          },
+          {
+            "value": 57.0,
+            "year": 2025,
+            "context": "report revenue gains, 63% in supply chain management, and 57% in service operations, but the most common level of revenue"
+          }
+        ]
+      },
+      {
+        "metric_type": "employment",
+        "unit": "percentage",
+        "outlier_count": 8,
+        "value_range": "0.00 to 800.00",
+        "normal_range": "-114.00 to 173.00",
+        "examples": [
+          {
+            "value": 800.0,
+            "year": 2018,
+            "context": "nd Savannah, Ga., have seen AI job postings grow more than 800% between April 2018 and 2025, highlighting rapid early- stag"
+          },
+          {
+            "value": 800.0,
+            "year": 2018,
+            "context": "nd Savannah, Ga., have seen AI job postings grow more than 800% between April 2018 and 2025, highlighting rapid early- stag"
+          },
+          {
+            "value": 800.0,
+            "year": 2018,
+            "context": "nd Savannah, Ga., have seen AI job postings grow more than 800% between April 2018 and 2025, highlighting rapid early- stag"
+          }
+        ]
+      },
+      {
+        "metric_type": "dollar_amounts",
+        "unit": "billions_usd",
+        "outlier_count": 20,
+        "value_range": "1.25 to 837.00",
+        "normal_range": "-342.75 to 467.50",
+        "examples": [
+          {
+            "value": 837.0,
+            "year": 2023,
+            "context": "f the country\u2019s GDP in 2023. The US is followed by Germany ($837 billion or 18% of 2023 GDP), India ($621 billion or 18% of 2023 GDP"
+          },
+          {
+            "value": 837.0,
+            "year": 2023,
+            "context": "f the country\u2019s GDP in 2023. The US is followed by Germany ($837 billion or 18% of 2023 GDP), India ($621 billion or 18% of 2023 GDP"
+          },
+          {
+            "value": 837.0,
+            "year": 2023,
+            "context": "f the country\u2019s GDP in 2023. The US is followed by Germany ($837 billion or 18% of 2023 GDP), India ($621 billion or 18% of 2023 GDP"
+          }
+        ]
+      },
+      {
+        "metric_type": "adoption_rate",
+        "unit": "percentage",
+        "outlier_count": 4,
+        "value_range": "3.00 to 321.00",
+        "normal_range": "-115.75 to 195.75",
+        "examples": [
+          {
+            "value": 321.0,
+            "year": 2025,
+            "context": "For the cross-section, we observe an increase of 6.90 days (321% relative to the baseline) overall in AI adoption and an inc"
+          },
+          {
+            "value": 321.0,
+            "year": 2025,
+            "context": "For the cross-section, we observe an increase of 6.90 days (321% relative to the baseline) overall in AI adoption and an inc"
+          },
+          {
+            "value": 321.0,
+            "year": 2025,
+            "context": "For the cross-section, we observe an increase of 6.90 days (321% relative to the baseline) overall in AI adoption and an inc"
+          }
+        ]
+      },
+      {
+        "metric_type": "adoption_rate",
+        "unit": "number",
+        "outlier_count": 4,
+        "value_range": "0.00 to 999.00",
+        "normal_range": "-300.00 to 400.00",
+        "examples": [
+          {
+            "value": 999.0,
+            "year": 2025,
+            "context": "arly, the incidence of AI adoption in firms with 1 000 to 1 999 employees was less than half that of firms with 2 000 or more employ"
+          },
+          {
+            "value": 999.0,
+            "year": 2025,
+            "context": "arly, the incidence of AI adoption in firms with 1 000 to 1 999 employees was less than half that of firms with 2 000 or more employ"
+          },
+          {
+            "value": 999.0,
+            "year": 2025,
+            "context": "arly, the incidence of AI adoption in firms with 1 000 to 1 999 employees was less than half that of firms with 2 000 or more employ"
+          }
+        ]
+      },
+      {
+        "metric_type": "labor_metrics",
+        "unit": "number",
+        "outlier_count": 52,
+        "value_range": "0.00 to 1000.00",
+        "normal_range": "182.00 to 301.00",
+        "examples": [
+          {
+            "value": 1000.0,
+            "year": 2025,
+            "context": "nd medium sized businesses are defined as those with 200 to 1000 employees. 2 Chapter 1 The economic imperative: Businesses and go"
+          },
+          {
+            "value": 1000.0,
+            "year": 2025,
+            "context": "nd medium sized businesses are defined as those with 200 to 1000 employees. 2 Chapter 1 The economic imperative: Businesses and go"
+          },
+          {
+            "value": 1000.0,
+            "year": 2025,
+            "context": "nd medium sized businesses are defined as those with 200 to 1000 employees. 2 Chapter 1 The economic imperative: Businesses and go"
+          }
+        ]
+      }
+    ],
+    "misclassified": [
+      {
+        "metric_type": "general_rate",
+        "count": 4536,
+        "percentage": 37.00440528634361,
+        "samples": [
+          {
+            "value": 0.0,
+            "unit": "percentage",
+            "year": 2024,
+            "context": "6.7%) 3 (10.0%) 4 (13.3%) 13 (43.3%) 8 (26.7%) 0 (0.0%) manufacturing 1 (3.3%) 0 (0.0%) 1 (3.3%) 1"
+          },
+          {
+            "value": 0.0,
+            "unit": "percentage",
+            "year": 2024,
+            "context": "g 0 (0.0%) 14 (46.7%) 13 (43.3%) 1 (3.3%) 2 (6.7%) 0 (0.0%) 250+ ict 0 (0.0%) 19 (63.3%) 5 (16.7%) 4 (13.3%)"
+          },
+          {
+            "value": 0.0,
+            "unit": "percentage",
+            "year": 2024,
+            "context": "13.3%) 4 (13.3%) 9 (30.0%) 4 (13.3%) 2 (6.7%) 0 (0.0%) deu 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 0"
+          },
+          {
+            "value": 0.0,
+            "unit": "percentage",
+            "year": 2024,
+            "context": ") 0 (0.0%) 28 (93.3%) manufacturing 14 (46.7%) 0 (0.0%) 16 (53.3%) 250+ ict 2 (6.7%) 0 (0.0%) 28 (93.3%)"
+          },
+          {
+            "value": 0.0,
+            "unit": "percentage",
+            "year": 2024,
+            "context": ".0%) fra 50-249 ict 0 (0.0%) 7 (23.3%) 16 (53.3%) 0 (0.0%) 7 (23.3%) 0 (0.0%) manufacturing 0 (0.0%) 9 (30"
+          },
+          {
+            "value": 40.0,
+            "unit": "percentage",
+            "year": 2024,
+            "context": "esti- mated that performance bonuses accounted for 20% to 40% of a typical agent\u2019s total take-home pay. iii.c. ai syste"
+          },
+          {
+            "value": 5.0,
+            "unit": "percentage",
+            "year": 2024,
+            "context": "r-rich routes to taxi drivers reduces their search time by 5%, with the least experienced drivers bene\ufb01ting the most. by"
+          },
+          {
+            "value": 44.0,
+            "unit": "percentage",
+            "year": 2024,
+            "context": "re- sponse to ai adoption. the average developer allocates 44% of their engagement towards coding and, 37% towards project"
+          },
+          {
+            "value": 223.0,
+            "unit": "percentage",
+            "year": 2024,
+            "context": ". for the panel, we find an increase of 0.12 days per week (223% relative to the baseline) and an exposure21 increase of 1.8"
+          },
+          {
+            "value": 13.0,
+            "unit": "percentage",
+            "year": 2024,
+            "context": "nings. \u2022 extreme concentration. the bay area accounts for 13% of national job postings featuring ai skills, and together"
+          }
+        ]
+      },
+      {
+        "metric_type": "unknown_metric",
+        "count": 138,
+        "percentage": 1.1257953989231522,
+        "samples": [
+          {
+            "value": 2024.0,
+            "unit": "number",
+            "year": 2025,
+            "context": "n kevin xu github inc. working paper 25-021 copyright \u00a9 2024 and 2025 by manuel hoffmann, sam boysel, frank nagle, sida"
+          },
+          {
+            "value": 2024.0,
+            "unit": "number",
+            "year": 2024,
+            "context": "ai solutions\u2014$44 billion in generative ai specifically\u2014in 2024. and this spending is expected to grow to $749 billion at"
+          },
+          {
+            "value": 2021.0,
+            "unit": "number",
+            "year": 2021,
+            "context": "very five years, for at least one hundred years. september 2021 this report, the second in that planned series of studie"
+          },
+          {
+            "value": 2018.0,
+            "unit": "energy_unit",
+            "year": 2018,
+            "context": "cation,\u201d proceedings of machine learning research 81:1\u201315, 2018, http://proceedings.mlr.press/v81/buolamwini18a/buolamwini1"
+          },
+          {
+            "value": 2021.0,
+            "unit": "number",
+            "year": 2021,
+            "context": "very five years, for at least one hundred years. september 2021 this report, the second in that planned series of studie"
+          },
+          {
+            "value": 2025.0,
+            "unit": "number",
+            "year": 2025,
+            "context": "f cyprus. please cite this publication as: oecd/bcg/insead (2025), the adoption of artificial intelligence in firms: new evi"
+          },
+          {
+            "value": 2024.0,
+            "unit": "number",
+            "year": 2024,
+            "context": "views of the imf, its executive board, or imf management. 2024 mar \u00a9 2024 international monetary fund wp/24/65 imf wor"
+          },
+          {
+            "value": 2025.0,
+            "unit": "number",
+            "year": 2025,
+            "context": "f cyprus. please cite this publication as: oecd/bcg/insead (2025), the adoption of artificial intelligence in firms: new evi"
+          },
+          {
+            "value": 2023.0,
+            "unit": "energy_unit",
+            "year": 2024,
+            "context": "ls can be used to estimate demand (brand, israeli, and ngwe 2023; goli and singh 2024; gui and toubia 2023), studies that sh"
+          },
+          {
+            "value": 2023.0,
+            "unit": "energy_unit",
+            "year": 2024,
+            "context": "ls can be used to estimate demand (brand, israeli, and ngwe 2023; goli and singh 2024; gui and toubia 2023), studies that sh"
+          }
+        ]
+      }
+    ],
+    "missing_data": {
+      "sector": {
+        "count": "12258",
+        "percentage": 100.0
+      },
+      "region": {
+        "count": "12258",
+        "percentage": 100.0
+      },
+      "technology": {
+        "count": "12258",
+        "percentage": 100.0
+      },
+      "context": {
+        "count": "90",
+        "percentage": 0.7342143906020557
+      },
+      "page_number": {
+        "count": "12258",
+        "percentage": 100.0
+      }
+    }
+  },
+  "recommendations": [
+    {
+      "issue": "Duplicates",
+      "recommendation": "Implement deduplication by keeping highest confidence score or first occurrence per source",
+      "priority": "HIGH"
+    },
+    {
+      "issue": "Invalid Units",
+      "recommendation": "Standardize units and fix misclassified units like \"energy_unit\"",
+      "priority": "MEDIUM"
+    },
+    {
+      "issue": "Outliers",
+      "recommendation": "Review extreme values for potential extraction errors or unit confusion",
+      "priority": "MEDIUM"
+    },
+    {
+      "issue": "Vague Classifications",
+      "recommendation": "Reclassify \"general_rate\" and \"unknown_metric\" based on context analysis",
+      "priority": "HIGH"
+    }
+  ]
+}

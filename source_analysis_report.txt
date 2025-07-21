@@ -1,0 +1,1774 @@
+ANALYZING 22 SOURCES
+Total records across all sources: 12258
+
+================================================================================
+SOURCE 1: Affects of GenAI on Highskilled Work.pdf
+================================================================================
+
+1. BASIC STATISTICS:
+   Total records: 334
+   Unique metric types: 11
+   Year range: 2018 - 2025
+
+2. METRIC TYPE DISTRIBUTION:
+   - percentages: 94 (28.1%)
+   - general_rate: 88 (26.3%)
+   - growth_rate: 68 (20.4%)
+   - adoption_rate: 28 (8.4%)
+   - profit_metric: 16 (4.8%)
+   - productivity: 10 (3.0%)
+   - unknown_metric: 8 (2.4%)
+   - impact_metrics: 8 (2.4%)
+   - adoption_metric: 8 (2.4%)
+   - growth_metric: 4 (1.2%)
+
+3. UNIT DISTRIBUTION:
+   - percentage: 322
+   - number: 4
+   - energy_unit: 4
+   - billions_usd: 4
+
+   WARNING: Problem units found: ['energy_unit']
+
+4. DUPLICATE ANALYSIS:
+   Records with duplicates: 334
+
+   Top duplicate groups:
+   - Value: 95.0, Unit: percentage, Year: 2025 → 22 times
+   - Value: 10.0, Unit: percentage, Year: 2025 → 16 times
+   - Value: 100.0, Unit: percentage, Year: 2025 → 14 times
+   - Value: 5.0, Unit: percentage, Year: 2025 → 10 times
+   - Value: 1.0, Unit: percentage, Year: 2025 → 10 times
+
+5. VALUE RANGE ANALYSIS:
+
+   percentages:
+     percentage: min=0.50, max=95.00, mean=29.84
+
+   general_rate:
+     percentage: min=0.50, max=150.00, mean=34.22
+
+   growth_rate:
+     percentage: min=9.69, max=100.00, mean=34.77
+
+6. SAMPLE RECORDS (First 5):
+
+   Record 0:
+   - Type: general_rate
+   - Value: 26.08 percentage (2024)
+   - Context: experiments and 4,867 de- velopers, our analysis reveals a 26.08% increase (se: ...
+
+   Record 1:
+   - Type: general_rate
+   - Value: 10.3 percentage (2024)
+   - Context: 7 de- velopers, our analysis reveals a 26.08% increase (se: 10.3%) in completed ...
+
+   Record 2:
+   - Type: general_rate
+   - Value: 80.0 percentage (2024)
+   - Context: that generative ai can per- form tasks associated with over 80% of u.s. jobs, wi...
+
+   Record 3:
+   - Type: general_rate
+   - Value: 13.55 percentage (2024)
+   - Context: y interest, our results support this interpretation, with a 13.55% (se: 10.0%) i...
+
+   Record 4:
+   - Type: general_rate
+   - Value: 38.38 percentage (2024)
+   - Context: .0%) increase in the number of code updates (commits) and a 38.38% (se: 12.55%) ...
+
+7. DATA QUALITY ISSUES SUMMARY:
+   - 190 records with vague metric types
+   - 334 records missing sector
+   - 334 records missing region
+   - 334 records missing technology
+
+================================================================================
+SOURCE 2: AI strategy.pdf
+================================================================================
+
+1. BASIC STATISTICS:
+   Total records: 420
+   Unique metric types: 12
+   Year range: 2024 - 2025
+
+2. METRIC TYPE DISTRIBUTION:
+   - percentages: 166 (39.5%)
+   - general_rate: 100 (23.8%)
+   - cost_metric: 36 (8.6%)
+   - training_metric: 32 (7.6%)
+   - financial_metric: 24 (5.7%)
+   - cost: 16 (3.8%)
+   - dollar_amounts: 12 (2.9%)
+   - productivity_metric: 8 (1.9%)
+   - adoption_rate: 8 (1.9%)
+   - growth_rate: 8 (1.9%)
+
+3. UNIT DISTRIBUTION:
+   - percentage: 376
+   - billions_usd: 24
+   - usd: 16
+   - number: 4
+
+4. DUPLICATE ANALYSIS:
+   Records with duplicates: 420
+
+   Top duplicate groups:
+   - Value: 20.0, Unit: percentage, Year: 2025 → 22 times
+   - Value: 0.0, Unit: percentage, Year: 2024 → 12 times
+   - Value: 21.0, Unit: percentage, Year: 2025 → 10 times
+   - Value: 5.0, Unit: percentage, Year: 2025 → 10 times
+   - Value: 61.0, Unit: percentage, Year: 2025 → 10 times
+
+5. VALUE RANGE ANALYSIS:
+
+   percentages:
+     percentage: min=0.00, max=100.00, mean=30.53
+
+   general_rate:
+     percentage: min=0.00, max=96.00, mean=24.56
+
+   cost_metric:
+     percentage: min=0.00, max=96.00, mean=37.22
+
+6. SAMPLE RECORDS (First 5):
+
+   Record 33:
+   - Type: general_rate
+   - Value: 20.0 percentage (2024)
+   - Context: service portfolio and accelerating innovation, compared to 20% in the earliest s...
+
+   Record 34:
+   - Type: general_rate
+   - Value: 34.0 percentage (2024)
+   - Context: eated the question once they’d completed the survey. while 34% initially placed ...
+
+   Record 35:
+   - Type: general_rate
+   - Value: 28.0 percentage (2024)
+   - Context: anizations at the highest two stages of ai readiness, only 28% still did so afte...
+
+   Record 36:
+   - Type: general_rate
+   - Value: 25.0 percentage (2024)
+   - Context: .3 the model yielded an even more conservative view: only 25% fell into the high...
+
+   Record 37:
+   - Type: general_rate
+   - Value: 3.0 percentage (2024)
+   - Context: they are seeing value at each stage of ai readiness, from 3% at the earliest “ex...
+
+7. DATA QUALITY ISSUES SUMMARY:
+   - 270 records with vague metric types
+   - 420 records missing sector
+   - 420 records missing region
+   - 420 records missing technology
+
+================================================================================
+SOURCE 3: AI use case.pdf
+================================================================================
+
+1. BASIC STATISTICS:
+   Total records: 68
+   Unique metric types: 11
+   Year range: 2023 - 2028
+
+2. METRIC TYPE DISTRIBUTION:
+   - general_rate: 16 (23.5%)
+   - financial_metric: 16 (23.5%)
+   - productivity_metric: 8 (11.8%)
+   - cost: 6 (8.8%)
+   - employment_metric: 4 (5.9%)
+   - productivity: 4 (5.9%)
+   - unknown_metric: 4 (5.9%)
+   - dollar_amounts: 4 (5.9%)
+   - growth_rate: 2 (2.9%)
+   - percentages: 2 (2.9%)
+
+3. UNIT DISTRIBUTION:
+   - percentage: 34
+   - billions_usd: 22
+   - number: 10
+   - usd: 2
+
+4. DUPLICATE ANALYSIS:
+   Records with duplicates: 68
+
+   Top duplicate groups:
+   - Value: 43.0, Unit: percentage, Year: 2024 → 8 times
+   - Value: 56.0, Unit: percentage, Year: 2024 → 8 times
+   - Value: 44.0, Unit: billions_usd, Year: 2024 → 6 times
+   - Value: 749.0, Unit: billions_usd, Year: 2024 → 6 times
+   - Value: 1.0, Unit: billions_usd, Year: 2024 → 4 times
+
+5. VALUE RANGE ANALYSIS:
+
+   general_rate:
+     percentage: min=26.00, max=56.00, mean=39.45
+
+   financial_metric:
+     billions_usd: min=1.00, max=749.00, mean=260.00
+
+   productivity_metric:
+     percentage: min=43.00, max=56.00, mean=49.50
+
+6. SAMPLE RECORDS (First 5):
+
+   Record 84:
+   - Type: general_rate
+   - Value: 32.8 percentage (2028)
+   - Context: to $749 billion at a compound annual growth rate (cagr) of 32.8% for 2023–2028.1...
+
+   Record 85:
+   - Type: general_rate
+   - Value: 56.0 percentage (2024)
+   - Context: platforms, data, and infrastructure to get the most value. 56% of organizations ...
+
+   Record 86:
+   - Type: general_rate
+   - Value: 43.0 percentage (2024)
+   - Context: th are the two most important business outcomes for ai.1 43% of leaders say prod...
+
+   Record 87:
+   - Type: general_rate
+   - Value: 26.0 percentage (2024)
+   - Context: tivity use cases are providing the greatest roi for ai.1 26% of leaders say indu...
+
+   Record 88:
+   - Type: financial_metric
+   - Value: 246.0 billions_usd (2024)
+   - Context: ing to idc, enterprises worldwide were expected to invest $246 billion* in ai so...
+
+7. DATA QUALITY ISSUES SUMMARY:
+   - 22 records with vague metric types
+   - 68 records missing sector
+   - 68 records missing region
+   - 68 records missing technology
+
+================================================================================
+SOURCE 4: ai-and-the-global-economy.pdf
+================================================================================
+
+1. BASIC STATISTICS:
+   Total records: 540
+   Unique metric types: 21
+   Year range: 2018 - 2025
+
+2. METRIC TYPE DISTRIBUTION:
+   - percentages: 150 (27.8%)
+   - general_rate: 92 (17.0%)
+   - training_metric: 56 (10.4%)
+   - adoption_metric: 48 (8.9%)
+   - adoption_rate: 42 (7.8%)
+   - employment_metric: 24 (4.4%)
+   - gdp_metric: 20 (3.7%)
+   - financial_metric: 20 (3.7%)
+   - growth_metric: 16 (3.0%)
+   - growth_rate: 10 (1.9%)
+
+3. UNIT DISTRIBUTION:
+   - percentage: 436
+   - billions_usd: 52
+   - number: 24
+   - millions_usd: 20
+   - usd: 8
+
+4. DUPLICATE ANALYSIS:
+   Records with duplicates: 540
+
+   Top duplicate groups:
+   - Value: 0.0, Unit: millions_usd, Year: 2024 → 12 times
+   - Value: 16.0, Unit: percentage, Year: 2025 → 12 times
+   - Value: 18.0, Unit: percentage, Year: 2023 → 12 times
+   - Value: 10.0, Unit: percentage, Year: 2024 → 12 times
+   - Value: 41.0, Unit: percentage, Year: 2024 → 12 times
+
+5. VALUE RANGE ANALYSIS:
+
+   percentages:
+     percentage: min=4.00, max=90.00, mean=36.89
+
+   general_rate:
+     percentage: min=0.00, max=177.00, mean=32.30
+
+   training_metric:
+     percentage: min=4.00, max=76.00, mean=19.64
+
+6. SAMPLE RECORDS (First 5):
+
+   Record 96:
+   - Type: general_rate
+   - Value: 10.0 percentage (2024)
+   - Context: ificant time savings and half report a revenue increase of 10% or more. with man...
+
+   Record 97:
+   - Type: general_rate
+   - Value: 70.0 percentage (2024)
+   - Context: inesses today are using gai for innovation and creativity (70%) than to automate...
+
+   Record 98:
+   - Type: general_rate
+   - Value: 60.0 percentage (2024)
+   - Context: ion and creativity (70%) than to automate repetitive tasks (60%) or simplify pro...
+
+   Record 99:
+   - Type: general_rate
+   - Value: 54.0 percentage (2024)
+   - Context: n to automate repetitive tasks (60%) or simplify processes (54%). business leade...
+
+   Record 100:
+   - Type: general_rate
+   - Value: 90.0 percentage (2024)
+   - Context: eing outpaced by large companies. smbs represent more than 90% of businesses and...
+
+7. DATA QUALITY ISSUES SUMMARY:
+   - 246 records with vague metric types
+   - 540 records missing sector
+   - 540 records missing region
+   - 540 records missing technology
+
+================================================================================
+SOURCE 5: AI100Report_MT_10.pdf
+================================================================================
+
+1. BASIC STATISTICS:
+   Total records: 126
+   Unique metric types: 13
+   Year range: 2016 - 2025
+
+2. METRIC TYPE DISTRIBUTION:
+   - financial_metric: 36 (28.6%)
+   - general_rate: 20 (15.9%)
+   - unknown_metric: 12 (9.5%)
+   - percentages: 10 (7.9%)
+   - dollar_amounts: 10 (7.9%)
+   - employment_metric: 8 (6.3%)
+   - cost_metric: 8 (6.3%)
+   - cost: 6 (4.8%)
+   - comparison_metrics: 4 (3.2%)
+   - revenue_metric: 4 (3.2%)
+
+3. UNIT DISTRIBUTION:
+   - billions_usd: 62
+   - percentage: 34
+   - number: 18
+   - usd: 8
+   - energy_unit: 4
+
+   WARNING: Problem units found: ['energy_unit']
+
+4. DUPLICATE ANALYSIS:
+   Records with duplicates: 126
+
+   Top duplicate groups:
+   - Value: 103.0, Unit: billions_usd, Year: 2024 → 8 times
+   - Value: 5.0, Unit: billions_usd, Year: 2021 → 6 times
+   - Value: 90.0, Unit: percentage, Year: 2016 → 6 times
+   - Value: 9.4, Unit: billions_usd, Year: 2018 → 6 times
+   - Value: 30.0, Unit: percentage, Year: 2016 → 6 times
+
+5. VALUE RANGE ANALYSIS:
+
+   financial_metric:
+     billions_usd: min=1.00, max=350.00, mean=69.10
+
+   general_rate:
+     percentage: min=2.00, max=90.00, mean=42.42
+
+   unknown_metric:
+     number: min=2021.00, max=2021.00, mean=2021.00
+     energy_unit: min=2018.00, max=2018.00, mean=2018.00
+     percentage: min=2020.00, max=2020.00, mean=2020.00
+
+6. SAMPLE RECORDS (First 5):
+
+   Record 172:
+   - Type: general_rate
+   - Value: 10.1007 percentage (2024)
+   - Context: artificial systems,” https://link.springer.com/content/ pdf/10.1007%2f978-3-642-...
+
+   Record 173:
+   - Type: general_rate
+   - Value: 2.0 percentage (2024)
+   - Context: ational-artifical-intelligence-strategies-and-human-rights%e2%80%94a-review_.pdf...
+
+   Record 174:
+   - Type: general_rate
+   - Value: 80.0 percentage (2024)
+   - Context: ional-artifical-intelligence-strategies-and-human-rights%e2%80%94a-review_.pdf 1...
+
+   Record 175:
+   - Type: general_rate
+   - Value: 30.0 percentage (2016)
+   - Context: mine if another car is in your blindspot were available in 30% of new cars in 20...
+
+   Record 176:
+   - Type: general_rate
+   - Value: 90.0 percentage (2016)
+   - Context: dspot were available in 30% of new cars in 2016 but are in 90% today. page 20 “s...
+
+7. DATA QUALITY ISSUES SUMMARY:
+   - 42 records with vague metric types
+   - 126 records missing sector
+   - 126 records missing region
+   - 126 records missing technology
+   - 4 percentage values outside normal range
+
+================================================================================
+SOURCE 6: Assessing the Impact of Artificial Intelligence Tools on Employee.pdf
+================================================================================
+
+1. BASIC STATISTICS:
+   Total records: 374
+   Unique metric types: 16
+   Year range: 2018 - 2030
+
+2. METRIC TYPE DISTRIBUTION:
+   - percentages: 176 (47.1%)
+   - general_rate: 120 (32.1%)
+   - training_metric: 12 (3.2%)
+   - productivity: 10 (2.7%)
+   - revenue_metric: 8 (2.1%)
+   - energy_metric: 8 (2.1%)
+   - adoption_rate: 6 (1.6%)
+   - unknown_metric: 4 (1.1%)
+   - labor_metric: 4 (1.1%)
+   - financial_metric: 4 (1.1%)
+
+3. UNIT DISTRIBUTION:
+   - percentage: 348
+   - billions_usd: 12
+   - number: 8
+   - millions_usd: 4
+   - usd: 2
+
+4. DUPLICATE ANALYSIS:
+   Records with duplicates: 374
+
+   Top duplicate groups:
+   - Value: 0.0, Unit: percentage, Year: 2024 → 12 times
+   - Value: 4.29, Unit: percentage, Year: 2025 → 12 times
+   - Value: 6.8, Unit: percentage, Year: 2024 → 8 times
+   - Value: 8.0, Unit: percentage, Year: 2024 → 8 times
+   - Value: 80.0, Unit: percentage, Year: 2024 → 8 times
+
+5. VALUE RANGE ANALYSIS:
+
+   percentages:
+     percentage: min=0.00, max=126.00, mean=24.92
+
+   general_rate:
+     percentage: min=0.00, max=126.00, mean=26.57
+
+   training_metric:
+     billions_usd: min=1.00, max=10.00, mean=5.50
+     percentage: min=0.00, max=0.00, mean=0.00
+
+6. SAMPLE RECORDS (First 5):
+
+   Record 195:
+   - Type: general_rate
+   - Value: 33.0 percentage (2024)
+   - Context: [7] argue that ai could increase aggregate productivity by 33% over 20 years thr...
+
+   Record 196:
+   - Type: general_rate
+   - Value: 8.0 percentage (2024)
+   - Context: german firms introducing new products or processes by about 8%. babina et al. [1...
+
+   Record 197:
+   - Type: general_rate
+   - Value: 6.8 percentage (2024)
+   - Context: ease in sales per worker. conversely, ref. [20] estimated a 6.8% increase in sal...
+
+   Record 198:
+   - Type: general_rate
+   - Value: 4.4 percentage (2024)
+   - Context: innovating in ai technologies, while [5] put this number at 4.4%. 2.2. measureme...
+
+   Record 199:
+   - Type: general_rate
+   - Value: 13.8 percentage (2024)
+   - Context: customer service, with ai-assisted support agents handling 13.8% more inquiries ...
+
+7. DATA QUALITY ISSUES SUMMARY:
+   - 300 records with vague metric types
+   - 374 records missing sector
+   - 374 records missing region
+   - 374 records missing technology
+
+================================================================================
+SOURCE 7: cost-benefit-analysis-artificial-intelligence-evidence-from-a-field-experiment-on-gpt-4o-1.pdf
+================================================================================
+
+1. BASIC STATISTICS:
+   Total records: 2472
+   Unique metric types: 17
+   Year range: 2014 - 2025
+
+2. METRIC TYPE DISTRIBUTION:
+   - general_rate: 2104 (85.1%)
+   - percentages: 170 (6.9%)
+   - labor_metrics: 58 (2.3%)
+   - employment_metric: 28 (1.1%)
+   - revenue_metric: 20 (0.8%)
+   - labor_metric: 12 (0.5%)
+   - unknown_metric: 12 (0.5%)
+   - employment: 10 (0.4%)
+   - adoption_rate: 10 (0.4%)
+   - investment: 10 (0.4%)
+
+3. UNIT DISTRIBUTION:
+   - percentage: 2344
+   - number: 76
+   - millions_usd: 28
+   - billions_usd: 20
+   - energy_unit: 4
+
+   WARNING: Problem units found: ['energy_unit']
+
+4. DUPLICATE ANALYSIS:
+   Records with duplicates: 2472
+
+   Top duplicate groups:
+   - Value: 0.0, Unit: percentage, Year: 2024 → 1976 times
+   - Value: 250.0, Unit: number, Year: 2025 → 22 times
+   - Value: 0.0, Unit: percentage, Year: 2020 → 16 times
+   - Value: 249.0, Unit: number, Year: 2025 → 14 times
+   - Value: 9.0, Unit: percentage, Year: 2022 → 8 times
+
+5. VALUE RANGE ANALYSIS:
+
+   general_rate:
+     percentage: min=0.00, max=100.00, mean=1.27
+
+   percentages:
+     percentage: min=1.90, max=87.00, mean=39.70
+
+   labor_metrics:
+     number: min=49.00, max=999.00, mean=327.07
+
+6. SAMPLE RECORDS (First 5):
+
+   Record 237:
+   - Type: general_rate
+   - Value: 47.0 percentage (2024)
+   - Context: ty of computation of over 700 occupations, concluding that 47% of total us emplo...
+
+   Record 238:
+   - Type: general_rate
+   - Value: 9.0 percentage (2022)
+   - Context: upations and conclude that across 21 oecd countries, around 9% of jobs are autom...
+
+   Record 239:
+   - Type: general_rate
+   - Value: 28.0 percentage (2024)
+   - Context: ccupations at highest risk of automation account for about 28% of jobs. more rec...
+
+   Record 240:
+   - Type: general_rate
+   - Value: 40.0 percentage (2024)
+   - Context: ts or replaces job roles. the authors conclude that almost 40% of global employm...
+
+   Record 241:
+   - Type: general_rate
+   - Value: 60.0 percentage (2024)
+   - Context: 40% of global employment is exposed to ai, rising to around 60% of jobs in advan...
+
+7. DATA QUALITY ISSUES SUMMARY:
+   - 2286 records with vague metric types
+   - 2472 records missing sector
+   - 2472 records missing region
+   - 2472 records missing technology
+   - 4 percentage values outside normal range
+
+================================================================================
+SOURCE 8: Exploring artificial intelligence adoption in public organizations  a comparative case study.pdf
+================================================================================
+
+1. BASIC STATISTICS:
+   Total records: 20
+   Unique metric types: 3
+   Year range: 2015 - 2025
+
+2. METRIC TYPE DISTRIBUTION:
+   - employment_metric: 8 (40.0%)
+   - unknown_metric: 8 (40.0%)
+   - labor_metrics: 4 (20.0%)
+
+3. UNIT DISTRIBUTION:
+   - millions_usd: 8
+   - number: 8
+   - co2_emissions: 4
+
+4. DUPLICATE ANALYSIS:
+   Records with duplicates: 20
+
+   Top duplicate groups:
+   - Value: 0.0, Unit: millions_usd, Year: 2024 → 8 times
+   - Value: 0.0, Unit: number, Year: 2025 → 4 times
+   - Value: 2015.0, Unit: co2_emissions, Year: 2015 → 4 times
+   - Value: 2024.0, Unit: number, Year: 2024 → 4 times
+
+5. VALUE RANGE ANALYSIS:
+
+   employment_metric:
+     millions_usd: min=0.00, max=0.00, mean=0.00
+
+   unknown_metric:
+     number: min=2024.00, max=2024.00, mean=2024.00
+     co2_emissions: min=2015.00, max=2015.00, mean=2015.00
+
+   labor_metrics:
+     number: min=0.00, max=0.00, mean=0.00
+
+6. SAMPLE RECORDS (First 5):
+
+   Record 787:
+   - Type: employment_metric
+   - Value: 0.0 millions_usd (2024)
+   - Context: nal tier of government with over 1,000 (case c) and over 4,000 employees (case d...
+
+   Record 788:
+   - Type: employment_metric
+   - Value: 0.0 millions_usd (2024)
+   - Context: administrations, g being a larger municipality with over 5,000 employees while h...
+
+   Record 789:
+   - Type: unknown_metric
+   - Value: 2024.0 number (2024)
+   - Context: article: oliver neumann, katharina guirguis & reto steiner (2024) exploring arti...
+
+   Record 790:
+   - Type: unknown_metric
+   - Value: 2015.0 co2_emissions (2015)
+   - Context: such as the ‘not-invented-here syndrome’ (antons and piller 2015) and tech­ nolo...
+
+   Record 5239:
+   - Type: employment_metric
+   - Value: 0.0 millions_usd (2024)
+   - Context: nal tier of government with over 1,000 (case c) and over 4,000 employees (case d...
+
+7. DATA QUALITY ISSUES SUMMARY:
+   - 8 records with vague metric types
+   - 20 records missing sector
+   - 20 records missing region
+   - 20 records missing technology
+
+================================================================================
+SOURCE 9: GenAi and the Nature of Work.pdf
+================================================================================
+
+1. BASIC STATISTICS:
+   Total records: 240
+   Unique metric types: 8
+   Year range: 2022 - 2025
+
+2. METRIC TYPE DISTRIBUTION:
+   - general_rate: 84 (35.0%)
+   - percentages: 82 (34.2%)
+   - financial_metric: 28 (11.7%)
+   - dollar_amounts: 16 (6.7%)
+   - growth_rate: 14 (5.8%)
+   - adoption_rate: 8 (3.3%)
+   - gdp_metric: 4 (1.7%)
+   - unknown_metric: 4 (1.7%)
+
+3. UNIT DISTRIBUTION:
+   - percentage: 188
+   - billions_usd: 28
+   - usd: 18
+   - number: 4
+   - millions_usd: 2
+
+4. DUPLICATE ANALYSIS:
+   Records with duplicates: 240
+
+   Top duplicate groups:
+   - Value: 10.0, Unit: percentage, Year: 2025 → 14 times
+   - Value: 20.0, Unit: percentage, Year: 2025 → 8 times
+   - Value: 0.0, Unit: percentage, Year: 2024 → 8 times
+   - Value: 30.0, Unit: percentage, Year: 2025 → 8 times
+   - Value: 7.0, Unit: percentage, Year: 2023 → 6 times
+
+5. VALUE RANGE ANALYSIS:
+
+   general_rate:
+     percentage: min=0.00, max=321.00, mean=49.69
+
+   percentages:
+     percentage: min=0.00, max=321.00, mean=43.19
+
+   financial_metric:
+     billions_usd: min=0.00, max=468.00, mean=102.43
+
+6. SAMPLE RECORDS (First 5):
+
+   Record 791:
+   - Type: general_rate
+   - Value: 96.0 percentage (2024)
+   - Context: gly critical part of the modern economy, to the point where 96% of corporate cod...
+
+   Record 792:
+   - Type: general_rate
+   - Value: 78.81 percentage (2024)
+   - Context: he engagement platform 6sense, github had a market share of 78.81% on march 18, ...
+
+   Record 793:
+   - Type: general_rate
+   - Value: 16.0 percentage (2024)
+   - Context: eloper uses copilot for approximately 8 days and on average 16% of the top devel...
+
+   Record 794:
+   - Type: general_rate
+   - Value: 3.0 percentage (2023)
+   - Context: june 2023. during each week, usage is relatively low, with 3% weekly exposure an...
+
+   Record 795:
+   - Type: general_rate
+   - Value: 44.0 percentage (2024)
+   - Context: re- sponse to ai adoption. the average developer allocates 44% of their engageme...
+
+7. DATA QUALITY ISSUES SUMMARY:
+   - 170 records with vague metric types
+   - 240 records missing sector
+   - 240 records missing region
+   - 240 records missing technology
+   - 16 percentage values outside normal range
+
+================================================================================
+SOURCE 10: Generative AI at Work.pdf
+================================================================================
+
+1. BASIC STATISTICS:
+   Total records: 298
+   Unique metric types: 15
+   Year range: 2018 - 2025
+
+2. METRIC TYPE DISTRIBUTION:
+   - general_rate: 76 (25.5%)
+   - percentages: 74 (24.8%)
+   - cost_metric: 24 (8.1%)
+   - tokens_metric: 20 (6.7%)
+   - impact_metrics: 16 (5.4%)
+   - financial_metric: 16 (5.4%)
+   - productivity: 14 (4.7%)
+   - cost: 14 (4.7%)
+   - employment: 12 (4.0%)
+   - growth_rate: 12 (4.0%)
+
+3. UNIT DISTRIBUTION:
+   - percentage: 216
+   - billions_usd: 60
+   - number: 14
+   - millions_usd: 4
+   - usd: 4
+
+4. DUPLICATE ANALYSIS:
+   Records with duplicates: 298
+
+   Top duplicate groups:
+   - Value: 15.0, Unit: percentage, Year: 2025 → 18 times
+   - Value: 5.0, Unit: billions_usd, Year: 2024 → 12 times
+   - Value: 15.0, Unit: percentage, Year: 2024 → 12 times
+   - Value: 300.0, Unit: billions_usd, Year: 2024 → 12 times
+   - Value: 25.0, Unit: percentage, Year: 2025 → 10 times
+
+5. VALUE RANGE ANALYSIS:
+
+   general_rate:
+     percentage: min=1.00, max=100.00, mean=35.97
+
+   percentages:
+     percentage: min=5.00, max=100.00, mean=33.69
+
+   cost_metric:
+     billions_usd: min=3.00, max=300.00, mean=109.60
+     percentage: min=60.00, max=60.00, mean=60.00
+
+6. SAMPLE RECORDS (First 5):
+
+   Record 821:
+   - Type: general_rate
+   - Value: 15.0 percentage (2024)
+   - Context: r productivity, as measured by issues resolved per hour, by 15% on average, with...
+
+   Record 822:
+   - Type: general_rate
+   - Value: 30.0 percentage (2024)
+   - Context: gniﬁ- cantly across all productivity measures, including a 30% increase in the n...
+
+   Record 823:
+   - Type: general_rate
+   - Value: 5.0 percentage (2024)
+   - Context: r-rich routes to taxi drivers reduces their search time by 5%, with the least ex...
+
+   Record 824:
+   - Type: general_rate
+   - Value: 60.0 percentage (2024)
+   - Context: ctive. turnover is high: industry estimates sug- gest that 60% of agents in cont...
+
+   Record 825:
+   - Type: general_rate
+   - Value: 20.0 percentage (2024)
+   - Context: rviewed esti- mated that performance bonuses accounted for 20% to 40% of a typic...
+
+7. DATA QUALITY ISSUES SUMMARY:
+   - 154 records with vague metric types
+   - 298 records missing sector
+   - 298 records missing region
+   - 298 records missing technology
+
+================================================================================
+SOURCE 11: gs-new-decade-begins.pdf
+================================================================================
+
+1. BASIC STATISTICS:
+   Total records: 162
+   Unique metric types: 13
+   Year range: 2023 - 2025
+
+2. METRIC TYPE DISTRIBUTION:
+   - percentages: 50 (30.9%)
+   - general_rate: 44 (27.2%)
+   - financial_metric: 12 (7.4%)
+   - labor_metric: 12 (7.4%)
+   - gdp_metric: 8 (4.9%)
+   - energy_metric: 8 (4.9%)
+   - productivity_metric: 8 (4.9%)
+   - unknown_metric: 4 (2.5%)
+   - revenue_metric: 4 (2.5%)
+   - employment: 4 (2.5%)
+
+3. UNIT DISTRIBUTION:
+   - percentage: 136
+   - billions_usd: 20
+   - number: 4
+   - usd: 2
+
+4. DUPLICATE ANALYSIS:
+   Records with duplicates: 162
+
+   Top duplicate groups:
+   - Value: 7.0, Unit: percentage, Year: 2025 → 22 times
+   - Value: 2.0, Unit: percentage, Year: 2024 → 16 times
+   - Value: 7.0, Unit: percentage, Year: 2024 → 12 times
+   - Value: 7.0, Unit: percentage, Year: 2023 → 10 times
+   - Value: 0.0, Unit: percentage, Year: 2024 → 8 times
+
+5. VALUE RANGE ANALYSIS:
+
+   percentages:
+     percentage: min=0.00, max=80.00, mean=25.48
+
+   general_rate:
+     percentage: min=0.00, max=85.00, mean=33.82
+
+   financial_metric:
+     billions_usd: min=7.00, max=685.00, mean=280.67
+
+6. SAMPLE RECORDS (First 5):
+
+   Record 864:
+   - Type: general_rate
+   - Value: 7.0 percentage (2023)
+   - Context: ficial intelligence generative ai could raise global gdp by 7% apr 5, 2023 share...
+
+   Record 865:
+   - Type: general_rate
+   - Value: 60.0 percentage (2024)
+   - Context: udy by economist david autor cited in the report found that 60% of today’s worke...
+
+   Record 866:
+   - Type: general_rate
+   - Value: 85.0 percentage (2024)
+   - Context: ions that didn’t exist in 1940. this implies that more than 85% of employment gr...
+
+   Record 867:
+   - Type: general_rate
+   - Value: 0.0 percentage (2024)
+   - Context: share of occupational workload exposed to automation by ai 0% 80% 70% 60% 50% 40...
+
+   Record 868:
+   - Type: general_rate
+   - Value: 70.0 percentage (2024)
+   - Context: of occupational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% ...
+
+7. DATA QUALITY ISSUES SUMMARY:
+   - 98 records with vague metric types
+   - 162 records missing sector
+   - 162 records missing region
+   - 162 records missing technology
+
+================================================================================
+SOURCE 12: hai_ai_index_report_2025.pdf
+================================================================================
+
+1. BASIC STATISTICS:
+   Total records: 458
+   Unique metric types: 13
+   Year range: 2013 - 2026
+
+2. METRIC TYPE DISTRIBUTION:
+   - percentages: 146 (31.9%)
+   - investment: 106 (23.1%)
+   - dollar_amounts: 70 (15.3%)
+   - cost: 46 (10.0%)
+   - growth_rate: 34 (7.4%)
+   - revenue: 16 (3.5%)
+   - adoption_rate: 12 (2.6%)
+   - token_metrics: 8 (1.7%)
+   - growth_rates: 6 (1.3%)
+   - carbon_emissions: 4 (0.9%)
+
+3. UNIT DISTRIBUTION:
+   - percentage: 234
+   - billions_usd: 126
+   - millions_usd: 42
+   - usd: 36
+   - number: 16
+   - unknown: 4
+
+   WARNING: Problem units found: ['unknown']
+
+4. DUPLICATE ANALYSIS:
+   Records with duplicates: 458
+
+   Top duplicate groups:
+   - Value: 40.0, Unit: percentage, Year: 2025 → 12 times
+   - Value: 8.0, Unit: percentage, Year: 2025 → 8 times
+   - Value: 28.8, Unit: percentage, Year: 2023 → 8 times
+   - Value: 10.0, Unit: percentage, Year: 2025 → 6 times
+   - Value: 0.07, Unit: usd, Year: 2022 → 6 times
+
+5. VALUE RANGE ANALYSIS:
+
+   percentages:
+     percentage: min=0.70, max=585.00, mean=46.36
+
+   investment:
+     billions_usd: min=1.00, max=252.30, mean=60.95
+     millions_usd: min=1.50, max=675.00, mean=348.17
+     percentage: min=12.10, max=44.50, mean=27.80
+
+   dollar_amounts:
+     billions_usd: min=1.25, max=117.00, mean=25.44
+     usd: min=0.07, max=200.00, mean=33.02
+     millions_usd: min=25.00, max=665.00, mean=416.78
+
+6. SAMPLE RECORDS (First 5):
+
+   Record 889:
+   - Type: investment
+   - Value: 252.3 billions_usd (2025)
+   - Context: nan
+
+   Record 890:
+   - Type: carbon_emissions
+   - Value: 0.01 unknown (2025)
+   - Context: nan
+
+   Record 5497:
+   - Type: investment
+   - Value: 252.3 billions_usd (2025)
+   - Context: nan
+
+   Record 5498:
+   - Type: carbon_emissions
+   - Value: 0.01 unknown (2025)
+   - Context: nan
+
+   Record 5499:
+   - Type: investment
+   - Value: 18.7 percentage (2023)
+   - Context: attracting $33.9 billion globally in private investment—an 18.7% increase from 2...
+
+7. DATA QUALITY ISSUES SUMMARY:
+   - 146 records with vague metric types
+   - 458 records missing sector
+   - 458 records missing region
+   - 458 records missing technology
+   - 2 percentage values outside normal range
+
+================================================================================
+SOURCE 13: Mapping-AI-readiness-final.pdf
+================================================================================
+
+1. BASIC STATISTICS:
+   Total records: 474
+   Unique metric types: 15
+   Year range: 2010 - 2027
+
+2. METRIC TYPE DISTRIBUTION:
+   - general_rate: 124 (26.2%)
+   - percentages: 92 (19.4%)
+   - employment: 72 (15.2%)
+   - financial_metric: 60 (12.7%)
+   - dollar_amounts: 42 (8.9%)
+   - investment: 28 (5.9%)
+   - adoption_rate: 14 (3.0%)
+   - employment_metric: 8 (1.7%)
+   - growth_rate: 8 (1.7%)
+   - cost: 6 (1.3%)
+
+3. UNIT DISTRIBUTION:
+   - percentage: 328
+   - billions_usd: 86
+   - millions_usd: 36
+   - number: 16
+   - usd: 8
+
+4. DUPLICATE ANALYSIS:
+   Records with duplicates: 474
+
+   Top duplicate groups:
+   - Value: 4.0, Unit: percentage, Year: 2025 → 14 times
+   - Value: 10.0, Unit: billions_usd, Year: 2024 → 10 times
+   - Value: 11.0, Unit: percentage, Year: 2025 → 8 times
+   - Value: 5.0, Unit: billions_usd, Year: 2024 → 8 times
+   - Value: 28.5, Unit: percentage, Year: 2025 → 6 times
+
+5. VALUE RANGE ANALYSIS:
+
+   general_rate:
+     percentage: min=0.10, max=800.00, mean=57.65
+
+   percentages:
+     percentage: min=1.00, max=250.00, mean=24.45
+
+   employment:
+     percentage: min=1.00, max=800.00, mean=57.10
+     number: min=0.00, max=19.00, mean=9.50
+
+6. SAMPLE RECORDS (First 5):
+
+   Record 891:
+   - Type: general_rate
+   - Value: 28.5 percentage (2025)
+   - Context: nd 2025, ai-related job postings grew at an annual rate of 28.5%, yet still comp...
+
+   Record 892:
+   - Type: general_rate
+   - Value: 2.5 percentage (2024)
+   - Context: w at an annual rate of 28.5%, yet still comprise only about 2.5% of all u.s. job...
+
+   Record 893:
+   - Type: general_rate
+   - Value: 13.0 percentage (2024)
+   - Context: nings. • extreme concentration. the bay area accounts for 13% of national job po...
+
+   Record 894:
+   - Type: general_rate
+   - Value: 67.0 percentage (2024)
+   - Context: hubs, this group of 30 top- performing metro areas captures 67% of total ai job ...
+
+   Record 895:
+   - Type: general_rate
+   - Value: 25.0 percentage (2024)
+   - Context: ions greater than 250,000 in each pillar. those in the top 25% on a pillar earn ...
+
+7. DATA QUALITY ISSUES SUMMARY:
+   - 220 records with vague metric types
+   - 474 records missing sector
+   - 474 records missing region
+   - 474 records missing technology
+   - 14 percentage values outside normal range
+
+================================================================================
+SOURCE 14: nvidia-cost-trends-ai-inference-at-scale.pdf
+================================================================================
+
+1. BASIC STATISTICS:
+   Total records: 38
+   Unique metric types: 7
+   Year range: 2024 - 2025
+
+2. METRIC TYPE DISTRIBUTION:
+   - cost_metric: 8 (21.1%)
+   - comparison_metrics: 8 (21.1%)
+   - revenue_metric: 8 (21.1%)
+   - unknown_metric: 4 (10.5%)
+   - general_rate: 4 (10.5%)
+   - tokens_metric: 4 (10.5%)
+   - percentages: 2 (5.3%)
+
+3. UNIT DISTRIBUTION:
+   - multiple: 16
+   - number: 12
+   - percentage: 6
+   - billions_usd: 4
+
+   WARNING: Problem units found: ['multiple']
+
+4. DUPLICATE ANALYSIS:
+   Records with duplicates: 38
+
+   Top duplicate groups:
+   - Value: 20.0, Unit: multiple, Year: 2024 → 8 times
+   - Value: 25.0, Unit: multiple, Year: 2024 → 8 times
+   - Value: 6.0, Unit: billions_usd, Year: 2024 → 4 times
+   - Value: 25.0, Unit: number, Year: 2024 → 4 times
+   - Value: 40.0, Unit: percentage, Year: 2024 → 4 times
+
+5. VALUE RANGE ANALYSIS:
+
+   cost_metric:
+     multiple: min=20.00, max=25.00, mean=22.50
+
+   comparison_metrics:
+     number: min=25.00, max=100.00, mean=62.50
+
+   revenue_metric:
+     multiple: min=20.00, max=25.00, mean=22.50
+
+6. SAMPLE RECORDS (First 5):
+
+   Record 944:
+   - Type: general_rate
+   - Value: 40.0 percentage (2024)
+   - Context: partner to advance germany’s sovereign ai turn rtx on with 40% off performance d...
+
+   Record 945:
+   - Type: unknown_metric
+   - Value: 2025.0 number (2025)
+   - Context: e, enabling prediction, generation and reasoning. march 17, 2025 by dave salvato...
+
+   Record 946:
+   - Type: cost_metric
+   - Value: 20.0 multiple (2024)
+   - Context: In one case,
+integrating software optimizations and adopting the latest generati...
+
+   Record 947:
+   - Type: cost_metric
+   - Value: 25.0 multiple (2024)
+   - Context: In one case,
+integrating software optimizations and adopting the latest generati...
+
+   Record 948:
+   - Type: revenue_metric
+   - Value: 20.0 multiple (2024)
+   - Context: In one case,
+integrating software optimizations and adopting the latest generati...
+
+7. DATA QUALITY ISSUES SUMMARY:
+   - 10 records with vague metric types
+   - 38 records missing sector
+   - 38 records missing region
+   - 38 records missing technology
+
+================================================================================
+SOURCE 15: the-economic-impact-of-large-language-models.pdf
+================================================================================
+
+1. BASIC STATISTICS:
+   Total records: 272
+   Unique metric types: 14
+   Year range: 2019 - 2025
+
+2. METRIC TYPE DISTRIBUTION:
+   - general_rate: 76 (27.9%)
+   - percentages: 54 (19.9%)
+   - employment: 50 (18.4%)
+   - dollar_amounts: 26 (9.6%)
+   - financial_metric: 24 (8.8%)
+   - labor_metric: 12 (4.4%)
+   - growth_rate: 6 (2.2%)
+   - cost_metric: 4 (1.5%)
+   - employment_metric: 4 (1.5%)
+   - unknown_metric: 4 (1.5%)
+
+3. UNIT DISTRIBUTION:
+   - percentage: 188
+   - usd: 42
+   - billions_usd: 32
+   - number: 10
+
+4. DUPLICATE ANALYSIS:
+   Records with duplicates: 272
+
+   Top duplicate groups:
+   - Value: 50.0, Unit: percentage, Year: 2025 → 16 times
+   - Value: 50.0, Unit: percentage, Year: 2024 → 12 times
+   - Value: 3.0, Unit: billions_usd, Year: 2024 → 8 times
+   - Value: 19.0, Unit: percentage, Year: 2024 → 8 times
+   - Value: 10.0, Unit: percentage, Year: 2024 → 8 times
+
+5. VALUE RANGE ANALYSIS:
+
+   general_rate:
+     percentage: min=0.00, max=91.10, mean=29.63
+
+   percentages:
+     percentage: min=1.00, max=91.10, mean=50.06
+
+   employment:
+     percentage: min=0.00, max=80.00, mean=28.37
+     usd: min=30.00, max=80.00, mean=44.50
+     number: min=0.00, max=0.00, mean=0.00
+
+6. SAMPLE RECORDS (First 5):
+
+   Record 953:
+   - Type: general_rate
+   - Value: 80.0 percentage (2024)
+   - Context: and gpt-4 classifications. our findings reveal that around 80% of the u.s. workf...
+
+   Record 954:
+   - Type: general_rate
+   - Value: 10.0 percentage (2024)
+   - Context: l that around 80% of the u.s. workforce could have at least 10% of their work ta...
+
+   Record 955:
+   - Type: general_rate
+   - Value: 19.0 percentage (2024)
+   - Context: affected by the intro- duction of llms, while approximately 19% of workers may s...
+
+   Record 956:
+   - Type: general_rate
+   - Value: 50.0 percentage (2024)
+   - Context: f llms, while approximately 19% of workers may see at least 50% of their tasks i...
+
+   Record 957:
+   - Type: general_rate
+   - Value: 15.0 percentage (2024)
+   - Context: h. our analysis suggests that, with access to an llm, about 15% of all worker ta...
+
+7. DATA QUALITY ISSUES SUMMARY:
+   - 134 records with vague metric types
+   - 272 records missing sector
+   - 272 records missing region
+   - 272 records missing technology
+
+================================================================================
+SOURCE 16: wpiea2024231-print-pdf.pdf
+================================================================================
+
+1. BASIC STATISTICS:
+   Total records: 244
+   Unique metric types: 12
+   Year range: 2010 - 2030
+
+2. METRIC TYPE DISTRIBUTION:
+   - general_rate: 76 (31.1%)
+   - percentages: 52 (21.3%)
+   - employment: 36 (14.8%)
+   - training_metric: 24 (9.8%)
+   - labor_metric: 16 (6.6%)
+   - unknown_metric: 12 (4.9%)
+   - revenue: 10 (4.1%)
+   - employment_metric: 4 (1.6%)
+   - revenue_metric: 4 (1.6%)
+   - energy_metric: 4 (1.6%)
+
+3. UNIT DISTRIBUTION:
+   - percentage: 222
+   - billions_usd: 8
+   - number: 6
+   - millions_usd: 4
+   - energy_unit: 4
+
+   WARNING: Problem units found: ['energy_unit']
+
+4. DUPLICATE ANALYSIS:
+   Records with duplicates: 244
+
+   Top duplicate groups:
+   - Value: 80.0, Unit: percentage, Year: 2023 → 10 times
+   - Value: 2.0, Unit: percentage, Year: 2024 → 8 times
+   - Value: 10.0, Unit: percentage, Year: 2025 → 8 times
+   - Value: 8.0, Unit: percentage, Year: 2024 → 8 times
+   - Value: 4.0, Unit: percentage, Year: 2024 → 8 times
+
+5. VALUE RANGE ANALYSIS:
+
+   general_rate:
+     percentage: min=0.40, max=98.00, mean=21.23
+
+   percentages:
+     percentage: min=0.40, max=98.00, mean=23.52
+
+   employment:
+     percentage: min=2.00, max=50.00, mean=17.08
+     number: min=11.30, max=11.30, mean=11.30
+
+6. SAMPLE RECORDS (First 5):
+
+   Record 986:
+   - Type: general_rate
+   - Value: 6.8 percentage (2024)
+   - Context: pting firms may see sales per worker increase between 0 and 6.8%. in this discus...
+
+   Record 987:
+   - Type: general_rate
+   - Value: 50.0 percentage (2024)
+   - Context: effects. when applied to the data, this framework explains 50% of the labor shar...
+
+   Record 988:
+   - Type: general_rate
+   - Value: 10.0 percentage (2024)
+   - Context: stimates that ai could reduce 90:10 wage inequality by 5 to 10%. this finding is...
+
+   Record 989:
+   - Type: general_rate
+   - Value: 80.0 percentage (2023)
+   - Context: mage generation. eloundou et al. (2023) estimate that up to 80% of us workforce ...
+
+   Record 990:
+   - Type: general_rate
+   - Value: 19.0 percentage (2024)
+   - Context: rkforce could have at least 10% of their tasks replaced and 19% of workers stand...
+
+7. DATA QUALITY ISSUES SUMMARY:
+   - 140 records with vague metric types
+   - 244 records missing sector
+   - 244 records missing region
+   - 244 records missing technology
+   - 4 percentage values outside normal range
+
+================================================================================
+SOURCE 17: Acemoglu_Macroeconomics-of-AI_May-2024.pdf
+================================================================================
+
+1. BASIC STATISTICS:
+   Total records: 5356
+   Unique metric types: 36
+   Year range: 2010 - 2030
+
+2. METRIC TYPE DISTRIBUTION:
+   - percentages: 1754 (32.7%)
+   - general_rate: 1512 (28.2%)
+   - dollar_amounts: 282 (5.3%)
+   - growth_rate: 280 (5.2%)
+   - employment: 208 (3.9%)
+   - cost: 196 (3.7%)
+   - investment: 176 (3.3%)
+   - adoption_rate: 150 (2.8%)
+   - financial_metric: 120 (2.2%)
+   - productivity: 98 (1.8%)
+
+3. UNIT DISTRIBUTION:
+   - percentage: 4404
+   - billions_usd: 382
+   - usd: 252
+   - number: 182
+   - millions_usd: 116
+   - energy_unit: 8
+   - multiple: 8
+   - co2_emissions: 2
+   - unknown: 2
+
+   WARNING: Problem units found: ['energy_unit', 'unknown', 'multiple']
+
+4. DUPLICATE ANALYSIS:
+   Records with duplicates: 5356
+
+   Top duplicate groups:
+   - Value: 0.0, Unit: percentage, Year: 2024 → 1014 times
+   - Value: 10.0, Unit: percentage, Year: 2025 → 110 times
+   - Value: 20.0, Unit: percentage, Year: 2025 → 74 times
+   - Value: 50.0, Unit: percentage, Year: 2025 → 68 times
+   - Value: 40.0, Unit: percentage, Year: 2025 → 64 times
+
+5. VALUE RANGE ANALYSIS:
+
+   percentages:
+     percentage: min=0.00, max=585.00, mean=34.06
+
+   general_rate:
+     percentage: min=0.00, max=800.00, mean=11.69
+
+   dollar_amounts:
+     usd: min=0.00, max=200.00, mean=38.45
+     billions_usd: min=1.25, max=837.00, mean=128.21
+     millions_usd: min=1.50, max=665.00, mean=177.87
+
+6. SAMPLE RECORDS (First 5):
+
+   Record 1021:
+   - Type: productivity
+   - Value: 0.66 percentage (2025)
+   - Context: conomic effects appear nontrivial but modest—no more than a 0.66% increase in to...
+
+   Record 1022:
+   - Type: percentages
+   - Value: 0.53 percentage (2025)
+   - Context: ears are even more modest and are predicted to be less than 0.53%. I also explor...
+
+   Record 1023:
+   - Type: growth_rate
+   - Value: 7.0 percentage (2023)
+   - Context: dict big effects on output. Goldman Sachs (2023) predicts a 7% increase in globa...
+
+   Record 1024:
+   - Type: productivity
+   - Value: 1.5 percentage (2025)
+   - Context: 7% increase in global GDP, equivalent to $7 trillion, and a 1.5% per annum incre...
+
+   Record 1025:
+   - Type: growth_rate
+   - Value: 100.0 percentage (2024)
+   - Context: 1Korinek and Suh (2024) predict a “baseline” GDP growth of 100% over the next 10...
+
+7. DATA QUALITY ISSUES SUMMARY:
+   - 3312 records with vague metric types
+   - 5356 records missing sector
+   - 5356 records missing region
+   - 5356 records missing technology
+   - 34 percentage values outside normal range
+
+================================================================================
+SOURCE 18: Artificial Intelligence, Scientific Discovery, and Product Innovation.pdf
+================================================================================
+
+1. BASIC STATISTICS:
+   Total records: 202
+   Unique metric types: 6
+   Year range: 2016 - 2025
+
+2. METRIC TYPE DISTRIBUTION:
+   - percentages: 148 (73.3%)
+   - growth_rate: 24 (11.9%)
+   - productivity: 12 (5.9%)
+   - adoption_rate: 12 (5.9%)
+   - cost: 4 (2.0%)
+   - growth_rates: 2 (1.0%)
+
+3. UNIT DISTRIBUTION:
+   - percentage: 202
+
+4. DUPLICATE ANALYSIS:
+   Records with duplicates: 202
+
+   Top duplicate groups:
+   - Value: 10.0, Unit: percentage, Year: 2025 → 18 times
+   - Value: 95.0, Unit: percentage, Year: 2025 → 16 times
+   - Value: 44.0, Unit: percentage, Year: 2025 → 12 times
+   - Value: 39.0, Unit: percentage, Year: 2025 → 10 times
+   - Value: 5.0, Unit: percentage, Year: 2025 → 6 times
+
+5. VALUE RANGE ANALYSIS:
+
+   percentages:
+     percentage: min=1.00, max=95.00, mean=39.62
+
+   growth_rate:
+     percentage: min=13.00, max=81.00, mean=42.08
+
+   productivity:
+     percentage: min=1.00, max=95.00, mean=47.67
+
+6. SAMPLE RECORDS (First 5):
+
+   Record 4248:
+   - Type: growth_rate
+   - Value: 44.0 percentage (2025)
+   - Context: lab of a large U.S. firm. AI-assisted researchers discover 44% more materials, r...
+
+   Record 4249:
+   - Type: growth_rate
+   - Value: 39.0 percentage (2025)
+   - Context: ted researchers discover 44% more materials, resulting in a 39% increase in pate...
+
+   Record 4250:
+   - Type: growth_rate
+   - Value: 17.0 percentage (2025)
+   - Context: erials, resulting in a 39% increase in patent filings and a 17% rise in downstre...
+
+   Record 4251:
+   - Type: percentages
+   - Value: 57.0 percentage (2025)
+   - Context: e mechanisms behind these results, I show that AI automates 57% of “idea-generat...
+
+   Record 4252:
+   - Type: cost
+   - Value: 82.0 percentage (2025)
+   - Context: idence reveals that these gains come at a cost, however, as 82% of scientists re...
+
+7. DATA QUALITY ISSUES SUMMARY:
+   - 148 records with vague metric types
+   - 202 records missing sector
+   - 202 records missing region
+   - 202 records missing technology
+
+================================================================================
+SOURCE 19: Economic_Impacts_Paper.pdf
+================================================================================
+
+1. BASIC STATISTICS:
+   Total records: 118
+   Unique metric types: 4
+   Year range: 2023 - 2025
+
+2. METRIC TYPE DISTRIBUTION:
+   - percentages: 102 (86.4%)
+   - adoption_rate: 8 (6.8%)
+   - employment: 4 (3.4%)
+   - dollar_amounts: 4 (3.4%)
+
+3. UNIT DISTRIBUTION:
+   - percentage: 114
+   - usd: 4
+
+4. DUPLICATE ANALYSIS:
+   Records with duplicates: 118
+
+   Top duplicate groups:
+   - Value: 57.0, Unit: percentage, Year: 2025 → 12 times
+   - Value: 36.0, Unit: percentage, Year: 2025 → 12 times
+   - Value: 43.0, Unit: percentage, Year: 2025 → 10 times
+   - Value: 75.0, Unit: percentage, Year: 2025 → 8 times
+   - Value: 4.0, Unit: percentage, Year: 2025 → 8 times
+
+5. VALUE RANGE ANALYSIS:
+
+   percentages:
+     percentage: min=0.10, max=95.30, mean=37.06
+
+   adoption_rate:
+     percentage: min=10.00, max=57.00, mean=34.75
+
+   employment:
+     percentage: min=10.00, max=80.00, mean=45.00
+
+6. SAMPLE RECORDS (First 5):
+
+   Record 5180:
+   - Type: adoption_rate
+   - Value: 36.0 percentage (2025)
+   - Context: usage of AI extends more broadly across the economy, with ∼36% of occupations us...
+
+   Record 5181:
+   - Type: percentages
+   - Value: 57.0 percentage (2025)
+   - Context: ks. We also analyze how AI is being used for tasks, finding 57% of usage suggest...
+
+   Record 5182:
+   - Type: percentages
+   - Value: 43.0 percentage (2025)
+   - Context: pabilities (e.g., learning or iterating on an output) while 43% suggests automat...
+
+   Record 5183:
+   - Type: percentages
+   - Value: 4.0 percentage (2025)
+   - Context: ify the depth of AI use within occupations (Figure 4) Only ∼4% of occupations ex...
+
+   Record 5184:
+   - Type: percentages
+   - Value: 75.0 percentage (2025)
+   - Context: re 4) Only ∼4% of occupations exhibit AI usage for at least 75% of their tasks, ...
+
+7. DATA QUALITY ISSUES SUMMARY:
+   - 102 records with vague metric types
+   - 118 records missing sector
+   - 118 records missing region
+   - 118 records missing technology
+
+================================================================================
+SOURCE 20: Machines of mind_ The case for an AI-powered productivity boom.pdf
+================================================================================
+
+1. BASIC STATISTICS:
+   Total records: 36
+   Unique metric types: 3
+   Year range: 2025 - 2025
+
+2. METRIC TYPE DISTRIBUTION:
+   - productivity: 20 (55.6%)
+   - percentages: 12 (33.3%)
+   - employment: 4 (11.1%)
+
+3. UNIT DISTRIBUTION:
+   - percentage: 36
+
+4. DUPLICATE ANALYSIS:
+   Records with duplicates: 36
+
+   Top duplicate groups:
+   - Value: 20.0, Unit: percentage, Year: 2025 → 6 times
+   - Value: 18.0, Unit: percentage, Year: 2025 → 4 times
+   - Value: 30.0, Unit: percentage, Year: 2025 → 4 times
+   - Value: 2.4, Unit: percentage, Year: 2025 → 2 times
+   - Value: 1.5, Unit: percentage, Year: 2025 → 2 times
+
+5. VALUE RANGE ANALYSIS:
+
+   productivity:
+     percentage: min=1.50, max=33.00, mean=12.29
+
+   percentages:
+     percentage: min=7.00, max=80.00, mean=38.33
+
+   employment:
+     percentage: min=30.00, max=30.00, mean=30.00
+
+6. SAMPLE RECORDS (First 5):
+
+   Record 5724:
+   - Type: productivity
+   - Value: 3.0 percentage (2025)
+   - Context: r II until the early 1970s, labor productivity grew at over 3% a year, more than...
+
+   Record 5725:
+   - Type: percentages
+   - Value: 80.0 percentage (2025)
+   - Context: rk. As noted in a recent research paper , LLMs could affect 80% of the US workfo...
+
+   Record 5726:
+   - Type: percentages
+   - Value: 20.0 percentage (2025)
+   - Context: 5 use cases for language models, that economists can be 10- 20% more productive ...
+
+   Record 5727:
+   - Type: percentages
+   - Value: 14.0 percentage (2025)
+   - Context: appears to be yes. show that call center operators became 14% more productive wh...
+
+   Record 5728:
+   - Type: employment
+   - Value: 30.0 percentage (2025)
+   - Context: ctive when they used the technology, with the gains of over 30% for the least ex...
+
+7. DATA QUALITY ISSUES SUMMARY:
+   - 12 records with vague metric types
+   - 36 records missing sector
+   - 36 records missing region
+   - 36 records missing technology
+
+================================================================================
+SOURCE 21: oecd-artificial-intelligence-review-2025.pdf
+================================================================================
+
+1. BASIC STATISTICS:
+   Total records: 2
+   Unique metric types: 1
+   Year range: 2024 - 2024
+
+2. METRIC TYPE DISTRIBUTION:
+   - percentages: 2 (100.0%)
+
+3. UNIT DISTRIBUTION:
+   - percentage: 2
+
+4. DUPLICATE ANALYSIS:
+   Records with duplicates: 2
+
+   Top duplicate groups:
+   - Value: 100.0, Unit: percentage, Year: 2024 → 2 times
+
+5. VALUE RANGE ANALYSIS:
+
+   percentages:
+     percentage: min=100.00, max=100.00, mean=100.00
+
+6. SAMPLE RECORDS (First 5):
+
+   Record 5936:
+   - Type: percentages
+   - Value: 100.0 percentage (2024)
+   - Context: d defined a superhuman AGI system as one that "outperforms 100% of humans" acros...
+
+   Record 12065:
+   - Type: percentages
+   - Value: 100.0 percentage (2024)
+   - Context: d defined a superhuman AGI system as one that "outperforms 100% of humans" acros...
+
+7. DATA QUALITY ISSUES SUMMARY:
+   - 2 records with vague metric types
+   - 2 records missing sector
+   - 2 records missing region
+   - 2 records missing technology
+
+================================================================================
+SOURCE 22: The Productivity Puzzle_ AI, Technology Adoption and the Workforce _ Richmond Fed.pdf
+================================================================================
+
+1. BASIC STATISTICS:
+   Total records: 4
+   Unique metric types: 2
+   Year range: 2023 - 2025
+
+2. METRIC TYPE DISTRIBUTION:
+   - percentages: 2 (50.0%)
+   - growth_rate: 2 (50.0%)
+
+3. UNIT DISTRIBUTION:
+   - percentage: 2
+   - usd: 2
+
+4. DUPLICATE ANALYSIS:
+   Records with duplicates: 4
+
+   Top duplicate groups:
+   - Value: 7.0, Unit: percentage, Year: 2023 → 2 times
+   - Value: 7.0, Unit: usd, Year: 2025 → 2 times
+
+5. VALUE RANGE ANALYSIS:
+
+   percentages:
+     percentage: min=7.00, max=7.00, mean=7.00
+
+   growth_rate:
+     usd: min=7.00, max=7.00, mean=7.00
+
+6. SAMPLE RECORDS (First 5):
+
+   Record 5937:
+   - Type: percentages
+   - Value: 7.0 percentage (2023)
+   - Context: e the 2023 article "Generative AI Could Raise Global GDP by 7%." See the 2024 pa...
+
+   Record 5938:
+   - Type: growth_rate
+   - Value: 7.0 usd (2025)
+   - Context: ore sedate: Goldman Sachs predicted that AI would lead to a $7 trillion increase...
+
+   Record 12066:
+   - Type: percentages
+   - Value: 7.0 percentage (2023)
+   - Context: e the 2023 article "Generative AI Could Raise Global GDP by 7%." See the 2024 pa...
+
+   Record 12067:
+   - Type: growth_rate
+   - Value: 7.0 usd (2025)
+   - Context: ore sedate: Goldman Sachs predicted that AI would lead to a $7 trillion increase...
+
+7. DATA QUALITY ISSUES SUMMARY:
+   - 2 records with vague metric types
+   - 4 records missing sector
+   - 4 records missing region
+   - 4 records missing technology
+
+================================================================================
+OVERALL SUMMARY ACROSS ALL SOURCES
+================================================================================
+
+SOURCES BY RECORD COUNT:
+   17. Acemoglu_Macroeconomics-of-AI_May-2024.pdf: 5356 records
+   7. cost-benefit-analysis-artificial-intelligence-evidence-from-a-field-experiment-on-gpt-4o-1.pdf: 2472 records
+   4. ai-and-the-global-economy.pdf: 540 records
+   13. Mapping-AI-readiness-final.pdf: 474 records
+   12. hai_ai_index_report_2025.pdf: 458 records
+   2. AI strategy.pdf: 420 records
+   6. Assessing the Impact of Artificial Intelligence Tools on Employee.pdf: 374 records
+   1. Affects of GenAI on Highskilled Work.pdf: 334 records
+   10. Generative AI at Work.pdf: 298 records
+   15. the-economic-impact-of-large-language-models.pdf: 272 records
+
+MOST COMMON METRIC TYPES OVERALL:
+   - general_rate: 4536 (37.0%)
+   - percentages: 3340 (27.2%)
+   - dollar_amounts: 480 (3.9%)
+   - growth_rate: 476 (3.9%)
+   - employment: 412 (3.4%)
+   - financial_metric: 360 (2.9%)
+   - investment: 330 (2.7%)
+   - cost: 304 (2.5%)
+   - adoption_rate: 300 (2.4%)
+   - training_metric: 192 (1.6%)
+
+PROBLEM UNITS ACROSS ALL SOURCES:
+   - energy_unit: 24 records in sources [np.int64(1), np.int64(5), np.int64(7), np.int64(16), np.int64(17)]
+   - unknown: 6 records in sources [np.int64(12), np.int64(17)]
+   - multiple: 24 records in sources [np.int64(14), np.int64(17)]
