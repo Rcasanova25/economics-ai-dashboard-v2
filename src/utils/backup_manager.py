@@ -14,7 +14,7 @@ import hashlib
 class BackupManager:
     """Manages automated backups of the database and related files"""
     
-    def __init__(self, db_path: str = "data/database/economics_ai.db", backup_dir: str = "backups"):
+    def __init__(self, db_path: str = "data/processed/economics_ai.db", backup_dir: str = "backups"):
         """
         Initialize the backup manager
         

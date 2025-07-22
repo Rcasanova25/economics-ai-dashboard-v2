@@ -1,0 +1,6 @@
+original_id,value,unit,year,current_metric_type,new_metric_type,context_preview,sector,country,company_size,reason,confidence
+172,80.0,percentage,2024,general_rate,growth_metric,"ional-artifical-intelligence-strategies-and-human-rights%e2%80%94a-review_.pdf 164 steven feldstein,...",,,,Reclassify based on context: growth_metric,0.8
+173,30.0,percentage,2016,general_rate,ai_metric,mine if another car is in your blindspot were available in 30% of new cars in 2016 but are in 90% to...,,,,Reclassify based on context: ai_metric,0.8
+174,90.0,percentage,2016,general_rate,ai_metric,dspot were available in 30% of new cars in 2016 but are in 90% today. page 20 “semi-autonomous appro...,,,,Reclassify based on context: ai_metric,0.8
+188,2021.0,number,2021,unknown_metric,strategy_metric,"very five years, for at least one hundred years. september 2021 this report, the second in that plan...",,,,Reclassify based on context: strategy_metric,0.8
+189,2018.0,energy_unit,2018,unknown_metric,reference_year,"cation,” proceedings of machine learning research 81:1–15, 2018, http://proceedings.mlr.press/v81/bu...",education,,,Energy unit is a misclassified year/reference,0.95

@@ -1,0 +1,15 @@
+original_id,value,unit,year,current_metric_type,new_metric_type,context_preview,sector,country,company_size,reason,confidence
+193,33.0,percentage,2024,general_rate,performance_metric,[7] argue that ai could increase aggregate productivity by 33% over 20 years through its impact on k...,,,,Reclassify based on context: performance_metric,0.8
+194,8.0,percentage,2024,general_rate,growth_metric,german firms introducing new products or processes by about 8%. babina et al. [19] reported signific...,,,,Reclassify based on context: growth_metric,0.8
+195,6.8,percentage,2024,general_rate,financial_metric,"ease in sales per worker. conversely, ref. [20] estimated a 6.8% increase in sales per worker for fi...",,,,Reclassify based on context: financial_metric,0.8
+196,4.4,percentage,2024,general_rate,performance_metric,"innovating in ai technologies, while [5] put this number at 4.4%. 2.2. measurement challenges and th...",technology,,,Reclassify based on context: performance_metric,0.8
+197,13.8,percentage,2024,general_rate,ai_metric,"customer service, with ai-assisted support agents handling 13.8% more inquiries per hour [24]. autom...",,,,Reclassify based on context: ai_metric,0.8
+198,59.0,percentage,2024,general_rate,performance_metric,"onal efficiency, enabling business professionals to produce 59% more documents per hour and programm...",,,,Reclassify based on context: performance_metric,0.8
+200,95.0,percentage,2024,general_rate,readiness_metric,"z-value for the desired level of confidence (e.g., 1.96 for 95% confidence). • zβ is the z-value for...",,,,Reclassify based on context: readiness_metric,0.8
+204,12.02,percentage,2024,general_rate,readiness_metric,+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 12.02% 41+ 18.88% rate the level of ai i...,,,,Reclassify based on context: readiness_metric,0.8
+205,18.88,percentage,2024,general_rate,readiness_metric,58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 12.02% 41+ 18.88% rate the level of ai integration ...,,,,Reclassify based on context: readiness_metric,0.8
+206,53.22,percentage,2024,general_rate,ai_metric,doctorate) high school 18.88% undergraduate 20.60% graduate 53.22% doctorate 7.30% you currently use...,education,,,Reclassify based on context: ai_metric,0.8
+212,3.0,percentage,2024,general_rate,training_metric,52.36% 1–2 years 32.62% 2–5 years 12.02% more than 5 years 3.00% has your organization provided any ...,,,,Reclassify based on context: training_metric,0.8
+214,36.48,percentage,2024,general_rate,adoption_metric,disagree 15.88% disagree 28.76% neither agree nor disagree 36.48% agree 14.16% strongly agree 4.72% ...,,,,Reclassify based on context: adoption_metric,0.8
+221,1.72,percentage,2024,general_rate,ai_metric,dence poland 14.59% portugal 18.45% romania 16.74% slovenia 1.72% spain 2.15% sweden 0.86% switzerla...,,,,Reclassify based on context: ai_metric,0.8
+222,3.4,percentage,2024,general_rate,adoption_metric,"y change. query 9, for instance, demonstrates a starkly low 3.4% probability of productivity change ...",,,,Reclassify based on context: adoption_metric,0.8

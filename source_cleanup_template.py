@@ -286,43 +286,120 @@ class SourceCleanupAnalyzer:
         })
         
     def classify_metric_type(self, context, value, unit, current_type):
-        """Classify vague metric types based on context"""
+        """Classify vague metric types based on context with enhanced pattern matching"""
         # Convert context to lowercase for consistent matching
         context = context.lower()
         
-        # AI readiness/maturity
-        if any(word in context for word in ['readiness', 'maturity', 'stage', 'level', 'preparedness']):
-            return 'readiness_metric'
+        # FINANCIAL METRICS - Check first as these are high priority
+        financial_patterns = [
+            'revenue', 'profit', 'earnings', 'income', 'sales', 'turnover',
+            'financial return', 'monetary', 'dollar', 'cost savings', 'savings'
+        ]
+        if any(pattern in context for pattern in financial_patterns):
+            # Special case: if it's about revenue/profit increase, it's financial
+            if any(word in context for word in ['revenue increase', 'profit increase', 'earnings growth']):
+                return 'financial_metric'
+            # ROI is always financial
+            if 'roi' in context or 'return on investment' in context:
+                return 'financial_metric'
+            return 'financial_metric'
             
-        # Strategy/planning
+        # TRAINING/SKILLS METRICS - Important for workforce development
+        training_patterns = [
+            'training', 'skill', 'literacy', 'education', 'learning', 'upskilling',
+            'reskilling', 'certification', 'competency', 'capability'
+        ]
+        if any(pattern in context for pattern in training_patterns):
+            # Special case: "AI literacy skills increased by X%" is training
+            if 'literacy' in context and ('skill' in context or 'training' in context):
+                return 'training_metric'
+            return 'training_metric'
+            
+        # WORKPLACE/WELLBEING METRICS - Employee satisfaction and burnout
+        workplace_patterns = [
+            'burned out', 'burnout', 'satisfaction', 'wellbeing', 'well-being',
+            'stress', 'workload', 'work-life', 'employee experience', 'morale'
+        ]
+        if any(pattern in context for pattern in workplace_patterns):
+            return 'workplace_metric'
+            
+        # MARKET METRICS - Market size, business statistics
+        if ('businesses' in context and 'workers' in context) or \
+           ('market size' in context) or \
+           ('market share' in context) or \
+           ('% of businesses' in context):
+            return 'market_metric'
+            
+        # COST METRICS - Expenses and investments (but not revenue)
+        cost_patterns = [
+            'cost', 'expense', 'budget', 'spending', 'expenditure',
+            'investment', 'capital', 'funding'
+        ]
+        if any(pattern in context for pattern in cost_patterns):
+            # Don't classify as cost if it's about returns/revenue
+            if not any(rev in context for rev in ['revenue', 'return', 'profit', 'earnings']):
+                return 'cost_metric'
+                
+        # AI READINESS/MATURITY
+        if any(word in context for word in ['readiness', 'maturity', 'stage', 'level', 'preparedness']):
+            # But not if it's about revenue readiness
+            if 'revenue' not in context:
+                return 'readiness_metric'
+            
+        # STRATEGY/PLANNING
         if any(word in context for word in ['strategy', 'strategic', 'plan', 'initiative', 'roadmap']):
             return 'strategy_metric'
             
-        # Cost/financial - Check this BEFORE adoption since ROI is financial
-        if any(word in context for word in ['cost', 'roi', 'return on investment', 'investment', 'spend', 'expense', 'budget']):
-            return 'cost_metric'
-            
-        # Adoption/implementation - but exclude financial contexts
-        if any(word in context for word in ['adopt', 'implement', 'deploy', 'use', 'using', 'utiliz']):
-            # Don't classify as adoption if it's about ROI or investment
-            if not any(financial_word in context for financial_word in ['roi', 'return', 'investment']):
+        # ADOPTION/IMPLEMENTATION
+        adoption_patterns = [
+            'adopt', 'implement', 'deploy', 'rollout', 'integration',
+            'using for', 'use cases', 'utilization'
+        ]
+        if any(pattern in context for pattern in adoption_patterns):
+            # Special case: "using gai for innovation" is adoption
+            if 'using' in context and 'for' in context:
                 return 'adoption_metric'
+            return 'adoption_metric'
             
-        # Performance/productivity
-        if any(word in context for word in ['performance', 'productivity', 'efficiency', 'output', 'improvement']):
-            return 'performance_metric'
+        # PERFORMANCE/PRODUCTIVITY
+        if any(word in context for word in ['performance', 'productivity', 'efficiency', 'output', 'effectiveness']):
+            # But not if it's about productive capacity (that's capacity metric)
+            if 'productive capacity' not in context:
+                return 'performance_metric'
+                
+        # CAPACITY METRICS - Production capacity, potential
+        if 'productive capacity' in context or 'capacity' in context:
+            return 'capacity_metric'
             
-        # Employment/labor
-        if any(word in context for word in ['employment', 'labor', 'worker', 'job', 'occupation', 'workforce']):
+        # EMPLOYMENT/LABOR
+        employment_patterns = [
+            'employment', 'labor', 'worker', 'job', 'occupation', 'workforce',
+            'talent', 'hiring', 'recruit'
+        ]
+        if any(pattern in context for pattern in employment_patterns):
+            # But not if it's about market size (X% of workers)
+            if '% of workers' in context and 'businesses' in context:
+                return 'market_metric'
             return 'employment_metric'
             
-        # Growth
-        if any(word in context for word in ['growth', 'increase', 'expansion', 'scaling', 'grew']):
-            return 'growth_metric'
+        # GROWTH METRICS - But be specific about what's growing
+        growth_patterns = [
+            'growth', 'increase', 'expansion', 'scaling', 'grew', 'risen'
+        ]
+        if any(pattern in context for pattern in growth_patterns):
+            # Check what's growing
+            if any(fin in context for fin in ['revenue', 'profit', 'earnings']):
+                return 'financial_metric'
+            elif any(skill in context for skill in ['skill', 'literacy', 'training']):
+                return 'training_metric'
+            else:
+                return 'growth_metric'
             
-        # AI specific
+        # AI SPECIFIC
         if any(word in context for word in ['ai', 'artificial intelligence', 'genai', 'generative', 'machine learning']):
-            return 'ai_metric'
+            # But only if it's not better classified above
+            if current_type == 'general_rate':
+                return 'ai_metric'
             
         # Return original if no match
         return current_type

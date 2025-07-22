@@ -15,7 +15,6 @@ from pathlib import Path
 from datetime import datetime
 import logging
 import json
-import sqlite3
 import pandas as pd
 from typing import Optional, List, Dict
 
@@ -34,44 +33,36 @@ from source_cleanup_template import SourceCleanupAnalyzer
 class CleanupWorkflow:
     """Orchestrates the complete cleanup workflow with safety and logging"""
     
-    def __init__(self, db_path: str = "economics_ai.db", log_dir: str = "logs/cleanup"):
+    def __init__(self, log_dir: str = "logs/cleanup"):
         """
         Initialize the cleanup workflow
         
         Args:
-            db_path: Path to the SQLite database
             log_dir: Directory for cleanup logs
         """
-        self.db_path = Path(db_path)
         self.log_dir = Path(log_dir)
         self.log_dir.mkdir(parents=True, exist_ok=True)
         
         # Initialize components
         self.backup_manager = BackupManager()
-        self.logger = CleanupLogger(
-            name="cleanup_workflow",
-            log_file=self.log_dir / f"cleanup_workflow_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
+        
+        # Set up logging
+        from src.utils.logging_config import setup_logging
+        setup_logging(
+            log_dir=str(self.log_dir),
+            enable_structured=True
         )
+        
+        # Create standard logger for general messages
+        self.logger = logging.getLogger("cleanup_workflow")
+        
+        # Create specialized cleanup logger for structured cleanup logging
+        self.cleanup_logger = CleanupLogger(name="cleanup_operations")
         
         # Track progress
         self.sources_cleaned = []
         self.cleanup_stats = {}
         
-    def get_source_info(self, source_id: int) -> Dict:
-        """Get source information from the database"""
-        conn = sqlite3.connect(self.db_path)
-        query = """
-        SELECT id, name, file_path, extraction_date
-        FROM data_sources
-        WHERE id = ?
-        """
-        result = pd.read_sql_query(query, conn, params=[source_id])
-        conn.close()
-        
-        if result.empty:
-            raise ValueError(f"Source ID {source_id} not found in database")
-            
-        return result.iloc[0].to_dict()
     
     def analyze_source(self, source_id: int, previous_cleaned_file: str = "ai_metrics.csv") -> Dict:
         """
@@ -83,10 +74,6 @@ class CleanupWorkflow:
         self.logger.info(f"Starting analysis for Source {source_id}")
         
         try:
-            # Get source info
-            source_info = self.get_source_info(source_id)
-            self.logger.info(f"Analyzing: {source_info['name']}")
-            
             # Run analyzer
             analyzer = SourceCleanupAnalyzer(source_id, previous_cleaned_file)
             analyzer.analyze()
@@ -94,7 +81,7 @@ class CleanupWorkflow:
             # Collect statistics
             stats = {
                 'source_id': source_id,
-                'source_name': source_info['name'],
+                'source_name': analyzer.source_name,  # The analyzer already gets this from CSV
                 'total_records': len(analyzer.source_df),
                 'records_to_keep': len(analyzer.records_to_keep),
                 'records_to_remove': len(analyzer.records_to_remove),
@@ -108,10 +95,19 @@ class CleanupWorkflow:
                            f"{stats['records_to_remove']} remove, "
                            f"{stats['records_to_modify']} modify")
             
+            # Also log structured data
+            self.cleanup_logger.log_cleanup_action(
+                source_id, 
+                "analysis_complete", 
+                stats['total_records'],
+                f"Keep: {stats['records_to_keep']}, Remove: {stats['records_to_remove']}, Modify: {stats['records_to_modify']}"
+            )
+            
             return stats
             
         except Exception as e:
             self.logger.error(f"Error analyzing source {source_id}: {str(e)}")
+            self.cleanup_logger.log_error(source_id, e, "analysis phase")
             raise
     
     def execute_cleanup(self, source_id: int, previous_cleaned_file: str = "ai_metrics.csv",
@@ -170,6 +166,9 @@ class CleanupWorkflow:
         df = pd.read_csv(previous_cleaned_file)
         original_count = len(df)
         
+        # Log cleanup start with structured data
+        self.cleanup_logger.log_cleanup_start(source_id, original_count)
+        
         # Remove records marked for removal
         if not records_to_remove.empty:
             remove_ids = records_to_remove['original_id'].tolist()
@@ -200,6 +199,15 @@ class CleanupWorkflow:
         self.logger.info(f"Cleanup complete: {original_count} -> {final_count} records")
         self.logger.info(f"Saved cleaned data to: {output_file}")
         
+        # Log structured cleanup completion
+        self.cleanup_logger.log_cleanup_complete(source_id, {
+            'original_count': original_count,
+            'final_count': final_count,
+            'removed': len(records_to_remove),
+            'modified': len(records_to_modify),
+            'output_file': output_file
+        })
+        
         # Update tracking
         self.sources_cleaned.append(source_id)
         self.cleanup_stats[source_id] = {
@@ -210,7 +218,7 @@ class CleanupWorkflow:
             'output_file': output_file
         }
         
-        print(f"\n✓ Cleanup complete!")
+        print(f"\nCleanup complete!")
         print(f"Original records: {original_count}")
         print(f"Final records: {final_count}")
         print(f"Output saved to: {output_file}")
@@ -250,7 +258,8 @@ class CleanupWorkflow:
                     
             except Exception as e:
                 self.logger.error(f"Failed to process source {source_id}: {str(e)}")
-                print(f"\n✗ Error processing source {source_id}: {str(e)}")
+                self.cleanup_logger.log_error(source_id, e, "cleanup workflow")
+                print(f"\nError processing source {source_id}: {str(e)}")
                 
                 if not auto_confirm:
                     response = input("Continue with next source? (yes/no): ").lower().strip()

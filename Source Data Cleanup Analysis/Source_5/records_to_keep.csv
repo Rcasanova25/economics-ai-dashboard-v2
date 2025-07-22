@@ -1,0 +1,33 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence
+170,10.1007,percentage,2024,general_rate,"artificial systems,” https://link.springer.com/content/ pdf/10.1007%2f978-3-642-32375-1.pdf, page 17...",general_rate - needs manual review,0.5
+171,2.0,percentage,2024,general_rate,ational-artifical-intelligence-strategies-and-human-rights%e2%80%94a-review_.pdf 164 steven feldstei...,general_rate - needs manual review,0.5
+175,1.5,billions_usd,2024,financial_metric,lassified r&d in ai-related technologies was approximately $1.5 billion153—a number dwarfed signific...,No issues detected,0.8
+176,9.4,billions_usd,2018,financial_metric,"development in 2018 was estimated to be the equivalent of $9.4 billion, supplemented by significant ...",No issues detected,0.8
+177,80.0,billions_usd,2024,financial_metric,"209570/atlas-ai 44 us, private enterprises have spent over $80 billion on ai, while non-defense inve...",No issues detected,0.8
+178,103.0,billions_usd,2024,financial_metric,t of 27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute market price...,No issues detected,0.8
+179,350.0,billions_usd,2024,financial_metric,27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute market prices at ...,No issues detected,0.8
+180,5.0,billions_usd,2021,financial_metric,"emics at carnegie mellon, which went public in 2021 with a $5 billion valuation.193 of course, not a...",No issues detected,0.8
+181,1.0,billions_usd,2024,financial_metric,"olling for medical needs, care for black patients averages $1,800 less per year. new technologies ar...",No issues detected,0.8
+182,68.0,billions_usd,2020,financial_metric,"e of total postings. global corporate investment in ai was $68 billion in 2020, which is a non-trivi...",No issues detected,0.8
+183,4.0,billions_usd,2020,financial_metric,investment over all categories in the us alone was almost $4 trillion in 2020.260 it’s not always ea...,No issues detected,0.8
+184,800.0,billions_usd,2024,cost_metric,"a noted that researchers 
+trained nearly 4,800 models using the equivalent of 
+27 years of gpu com...",No issues detected,0.8
+186,60.0,billions_usd,2024,employment_metric,"ly see technologically-driven mass unemployment. even if 60 jobs remain plentiful, the automation-re...",No issues detected,0.8
+187,272.0,number,2024,employment_metric,/www.nber.org/digest/jul18/automation-can-be-response-aging-workforce 272 https://www.scientificamer...,No issues detected,0.8
+190,2020.0,percentage,2020,unknown_metric,"from medical misinformation to undermining elections. in 2020, approximately 48.3 percent of the glo...",unknown_metric - needs manual review,0.5
+191,263.0,billions_usd,2024,revenue_metric,"262 that situation would parallel developments 
+over recent decades like tax cuts and deregulation,...",No issues detected,0.8
+192,100.0,number,2024,comparison_metrics,nan,No issues detected,0.8
+1660,10.1007,percentage,2025,percentages,"artificial systems,” https://link.springer.com/content/ pdf/10.1007%2f978-3-642-32375-1.pdf, page 17...",No issues detected,0.8
+1661,2.0,percentage,2025,percentages,ational-artifical-intelligence-strategies-and-human-rights%e2%80%94a-review_.pdf 164 steven feldstei...,No issues detected,0.8
+1662,80.0,percentage,2025,percentages,"ional-artifical-intelligence-strategies-and-human-rights%e2%80%94a-review_.pdf 164 steven feldstein,...",No issues detected,0.8
+1665,1.5,billions_usd,2025,dollar_amounts,lassified r&d in ai-related technologies was approximately $1.5 billion153—a number dwarfed signific...,No issues detected,0.8
+1667,1.5,billions_usd,2020,dollar_amounts,"overnment in research and development is estimated at only $1.5 billion in 2020. second, many resear...",No issues detected,0.8
+1668,103.0,usd,2025,cost,t of 27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute market price...,No issues detected,0.8
+1669,350.0,usd,2025,cost,27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute market prices at ...,No issues detected,0.8
+1671,1.0,usd,2025,dollar_amounts,"olling for medical needs, care for black patients averages $1,800 less per year. new technologies ar...",No issues detected,0.8
+1673,4.0,usd,2020,investment,investment over all categories in the us alone was almost $4 trillion in 2020.260 it’s not always ea...,No issues detected,0.8
+1674,103.0,number,2025,cost,equivalent of 27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute mar...,No issues detected,0.8
+1675,60.0,number,2025,employment,"ly see technologically-driven mass unemployment. even if 60 jobs remain plentiful, the automation-re...",No issues detected,0.8
+1676,272.0,number,2025,labor_metrics,/www.nber.org/digest/jul18/automation-can-be-response-aging-workforce 272 https://www.scientificamer...,No issues detected,0.8

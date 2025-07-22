@@ -1,0 +1,139 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence,proposed_action
+170,10.1007,percentage,2024,general_rate,"artificial systems,” https://link.springer.com/content/ pdf/10.1007%2f978-3-642-32375-1.pdf, page 17...",general_rate - needs manual review,0.5,KEEP
+171,2.0,percentage,2024,general_rate,ational-artifical-intelligence-strategies-and-human-rights%e2%80%94a-review_.pdf 164 steven feldstei...,general_rate - needs manual review,0.5,KEEP
+172,80.0,percentage,2024,general_rate,"ional-artifical-intelligence-strategies-and-human-rights%e2%80%94a-review_.pdf 164 steven feldstein,...",Reclassify based on context: growth_metric,0.8,MODIFY
+173,30.0,percentage,2016,general_rate,mine if another car is in your blindspot were available in 30% of new cars in 2016 but are in 90% to...,Reclassify based on context: ai_metric,0.8,MODIFY
+174,90.0,percentage,2016,general_rate,dspot were available in 30% of new cars in 2016 but are in 90% today. page 20 “semi-autonomous appro...,Reclassify based on context: ai_metric,0.8,MODIFY
+175,1.5,billions_usd,2024,financial_metric,lassified r&d in ai-related technologies was approximately $1.5 billion153—a number dwarfed signific...,No issues detected,0.8,KEEP
+176,9.4,billions_usd,2018,financial_metric,"development in 2018 was estimated to be the equivalent of $9.4 billion, supplemented by significant ...",No issues detected,0.8,KEEP
+177,80.0,billions_usd,2024,financial_metric,"209570/atlas-ai 44 us, private enterprises have spent over $80 billion on ai, while non-defense inve...",No issues detected,0.8,KEEP
+178,103.0,billions_usd,2024,financial_metric,t of 27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute market price...,No issues detected,0.8,KEEP
+179,350.0,billions_usd,2024,financial_metric,27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute market prices at ...,No issues detected,0.8,KEEP
+180,5.0,billions_usd,2021,financial_metric,"emics at carnegie mellon, which went public in 2021 with a $5 billion valuation.193 of course, not a...",No issues detected,0.8,KEEP
+181,1.0,billions_usd,2024,financial_metric,"olling for medical needs, care for black patients averages $1,800 less per year. new technologies ar...",No issues detected,0.8,KEEP
+182,68.0,billions_usd,2020,financial_metric,"e of total postings. global corporate investment in ai was $68 billion in 2020, which is a non-trivi...",No issues detected,0.8,KEEP
+183,4.0,billions_usd,2020,financial_metric,investment over all categories in the us alone was almost $4 trillion in 2020.260 it’s not always ea...,No issues detected,0.8,KEEP
+184,800.0,billions_usd,2024,cost_metric,"a noted that researchers 
+trained nearly 4,800 models using the equivalent of 
+27 years of gpu com...",No issues detected,0.8,KEEP
+185,103.0,billions_usd,2024,cost_metric,equivalent of 27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute mar...,Duplicate record (keeping first occurrence),0.9,REMOVE
+186,60.0,billions_usd,2024,employment_metric,"ly see technologically-driven mass unemployment. even if 60 jobs remain plentiful, the automation-re...",No issues detected,0.8,KEEP
+187,272.0,number,2024,employment_metric,/www.nber.org/digest/jul18/automation-can-be-response-aging-workforce 272 https://www.scientificamer...,No issues detected,0.8,KEEP
+188,2021.0,number,2021,unknown_metric,"very five years, for at least one hundred years. september 2021 this report, the second in that plan...",Reclassify based on context: strategy_metric,0.8,MODIFY
+189,2018.0,energy_unit,2018,unknown_metric,"cation,” proceedings of machine learning research 81:1–15, 2018, http://proceedings.mlr.press/v81/bu...",Energy unit is a misclassified year/reference,0.95,MODIFY
+190,2020.0,percentage,2020,unknown_metric,"from medical misinformation to undermining elections. in 2020, approximately 48.3 percent of the glo...",unknown_metric - needs manual review,0.5,KEEP
+191,263.0,billions_usd,2024,revenue_metric,"262 that situation would parallel developments 
+over recent decades like tax cuts and deregulation,...",No issues detected,0.8,KEEP
+192,100.0,number,2024,comparison_metrics,nan,No issues detected,0.8,KEEP
+1637,10.1007,percentage,2024,general_rate,"artificial systems,” https://link.springer.com/content/ pdf/10.1007%2f978-3-642-32375-1.pdf, page 17...",Duplicate record (keeping first occurrence),0.9,REMOVE
+1638,2.0,percentage,2024,general_rate,ational-artifical-intelligence-strategies-and-human-rights%e2%80%94a-review_.pdf 164 steven feldstei...,Duplicate record (keeping first occurrence),0.9,REMOVE
+1639,80.0,percentage,2024,general_rate,"ional-artifical-intelligence-strategies-and-human-rights%e2%80%94a-review_.pdf 164 steven feldstein,...",Duplicate record (keeping first occurrence),0.9,REMOVE
+1640,30.0,percentage,2016,general_rate,mine if another car is in your blindspot were available in 30% of new cars in 2016 but are in 90% to...,Duplicate record (keeping first occurrence),0.9,REMOVE
+1641,90.0,percentage,2016,general_rate,dspot were available in 30% of new cars in 2016 but are in 90% today. page 20 “semi-autonomous appro...,Duplicate record (keeping first occurrence),0.9,REMOVE
+1642,1.5,billions_usd,2024,financial_metric,lassified r&d in ai-related technologies was approximately $1.5 billion153—a number dwarfed signific...,Duplicate record (keeping first occurrence),0.9,REMOVE
+1643,9.4,billions_usd,2018,financial_metric,"development in 2018 was estimated to be the equivalent of $9.4 billion, supplemented by significant ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+1644,80.0,billions_usd,2024,financial_metric,"209570/atlas-ai 44 us, private enterprises have spent over $80 billion on ai, while non-defense inve...",Duplicate record (keeping first occurrence),0.9,REMOVE
+1645,103.0,billions_usd,2024,financial_metric,t of 27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute market price...,Duplicate record (keeping first occurrence),0.9,REMOVE
+1646,350.0,billions_usd,2024,financial_metric,27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute market prices at ...,Duplicate record (keeping first occurrence),0.9,REMOVE
+1647,5.0,billions_usd,2021,financial_metric,"emics at carnegie mellon, which went public in 2021 with a $5 billion valuation.193 of course, not a...",Duplicate record (keeping first occurrence),0.9,REMOVE
+1648,1.0,billions_usd,2024,financial_metric,"olling for medical needs, care for black patients averages $1,800 less per year. new technologies ar...",Duplicate record (keeping first occurrence),0.9,REMOVE
+1649,68.0,billions_usd,2020,financial_metric,"e of total postings. global corporate investment in ai was $68 billion in 2020, which is a non-trivi...",Duplicate record (keeping first occurrence),0.9,REMOVE
+1650,4.0,billions_usd,2020,financial_metric,investment over all categories in the us alone was almost $4 trillion in 2020.260 it’s not always ea...,Duplicate record (keeping first occurrence),0.9,REMOVE
+1651,800.0,billions_usd,2024,cost_metric,"a noted that researchers 
+trained nearly 4,800 models using the equivalent of 
+27 years of gpu com...",Duplicate record (keeping first occurrence),0.9,REMOVE
+1652,103.0,billions_usd,2024,cost_metric,equivalent of 27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute mar...,Duplicate record (keeping first occurrence),0.9,REMOVE
+1653,60.0,billions_usd,2024,employment_metric,"ly see technologically-driven mass unemployment. even if 60 jobs remain plentiful, the automation-re...",Duplicate record (keeping first occurrence),0.9,REMOVE
+1654,272.0,number,2024,employment_metric,/www.nber.org/digest/jul18/automation-can-be-response-aging-workforce 272 https://www.scientificamer...,Duplicate record (keeping first occurrence),0.9,REMOVE
+1655,2021.0,number,2021,unknown_metric,"very five years, for at least one hundred years. september 2021 this report, the second in that plan...",Duplicate record (keeping first occurrence),0.9,REMOVE
+1656,2018.0,energy_unit,2018,unknown_metric,"cation,” proceedings of machine learning research 81:1–15, 2018, http://proceedings.mlr.press/v81/bu...",Duplicate record (keeping first occurrence),0.9,REMOVE
+1657,2020.0,percentage,2020,unknown_metric,"from medical misinformation to undermining elections. in 2020, approximately 48.3 percent of the glo...",Duplicate record (keeping first occurrence),0.9,REMOVE
+1658,263.0,billions_usd,2024,revenue_metric,"262 that situation would parallel developments 
+over recent decades like tax cuts and deregulation,...",Duplicate record (keeping first occurrence),0.9,REMOVE
+1659,100.0,number,2024,comparison_metrics,nan,Duplicate record (keeping first occurrence),0.9,REMOVE
+1660,10.1007,percentage,2025,percentages,"artificial systems,” https://link.springer.com/content/ pdf/10.1007%2f978-3-642-32375-1.pdf, page 17...",No issues detected,0.8,KEEP
+1661,2.0,percentage,2025,percentages,ational-artifical-intelligence-strategies-and-human-rights%e2%80%94a-review_.pdf 164 steven feldstei...,No issues detected,0.8,KEEP
+1662,80.0,percentage,2025,percentages,"ional-artifical-intelligence-strategies-and-human-rights%e2%80%94a-review_.pdf 164 steven feldstein,...",No issues detected,0.8,KEEP
+1663,30.0,percentage,2016,percentages,mine if another car is in your blindspot were available in 30% of new cars in 2016 but are in 90% to...,Duplicate record (keeping first occurrence),0.9,REMOVE
+1664,90.0,percentage,2016,percentages,dspot were available in 30% of new cars in 2016 but are in 90% today. page 20 “semi-autonomous appro...,Duplicate record (keeping first occurrence),0.9,REMOVE
+1665,1.5,billions_usd,2025,dollar_amounts,lassified r&d in ai-related technologies was approximately $1.5 billion153—a number dwarfed signific...,No issues detected,0.8,KEEP
+1666,9.4,billions_usd,2018,dollar_amounts,"development in 2018 was estimated to be the equivalent of $9.4 billion, supplemented by significant ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+1667,1.5,billions_usd,2020,dollar_amounts,"overnment in research and development is estimated at only $1.5 billion in 2020. second, many resear...",No issues detected,0.8,KEEP
+1668,103.0,usd,2025,cost,t of 27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute market price...,No issues detected,0.8,KEEP
+1669,350.0,usd,2025,cost,27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute market prices at ...,No issues detected,0.8,KEEP
+1670,5.0,billions_usd,2021,dollar_amounts,"emics at carnegie mellon, which went public in 2021 with a $5 billion valuation.193 of course, not a...",Duplicate record (keeping first occurrence),0.9,REMOVE
+1671,1.0,usd,2025,dollar_amounts,"olling for medical needs, care for black patients averages $1,800 less per year. new technologies ar...",No issues detected,0.8,KEEP
+1672,68.0,billions_usd,2020,investment,"e of total postings. global corporate investment in ai was $68 billion in 2020, which is a non-trivi...",Duplicate record (keeping first occurrence),0.9,REMOVE
+1673,4.0,usd,2020,investment,investment over all categories in the us alone was almost $4 trillion in 2020.260 it’s not always ea...,No issues detected,0.8,KEEP
+1674,103.0,number,2025,cost,equivalent of 27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute mar...,No issues detected,0.8,KEEP
+1675,60.0,number,2025,employment,"ly see technologically-driven mass unemployment. even if 60 jobs remain plentiful, the automation-re...",No issues detected,0.8,KEEP
+1676,272.0,number,2025,labor_metrics,/www.nber.org/digest/jul18/automation-can-be-response-aging-workforce 272 https://www.scientificamer...,No issues detected,0.8,KEEP
+6272,10.1007,percentage,2024,general_rate,"artificial systems,” https://link.springer.com/content/ pdf/10.1007%2f978-3-642-32375-1.pdf, page 17...",Duplicate record (keeping first occurrence),0.9,REMOVE
+6273,2.0,percentage,2024,general_rate,ational-artifical-intelligence-strategies-and-human-rights%e2%80%94a-review_.pdf 164 steven feldstei...,Duplicate record (keeping first occurrence),0.9,REMOVE
+6274,80.0,percentage,2024,general_rate,"ional-artifical-intelligence-strategies-and-human-rights%e2%80%94a-review_.pdf 164 steven feldstein,...",Duplicate record (keeping first occurrence),0.9,REMOVE
+6275,30.0,percentage,2016,general_rate,mine if another car is in your blindspot were available in 30% of new cars in 2016 but are in 90% to...,Duplicate record (keeping first occurrence),0.9,REMOVE
+6276,90.0,percentage,2016,general_rate,dspot were available in 30% of new cars in 2016 but are in 90% today. page 20 “semi-autonomous appro...,Duplicate record (keeping first occurrence),0.9,REMOVE
+6277,1.5,billions_usd,2024,financial_metric,lassified r&d in ai-related technologies was approximately $1.5 billion153—a number dwarfed signific...,Duplicate record (keeping first occurrence),0.9,REMOVE
+6278,9.4,billions_usd,2018,financial_metric,"development in 2018 was estimated to be the equivalent of $9.4 billion, supplemented by significant ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+6279,80.0,billions_usd,2024,financial_metric,"209570/atlas-ai 44 us, private enterprises have spent over $80 billion on ai, while non-defense inve...",Duplicate record (keeping first occurrence),0.9,REMOVE
+6280,103.0,billions_usd,2024,financial_metric,t of 27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute market price...,Duplicate record (keeping first occurrence),0.9,REMOVE
+6281,350.0,billions_usd,2024,financial_metric,27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute market prices at ...,Duplicate record (keeping first occurrence),0.9,REMOVE
+6282,5.0,billions_usd,2021,financial_metric,"emics at carnegie mellon, which went public in 2021 with a $5 billion valuation.193 of course, not a...",Duplicate record (keeping first occurrence),0.9,REMOVE
+6283,1.0,billions_usd,2024,financial_metric,"olling for medical needs, care for black patients averages $1,800 less per year. new technologies ar...",Duplicate record (keeping first occurrence),0.9,REMOVE
+6284,68.0,billions_usd,2020,financial_metric,"e of total postings. global corporate investment in ai was $68 billion in 2020, which is a non-trivi...",Duplicate record (keeping first occurrence),0.9,REMOVE
+6285,4.0,billions_usd,2020,financial_metric,investment over all categories in the us alone was almost $4 trillion in 2020.260 it’s not always ea...,Duplicate record (keeping first occurrence),0.9,REMOVE
+6286,800.0,billions_usd,2024,cost_metric,"a noted that researchers 
+trained nearly 4,800 models using the equivalent of 
+27 years of gpu com...",Duplicate record (keeping first occurrence),0.9,REMOVE
+6287,103.0,billions_usd,2024,cost_metric,equivalent of 27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute mar...,Duplicate record (keeping first occurrence),0.9,REMOVE
+6288,60.0,billions_usd,2024,employment_metric,"ly see technologically-driven mass unemployment. even if 60 jobs remain plentiful, the automation-re...",Duplicate record (keeping first occurrence),0.9,REMOVE
+6289,272.0,number,2024,employment_metric,/www.nber.org/digest/jul18/automation-can-be-response-aging-workforce 272 https://www.scientificamer...,Duplicate record (keeping first occurrence),0.9,REMOVE
+6290,2021.0,number,2021,unknown_metric,"very five years, for at least one hundred years. september 2021 this report, the second in that plan...",Duplicate record (keeping first occurrence),0.9,REMOVE
+6291,2018.0,energy_unit,2018,unknown_metric,"cation,” proceedings of machine learning research 81:1–15, 2018, http://proceedings.mlr.press/v81/bu...",Duplicate record (keeping first occurrence),0.9,REMOVE
+6292,2020.0,percentage,2020,unknown_metric,"from medical misinformation to undermining elections. in 2020, approximately 48.3 percent of the glo...",Duplicate record (keeping first occurrence),0.9,REMOVE
+6293,263.0,billions_usd,2024,revenue_metric,"262 that situation would parallel developments 
+over recent decades like tax cuts and deregulation,...",Duplicate record (keeping first occurrence),0.9,REMOVE
+6294,100.0,number,2024,comparison_metrics,nan,Duplicate record (keeping first occurrence),0.9,REMOVE
+7732,10.1007,percentage,2024,general_rate,"artificial systems,” https://link.springer.com/content/ pdf/10.1007%2f978-3-642-32375-1.pdf, page 17...",Duplicate record (keeping first occurrence),0.9,REMOVE
+7733,2.0,percentage,2024,general_rate,ational-artifical-intelligence-strategies-and-human-rights%e2%80%94a-review_.pdf 164 steven feldstei...,Duplicate record (keeping first occurrence),0.9,REMOVE
+7734,80.0,percentage,2024,general_rate,"ional-artifical-intelligence-strategies-and-human-rights%e2%80%94a-review_.pdf 164 steven feldstein,...",Duplicate record (keeping first occurrence),0.9,REMOVE
+7735,30.0,percentage,2016,general_rate,mine if another car is in your blindspot were available in 30% of new cars in 2016 but are in 90% to...,Duplicate record (keeping first occurrence),0.9,REMOVE
+7736,90.0,percentage,2016,general_rate,dspot were available in 30% of new cars in 2016 but are in 90% today. page 20 “semi-autonomous appro...,Duplicate record (keeping first occurrence),0.9,REMOVE
+7737,1.5,billions_usd,2024,financial_metric,lassified r&d in ai-related technologies was approximately $1.5 billion153—a number dwarfed signific...,Duplicate record (keeping first occurrence),0.9,REMOVE
+7738,9.4,billions_usd,2018,financial_metric,"development in 2018 was estimated to be the equivalent of $9.4 billion, supplemented by significant ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+7739,80.0,billions_usd,2024,financial_metric,"209570/atlas-ai 44 us, private enterprises have spent over $80 billion on ai, while non-defense inve...",Duplicate record (keeping first occurrence),0.9,REMOVE
+7740,103.0,billions_usd,2024,financial_metric,t of 27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute market price...,Duplicate record (keeping first occurrence),0.9,REMOVE
+7741,350.0,billions_usd,2024,financial_metric,27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute market prices at ...,Duplicate record (keeping first occurrence),0.9,REMOVE
+7742,5.0,billions_usd,2021,financial_metric,"emics at carnegie mellon, which went public in 2021 with a $5 billion valuation.193 of course, not a...",Duplicate record (keeping first occurrence),0.9,REMOVE
+7743,1.0,billions_usd,2024,financial_metric,"olling for medical needs, care for black patients averages $1,800 less per year. new technologies ar...",Duplicate record (keeping first occurrence),0.9,REMOVE
+7744,68.0,billions_usd,2020,financial_metric,"e of total postings. global corporate investment in ai was $68 billion in 2020, which is a non-trivi...",Duplicate record (keeping first occurrence),0.9,REMOVE
+7745,4.0,billions_usd,2020,financial_metric,investment over all categories in the us alone was almost $4 trillion in 2020.260 it’s not always ea...,Duplicate record (keeping first occurrence),0.9,REMOVE
+7746,800.0,billions_usd,2024,cost_metric,"a noted that researchers 
+trained nearly 4,800 models using the equivalent of 
+27 years of gpu com...",Duplicate record (keeping first occurrence),0.9,REMOVE
+7747,103.0,billions_usd,2024,cost_metric,equivalent of 27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute mar...,Duplicate record (keeping first occurrence),0.9,REMOVE
+7748,60.0,billions_usd,2024,employment_metric,"ly see technologically-driven mass unemployment. even if 60 jobs remain plentiful, the automation-re...",Duplicate record (keeping first occurrence),0.9,REMOVE
+7749,272.0,number,2024,employment_metric,/www.nber.org/digest/jul18/automation-can-be-response-aging-workforce 272 https://www.scientificamer...,Duplicate record (keeping first occurrence),0.9,REMOVE
+7750,2021.0,number,2021,unknown_metric,"very five years, for at least one hundred years. september 2021 this report, the second in that plan...",Duplicate record (keeping first occurrence),0.9,REMOVE
+7751,2018.0,energy_unit,2018,unknown_metric,"cation,” proceedings of machine learning research 81:1–15, 2018, http://proceedings.mlr.press/v81/bu...",Duplicate record (keeping first occurrence),0.9,REMOVE
+7752,2020.0,percentage,2020,unknown_metric,"from medical misinformation to undermining elections. in 2020, approximately 48.3 percent of the glo...",Duplicate record (keeping first occurrence),0.9,REMOVE
+7753,263.0,billions_usd,2024,revenue_metric,"262 that situation would parallel developments 
+over recent decades like tax cuts and deregulation,...",Duplicate record (keeping first occurrence),0.9,REMOVE
+7754,100.0,number,2024,comparison_metrics,nan,Duplicate record (keeping first occurrence),0.9,REMOVE
+7755,10.1007,percentage,2025,percentages,"artificial systems,” https://link.springer.com/content/ pdf/10.1007%2f978-3-642-32375-1.pdf, page 17...",Duplicate record (keeping first occurrence),0.9,REMOVE
+7756,2.0,percentage,2025,percentages,ational-artifical-intelligence-strategies-and-human-rights%e2%80%94a-review_.pdf 164 steven feldstei...,Duplicate record (keeping first occurrence),0.9,REMOVE
+7757,80.0,percentage,2025,percentages,"ional-artifical-intelligence-strategies-and-human-rights%e2%80%94a-review_.pdf 164 steven feldstein,...",Duplicate record (keeping first occurrence),0.9,REMOVE
+7758,30.0,percentage,2016,percentages,mine if another car is in your blindspot were available in 30% of new cars in 2016 but are in 90% to...,Duplicate record (keeping first occurrence),0.9,REMOVE
+7759,90.0,percentage,2016,percentages,dspot were available in 30% of new cars in 2016 but are in 90% today. page 20 “semi-autonomous appro...,Duplicate record (keeping first occurrence),0.9,REMOVE
+7760,1.5,billions_usd,2025,dollar_amounts,lassified r&d in ai-related technologies was approximately $1.5 billion153—a number dwarfed signific...,Duplicate record (keeping first occurrence),0.9,REMOVE
+7761,9.4,billions_usd,2018,dollar_amounts,"development in 2018 was estimated to be the equivalent of $9.4 billion, supplemented by significant ...",Duplicate record (keeping first occurrence),0.9,REMOVE
+7762,1.5,billions_usd,2020,dollar_amounts,"overnment in research and development is estimated at only $1.5 billion in 2020. second, many resear...",Duplicate record (keeping first occurrence),0.9,REMOVE
+7763,103.0,usd,2025,cost,t of 27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute market price...,Duplicate record (keeping first occurrence),0.9,REMOVE
+7764,350.0,usd,2025,cost,27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute market prices at ...,Duplicate record (keeping first occurrence),0.9,REMOVE
+7765,5.0,billions_usd,2021,dollar_amounts,"emics at carnegie mellon, which went public in 2021 with a $5 billion valuation.193 of course, not a...",Duplicate record (keeping first occurrence),0.9,REMOVE
+7766,1.0,usd,2025,dollar_amounts,"olling for medical needs, care for black patients averages $1,800 less per year. new technologies ar...",Duplicate record (keeping first occurrence),0.9,REMOVE
+7767,68.0,billions_usd,2020,investment,"e of total postings. global corporate investment in ai was $68 billion in 2020, which is a non-trivi...",Duplicate record (keeping first occurrence),0.9,REMOVE
+7768,4.0,usd,2020,investment,investment over all categories in the us alone was almost $4 trillion in 2020.260 it’s not always ea...,Duplicate record (keeping first occurrence),0.9,REMOVE
+7769,103.0,number,2025,cost,equivalent of 27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute mar...,Duplicate record (keeping first occurrence),0.9,REMOVE
+7770,60.0,number,2025,employment,"ly see technologically-driven mass unemployment. even if 60 jobs remain plentiful, the automation-re...",Duplicate record (keeping first occurrence),0.9,REMOVE
+7771,272.0,number,2025,labor_metrics,/www.nber.org/digest/jul18/automation-can-be-response-aging-workforce 272 https://www.scientificamer...,Duplicate record (keeping first occurrence),0.9,REMOVE

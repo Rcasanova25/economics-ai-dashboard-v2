@@ -1,0 +1,944 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence
+125,0.0,millions_usd,2024,employment_metric,"his technology. when smbs – or companies with fewer than 1,000 employees – have implemented gai tech...",Duplicate record (keeping first occurrence),0.9
+126,0.0,millions_usd,2024,employment_metric,"on, medium-sized businesses – those with between 200 and 1,000 employees – have the highest adoption...",Duplicate record (keeping first occurrence),0.9
+128,30.0,percentage,2024,growth_metric,"th other companies. in 2024, hiring for ai technical talent grew 30% faster than overall talent, whi...",Duplicate record (keeping first occurrence),0.9
+130,177.0,percentage,2024,growth_metric,the number of ai literacy skills added by linkedin members increased by 177%. the most frequently ad...,Duplicate record (keeping first occurrence),0.9
+133,15.0,percentage,2023,gdp_metric,"1 trillion 
+in productive capacity, equivalent to 15% of the country’s gdp in 2023",Duplicate record (keeping first occurrence),0.9
+134,18.0,percentage,2023,gdp_metric,"the us is followed by germany ($837 
+billion or 18% of 2023 gdp), india ($621 billion or 18% of 202...",Duplicate record (keeping first occurrence),0.9
+135,837.0,billions_usd,2023,gdp_metric,"the us is followed by germany ($837 
+billion or 18% of 2023 gdp), india ($621 billion or 18% of 202...",Duplicate record (keeping first occurrence),0.9
+136,621.0,billions_usd,2023,gdp_metric,"the us is followed by germany ($837 
+billion or 18% of 2023 gdp), india ($621 billion or 18% of 202...",Duplicate record (keeping first occurrence),0.9
+137,532.0,billions_usd,2023,gdp_metric,"the us is followed by germany ($837 
+billion or 18% of 2023 gdp), india ($621 billion or 18% of 202...",Duplicate record (keeping first occurrence),0.9
+140,41.0,percentage,2024,adoption_metric,"10
+businesses in india and the us lead in gai adoption compared to their 
+european counterparts
+o...",Duplicate record (keeping first occurrence),0.9
+143,25.0,percentage,2024,adoption_metric,"generative ai adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+4...",Duplicate record (keeping first occurrence),0.9
+144,0.0,percentage,2024,adoption_metric,"generative ai adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+4...",Duplicate record (keeping first occurrence),0.9
+145,10.0,percentage,2024,adoption_metric,"generative ai adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+4...",Duplicate record (keeping first occurrence),0.9
+146,20.0,percentage,2024,adoption_metric,"generative ai adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+4...",Duplicate record (keeping first occurrence),0.9
+147,70.0,percentage,2024,adoption_metric,"generative ai adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+4...",Duplicate record (keeping first occurrence),0.9
+150,10.0,percentage,2024,revenue_metric,"three quarters of companies using gai report significant time 
+savings and half report a revenue in...",Duplicate record (keeping first occurrence),0.9
+154,5.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+156,12.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+157,6.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+158,35.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+159,9.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+160,4.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+162,7.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+163,41.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+164,8.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+1443,10.0,percentage,2024,general_rate,ificant time savings and half report a revenue increase of 10% or more. with many companies still at...,Duplicate record (keeping first occurrence),0.9
+1444,70.0,percentage,2024,general_rate,inesses today are using gai for innovation and creativity (70%) than to automate repetitive tasks (6...,Duplicate record (keeping first occurrence),0.9
+1445,60.0,percentage,2024,general_rate,ion and creativity (70%) than to automate repetitive tasks (60%) or simplify processes (54%). busine...,Duplicate record (keeping first occurrence),0.9
+1446,54.0,percentage,2024,general_rate,n to automate repetitive tasks (60%) or simplify processes (54%). business leaders know that the bes...,Duplicate record (keeping first occurrence),0.9
+1447,90.0,percentage,2024,general_rate,eing outpaced by large companies. smbs represent more than 90% of businesses and 50% of workers worl...,Duplicate record (keeping first occurrence),0.9
+1448,15.0,percentage,2023,general_rate,"ocking $4.1 trillion in productive capacity, equivalent to 15% of the country’s gdp in 2023. the us ...",Duplicate record (keeping first occurrence),0.9
+1449,18.0,percentage,2023,general_rate,"dp in 2023. the us is followed by germany ($837 billion or 18% of 2023 gdp), india ($621 billion or ...",Duplicate record (keeping first occurrence),0.9
+1450,41.0,percentage,2024,general_rate,"oduct design, and market research. in india, nearly half (41%) of total productive capacity gains fr...",Duplicate record (keeping first occurrence),0.9
+1451,35.0,percentage,2024,general_rate,"in the manufacturing sector, with germany close behind at 35%. greater innovation and productivity i...",Duplicate record (keeping first occurrence),0.9
+1452,5.0,percentage,2024,general_rate,th and social work manufacturing us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11%...,Duplicate record (keeping first occurrence),0.9
+1453,12.0,percentage,2024,general_rate,social work manufacturing us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12...,Duplicate record (keeping first occurrence),0.9
+1454,6.0,percentage,2024,general_rate,g us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5...,Duplicate record (keeping first occurrence),0.9
+1455,20.0,percentage,2024,general_rate,france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15...,Duplicate record (keeping first occurrence),0.9
+1456,9.0,percentage,2024,general_rate,ce 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17...,Duplicate record (keeping first occurrence),0.9
+1457,4.0,percentage,2024,general_rate,5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 1...,Duplicate record (keeping first occurrence),0.9
+1458,7.0,percentage,2024,general_rate,12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% ...,Duplicate record (keeping first occurrence),0.9
+1459,8.0,percentage,2024,general_rate,% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6 50% 56% 73% early a...,Duplicate record (keeping first occurrence),0.9
+1460,46.0,percentage,2024,general_rate,"ts say they struggle with the pace and volume of work, and 46% feel burned out. using ai tools can h...",Duplicate record (keeping first occurrence),0.9
+1461,25.0,percentage,2024,general_rate,r organization-wide adoption compared to large businesses (25% vs. 20% of large businesses). strateg...,Duplicate record (keeping first occurrence),0.9
+1462,30.0,percentage,2024,general_rate,tion rates by country and business size 52% 56% 42% 36% 44% 30% 68% 63% 42% 42% 48% 25% 36% 34% 24% ...,Duplicate record (keeping first occurrence),0.9
+1463,0.0,percentage,2024,general_rate,52% 56% 42% 36% 44% 30% 68% 63% 42% 42% 48% 25% 36% 34% 24% 0% 10% 20% 30% 40% 50% 60% 70% us german...,Duplicate record (keeping first occurrence),0.9
+1464,1.0,percentage,2024,general_rate,the pool of ai engineering talent is very small – less than 1% of the workforce globally – and many ...,Duplicate record (keeping first occurrence),0.9
+1465,177.0,percentage,2024,general_rate,ai literacy skills added by linkedin members increased by 177%. the most frequently added ai literac...,Duplicate record (keeping first occurrence),0.9
+1466,6.6,billions_usd,2024,financial_metric,"f implemented across all work tasks, gai could unlock up to $6.6 trillion in productive capacity for...",Duplicate record (keeping first occurrence),0.9
+1467,4.1,billions_usd,2024,financial_metric,"rom widespread gai adoption, with gai potentially unlocking $4.1 trillion in productive capacity, eq...",Duplicate record (keeping first occurrence),0.9
+1468,837.0,billions_usd,2023,financial_metric,"f the country’s gdp in 2023. the us is followed by germany ($837 billion or 18% of 2023 gdp), india ...",Duplicate record (keeping first occurrence),0.9
+1469,621.0,billions_usd,2023,financial_metric,"lowed by germany ($837 billion or 18% of 2023 gdp), india ($621 billion or 18% of 2023 gdp), the uk ...",Duplicate record (keeping first occurrence),0.9
+1470,532.0,billions_usd,2023,financial_metric,"2023 gdp), india ($621 billion or 18% of 2023 gdp), the uk ($532 billion or 16% of 2023 gdp), and fr...",Duplicate record (keeping first occurrence),0.9
+1471,0.0,millions_usd,2024,employment_metric,"tandard definition for smbs as businesses with fewer than 1,000 employees. small sized businesses ar...",Duplicate record (keeping first occurrence),0.9
+1472,200.0,millions_usd,2024,employment_metric,mall sized businesses are defined as those with fewer than 200 employees and medium sized businesses...,Duplicate record (keeping first occurrence),0.9
+1473,1000.0,millions_usd,2024,employment_metric,nd medium sized businesses are defined as those with 200 to 1000 employees. 2 chapter 1 the economic...,Duplicate record (keeping first occurrence),0.9
+1474,0.0,millions_usd,2024,employment_metric,"his technology. when smbs – or companies with fewer than 1,000 employees – have implemented gai tech...",Duplicate record (keeping first occurrence),0.9
+1475,0.0,millions_usd,2024,employment_metric,"on, medium-sized businesses – those with between 200 and 1,000 employees – have the highest adoption...",Duplicate record (keeping first occurrence),0.9
+1476,21.0,number,2024,employment_metric,environmental science. recommendations building our future workforce 21 22 case study: transforming ...,Duplicate record (keeping first occurrence),0.9
+1477,30.0,percentage,2024,growth_metric,"th other companies. in 2024, hiring for ai technical talent grew 30% faster than overall talent, whi...",Duplicate record (keeping first occurrence),0.9
+1478,16.0,percentage,2024,growth_metric,"rew 30% faster than overall talent, while supply typically grew by 16% across major economies. as th...",Duplicate record (keeping first occurrence),0.9
+1479,177.0,percentage,2024,growth_metric,the number of ai literacy skills added by linkedin members increased by 177%. the most frequently ad...,Duplicate record (keeping first occurrence),0.9
+1480,20.0,percentage,2018,growth_metric,"oritize these skills, the significance of people skills has increased by 20% since 2018. as they loo...",Duplicate record (keeping first occurrence),0.9
+1481,2025.0,number,2025,unknown_metric,obal economy: unlocking growth and reshaping work april 2025 executive summary generative ai (gai) i...,Duplicate record (keeping first occurrence),0.9
+1482,15.0,percentage,2023,gdp_metric,"1 trillion 
+in productive capacity, equivalent to 15% of the country’s gdp in 2023",Duplicate record (keeping first occurrence),0.9
+1483,18.0,percentage,2023,gdp_metric,"the us is followed by germany ($837 
+billion or 18% of 2023 gdp), india ($621 billion or 18% of 202...",Duplicate record (keeping first occurrence),0.9
+1484,837.0,billions_usd,2023,gdp_metric,"the us is followed by germany ($837 
+billion or 18% of 2023 gdp), india ($621 billion or 18% of 202...",Duplicate record (keeping first occurrence),0.9
+1485,621.0,billions_usd,2023,gdp_metric,"the us is followed by germany ($837 
+billion or 18% of 2023 gdp), india ($621 billion or 18% of 202...",Duplicate record (keeping first occurrence),0.9
+1486,532.0,billions_usd,2023,gdp_metric,"the us is followed by germany ($837 
+billion or 18% of 2023 gdp), india ($621 billion or 18% of 202...",Duplicate record (keeping first occurrence),0.9
+1487,62.0,percentage,2024,adoption_metric,"10
+businesses in india and the us lead in gai adoption compared to their 
+european counterparts
+o...",Duplicate record (keeping first occurrence),0.9
+1488,51.0,percentage,2024,adoption_metric,"10
+businesses in india and the us lead in gai adoption compared to their 
+european counterparts
+o...",Duplicate record (keeping first occurrence),0.9
+1489,41.0,percentage,2024,adoption_metric,"10
+businesses in india and the us lead in gai adoption compared to their 
+european counterparts
+o...",Duplicate record (keeping first occurrence),0.9
+1490,32.0,percentage,2024,adoption_metric,"10
+businesses in india and the us lead in gai adoption compared to their 
+european counterparts
+o...",Duplicate record (keeping first occurrence),0.9
+1491,36.0,percentage,2024,adoption_metric,"generative ai adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+4...",Duplicate record (keeping first occurrence),0.9
+1492,25.0,percentage,2024,adoption_metric,"generative ai adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+4...",Duplicate record (keeping first occurrence),0.9
+1493,0.0,percentage,2024,adoption_metric,"generative ai adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+4...",Duplicate record (keeping first occurrence),0.9
+1494,10.0,percentage,2024,adoption_metric,"generative ai adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+4...",Duplicate record (keeping first occurrence),0.9
+1495,20.0,percentage,2024,adoption_metric,"generative ai adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+4...",Duplicate record (keeping first occurrence),0.9
+1496,70.0,percentage,2024,adoption_metric,"generative ai adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+4...",Duplicate record (keeping first occurrence),0.9
+1497,10.0,billions_usd,2024,adoption_metric,"10
+businesses in india and the us lead in gai adoption compared to their 
+european counterparts
+o...",Duplicate record (keeping first occurrence),0.9
+1498,620.0,billions_usd,2024,adoption_metric,"generative ai adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+4...",Duplicate record (keeping first occurrence),0.9
+1499,10.0,percentage,2024,revenue_metric,"three quarters of companies using gai report significant time 
+savings and half report a revenue in...",Duplicate record (keeping first occurrence),0.9
+1500,24.0,billions_usd,2024,revenue_metric,"businesses using gai are seeing growth 
+and returns in their bottom lines: half 
+of the companies ...",Duplicate record (keeping first occurrence),0.9
+1501,63.0,percentage,2024,labor_metric,"among businesses considering the impact of technology 
+like gai in their workforce planning, 63% pl...",Duplicate record (keeping first occurrence),0.9
+1502,17.0,percentage,2024,training_metric,"in the uk, 17% of the total 
+productive capacity that can be unlocked by gai comes from the educati...",Duplicate record (keeping first occurrence),0.9
+1503,5.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+1504,19.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+1505,12.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+1506,6.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+1507,35.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+1508,9.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+1509,4.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+1510,14.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+1511,7.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+1512,41.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+1513,8.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+1514,22.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+1515,76.0,percentage,2024,training_metric,"time savings from generative ai usage 
+percentage of businesses, %
+76%
+of businesses reported 
+e...",Duplicate record (keeping first occurrence),0.9
+1516,5.0,number,2024,comparison_metrics,nan,Duplicate record (keeping first occurrence),0.9
+1517,83.0,percentage,2024,comparative_metric,"eir 
+balance of resources and agility. compared to small businesses, medium firms have greater acce...",Duplicate record (keeping first occurrence),0.9
+1518,73.0,percentage,2024,comparative_metric,"eir 
+balance of resources and agility. compared to small businesses, medium firms have greater acce...",Duplicate record (keeping first occurrence),0.9
+1525,15.0,percentage,2023,percentages,"ocking $4.1 trillion in productive capacity, equivalent to 15% of the country’s gdp in 2023. the us ...",Duplicate record (keeping first occurrence),0.9
+1526,18.0,percentage,2023,percentages,"dp in 2023. the us is followed by germany ($837 billion or 18% of 2023 gdp), india ($621 billion or ...",Duplicate record (keeping first occurrence),0.9
+1527,18.0,percentage,2023,percentages,"($837 billion or 18% of 2023 gdp), india ($621 billion or 18% of 2023 gdp), the uk ($532 billion or ...",Duplicate record (keeping first occurrence),0.9
+1538,16.0,percentage,2025,percentages,ork manufacturing us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20...,Duplicate record (keeping first occurrence),0.9
+1539,16.0,percentage,2025,percentages,manufacturing us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9%...,Duplicate record (keeping first occurrence),0.9
+1540,19.0,percentage,2025,percentages,facturing us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% ...,Duplicate record (keeping first occurrence),0.9
+1543,6.0,percentage,2025,percentages,s germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 4...,Duplicate record (keeping first occurrence),0.9
+1545,12.0,percentage,2025,percentages,ny india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% ...,Duplicate record (keeping first occurrence),0.9
+1546,12.0,percentage,2025,percentages,ndia uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7...,Duplicate record (keeping first occurrence),0.9
+1547,35.0,percentage,2025,percentages,uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12%...,Duplicate record (keeping first occurrence),0.9
+1553,5.0,percentage,2025,percentages,13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% ...,Duplicate record (keeping first occurrence),0.9
+1554,41.0,percentage,2025,percentages,% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8%...,Duplicate record (keeping first occurrence),0.9
+1555,19.0,percentage,2025,percentages,% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13%...,Duplicate record (keeping first occurrence),0.9
+1556,9.0,percentage,2025,percentages,% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16%...,Duplicate record (keeping first occurrence),0.9
+1557,7.0,percentage,2025,percentages,9% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14...,Duplicate record (keeping first occurrence),0.9
+1558,12.0,percentage,2025,percentages,18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 2...,Duplicate record (keeping first occurrence),0.9
+1560,17.0,percentage,2025,percentages,% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6 50%...,Duplicate record (keeping first occurrence),0.9
+1561,16.0,percentage,2025,percentages,% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6 50% 56%...,Duplicate record (keeping first occurrence),0.9
+1562,20.0,percentage,2025,percentages,% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6 50% 56% 73%...,Duplicate record (keeping first occurrence),0.9
+1563,12.0,percentage,2025,percentages,% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6 50% 56% 73% ear...,Duplicate record (keeping first occurrence),0.9
+1565,13.0,percentage,2025,percentages,0% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6 50% 56% 73% early adop...,Duplicate record (keeping first occurrence),0.9
+1566,16.0,percentage,2025,percentages,% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6 50% 56% 73% early adopters...,Duplicate record (keeping first occurrence),0.9
+1567,14.0,percentage,2025,percentages,14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6 50% 56% 73% early adopters of g...,Duplicate record (keeping first occurrence),0.9
+1569,50.0,percentage,2025,percentages,41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6 50% 56% 73% early adopters of gai are usi...,Duplicate record (keeping first occurrence),0.9
+1572,70.0,percentage,2025,percentages,ore businesses are using gai for innovation and creativity (70%) than to automate repetitive tasks (...,Duplicate record (keeping first occurrence),0.9
+1573,60.0,percentage,2025,employment,on and creativity (70%) than to automate repetitive tasks (60%) or simplify processes (54%)². gai to...,Duplicate record (keeping first occurrence),0.9
+1574,54.0,percentage,2025,employment,to automate repetitive tasks (60%) or simplify processes (54%)². gai tools are helping workers with ...,Duplicate record (keeping first occurrence),0.9
+1579,50.0,percentage,2025,percentages,alization data entry and operational tasks 71% 69% 61% 51% 50% 45% ² access partnership carried out ...,Duplicate record (keeping first occurrence),0.9
+1582,10.0,percentage,2025,revenue,alf of the companies surveyed reported a revenue boost of 10% or more after adopting gai solutions o...,Duplicate record (keeping first occurrence),0.9
+1583,76.0,percentage,2025,percentages,"vings from generative ai usage percentage of businesses, % 76% of businesses reported experiencing s...",Duplicate record (keeping first occurrence),0.9
+1587,90.0,percentage,2025,percentages,"help reduce this stress: users say ai helps them save time (90%), focus on their most important work...",Duplicate record (keeping first occurrence),0.9
+1592,54.0,percentage,2025,percentages,"headcount due to generative ai percentage of businesses, % 54% 52% 49% to drive the generative ai tr...",Duplicate record (keeping first occurrence),0.9
+1595,41.0,percentage,2025,percentages,"ign, when compared to larger businesses. despite this, only 41% of smbs are actively leveraging thes...",Duplicate record (keeping first occurrence),0.9
+1597,83.0,percentage,2025,percentages,ater access to critical resources like high-quality data (83% compared to 73% of small businesses) a...,Duplicate record (keeping first occurrence),0.9
+1598,73.0,percentage,2025,percentages,ritical resources like high-quality data (83% compared to 73% of small businesses) and scalable clou...,Duplicate record (keeping first occurrence),0.9
+1599,85.0,percentage,2025,percentages,3% of small businesses) and scalable cloud infrastructure (85% vs. 71% for small businesses). meanwh...,Duplicate record (keeping first occurrence),0.9
+1600,71.0,percentage,2025,percentages,"all businesses) and scalable cloud infrastructure (85% vs. 71% for small businesses). meanwhile, med...",Duplicate record (keeping first occurrence),0.9
+1602,20.0,percentage,2025,adoption_rate,ization-wide adoption compared to large businesses (25% vs. 20% of large businesses). strategic plan...,Duplicate record (keeping first occurrence),0.9
+1605,51.0,percentage,2025,adoption_rate,"eir european counterparts overall, india (62%) and the us (51%) report the highest adoption rates, f...",Duplicate record (keeping first occurrence),0.9
+1606,41.0,percentage,2025,adoption_rate,"1%) report the highest adoption rates, followed by germany (41%), the uk (40%), and france (32%). in...",Duplicate record (keeping first occurrence),0.9
+1609,52.0,percentage,2025,adoption_rate,. generative ai adoption rates by country and business size 52% 56% 42% 36% 44% 30% 68% 63% 42% 42% ...,Duplicate record (keeping first occurrence),0.9
+1610,56.0,percentage,2025,adoption_rate,nerative ai adoption rates by country and business size 52% 56% 42% 36% 44% 30% 68% 63% 42% 42% 48% ...,Duplicate record (keeping first occurrence),0.9
+1615,68.0,percentage,2025,percentages,rates by country and business size 52% 56% 42% 36% 44% 30% 68% 63% 42% 42% 48% 25% 36% 34% 24% 0% 10...,Duplicate record (keeping first occurrence),0.9
+1616,63.0,percentage,2025,percentages,es by country and business size 52% 56% 42% 36% 44% 30% 68% 63% 42% 42% 48% 25% 36% 34% 24% 0% 10% 2...,Duplicate record (keeping first occurrence),0.9
+1617,42.0,percentage,2025,percentages,y country and business size 52% 56% 42% 36% 44% 30% 68% 63% 42% 42% 48% 25% 36% 34% 24% 0% 10% 20% 3...,Duplicate record (keeping first occurrence),0.9
+1618,42.0,percentage,2025,percentages,untry and business size 52% 56% 42% 36% 44% 30% 68% 63% 42% 42% 48% 25% 36% 34% 24% 0% 10% 20% 30% 4...,Duplicate record (keeping first occurrence),0.9
+1620,6.6,usd,2025,dollar_amounts,potential that gai tools can unlock is substantial: up to $6.6 trillion in productive capacity acros...,Duplicate record (keeping first occurrence),0.9
+1621,6.6,usd,2025,employment,"out their organizations, they could save the equivalent of $6.6 trillion in worker time, which could...",Duplicate record (keeping first occurrence),0.9
+1623,837.0,billions_usd,2023,dollar_amounts,"f the country’s gdp in 2023. the us is followed by germany ($837 billion or 18% of 2023 gdp), india ...",Duplicate record (keeping first occurrence),0.9
+1624,621.0,billions_usd,2023,dollar_amounts,"lowed by germany ($837 billion or 18% of 2023 gdp), india ($621 billion or 18% of 2023 gdp), the uk ...",Duplicate record (keeping first occurrence),0.9
+1625,532.0,billions_usd,2023,dollar_amounts,"2023 gdp), india ($621 billion or 18% of 2023 gdp), the uk ($532 billion or 16% of 2023 gdp), and fr...",Duplicate record (keeping first occurrence),0.9
+1630,0.0,number,2025,adoption_rate,"his technology. when smbs – or companies with fewer than 1,000 employees – have implemented gai tech...",Duplicate record (keeping first occurrence),0.9
+1631,0.0,number,2025,adoption_rate,"on, medium-sized businesses – those with between 200 and 1,000 employees – have the highest adoption...",Duplicate record (keeping first occurrence),0.9
+1633,30.0,percentage,2024,growth_rate,"th other companies. in 2024, hiring for ai technical talent grew 30% faster than overall talent, whi...",Duplicate record (keeping first occurrence),0.9
+1634,16.0,percentage,2025,growth_rate,"rew 30% faster than overall talent, while supply typically grew by 16% across major economies. as th...",Duplicate record (keeping first occurrence),0.9
+1636,20.0,percentage,2018,growth_rate,"oritize these skills, the significance of people skills has increased by 20% since 2018. as they loo...",Duplicate record (keeping first occurrence),0.9
+6196,10.0,percentage,2024,general_rate,ificant time savings and half report a revenue increase of 10% or more. with many companies still at...,Duplicate record (keeping first occurrence),0.9
+6197,70.0,percentage,2024,general_rate,inesses today are using gai for innovation and creativity (70%) than to automate repetitive tasks (6...,Duplicate record (keeping first occurrence),0.9
+6198,60.0,percentage,2024,general_rate,ion and creativity (70%) than to automate repetitive tasks (60%) or simplify processes (54%). busine...,Duplicate record (keeping first occurrence),0.9
+6199,54.0,percentage,2024,general_rate,n to automate repetitive tasks (60%) or simplify processes (54%). business leaders know that the bes...,Duplicate record (keeping first occurrence),0.9
+6200,90.0,percentage,2024,general_rate,eing outpaced by large companies. smbs represent more than 90% of businesses and 50% of workers worl...,Duplicate record (keeping first occurrence),0.9
+6201,15.0,percentage,2023,general_rate,"ocking $4.1 trillion in productive capacity, equivalent to 15% of the country’s gdp in 2023. the us ...",Duplicate record (keeping first occurrence),0.9
+6202,18.0,percentage,2023,general_rate,"dp in 2023. the us is followed by germany ($837 billion or 18% of 2023 gdp), india ($621 billion or ...",Duplicate record (keeping first occurrence),0.9
+6203,41.0,percentage,2024,general_rate,"oduct design, and market research. in india, nearly half (41%) of total productive capacity gains fr...",Duplicate record (keeping first occurrence),0.9
+6204,35.0,percentage,2024,general_rate,"in the manufacturing sector, with germany close behind at 35%. greater innovation and productivity i...",Duplicate record (keeping first occurrence),0.9
+6205,5.0,percentage,2024,general_rate,th and social work manufacturing us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11%...,Duplicate record (keeping first occurrence),0.9
+6206,12.0,percentage,2024,general_rate,social work manufacturing us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12...,Duplicate record (keeping first occurrence),0.9
+6207,6.0,percentage,2024,general_rate,g us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5...,Duplicate record (keeping first occurrence),0.9
+6208,20.0,percentage,2024,general_rate,france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15...,Duplicate record (keeping first occurrence),0.9
+6209,9.0,percentage,2024,general_rate,ce 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17...,Duplicate record (keeping first occurrence),0.9
+6210,4.0,percentage,2024,general_rate,5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 1...,Duplicate record (keeping first occurrence),0.9
+6211,7.0,percentage,2024,general_rate,12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% ...,Duplicate record (keeping first occurrence),0.9
+6212,8.0,percentage,2024,general_rate,% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6 50% 56% 73% early a...,Duplicate record (keeping first occurrence),0.9
+6213,46.0,percentage,2024,general_rate,"ts say they struggle with the pace and volume of work, and 46% feel burned out. using ai tools can h...",Duplicate record (keeping first occurrence),0.9
+6214,25.0,percentage,2024,general_rate,r organization-wide adoption compared to large businesses (25% vs. 20% of large businesses). strateg...,Duplicate record (keeping first occurrence),0.9
+6215,30.0,percentage,2024,general_rate,tion rates by country and business size 52% 56% 42% 36% 44% 30% 68% 63% 42% 42% 48% 25% 36% 34% 24% ...,Duplicate record (keeping first occurrence),0.9
+6216,0.0,percentage,2024,general_rate,52% 56% 42% 36% 44% 30% 68% 63% 42% 42% 48% 25% 36% 34% 24% 0% 10% 20% 30% 40% 50% 60% 70% us german...,Duplicate record (keeping first occurrence),0.9
+6217,1.0,percentage,2024,general_rate,the pool of ai engineering talent is very small – less than 1% of the workforce globally – and many ...,Duplicate record (keeping first occurrence),0.9
+6218,177.0,percentage,2024,general_rate,ai literacy skills added by linkedin members increased by 177%. the most frequently added ai literac...,Duplicate record (keeping first occurrence),0.9
+6219,6.6,billions_usd,2024,financial_metric,"f implemented across all work tasks, gai could unlock up to $6.6 trillion in productive capacity for...",Duplicate record (keeping first occurrence),0.9
+6220,4.1,billions_usd,2024,financial_metric,"rom widespread gai adoption, with gai potentially unlocking $4.1 trillion in productive capacity, eq...",Duplicate record (keeping first occurrence),0.9
+6221,837.0,billions_usd,2023,financial_metric,"f the country’s gdp in 2023. the us is followed by germany ($837 billion or 18% of 2023 gdp), india ...",Duplicate record (keeping first occurrence),0.9
+6222,621.0,billions_usd,2023,financial_metric,"lowed by germany ($837 billion or 18% of 2023 gdp), india ($621 billion or 18% of 2023 gdp), the uk ...",Duplicate record (keeping first occurrence),0.9
+6223,532.0,billions_usd,2023,financial_metric,"2023 gdp), india ($621 billion or 18% of 2023 gdp), the uk ($532 billion or 16% of 2023 gdp), and fr...",Duplicate record (keeping first occurrence),0.9
+6224,0.0,millions_usd,2024,employment_metric,"tandard definition for smbs as businesses with fewer than 1,000 employees. small sized businesses ar...",Duplicate record (keeping first occurrence),0.9
+6225,200.0,millions_usd,2024,employment_metric,mall sized businesses are defined as those with fewer than 200 employees and medium sized businesses...,Duplicate record (keeping first occurrence),0.9
+6226,1000.0,millions_usd,2024,employment_metric,nd medium sized businesses are defined as those with 200 to 1000 employees. 2 chapter 1 the economic...,Duplicate record (keeping first occurrence),0.9
+6227,0.0,millions_usd,2024,employment_metric,"his technology. when smbs – or companies with fewer than 1,000 employees – have implemented gai tech...",Duplicate record (keeping first occurrence),0.9
+6228,0.0,millions_usd,2024,employment_metric,"on, medium-sized businesses – those with between 200 and 1,000 employees – have the highest adoption...",Duplicate record (keeping first occurrence),0.9
+6229,21.0,number,2024,employment_metric,environmental science. recommendations building our future workforce 21 22 case study: transforming ...,Duplicate record (keeping first occurrence),0.9
+6230,30.0,percentage,2024,growth_metric,"th other companies. in 2024, hiring for ai technical talent grew 30% faster than overall talent, whi...",Duplicate record (keeping first occurrence),0.9
+6231,16.0,percentage,2024,growth_metric,"rew 30% faster than overall talent, while supply typically grew by 16% across major economies. as th...",Duplicate record (keeping first occurrence),0.9
+6232,177.0,percentage,2024,growth_metric,the number of ai literacy skills added by linkedin members increased by 177%. the most frequently ad...,Duplicate record (keeping first occurrence),0.9
+6233,20.0,percentage,2018,growth_metric,"oritize these skills, the significance of people skills has increased by 20% since 2018. as they loo...",Duplicate record (keeping first occurrence),0.9
+6234,2025.0,number,2025,unknown_metric,obal economy: unlocking growth and reshaping work april 2025 executive summary generative ai (gai) i...,Duplicate record (keeping first occurrence),0.9
+6235,15.0,percentage,2023,gdp_metric,"1 trillion 
+in productive capacity, equivalent to 15% of the country’s gdp in 2023",Duplicate record (keeping first occurrence),0.9
+6236,18.0,percentage,2023,gdp_metric,"the us is followed by germany ($837 
+billion or 18% of 2023 gdp), india ($621 billion or 18% of 202...",Duplicate record (keeping first occurrence),0.9
+6237,837.0,billions_usd,2023,gdp_metric,"the us is followed by germany ($837 
+billion or 18% of 2023 gdp), india ($621 billion or 18% of 202...",Duplicate record (keeping first occurrence),0.9
+6238,621.0,billions_usd,2023,gdp_metric,"the us is followed by germany ($837 
+billion or 18% of 2023 gdp), india ($621 billion or 18% of 202...",Duplicate record (keeping first occurrence),0.9
+6239,532.0,billions_usd,2023,gdp_metric,"the us is followed by germany ($837 
+billion or 18% of 2023 gdp), india ($621 billion or 18% of 202...",Duplicate record (keeping first occurrence),0.9
+6240,62.0,percentage,2024,adoption_metric,"10
+businesses in india and the us lead in gai adoption compared to their 
+european counterparts
+o...",Duplicate record (keeping first occurrence),0.9
+6241,51.0,percentage,2024,adoption_metric,"10
+businesses in india and the us lead in gai adoption compared to their 
+european counterparts
+o...",Duplicate record (keeping first occurrence),0.9
+6242,41.0,percentage,2024,adoption_metric,"10
+businesses in india and the us lead in gai adoption compared to their 
+european counterparts
+o...",Duplicate record (keeping first occurrence),0.9
+6243,32.0,percentage,2024,adoption_metric,"10
+businesses in india and the us lead in gai adoption compared to their 
+european counterparts
+o...",Duplicate record (keeping first occurrence),0.9
+6244,36.0,percentage,2024,adoption_metric,"generative ai adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+4...",Duplicate record (keeping first occurrence),0.9
+6245,25.0,percentage,2024,adoption_metric,"generative ai adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+4...",Duplicate record (keeping first occurrence),0.9
+6246,0.0,percentage,2024,adoption_metric,"generative ai adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+4...",Duplicate record (keeping first occurrence),0.9
+6247,10.0,percentage,2024,adoption_metric,"generative ai adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+4...",Duplicate record (keeping first occurrence),0.9
+6248,20.0,percentage,2024,adoption_metric,"generative ai adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+4...",Duplicate record (keeping first occurrence),0.9
+6249,70.0,percentage,2024,adoption_metric,"generative ai adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+4...",Duplicate record (keeping first occurrence),0.9
+6250,10.0,billions_usd,2024,adoption_metric,"10
+businesses in india and the us lead in gai adoption compared to their 
+european counterparts
+o...",Duplicate record (keeping first occurrence),0.9
+6251,620.0,billions_usd,2024,adoption_metric,"generative ai adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+4...",Duplicate record (keeping first occurrence),0.9
+6252,10.0,percentage,2024,revenue_metric,"three quarters of companies using gai report significant time 
+savings and half report a revenue in...",Duplicate record (keeping first occurrence),0.9
+6253,24.0,billions_usd,2024,revenue_metric,"businesses using gai are seeing growth 
+and returns in their bottom lines: half 
+of the companies ...",Duplicate record (keeping first occurrence),0.9
+6254,63.0,percentage,2024,labor_metric,"among businesses considering the impact of technology 
+like gai in their workforce planning, 63% pl...",Duplicate record (keeping first occurrence),0.9
+6255,17.0,percentage,2024,training_metric,"in the uk, 17% of the total 
+productive capacity that can be unlocked by gai comes from the educati...",Duplicate record (keeping first occurrence),0.9
+6256,5.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+6257,19.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+6258,12.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+6259,6.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+6260,35.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+6261,9.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+6262,4.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+6263,14.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+6264,7.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+6265,41.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+6266,8.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+6267,22.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+6268,76.0,percentage,2024,training_metric,"time savings from generative ai usage 
+percentage of businesses, %
+76%
+of businesses reported 
+e...",Duplicate record (keeping first occurrence),0.9
+6269,5.0,number,2024,comparison_metrics,nan,Duplicate record (keeping first occurrence),0.9
+6270,83.0,percentage,2024,comparative_metric,"eir 
+balance of resources and agility. compared to small businesses, medium firms have greater acce...",Duplicate record (keeping first occurrence),0.9
+6271,73.0,percentage,2024,comparative_metric,"eir 
+balance of resources and agility. compared to small businesses, medium firms have greater acce...",Duplicate record (keeping first occurrence),0.9
+7538,10.0,percentage,2024,general_rate,ificant time savings and half report a revenue increase of 10% or more. with many companies still at...,Duplicate record (keeping first occurrence),0.9
+7539,70.0,percentage,2024,general_rate,inesses today are using gai for innovation and creativity (70%) than to automate repetitive tasks (6...,Duplicate record (keeping first occurrence),0.9
+7540,60.0,percentage,2024,general_rate,ion and creativity (70%) than to automate repetitive tasks (60%) or simplify processes (54%). busine...,Duplicate record (keeping first occurrence),0.9
+7541,54.0,percentage,2024,general_rate,n to automate repetitive tasks (60%) or simplify processes (54%). business leaders know that the bes...,Duplicate record (keeping first occurrence),0.9
+7542,90.0,percentage,2024,general_rate,eing outpaced by large companies. smbs represent more than 90% of businesses and 50% of workers worl...,Duplicate record (keeping first occurrence),0.9
+7543,15.0,percentage,2023,general_rate,"ocking $4.1 trillion in productive capacity, equivalent to 15% of the country’s gdp in 2023. the us ...",Duplicate record (keeping first occurrence),0.9
+7544,18.0,percentage,2023,general_rate,"dp in 2023. the us is followed by germany ($837 billion or 18% of 2023 gdp), india ($621 billion or ...",Duplicate record (keeping first occurrence),0.9
+7545,41.0,percentage,2024,general_rate,"oduct design, and market research. in india, nearly half (41%) of total productive capacity gains fr...",Duplicate record (keeping first occurrence),0.9
+7546,35.0,percentage,2024,general_rate,"in the manufacturing sector, with germany close behind at 35%. greater innovation and productivity i...",Duplicate record (keeping first occurrence),0.9
+7547,5.0,percentage,2024,general_rate,th and social work manufacturing us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11%...,Duplicate record (keeping first occurrence),0.9
+7548,12.0,percentage,2024,general_rate,social work manufacturing us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12...,Duplicate record (keeping first occurrence),0.9
+7549,6.0,percentage,2024,general_rate,g us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5...,Duplicate record (keeping first occurrence),0.9
+7550,20.0,percentage,2024,general_rate,france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15...,Duplicate record (keeping first occurrence),0.9
+7551,9.0,percentage,2024,general_rate,ce 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17...,Duplicate record (keeping first occurrence),0.9
+7552,4.0,percentage,2024,general_rate,5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 1...,Duplicate record (keeping first occurrence),0.9
+7553,7.0,percentage,2024,general_rate,12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% ...,Duplicate record (keeping first occurrence),0.9
+7554,8.0,percentage,2024,general_rate,% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6 50% 56% 73% early a...,Duplicate record (keeping first occurrence),0.9
+7555,46.0,percentage,2024,general_rate,"ts say they struggle with the pace and volume of work, and 46% feel burned out. using ai tools can h...",Duplicate record (keeping first occurrence),0.9
+7556,25.0,percentage,2024,general_rate,r organization-wide adoption compared to large businesses (25% vs. 20% of large businesses). strateg...,Duplicate record (keeping first occurrence),0.9
+7557,30.0,percentage,2024,general_rate,tion rates by country and business size 52% 56% 42% 36% 44% 30% 68% 63% 42% 42% 48% 25% 36% 34% 24% ...,Duplicate record (keeping first occurrence),0.9
+7558,0.0,percentage,2024,general_rate,52% 56% 42% 36% 44% 30% 68% 63% 42% 42% 48% 25% 36% 34% 24% 0% 10% 20% 30% 40% 50% 60% 70% us german...,Duplicate record (keeping first occurrence),0.9
+7559,1.0,percentage,2024,general_rate,the pool of ai engineering talent is very small – less than 1% of the workforce globally – and many ...,Duplicate record (keeping first occurrence),0.9
+7560,177.0,percentage,2024,general_rate,ai literacy skills added by linkedin members increased by 177%. the most frequently added ai literac...,Duplicate record (keeping first occurrence),0.9
+7561,6.6,billions_usd,2024,financial_metric,"f implemented across all work tasks, gai could unlock up to $6.6 trillion in productive capacity for...",Duplicate record (keeping first occurrence),0.9
+7562,4.1,billions_usd,2024,financial_metric,"rom widespread gai adoption, with gai potentially unlocking $4.1 trillion in productive capacity, eq...",Duplicate record (keeping first occurrence),0.9
+7563,837.0,billions_usd,2023,financial_metric,"f the country’s gdp in 2023. the us is followed by germany ($837 billion or 18% of 2023 gdp), india ...",Duplicate record (keeping first occurrence),0.9
+7564,621.0,billions_usd,2023,financial_metric,"lowed by germany ($837 billion or 18% of 2023 gdp), india ($621 billion or 18% of 2023 gdp), the uk ...",Duplicate record (keeping first occurrence),0.9
+7565,532.0,billions_usd,2023,financial_metric,"2023 gdp), india ($621 billion or 18% of 2023 gdp), the uk ($532 billion or 16% of 2023 gdp), and fr...",Duplicate record (keeping first occurrence),0.9
+7566,0.0,millions_usd,2024,employment_metric,"tandard definition for smbs as businesses with fewer than 1,000 employees. small sized businesses ar...",Duplicate record (keeping first occurrence),0.9
+7567,200.0,millions_usd,2024,employment_metric,mall sized businesses are defined as those with fewer than 200 employees and medium sized businesses...,Duplicate record (keeping first occurrence),0.9
+7568,1000.0,millions_usd,2024,employment_metric,nd medium sized businesses are defined as those with 200 to 1000 employees. 2 chapter 1 the economic...,Duplicate record (keeping first occurrence),0.9
+7569,0.0,millions_usd,2024,employment_metric,"his technology. when smbs – or companies with fewer than 1,000 employees – have implemented gai tech...",Duplicate record (keeping first occurrence),0.9
+7570,0.0,millions_usd,2024,employment_metric,"on, medium-sized businesses – those with between 200 and 1,000 employees – have the highest adoption...",Duplicate record (keeping first occurrence),0.9
+7571,21.0,number,2024,employment_metric,environmental science. recommendations building our future workforce 21 22 case study: transforming ...,Duplicate record (keeping first occurrence),0.9
+7572,30.0,percentage,2024,growth_metric,"th other companies. in 2024, hiring for ai technical talent grew 30% faster than overall talent, whi...",Duplicate record (keeping first occurrence),0.9
+7573,16.0,percentage,2024,growth_metric,"rew 30% faster than overall talent, while supply typically grew by 16% across major economies. as th...",Duplicate record (keeping first occurrence),0.9
+7574,177.0,percentage,2024,growth_metric,the number of ai literacy skills added by linkedin members increased by 177%. the most frequently ad...,Duplicate record (keeping first occurrence),0.9
+7575,20.0,percentage,2018,growth_metric,"oritize these skills, the significance of people skills has increased by 20% since 2018. as they loo...",Duplicate record (keeping first occurrence),0.9
+7576,2025.0,number,2025,unknown_metric,obal economy: unlocking growth and reshaping work april 2025 executive summary generative ai (gai) i...,Duplicate record (keeping first occurrence),0.9
+7577,15.0,percentage,2023,gdp_metric,"1 trillion 
+in productive capacity, equivalent to 15% of the country’s gdp in 2023",Duplicate record (keeping first occurrence),0.9
+7578,18.0,percentage,2023,gdp_metric,"the us is followed by germany ($837 
+billion or 18% of 2023 gdp), india ($621 billion or 18% of 202...",Duplicate record (keeping first occurrence),0.9
+7579,837.0,billions_usd,2023,gdp_metric,"the us is followed by germany ($837 
+billion or 18% of 2023 gdp), india ($621 billion or 18% of 202...",Duplicate record (keeping first occurrence),0.9
+7580,621.0,billions_usd,2023,gdp_metric,"the us is followed by germany ($837 
+billion or 18% of 2023 gdp), india ($621 billion or 18% of 202...",Duplicate record (keeping first occurrence),0.9
+7581,532.0,billions_usd,2023,gdp_metric,"the us is followed by germany ($837 
+billion or 18% of 2023 gdp), india ($621 billion or 18% of 202...",Duplicate record (keeping first occurrence),0.9
+7582,62.0,percentage,2024,adoption_metric,"10
+businesses in india and the us lead in gai adoption compared to their 
+european counterparts
+o...",Duplicate record (keeping first occurrence),0.9
+7583,51.0,percentage,2024,adoption_metric,"10
+businesses in india and the us lead in gai adoption compared to their 
+european counterparts
+o...",Duplicate record (keeping first occurrence),0.9
+7584,41.0,percentage,2024,adoption_metric,"10
+businesses in india and the us lead in gai adoption compared to their 
+european counterparts
+o...",Duplicate record (keeping first occurrence),0.9
+7585,32.0,percentage,2024,adoption_metric,"10
+businesses in india and the us lead in gai adoption compared to their 
+european counterparts
+o...",Duplicate record (keeping first occurrence),0.9
+7586,36.0,percentage,2024,adoption_metric,"generative ai adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+4...",Duplicate record (keeping first occurrence),0.9
+7587,25.0,percentage,2024,adoption_metric,"generative ai adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+4...",Duplicate record (keeping first occurrence),0.9
+7588,0.0,percentage,2024,adoption_metric,"generative ai adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+4...",Duplicate record (keeping first occurrence),0.9
+7589,10.0,percentage,2024,adoption_metric,"generative ai adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+4...",Duplicate record (keeping first occurrence),0.9
+7590,20.0,percentage,2024,adoption_metric,"generative ai adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+4...",Duplicate record (keeping first occurrence),0.9
+7591,70.0,percentage,2024,adoption_metric,"generative ai adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+4...",Duplicate record (keeping first occurrence),0.9
+7592,10.0,billions_usd,2024,adoption_metric,"10
+businesses in india and the us lead in gai adoption compared to their 
+european counterparts
+o...",Duplicate record (keeping first occurrence),0.9
+7593,620.0,billions_usd,2024,adoption_metric,"generative ai adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+4...",Duplicate record (keeping first occurrence),0.9
+7594,10.0,percentage,2024,revenue_metric,"three quarters of companies using gai report significant time 
+savings and half report a revenue in...",Duplicate record (keeping first occurrence),0.9
+7595,24.0,billions_usd,2024,revenue_metric,"businesses using gai are seeing growth 
+and returns in their bottom lines: half 
+of the companies ...",Duplicate record (keeping first occurrence),0.9
+7596,63.0,percentage,2024,labor_metric,"among businesses considering the impact of technology 
+like gai in their workforce planning, 63% pl...",Duplicate record (keeping first occurrence),0.9
+7597,17.0,percentage,2024,training_metric,"in the uk, 17% of the total 
+productive capacity that can be unlocked by gai comes from the educati...",Duplicate record (keeping first occurrence),0.9
+7598,5.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+7599,19.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+7600,12.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+7601,6.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+7602,35.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+7603,9.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+7604,4.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+7605,14.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+7606,7.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+7607,41.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+7608,8.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+7609,22.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Duplicate record (keeping first occurrence),0.9
+7610,76.0,percentage,2024,training_metric,"time savings from generative ai usage 
+percentage of businesses, %
+76%
+of businesses reported 
+e...",Duplicate record (keeping first occurrence),0.9
+7611,5.0,number,2024,comparison_metrics,nan,Duplicate record (keeping first occurrence),0.9
+7612,83.0,percentage,2024,comparative_metric,"eir 
+balance of resources and agility. compared to small businesses, medium firms have greater acce...",Duplicate record (keeping first occurrence),0.9
+7613,73.0,percentage,2024,comparative_metric,"eir 
+balance of resources and agility. compared to small businesses, medium firms have greater acce...",Duplicate record (keeping first occurrence),0.9
+7614,10.0,percentage,2025,revenue,ificant time savings and half report a revenue increase of 10% or more. with many companies still at...,Duplicate record (keeping first occurrence),0.9
+7615,70.0,percentage,2025,percentages,inesses today are using gai for innovation and creativity (70%) than to automate repetitive tasks (6...,Duplicate record (keeping first occurrence),0.9
+7616,60.0,percentage,2025,percentages,ion and creativity (70%) than to automate repetitive tasks (60%) or simplify processes (54%). busine...,Duplicate record (keeping first occurrence),0.9
+7617,54.0,percentage,2025,percentages,n to automate repetitive tasks (60%) or simplify processes (54%). business leaders know that the bes...,Duplicate record (keeping first occurrence),0.9
+7618,90.0,percentage,2025,employment,eing outpaced by large companies. smbs represent more than 90% of businesses and 50% of workers worl...,Duplicate record (keeping first occurrence),0.9
+7619,50.0,percentage,2025,adoption_rate,companies. smbs represent more than 90% of businesses and 50% of workers worldwide. countries that c...,Duplicate record (keeping first occurrence),0.9
+7620,15.0,percentage,2023,percentages,"ocking $4.1 trillion in productive capacity, equivalent to 15% of the country’s gdp in 2023. the us ...",Duplicate record (keeping first occurrence),0.9
+7621,18.0,percentage,2023,percentages,"dp in 2023. the us is followed by germany ($837 billion or 18% of 2023 gdp), india ($621 billion or ...",Duplicate record (keeping first occurrence),0.9
+7622,18.0,percentage,2023,percentages,"($837 billion or 18% of 2023 gdp), india ($621 billion or 18% of 2023 gdp), the uk ($532 billion or ...",Duplicate record (keeping first occurrence),0.9
+7623,16.0,percentage,2023,percentages,"($621 billion or 18% of 2023 gdp), the uk ($532 billion or 16% of 2023 gdp), and france ($523 billio...",Duplicate record (keeping first occurrence),0.9
+7624,17.0,percentage,2023,adoption_rate,"2 billion or 16% of 2023 gdp), and france ($523 billion or 17% of 2023 gdp). 4 the economic gains fr...",Duplicate record (keeping first occurrence),0.9
+7625,41.0,percentage,2025,percentages,"oduct design, and market research. in india, nearly half (41%) of total productive capacity gains fr...",Duplicate record (keeping first occurrence),0.9
+7626,35.0,percentage,2025,productivity,"in the manufacturing sector, with germany close behind at 35%. greater innovation and productivity i...",Duplicate record (keeping first occurrence),0.9
+7627,17.0,percentage,2025,percentages,"work sectors can also greatly benefit from gai. in the uk, 17% of the total productive capacity that...",Duplicate record (keeping first occurrence),0.9
+7628,16.0,percentage,2025,energy,"t of any industry in the country. in the us, this figure is 16%. gai-powered tools can reduce admini...",Duplicate record (keeping first occurrence),0.9
+7629,5.0,percentage,2025,percentages,th and social work manufacturing us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11%...,Duplicate record (keeping first occurrence),0.9
+7630,19.0,percentage,2025,percentages,and social work manufacturing us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12...,Duplicate record (keeping first occurrence),0.9
+7631,12.0,percentage,2025,percentages,social work manufacturing us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12...,Duplicate record (keeping first occurrence),0.9
+7632,13.0,percentage,2025,percentages,al work manufacturing us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35...,Duplicate record (keeping first occurrence),0.9
+7633,16.0,percentage,2025,percentages,ork manufacturing us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20...,Duplicate record (keeping first occurrence),0.9
+7634,16.0,percentage,2025,percentages,manufacturing us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9%...,Duplicate record (keeping first occurrence),0.9
+7635,19.0,percentage,2025,percentages,facturing us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% ...,Duplicate record (keeping first occurrence),0.9
+7636,18.0,percentage,2025,percentages,uring us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% ...,Duplicate record (keeping first occurrence),0.9
+7637,6.0,percentage,2025,percentages,g us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5...,Duplicate record (keeping first occurrence),0.9
+7638,6.0,percentage,2025,percentages,s germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 4...,Duplicate record (keeping first occurrence),0.9
+7639,11.0,percentage,2025,percentages,ermany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% ...,Duplicate record (keeping first occurrence),0.9
+7640,12.0,percentage,2025,percentages,ny india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% ...,Duplicate record (keeping first occurrence),0.9
+7641,12.0,percentage,2025,percentages,ndia uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7...,Duplicate record (keeping first occurrence),0.9
+7642,35.0,percentage,2025,percentages,uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12%...,Duplicate record (keeping first occurrence),0.9
+7643,20.0,percentage,2025,percentages,france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15...,Duplicate record (keeping first occurrence),0.9
+7644,9.0,percentage,2025,percentages,ce 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17...,Duplicate record (keeping first occurrence),0.9
+7645,4.0,percentage,2025,percentages,5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 1...,Duplicate record (keeping first occurrence),0.9
+7646,14.0,percentage,2025,percentages,19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% ...,Duplicate record (keeping first occurrence),0.9
+7647,7.0,percentage,2025,percentages,12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% ...,Duplicate record (keeping first occurrence),0.9
+7648,5.0,percentage,2025,percentages,13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% ...,Duplicate record (keeping first occurrence),0.9
+7649,41.0,percentage,2025,percentages,% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8%...,Duplicate record (keeping first occurrence),0.9
+7650,19.0,percentage,2025,percentages,% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13%...,Duplicate record (keeping first occurrence),0.9
+7651,9.0,percentage,2025,percentages,% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16%...,Duplicate record (keeping first occurrence),0.9
+7652,7.0,percentage,2025,percentages,9% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14...,Duplicate record (keeping first occurrence),0.9
+7653,12.0,percentage,2025,percentages,18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 2...,Duplicate record (keeping first occurrence),0.9
+7654,15.0,percentage,2025,percentages,6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6...,Duplicate record (keeping first occurrence),0.9
+7655,17.0,percentage,2025,percentages,% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6 50%...,Duplicate record (keeping first occurrence),0.9
+7656,16.0,percentage,2025,percentages,% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6 50% 56%...,Duplicate record (keeping first occurrence),0.9
+7657,20.0,percentage,2025,percentages,% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6 50% 56% 73%...,Duplicate record (keeping first occurrence),0.9
+7658,12.0,percentage,2025,percentages,% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6 50% 56% 73% ear...,Duplicate record (keeping first occurrence),0.9
+7659,8.0,percentage,2025,percentages,% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6 50% 56% 73% early a...,Duplicate record (keeping first occurrence),0.9
+7660,13.0,percentage,2025,percentages,0% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6 50% 56% 73% early adop...,Duplicate record (keeping first occurrence),0.9
+7661,16.0,percentage,2025,percentages,% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6 50% 56% 73% early adopters...,Duplicate record (keeping first occurrence),0.9
+7662,14.0,percentage,2025,percentages,14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6 50% 56% 73% early adopters of g...,Duplicate record (keeping first occurrence),0.9
+7663,22.0,percentage,2025,percentages,7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6 50% 56% 73% early adopters of gai a...,Duplicate record (keeping first occurrence),0.9
+7664,50.0,percentage,2025,percentages,41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6 50% 56% 73% early adopters of gai are usi...,Duplicate record (keeping first occurrence),0.9
+7665,56.0,percentage,2025,percentages,19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6 50% 56% 73% early adopters of gai are using t...,Duplicate record (keeping first occurrence),0.9
+7666,73.0,percentage,2025,percentages,9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6 50% 56% 73% early adopters of gai are using the t...,Duplicate record (keeping first occurrence),0.9
+7667,70.0,percentage,2025,percentages,ore businesses are using gai for innovation and creativity (70%) than to automate repetitive tasks (...,Duplicate record (keeping first occurrence),0.9
+7668,60.0,percentage,2025,employment,on and creativity (70%) than to automate repetitive tasks (60%) or simplify processes (54%)². gai to...,Duplicate record (keeping first occurrence),0.9
+7669,54.0,percentage,2025,employment,to automate repetitive tasks (60%) or simplify processes (54%)². gai tools are helping workers with ...,Duplicate record (keeping first occurrence),0.9
+7670,71.0,percentage,2025,percentages,alysis and visualization data entry and operational tasks 71% 69% 61% 51% 50% 45% ² access partnersh...,Duplicate record (keeping first occurrence),0.9
+7671,69.0,percentage,2025,percentages,is and visualization data entry and operational tasks 71% 69% 61% 51% 50% 45% ² access partnership c...,Duplicate record (keeping first occurrence),0.9
+7672,61.0,percentage,2025,percentages,and visualization data entry and operational tasks 71% 69% 61% 51% 50% 45% ² access partnership carr...,Duplicate record (keeping first occurrence),0.9
+7673,51.0,percentage,2025,percentages,visualization data entry and operational tasks 71% 69% 61% 51% 50% 45% ² access partnership carried ...,Duplicate record (keeping first occurrence),0.9
+7674,50.0,percentage,2025,percentages,alization data entry and operational tasks 71% 69% 61% 51% 50% 45% ² access partnership carried out ...,Duplicate record (keeping first occurrence),0.9
+7675,45.0,percentage,2025,percentages,ation data entry and operational tasks 71% 69% 61% 51% 50% 45% ² access partnership carried out a su...,Duplicate record (keeping first occurrence),0.9
+7676,76.0,percentage,2025,adoption_rate,sions and technology adoption decisions. 7 three quarters (76%) of businesses using gai are experien...,Duplicate record (keeping first occurrence),0.9
+7677,10.0,percentage,2025,revenue,alf of the companies surveyed reported a revenue boost of 10% or more after adopting gai solutions o...,Duplicate record (keeping first occurrence),0.9
+7678,76.0,percentage,2025,percentages,"vings from generative ai usage percentage of businesses, % 76% of businesses reported experiencing s...",Duplicate record (keeping first occurrence),0.9
+7679,63.0,percentage,2025,growth_rate,"impact of technology like gai in their workforce planning, 63% plan to increase headcount through hi...",Duplicate record (keeping first occurrence),0.9
+7680,68.0,percentage,2025,percentages,"relief. in a survey of 31,000 people across 31 countries, 68% of respondents say they struggle with ...",Duplicate record (keeping first occurrence),0.9
+7681,46.0,percentage,2025,adoption_rate,"ts say they struggle with the pace and volume of work, and 46% feel burned out. using ai tools can h...",Duplicate record (keeping first occurrence),0.9
+7682,90.0,percentage,2025,percentages,"help reduce this stress: users say ai helps them save time (90%), focus on their most important work...",Duplicate record (keeping first occurrence),0.9
+7683,85.0,percentage,2025,percentages,"them save time (90%), focus on their most important work (85%), be more creative (84%), and enjoy th...",Duplicate record (keeping first occurrence),0.9
+7684,84.0,percentage,2025,percentages,"focus on their most important work (85%), be more creative (84%), and enjoy their work more (83%). s...",Duplicate record (keeping first occurrence),0.9
+7685,83.0,percentage,2025,percentages,"k (85%), be more creative (84%), and enjoy their work more (83%). similarly, a survey conducted by g...",Duplicate record (keeping first occurrence),0.9
+7686,75.0,percentage,2025,percentages,"ilarly, a survey conducted by github found that between 60–75% of software developers reported feeli...",Duplicate record (keeping first occurrence),0.9
+7687,54.0,percentage,2025,percentages,"headcount due to generative ai percentage of businesses, % 54% 52% 49% to drive the generative ai tr...",Duplicate record (keeping first occurrence),0.9
+7688,52.0,percentage,2025,percentages,"count due to generative ai percentage of businesses, % 54% 52% 49% to drive the generative ai transi...",Duplicate record (keeping first occurrence),0.9
+7689,49.0,percentage,2025,percentages,"t due to generative ai percentage of businesses, % 54% 52% 49% to drive the generative ai transition...",Duplicate record (keeping first occurrence),0.9
+7690,41.0,percentage,2025,percentages,"ign, when compared to larger businesses. despite this, only 41% of smbs are actively leveraging thes...",Duplicate record (keeping first occurrence),0.9
+7691,48.0,percentage,2025,percentages,"% of smbs are actively leveraging these tools, compared to 48% of large businesses. medium-sized bus...",Duplicate record (keeping first occurrence),0.9
+7692,83.0,percentage,2025,percentages,ater access to critical resources like high-quality data (83% compared to 73% of small businesses) a...,Duplicate record (keeping first occurrence),0.9
+7693,73.0,percentage,2025,percentages,ritical resources like high-quality data (83% compared to 73% of small businesses) and scalable clou...,Duplicate record (keeping first occurrence),0.9
+7694,85.0,percentage,2025,percentages,3% of small businesses) and scalable cloud infrastructure (85% vs. 71% for small businesses). meanwh...,Duplicate record (keeping first occurrence),0.9
+7695,71.0,percentage,2025,percentages,"all businesses) and scalable cloud infrastructure (85% vs. 71% for small businesses). meanwhile, med...",Duplicate record (keeping first occurrence),0.9
+7696,25.0,percentage,2025,adoption_rate,r organization-wide adoption compared to large businesses (25% vs. 20% of large businesses). strateg...,Duplicate record (keeping first occurrence),0.9
+7697,20.0,percentage,2025,adoption_rate,ization-wide adoption compared to large businesses (25% vs. 20% of large businesses). strategic plan...,Duplicate record (keeping first occurrence),0.9
+7698,38.0,percentage,2025,adoption_rate,among smaller firms through targeted financial incentives. 38% of businesses indicated that creating...,Duplicate record (keeping first occurrence),0.9
+7699,62.0,percentage,2025,adoption_rate,"on compared to their european counterparts overall, india (62%) and the us (51%) report the highest ...",Duplicate record (keeping first occurrence),0.9
+7700,51.0,percentage,2025,adoption_rate,"eir european counterparts overall, india (62%) and the us (51%) report the highest adoption rates, f...",Duplicate record (keeping first occurrence),0.9
+7701,41.0,percentage,2025,adoption_rate,"1%) report the highest adoption rates, followed by germany (41%), the uk (40%), and france (32%). in...",Duplicate record (keeping first occurrence),0.9
+7702,40.0,percentage,2025,adoption_rate,"highest adoption rates, followed by germany (41%), the uk (40%), and france (32%). india is seeing s...",Duplicate record (keeping first occurrence),0.9
+7703,32.0,percentage,2025,adoption_rate,"ates, followed by germany (41%), the uk (40%), and france (32%). india is seeing such high adoption ...",Duplicate record (keeping first occurrence),0.9
+7704,52.0,percentage,2025,adoption_rate,. generative ai adoption rates by country and business size 52% 56% 42% 36% 44% 30% 68% 63% 42% 42% ...,Duplicate record (keeping first occurrence),0.9
+7705,56.0,percentage,2025,adoption_rate,nerative ai adoption rates by country and business size 52% 56% 42% 36% 44% 30% 68% 63% 42% 42% 48% ...,Duplicate record (keeping first occurrence),0.9
+7706,42.0,percentage,2025,adoption_rate,tive ai adoption rates by country and business size 52% 56% 42% 36% 44% 30% 68% 63% 42% 42% 48% 25% ...,Duplicate record (keeping first occurrence),0.9
+7707,36.0,percentage,2025,adoption_rate,ai adoption rates by country and business size 52% 56% 42% 36% 44% 30% 68% 63% 42% 42% 48% 25% 36% 3...,Duplicate record (keeping first occurrence),0.9
+7708,44.0,percentage,2025,adoption_rate,adoption rates by country and business size 52% 56% 42% 36% 44% 30% 68% 63% 42% 42% 48% 25% 36% 34% ...,Duplicate record (keeping first occurrence),0.9
+7709,30.0,percentage,2025,percentages,tion rates by country and business size 52% 56% 42% 36% 44% 30% 68% 63% 42% 42% 48% 25% 36% 34% 24% ...,Duplicate record (keeping first occurrence),0.9
+7710,68.0,percentage,2025,percentages,rates by country and business size 52% 56% 42% 36% 44% 30% 68% 63% 42% 42% 48% 25% 36% 34% 24% 0% 10...,Duplicate record (keeping first occurrence),0.9
+7711,63.0,percentage,2025,percentages,es by country and business size 52% 56% 42% 36% 44% 30% 68% 63% 42% 42% 48% 25% 36% 34% 24% 0% 10% 2...,Duplicate record (keeping first occurrence),0.9
+7712,42.0,percentage,2025,percentages,y country and business size 52% 56% 42% 36% 44% 30% 68% 63% 42% 42% 48% 25% 36% 34% 24% 0% 10% 20% 3...,Duplicate record (keeping first occurrence),0.9
+7713,42.0,percentage,2025,percentages,untry and business size 52% 56% 42% 36% 44% 30% 68% 63% 42% 42% 48% 25% 36% 34% 24% 0% 10% 20% 30% 4...,Duplicate record (keeping first occurrence),0.9
+7714,6.6,usd,2025,adoption_rate,"f implemented across all work tasks, gai could unlock up to $6.6 trillion in productive capacity for...",Duplicate record (keeping first occurrence),0.9
+7715,6.6,usd,2025,dollar_amounts,potential that gai tools can unlock is substantial: up to $6.6 trillion in productive capacity acros...,Duplicate record (keeping first occurrence),0.9
+7716,6.6,usd,2025,employment,"out their organizations, they could save the equivalent of $6.6 trillion in worker time, which could...",Duplicate record (keeping first occurrence),0.9
+7717,4.1,usd,2025,adoption_rate,"rom widespread gai adoption, with gai potentially unlocking $4.1 trillion in productive capacity, eq...",Duplicate record (keeping first occurrence),0.9
+7718,837.0,billions_usd,2023,dollar_amounts,"f the country’s gdp in 2023. the us is followed by germany ($837 billion or 18% of 2023 gdp), india ...",Duplicate record (keeping first occurrence),0.9
+7719,621.0,billions_usd,2023,dollar_amounts,"lowed by germany ($837 billion or 18% of 2023 gdp), india ($621 billion or 18% of 2023 gdp), the uk ...",Duplicate record (keeping first occurrence),0.9
+7720,532.0,billions_usd,2023,dollar_amounts,"2023 gdp), india ($621 billion or 18% of 2023 gdp), the uk ($532 billion or 16% of 2023 gdp), and fr...",Duplicate record (keeping first occurrence),0.9
+7721,523.0,billions_usd,2023,dollar_amounts,"dp), the uk ($532 billion or 16% of 2023 gdp), and france ($523 billion or 17% of 2023 gdp). 4 the e...",Duplicate record (keeping first occurrence),0.9
+7722,0.0,number,2025,labor_metrics,"tandard definition for smbs as businesses with fewer than 1,000 employees. small sized businesses ar...",Duplicate record (keeping first occurrence),0.9
+7723,200.0,number,2025,labor_metrics,mall sized businesses are defined as those with fewer than 200 employees and medium sized businesses...,Duplicate record (keeping first occurrence),0.9
+7724,1000.0,number,2025,labor_metrics,nd medium sized businesses are defined as those with 200 to 1000 employees. 2 chapter 1 the economic...,Duplicate record (keeping first occurrence),0.9
+7725,0.0,number,2025,adoption_rate,"his technology. when smbs – or companies with fewer than 1,000 employees – have implemented gai tech...",Duplicate record (keeping first occurrence),0.9
+7726,0.0,number,2025,adoption_rate,"on, medium-sized businesses – those with between 200 and 1,000 employees – have the highest adoption...",Duplicate record (keeping first occurrence),0.9
+7727,21.0,number,2025,labor_metrics,environmental science. recommendations building our future workforce 21 22 case study: transforming ...,Duplicate record (keeping first occurrence),0.9
+7728,30.0,percentage,2024,growth_rate,"th other companies. in 2024, hiring for ai technical talent grew 30% faster than overall talent, whi...",Duplicate record (keeping first occurrence),0.9
+7729,16.0,percentage,2025,growth_rate,"rew 30% faster than overall talent, while supply typically grew by 16% across major economies. as th...",Duplicate record (keeping first occurrence),0.9
+7730,177.0,percentage,2025,growth_rate,the number of ai literacy skills added by linkedin members increased by 177%. the most frequently ad...,Duplicate record (keeping first occurrence),0.9
+7731,20.0,percentage,2018,growth_rate,"oritize these skills, the significance of people skills has increased by 20% since 2018. as they loo...",Duplicate record (keeping first occurrence),0.9
