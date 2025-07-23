@@ -1,0 +1,16 @@
+SOURCE 14 CLEANUP ANALYSIS SUMMARY
+Generated: 2025-07-23T15:08:39.895157
+
+FILE: nvidia-cost-trends-ai-inference-at-scale.pdf
+Original Records: 38
+
+PROPOSED ACTIONS:
+- Records to KEEP: 5
+- Records to REMOVE: 32
+- Records to MODIFY: 1
+
+Quality Score: 13.16%
+
+Top removal reason: Duplicate record (30 records)
+
+Please review the detailed reports before proceeding with cleanup.

@@ -1,0 +1,65 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence
+958,56.0,percentage,2024,general_rate,"uilt on top of llms, this share increases to between 47 and 56% of all tasks. this finding implies t...",Passed all validation checks,0.85
+960,72.0,percentage,2023,general_rate,"et al.,, 2023), along with wage controls, ranges from 60 to 72%, indicating that 28 to 40% of the va...",Passed all validation checks,0.85
+961,40.0,percentage,2024,general_rate,"wage controls, ranges from 60 to 72%, indicating that 28 to 40% of the variation in our ai exposure ...",Passed all validation checks,0.85
+962,91.1,percentage,2024,general_rate,"𝜁 e1 + e2 79.5% 0.589 gpt-4, rubric 1; gpt-4, rubric 2 𝛼 e1 91.1% 0.611 6/20/25, 12:55 pm [2303.1013...",Passed all validation checks,0.85
+963,30.0,percentage,2024,general_rate,are directly exposed to llms. this figure increases to over 30% for 𝛽 and surpasses 50% for 𝜁. coinc...,Passed all validation checks,0.85
+964,2.3,percentage,2024,general_rate,"asks exposed. for example, human annotators determined that 2.3% of occupations are 𝛼50-exposed, 21....",Passed all validation checks,0.85
+965,21.6,percentage,2024,general_rate,"tators determined that 2.3% of occupations are 𝛼50-exposed, 21.6% are 𝛽50-exposed, and 47.3% are 𝜁50...",Passed all validation checks,0.85
+970,1.0,percentage,2020,general_rate,ly significant as- sociations with llm exposure scores at a 1% level. coefficients on ai scores from...,Passed all validation checks,0.85
+971,5.0,percentage,2020,general_rate,"2020) are also positive and statistically significant at a 5% level, but our secondary prompt on ove...",Passed all validation checks,0.85
+972,30.0,billions_usd,2024,financial_metric,"lso increases, with the median worker in job zone 1 earning $ 30,230 and the median worker in job zo...",Passed all validation checks,0.85
+973,80.0,billions_usd,2024,financial_metric,"arning $ 30,230 and the median worker in job zone 5 earning $ 80,980. all of our measures (𝛼, 𝛽, and...",Passed all validation checks,0.85
+974,38.0,billions_usd,2024,financial_metric,"a orderlies, cus- tomer service rep- resentatives, tellers $38,215 73,962 0.07 0.12 0.16 0.20 0.24 0...",Passed all validation checks,0.85
+975,54.0,billions_usd,2024,financial_metric,"iate’s degree electricians, bar- bers, medical assistants $54,815 37,881 0.11 0.14 0.26 0.32 0.41 0....",Passed all validation checks,0.85
+976,46.0,billions_usd,2024,financial_metric,"0.15 0.21 0.25 0.32 0.34 moderate-term on-the-job training $46,880 31,285 0.09 0.12 0.21 0.25 0.32 0...",Passed all validation checks,0.85
+977,60.0,billions_usd,2024,financial_metric,",970 2,898 0.23 0.34 0.39 0.53 0.55 0.72 associate’s degree $60,360 3,537 0.12 0.14 0.31 0.36 0.49 0...",Passed all validation checks,0.85
+980,3.0,billions_usd,2024,cost_metric,"this paper’s primary contributions are to provide a set of measurements of llm impact po-
+3baumol’s...",Passed all validation checks,0.85
+5972,80.0,percentage,2025,percentages,and gpt-4 classifications. our findings reveal that around 80% of the u.s. workforce could have at l...,Passed all validation checks,0.85
+5973,10.0,percentage,2025,percentages,l that around 80% of the u.s. workforce could have at least 10% of their work tasks affected by the ...,Passed all validation checks,0.85
+5974,19.0,percentage,2025,employment,"affected by the intro- duction of llms, while approximately 19% of workers may see at least 50% of t...",Passed all validation checks,0.85
+5975,50.0,percentage,2025,employment,"f llms, while approximately 19% of workers may see at least 50% of their tasks im- pacted. we do not...",Passed all validation checks,0.85
+5976,15.0,percentage,2025,employment,"h. our analysis suggests that, with access to an llm, about 15% of all worker tasks in the us could ...",Passed all validation checks,0.85
+5977,56.0,percentage,2025,growth_rate,"uilt on top of llms, this share increases to between 47 and 56% of all tasks. this finding implies t...",Passed all validation checks,0.85
+5980,3.0,percentage,2025,employment,tools built upon them. human assessments suggest that only 3% of u.s. workers have over half of thei...,Passed all validation checks,0.85
+5981,49.0,percentage,2025,employment,"ntary technologies, our human estimates indicate that up to 49% of workers could have half or more o...",Passed all validation checks,0.85
+5983,40.0,percentage,2025,percentages,"wage controls, ranges from 60 to 72%, indicating that 28 to 40% of the variation in our ai exposure ...",Passed all validation checks,0.85
+5985,80.8,percentage,2025,percentages,"𝛾 weighting agreement pearson’s gpt-4, rubric 1; human 𝛼 e1 80.8% 0.223 𝛽 e1 + .5*e2 65.6% 0.591 𝜁 e...",Passed all validation checks,0.85
+5986,65.6,percentage,2025,percentages,"rson’s gpt-4, rubric 1; human 𝛼 e1 80.8% 0.223 𝛽 e1 + .5*e2 65.6% 0.591 𝜁 e1 + e2 82.1% 0.654 gpt-4,...",Passed all validation checks,0.85
+5987,82.1,percentage,2025,percentages,"; human 𝛼 e1 80.8% 0.223 𝛽 e1 + .5*e2 65.6% 0.591 𝜁 e1 + e2 82.1% 0.654 gpt-4, rubric 2; human 𝛼 e1 ...",Passed all validation checks,0.85
+5988,81.8,percentage,2025,percentages,".6% 0.591 𝜁 e1 + e2 82.1% 0.654 gpt-4, rubric 2; human 𝛼 e1 81.8% 0.221 𝛽 e1 + .5*e2 65.6% 0.538 𝜁 e...",Passed all validation checks,0.85
+5990,79.5,percentage,2025,percentages,"; human 𝛼 e1 81.8% 0.221 𝛽 e1 + .5*e2 65.6% 0.538 𝜁 e1 + e2 79.5% 0.589 gpt-4, rubric 1; gpt-4, rubr...",Passed all validation checks,0.85
+5991,91.1,percentage,2025,percentages,"𝜁 e1 + e2 79.5% 0.589 gpt-4, rubric 1; gpt-4, rubric 2 𝛼 e1 91.1% 0.611 6/20/25, 12:55 pm [2303.1013...",Passed all validation checks,0.85
+5992,76.0,percentage,2025,percentages,://ar5iv.labs.arxiv.org/html/2303.10130 11/56 𝛽 e1 + .5*e2 76.0% 0.705 𝜁 e1 + e2 82.4% 0.680 table 2...,Passed all validation checks,0.85
+5993,82.4,percentage,2025,percentages,g/html/2303.10130 11/56 𝛽 e1 + .5*e2 76.0% 0.705 𝜁 e1 + e2 82.4% 0.680 table 2: model and human comp...,Passed all validation checks,0.85
+5995,30.0,percentage,2025,growth_rate,are directly exposed to llms. this figure increases to over 30% for 𝛽 and surpasses 50% for 𝜁. coinc...,Passed all validation checks,0.85
+5998,14.0,percentage,2025,percentages,"tally, human and gpt-4 annotations also tag between 15% and 14% of total tasks in the dataset as bei...",Passed all validation checks,0.85
+6002,2.3,percentage,2025,percentages,"asks exposed. for example, human annotators determined that 2.3% of occupations are 𝛼50-exposed, 21....",Passed all validation checks,0.85
+6003,21.6,percentage,2025,percentages,"tators determined that 2.3% of occupations are 𝛼50-exposed, 21.6% are 𝛽50-exposed, and 47.3% are 𝜁50...",Passed all validation checks,0.85
+6004,47.3,percentage,2025,percentages,"of occupations are 𝛼50-exposed, 21.6% are 𝛽50-exposed, and 47.3% are 𝜁50-exposed, where the threshol...",Passed all validation checks,0.85
+6008,0.0,percentage,2025,employment,"er than 50% 𝛽 ex- posure in job zones 1 through 5 have 𝛽 at 0.00% (job zone 1), 6.11% (job zone 2), ...",Passed all validation checks,0.85
+6009,6.11,percentage,2025,employment,"sure in job zones 1 through 5 have 𝛽 at 0.00% (job zone 1), 6.11% (job zone 2), 10.57% (job zone 3),...",Passed all validation checks,0.85
+6010,10.57,percentage,2025,employment,"through 5 have 𝛽 at 0.00% (job zone 1), 6.11% (job zone 2), 10.57% (job zone 3), 34.5% (job zone 4),...",Passed all validation checks,0.85
+6011,34.5,percentage,2025,employment,".00% (job zone 1), 6.11% (job zone 2), 10.57% (job zone 3), 34.5% (job zone 4), and 26.45% (job zone...",Passed all validation checks,0.85
+6012,26.45,percentage,2025,employment,"(job zone 2), 10.57% (job zone 3), 34.5% (job zone 4), and 26.45% (job zone 5), respectively. job zo...",Passed all validation checks,0.85
+6015,60.7,percentage,2025,percentages,"t of occupations. in all regressions, the 𝑅2 ranges between 60.7% (column 3) and 72.8% (column 5). t...",Passed all validation checks,0.85
+6016,72.8,percentage,2025,percentages,"all regressions, the 𝑅2 ranges between 60.7% (column 3) and 72.8% (column 5). this sug- gests that o...",Passed all validation checks,0.85
+6020,30.0,usd,2025,employment,"lso increases, with the median worker in job zone 1 earning $ 30,230 and the median worker in job zo...",Passed all validation checks,0.85
+6021,80.0,usd,2025,employment,"arning $ 30,230 and the median worker in job zone 5 earning $ 80,980. all of our measures (𝛼, 𝛽, and...",Passed all validation checks,0.85
+6023,38.0,usd,2025,dollar_amounts,"a orderlies, cus- tomer service rep- resentatives, tellers $38,215 73,962 0.07 0.12 0.16 0.20 0.24 0...",Passed all validation checks,0.85
+6024,54.0,usd,2025,dollar_amounts,"iate’s degree electricians, bar- bers, medical assistants $54,815 37,881 0.11 0.14 0.26 0.32 0.41 0....",Passed all validation checks,0.85
+6025,77.0,usd,2025,cost,"ase adminis- trators, graphic de- signers, cost estimators $77,345 56,833 0.23 0.18 0.47 0.51 0.71 0...",Passed all validation checks,0.85
+6026,81.0,usd,2025,dollar_amounts,"master’s degree or higher pharmacists, lawyers, astronomers $81,980 21,221 0.23 0.13 0.43 0.45 0.63 ...",Passed all validation checks,0.85
+6028,55.0,usd,2025,dollar_amounts,"$77,440 90,776 0.20 0.16 0.42 0.46 0.63 0.76 apprenticeship $55,995 3,066 0.01 0.02 0.04 0.06 0.07 0...",Passed all validation checks,0.85
+6030,33.0,usd,2025,employment,".16 0.06 0.36 0.38 0.55 0.71 short-term on-the-job training $33,370 66,234 0.11 0.15 0.21 0.25 0.32 ...",Passed all validation checks,0.85
+6031,46.0,usd,2025,employment,"0.15 0.21 0.25 0.32 0.34 moderate-term on-the-job training $46,880 31,285 0.09 0.12 0.21 0.25 0.32 0...",Passed all validation checks,0.85
+6032,48.0,usd,2025,employment,"0.09 0.12 0.21 0.25 0.32 0.38 long-term on-the-job training $48,925 5,070 0.08 0.10 0.18 0.22 0.28 0...",Passed all validation checks,0.85
+6033,31.0,usd,2025,dollar_amounts,"s) h 𝜶 m 𝜶 h 𝜷 m 𝜷 h 𝜻 m 𝜻 no formal educational credential $31,900 36,187 0.05 0.06 0.10 0.10 0.15 ...",Passed all validation checks,0.85
+6034,45.0,usd,2025,dollar_amounts,"0.06 0.10 0.10 0.15 0.15 high school diploma or equivalent $45,470 67,033 0.09 0.13 0.20 0.25 0.31 0...",Passed all validation checks,0.85
+6036,40.0,usd,2025,dollar_amounts,"9,636 0.07 0.15 0.19 0.28 0.31 0.41 some college, no degree $40,970 2,898 0.23 0.34 0.39 0.53 0.55 0...",Passed all validation checks,0.85
+6037,60.0,usd,2025,dollar_amounts,",970 2,898 0.23 0.34 0.39 0.53 0.55 0.72 associate’s degree $60,360 3,537 0.12 0.14 0.31 0.36 0.49 0...",Passed all validation checks,0.85
+6038,78.0,usd,2025,dollar_amounts,"0,360 3,537 0.12 0.14 0.31 0.36 0.49 0.59 bachelor’s degree $78,375 71,698 0.23 0.17 0.47 0.51 0.70 ...",Passed all validation checks,0.85
+6039,79.0,usd,2025,dollar_amounts,"78,375 71,698 0.23 0.17 0.47 0.51 0.70 0.84 master’s degree $79,605 3,216 0.26 0.14 0.46 0.44 0.66 0...",Passed all validation checks,0.85
+6040,82.0,usd,2025,dollar_amounts,"26 0.14 0.46 0.44 0.66 0.74 doctoral or professional degree $82,420 5,290 0.21 0.13 0.41 0.43 0.60 0...",Passed all validation checks,0.85
+6041,0.0,number,2025,employment,"h potential implications for the workforce. there are 3,504,000 workers for whom we lack data on edu...",Passed all validation checks,0.85

@@ -1,0 +1,90 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence
+33,20.0,percentage,2024,general_rate,"service portfolio and accelerating innovation, compared to 20% in the earliest stage. leaders tend t...",Passed all validation checks,0.85
+34,34.0,percentage,2024,general_rate,eated the question once they’d completed the survey. while 34% initially placed their organizations ...,Passed all validation checks,0.85
+37,3.0,percentage,2024,general_rate,"they are seeing value at each stage of ai readiness, from 3% at the earliest “exploring” stage to 96...",Passed all validation checks,0.85
+38,96.0,percentage,2024,general_rate,"i readiness, from 3% at the earliest “exploring” stage to 96% at the most advanced “realizing” stage...",Passed all validation checks,0.85
+44,1.0,percentage,2024,general_rate,"commitment to, ai as critical to the business, compared to 1% at the “exploring” stage (see figure 8...",Passed all validation checks,0.85
+47,6.0,percentage,2024,general_rate,"zing” stage have appointed a chief ai officer, compared to 6% in the “exploring stage”. finally, a c...",Passed all validation checks,0.85
+50,49.0,percentage,2024,general_rate,reported the lowest ai readiness scores in ai governance (49% in the “exploring” and “planning” stag...,Passed all validation checks,0.85
+51,16.0,percentage,2024,general_rate,experimenting with it in select areas of the organization. 16% are at this stage 20+ yrs. average ag...,Passed all validation checks,0.85
+53,8.0,percentage,2024,general_rate,"er. the sector also outperforms the industry average, with 8% reporting consistently high roi from a...",Passed all validation checks,0.85
+56,2.0,percentage,2024,general_rate,28% high 39% low organization and culture 21% 18% 29% 34% 2% 19% high 47% low ai governance 17% 15% ...,Passed all validation checks,0.85
+57,14.0,percentage,2024,general_rate,"ll industries in the “scaling” and “realizing” stage. yet, 14% of healthcare organizations claim the...",Passed all validation checks,0.85
+58,2.48,billions_usd,2024,financial_metric,% see consistently high roi from ai ai spend/month (mean) $2.48m cloud first 18% 61% data and analyt...,Passed all validation checks,0.85
+59,2.22,billions_usd,2024,financial_metric,% see consistently high roi from ai ai spend/month (mean) $2.22m cloud first 20% 53% it functional d...,Passed all validation checks,0.85
+60,1.99,billions_usd,2024,financial_metric,% see consistently high roi from ai ai spend/month (mean) $1.99m cloud first 17% 53% it functional d...,Passed all validation checks,0.85
+61,5.0,billions_usd,2024,financial_metric,the cloud cross-industry average: 69% 13% spend more than $5m on ai per month cross-industry average...,Passed all validation checks,0.85
+62,100.0,billions_usd,2024,financial_metric,nvestment with 23% of manufacturing organizations spending $100k to less than $500k on cloud per mon...,Passed all validation checks,0.85
+63,500.0,billions_usd,2024,financial_metric,"of manufacturing organizations spending $100k to less than $500k on cloud per month, exceeding the 2...",Passed all validation checks,0.85
+64,1956.0,number,2024,unknown_metric,"industry 3 executive summary ai has come a long way since 1956, when john mccarthy first coined the ...",Passed all validation checks,0.85
+65,67.0,percentage,2024,productivity_metric,"overall ai readiness in financial services
+it is promising to see that 67% of working hours in bank...",Passed all validation checks,0.85
+66,30.0,percentage,2024,productivity_metric,"overall ai readiness in financial services
+it is promising to see that 67% of working hours in bank...",Passed all validation checks,0.85
+69,23.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3...",Passed all validation checks,0.85
+76,58.0,percentage,2024,training_metric,"the finance sector is more proactive in enhancing ai implementation, 
+as 58% allocate budgets for a...",Passed all validation checks,0.85
+77,52.0,percentage,2024,training_metric,"the finance sector is more proactive in enhancing ai implementation, 
+as 58% allocate budgets for a...",Passed all validation checks,0.85
+80,39.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implemen...",Passed all validation checks,0.85
+82,44.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implemen...",Passed all validation checks,0.85
+83,22.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implemen...",Passed all validation checks,0.85
+1330,20.0,percentage,2025,percentages,"service portfolio and accelerating innovation, compared to 20% in the earliest stage. leaders tend t...",Passed all validation checks,0.85
+1331,34.0,percentage,2025,percentages,eated the question once they’d completed the survey. while 34% initially placed their organizations ...,Passed all validation checks,0.85
+1332,28.0,percentage,2025,percentages,"anizations at the highest two stages of ai readiness, only 28% still did so after answering all ques...",Passed all validation checks,0.85
+1333,25.0,percentage,2025,percentages,.3 the model yielded an even more conservative view: only 25% fell into the highest two stages of ai...,Passed all validation checks,0.85
+1334,3.0,percentage,2025,percentages,"they are seeing value at each stage of ai readiness, from 3% at the earliest “exploring” stage to 96...",Passed all validation checks,0.85
+1335,96.0,percentage,2025,percentages,"i readiness, from 3% at the earliest “exploring” stage to 96% at the most advanced “realizing” stage...",Passed all validation checks,0.85
+1336,37.0,percentage,2025,growth_rate,wth nearly doubles as organizations report value from ai: 37% at the “realizing” stage prioritize gr...,Passed all validation checks,0.85
+1339,12.0,percentage,2025,percentages,realizing value at each stage of ai readiness 3% exploring 12% planning 23% implementing 61% scaling...,Passed all validation checks,0.85
+1340,23.0,percentage,2025,percentages,ue at each stage of ai readiness 3% exploring 12% planning 23% implementing 61% scaling 96% realizin...,Passed all validation checks,0.85
+1341,61.0,percentage,2025,growth_rate,of ai readiness 3% exploring 12% planning 23% implementing 61% scaling 96% realizing figure 4: focus...,Passed all validation checks,0.85
+1343,100.0,percentage,2025,cost,ealize value from ai efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implem...,Passed all validation checks,0.85
+1344,80.0,percentage,2025,cost,e value from ai efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implementin...,Passed all validation checks,0.85
+1345,60.0,percentage,2025,cost,lue from ai efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implementing pl...,Passed all validation checks,0.85
+1346,40.0,percentage,2025,cost,from ai efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implementing planni...,Passed all validation checks,0.85
+1348,0.0,percentage,2025,cost,efficiency and cost focus growth focus 100% 80% 60% 40% 20% 0% exploring implementing planning reali...,Passed all validation checks,0.85
+1349,1.0,percentage,2025,percentages,"commitment to, ai as critical to the business, compared to 1% at the “exploring” stage (see figure 8...",Passed all validation checks,0.85
+1357,5.0,percentage,2025,percentages,n and commitment to ai 100% 80% 60% 40% 20% 0% 1% exploring 5% planning 21% implementing 81% scaling...,Passed all validation checks,0.85
+1358,21.0,percentage,2025,percentages,ment to ai 100% 80% 60% 40% 20% 0% 1% exploring 5% planning 21% implementing 81% scaling 100% realiz...,Passed all validation checks,0.85
+1359,81.0,percentage,2025,percentages,0% 60% 40% 20% 0% 1% exploring 5% planning 21% implementing 81% scaling 100% realizing conclusion pa...,Passed all validation checks,0.85
+1362,64.0,percentage,2025,percentages,r as they mature in their use of ai. the survey shows that 64% of organizations in the “realizing” s...,Passed all validation checks,0.85
+1363,6.0,percentage,2025,percentages,"zing” stage have appointed a chief ai officer, compared to 6% in the “exploring stage”. finally, a c...",Passed all validation checks,0.85
+1365,36.0,percentage,2025,percentages,e appointed a chief ai officer 64% in the “realizing” stage 36% in the “scaling” stage 18% in the “i...,Passed all validation checks,0.85
+1366,18.0,percentage,2025,percentages,cer 64% in the “realizing” stage 36% in the “scaling” stage 18% in the “implementing” stage 9% in th...,Passed all validation checks,0.85
+1367,9.0,percentage,2025,percentages,36% in the “scaling” stage 18% in the “implementing” stage 9% in the “planning” stage 6% in the “exp...,Passed all validation checks,0.85
+1369,49.0,percentage,2025,percentages,reported the lowest ai readiness scores in ai governance (49% in the “exploring” and “planning” stag...,Passed all validation checks,0.85
+1370,26.0,percentage,2025,percentages,ry reported the highest percentage in the top two stages (26%) compared to the average (22%). it is ...,Passed all validation checks,0.85
+1371,22.0,percentage,2025,percentages,ntage in the top two stages (26%) compared to the average (22%). it is possible that these numbers m...,Passed all validation checks,0.85
+1373,16.0,percentage,2025,percentages,experimenting with it in select areas of the organization. 16% are at this stage 20+ yrs. average ag...,Passed all validation checks,0.85
+1383,31.0,percentage,2025,percentages,5-15 yrs. number of employees 500 to 10k cloud first 31% 61% seeing significant value from ai realiz...,Passed all validation checks,0.85
+1386,52.0,percentage,2025,percentages,n 5-15 yrs. 1k to 10k number of employees cloud first 52% 96% seeing significant value from ai guida...,Passed all validation checks,0.85
+1390,7.0,percentage,2025,percentages,"ics departments where 61% are deploying ai. however, only 7% of organizations in the financial servi...",Passed all validation checks,0.85
+1395,8.0,percentage,2025,percentages,"er. the sector also outperforms the industry average, with 8% reporting consistently high roi from a...",Passed all validation checks,0.85
+1405,53.0,percentage,2025,percentages,h roi from ai ai spend/month (mean) $2.22m cloud first 20% 53% it functional driver for ai manufactu...,Passed all validation checks,0.85
+1409,17.0,percentage,2025,percentages,high roi from ai ai spend/month (mean) $1.99m cloud first 17% 53% it functional driver for ai retail...,Passed all validation checks,0.85
+1412,10.0,percentage,2025,adoption_rate,g functions driving adoption. 21% have a chief ai officer 10% see consistently high roi from ai ai s...,Passed all validation checks,0.85
+1416,24.0,percentage,2025,percentages,exploring planning implementing scaling realizing total 16% 24% 36% 20% 5% 25% high 40% low 13% 21% ...,Passed all validation checks,0.85
+1422,13.0,percentage,2025,percentages,scaling realizing total 16% 24% 36% 20% 5% 25% high 40% low 13% 21% 40% 24% 3% 27% high 34% low fina...,Passed all validation checks,0.85
+1427,27.0,percentage,2025,percentages,otal 16% 24% 36% 20% 5% 25% high 40% low 13% 21% 40% 24% 3% 27% high 34% low financial services 17% ...,Passed all validation checks,0.85
+1430,2.48,usd,2025,dollar_amounts,% see consistently high roi from ai ai spend/month (mean) $2.48m cloud first 18% 61% data and analyt...,Passed all validation checks,0.85
+1431,2.22,usd,2025,dollar_amounts,% see consistently high roi from ai ai spend/month (mean) $2.22m cloud first 20% 53% it functional d...,Passed all validation checks,0.85
+1432,1.99,usd,2025,dollar_amounts,% see consistently high roi from ai ai spend/month (mean) $1.99m cloud first 17% 53% it functional d...,Passed all validation checks,0.85
+1433,1.83,usd,2025,dollar_amounts,% see consistently high roi from ai ai spend/month (mean) $1.83m cloud first 25% 60% marketing funct...,Passed all validation checks,0.85
+1434,5.0,usd,2025,dollar_amounts,the cloud cross-industry average: 69% 13% spend more than $5m on ai per month cross-industry average...,Passed all validation checks,0.85
+1436,100.0,usd,2025,cost,nvestment with 23% of manufacturing organizations spending $100k to less than $500k on cloud per mon...,Passed all validation checks,0.85
+1437,500.0,usd,2025,cost,"of manufacturing organizations spending $100k to less than $500k on cloud per month, exceeding the 2...",Passed all validation checks,0.85

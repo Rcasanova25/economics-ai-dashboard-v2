@@ -1,0 +1,37 @@
+{
+  "source_id": 10,
+  "source_name": "Generative AI at Work.pdf",
+  "timestamp": "2025-07-23T15:06:00.347887",
+  "schema_version": "1.1",
+  "total_records": 298,
+  "kept_records": 58,
+  "removed_records": 233,
+  "modified_records": 7,
+  "duplicate_groups": 66,
+  "duplicates_removed": 232,
+  "removal_reasons": {
+    "Duplicate record": 232,
+    "Citation years should not be metric values": 1
+  },
+  "modification_types": {
+    "general_rate \u2192 productivity_metric": 5,
+    "general_rate \u2192 cost_metric": 1,
+    "general_rate \u2192 employment_metric": 1
+  },
+  "confidence_distribution": {
+    "high": 233,
+    "medium": 65,
+    "low": 0,
+    "high_pct": 78.2,
+    "medium_pct": 21.8,
+    "low_pct": 0.0
+  },
+  "quality_metrics": {
+    "quality_score": 19.46,
+    "issues_found": 240,
+    "removal_rate": 78.19,
+    "modification_rate": 2.35
+  },
+  "top_removal_reason": "Duplicate record",
+  "top_removal_count": 232
+}

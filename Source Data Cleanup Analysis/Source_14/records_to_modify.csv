@@ -1,0 +1,2 @@
+original_id,value,unit,year,current_metric_type,new_metric_type,context_preview,sector,country,company_size,reason,confidence
+944,40.0,percentage,2024,general_rate,productivity_metric,"partner to advance germany’s sovereign ai turn rtx on with 40% off performance day passes 6/20/25, 1...",,,,Reclassify: general_rate → productivity_metric,0.8

@@ -101,7 +101,7 @@ class EnhancedSourceAnalyzer:
         problem_units = ['energy_unit', 'unknown', 'multiple', 'co2_emissions']
         
         for unit, count in unit_dist.head(10).items():
-            warning = " ⚠️ PROBLEMATIC" if unit in problem_units else ""
+            warning = " [WARNING: PROBLEMATIC]" if unit in problem_units else ""
             print(f"  {unit}: {count}{warning}")
             
         # Year distribution
@@ -122,7 +122,7 @@ class EnhancedSourceAnalyzer:
             (self.source_df['value'] == self.source_df['year'])
         ]
         if len(potential_citations) > 0:
-            print(f"  ⚠️  Potential citation years: {len(potential_citations)} records")
+            print(f"  [WARNING] Potential citation years: {len(potential_citations)} records")
             
     def identify_duplicate_groups(self):
         """Identify duplicate groups with enhanced reporting"""
@@ -144,10 +144,13 @@ class EnhancedSourceAnalyzer:
         print(f"  Duplicate groups found: {len(self.duplicate_groups)}")
         print(f"  Total duplicate records: {sum(d['count']-1 for d in self.duplicate_groups.values())}")
         
-        if self.duplicate_groups and len(self.duplicate_groups) <= 5:
-            print("  Examples:")
-            for key, info in list(self.duplicate_groups.items())[:3]:
-                print(f"    {key}: {info['count']} occurrences")
+        if self.duplicate_groups:
+            print("\n  Sample duplicate groups:")
+            for i, ((value, unit, year), info) in enumerate(list(self.duplicate_groups.items())[:3]):
+                print(f"\n  Group {i+1}: value={value}, unit={unit}, year={year}")
+                print(f"    - Total occurrences: {info['count']}")
+                print(f"    - Keeping record ID: {info['first']}")
+                print(f"    - Removing record IDs: {info['duplicates'][:3]}{'...' if len(info['duplicates']) > 3 else ''}")
                 
     def categorize_record(self, idx: int, row: pd.Series):
         """Categorize record with defensive checks and validation"""
@@ -167,14 +170,29 @@ class EnhancedSourceAnalyzer:
             return
             
         # Extract and clean values
-        context = str(row.get('context', '')).lower()
+        context = str(row.get('context', ''))
+        context_lower = context.lower()
         value = float(row['value'])
         unit = str(row['unit'])
         metric_type = str(row['metric_type'])
         year = int(row['year'])
         
+        # CRITICAL: Check for ICT data - MUST BE PRESERVED
+        if self.validator.is_ict_data(context):
+            self.records_to_keep.append({
+                'original_id': idx,
+                'value': value,
+                'unit': unit,
+                'year': year,
+                'metric_type': metric_type,
+                'context_preview': context[:100] + '...' if len(context) > 100 else context,
+                'reason': 'ICT sector data - preserved',
+                'confidence': 0.95
+            })
+            return
+        
         # Check for citation years first
-        if self.validator.detect_citation_year(value, year, context):
+        if self.validator.detect_citation_year(value, year, context_lower):
             self.records_to_remove.append({
                 'original_id': idx,
                 'value': value,
@@ -201,6 +219,7 @@ class EnhancedSourceAnalyzer:
                     'metric_type': metric_type,
                     'context_preview': context[:100] + '...' if len(context) > 100 else context,
                     'reason': 'Duplicate record (keeping first occurrence)',
+                    'kept_record_id': dup_info['first'],  # Add ID of the kept record
                     'confidence': 0.90
                 })
                 self._track_removal_reason('Duplicate record')
@@ -257,10 +276,10 @@ class EnhancedSourceAnalyzer:
                     'sector': self.extract_sector_enhanced(context),
                     'country': '',
                     'company_size': '',
-                    'reason': f'Reclassify: {metric_type} → {new_type}',
+                    'reason': f'Reclassify: {metric_type} -> {new_type}',
                     'confidence': 0.80
                 })
-                self._track_modification_type(f'{metric_type} → {new_type}')
+                self._track_modification_type(f'{metric_type} -> {new_type}')
                 return
                 
         # Record passes all checks

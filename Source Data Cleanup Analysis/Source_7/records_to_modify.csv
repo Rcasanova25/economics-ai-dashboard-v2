@@ -1,0 +1,10 @@
+original_id,value,unit,year,current_metric_type,new_metric_type,context_preview,sector,country,company_size,reason,confidence
+237,47.0,percentage,2024,general_rate,employment_metric,"ty of computation of over 700 occupations, concluding that 47% of total us employment is attributabl...",,,,Reclassify: general_rate -> employment_metric,0.8
+238,9.0,percentage,2022,general_rate,employment_metric,"upations and conclude that across 21 oecd countries, around 9% of jobs are automatable. (lassébie an...",,,,Reclassify: general_rate -> employment_metric,0.8
+239,28.0,percentage,2024,general_rate,employment_metric,"ccupations at highest risk of automation account for about 28% of jobs. more recently, in research f...",,,,Reclassify: general_rate -> employment_metric,0.8
+240,40.0,percentage,2024,general_rate,employment_metric,ts or replaces job roles. the authors conclude that almost 40% of global employment is exposed to ai...,,,,Reclassify: general_rate -> employment_metric,0.8
+241,60.0,percentage,2024,general_rate,employment_metric,"40% of global employment is exposed to ai, rising to around 60% of jobs in advanced economies, owing...",,,,Reclassify: general_rate -> employment_metric,0.8
+251,6.6,percentage,2023,general_rate,adoption_metric,"l firm types found that the overall adoption rate was just 6.6% (zolas et al., 2020[17]). in the eur...",,,,Reclassify: general_rate -> adoption_metric,0.8
+256,85.0,percentage,2024,general_rate,employment_metric,r developing a skilled workforce is a common problem. about 85% of firms responding to an eu-wide su...,,,,Reclassify: general_rate -> employment_metric,0.8
+258,53.0,percentage,2024,general_rate,employment_metric,es hire new staff to help develop ai technologies. between 53% and 64% of enterprises use customised...,technology,,,Reclassify: general_rate -> employment_metric,0.8
+262,2.8,percentage,2024,general_rate,adoption_metric,"ting ai adoption among manufacturers were lack of capital (2.8%), concerns regarding the technology’...",manufacturing,,,Reclassify: general_rate -> adoption_metric,0.8

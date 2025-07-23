@@ -1,0 +1,37 @@
+{
+  "source_id": 7,
+  "source_name": "cost-benefit-analysis-artificial-intelligence-evidence-from-a-field-experiment-on-gpt-4o-1.pdf",
+  "timestamp": "2025-07-23T16:30:25.991726",
+  "schema_version": "1.1",
+  "total_records": 2472,
+  "kept_records": 1097,
+  "removed_records": 1366,
+  "modified_records": 9,
+  "duplicate_groups": 129,
+  "duplicates_removed": 2343,
+  "removal_reasons": {
+    "Duplicate record": 1351,
+    "Citation year extracted as metric value": 8,
+    "Financial units should not appear with employment metrics": 7
+  },
+  "modification_types": {
+    "general_rate -> employment_metric": 7,
+    "general_rate -> adoption_metric": 2
+  },
+  "confidence_distribution": {
+    "high": 2364,
+    "medium": 108,
+    "low": 0,
+    "high_pct": 95.6,
+    "medium_pct": 4.4,
+    "low_pct": 0.0
+  },
+  "quality_metrics": {
+    "quality_score": 44.38,
+    "issues_found": 1375,
+    "removal_rate": 55.26,
+    "modification_rate": 0.36
+  },
+  "top_removal_reason": "Duplicate record",
+  "top_removal_count": 1351
+}

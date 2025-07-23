@@ -1,0 +1,89 @@
+original_id,value,unit,year,metric_type,context_preview,reason,kept_record_id,confidence
+5185,36.0,percentage,2025,percentages,"ntial for deep task-level use in some roles. more broadly, ∼36% of occupations show usage in at leas...",Duplicate record (keeping first occurrence),5180,0.9
+5187,57.0,percentage,2025,percentages,claude to automate or augment tasks (figure 7) we find that 57% of interactions show augmentative pa...,Duplicate record (keeping first occurrence),5181,0.9
+5188,43.0,percentage,2025,percentages,"e patterns (e.g., back-and-forth iteration on a task) while 43% demonstrate automation-focused usage...",Duplicate record (keeping first occurrence),5182,0.9
+5189,36.0,percentage,2025,adoption_rate,ile our empirical usage data shows lower current adoption (∼36% of occupations using ai for at least...,Duplicate record (keeping first occurrence),5180,0.9
+5193,36.0,percentage,2025,percentages,"e highlight that while many occupations see some ai usage (∼36% have at least 25% of tasks), few occ...",Duplicate record (keeping first occurrence),5180,0.9
+5194,25.0,percentage,2025,percentages,"hile many occupations see some ai usage (∼36% have at least 25% of tasks), few occupations exhibit w...",Duplicate record (keeping first occurrence),5186,0.9
+5195,4.0,percentage,2025,percentages,"ns exhibit widespread usage of ai across their tasks (only ∼4% have 75% or more tasks), suggesting a...",Duplicate record (keeping first occurrence),5183,0.9
+5196,75.0,percentage,2025,percentages,"it widespread usage of ai across their tasks (only ∼4% have 75% or more tasks), suggesting ai integr...",Duplicate record (keeping first occurrence),5184,0.9
+5197,4.0,percentage,2025,percentages,at ai task use follows a heavily skewed distribution. only ∼4% of occupations show usage for at leas...,Duplicate record (keeping first occurrence),5183,0.9
+5198,75.0,percentage,2025,percentages,stribution. only ∼4% of occupations show usage for at least 75% of their associated tasks—for exampl...,Duplicate record (keeping first occurrence),5184,0.9
+5199,75.0,percentage,2025,percentages,"s—for example, in foreign language and literature teachers (75% of tasks), we observe ai usage for t...",Duplicate record (keeping first occurrence),5184,0.9
+5202,36.0,percentage,2025,percentages,"rdination. the picture broadens at lower thresholds, where ∼36% of occupations see at least a quarte...",Duplicate record (keeping first occurrence),5180,0.9
+5203,25.0,percentage,2025,percentages,"s with some usage of ai—exemplified by physical therapists (25% of tasks), where we observe ai inter...",Duplicate record (keeping first occurrence),5186,0.9
+5204,57.0,percentage,2025,percentages,"slightly more conversations being labeled as augmentative (57%) than automative (43%). that said, we...",Duplicate record (keeping first occurrence),5181,0.9
+5205,43.0,percentage,2025,percentages,"ations being labeled as augmentative (57%) than automative (43%). that said, we note an important ca...",Duplicate record (keeping first occurrence),5182,0.9
+5206,43.0,percentage,2025,percentages,"r workflow. figure 7: distribution of automative behaviors (43%) where users delegate tasks to ai, a...",Duplicate record (keeping first occurrence),5182,0.9
+5207,57.0,percentage,2025,percentages,"ere users delegate tasks to ai, and augmentative behaviors (57%) where users actively collaborate wi...",Duplicate record (keeping first occurrence),5181,0.9
+5210,57.0,percentage,2025,adoption_rate,"by contrast, our empirical data shows current adoption at ∼57% of occupations using ai for at least ...",Duplicate record (keeping first occurrence),5181,0.9
+5211,10.0,percentage,2025,adoption_rate,rrent adoption at ∼57% of occupations using ai for at least 10% of their tasks—lower than predicted ...,Duplicate record (keeping first occurrence),5209,0.9
+5212,4.0,percentage,2025,percentages,"peaks in software development and technical writing, with ∼4% of occupations showing usage across th...",Duplicate record (keeping first occurrence),5183,0.9
+5213,36.0,percentage,2025,percentages,ons showing usage across three-quarters of their tasks and ∼36% showing usage in at least a quarter ...,Duplicate record (keeping first occurrence),5180,0.9
+5214,43.0,percentage,2025,percentages,their tasks. usage splits nearly evenly between automation (43%) and augmentation (57%) of human cap...,Duplicate record (keeping first occurrence),5182,0.9
+5215,57.0,percentage,2025,percentages,ts nearly evenly between automation (43%) and augmentation (57%) of human capabilities. while these ...,Duplicate record (keeping first occurrence),5181,0.9
+5220,10.0,percentage,2025,percentages,"dataset, and usage relating to coursework comprises only 5-10% of conversations, depending on the ch...",Duplicate record (keeping first occurrence),5209,0.9
+5225,50.0,percentage,2025,percentages,"sociated related tasks dominate the distribution, at nearly 50% of conversations. the second tier co...",Duplicate record (keeping first occurrence),5201,0.9
+5228,15.0,percentage,2025,percentages,"1: most prevalent top-level tasks. each represent less than 15% of conversations, with healthcare se...",Duplicate record (keeping first occurrence),5227,0.9
+5231,11.0,percentage,2025,percentages,"ed by computer systems programming and debugging at roughly 11%. system administration, hardware/- s...",Duplicate record (keeping first occurrence),5200,0.9
+5235,50.0,percentage,2025,percentages,"eparation), with a representation ratio of 1.50, indicating 50% higher usage than expected given its...",Duplicate record (keeping first occurrence),5201,0.9
+5236,20.0,percentage,2025,percentages,"ared to direct assignment. notably, only a small fraction (<20%) of the ∼20k o*net tasks are recover...",Duplicate record (keeping first occurrence),5226,0.9
+11309,36.0,percentage,2025,adoption_rate,"usage of ai extends more broadly across the economy, with ∼36% of occupations using ai for at least ...",Duplicate record (keeping first occurrence),5180,0.9
+11310,57.0,percentage,2025,percentages,"ks. we also analyze how ai is being used for tasks, finding 57% of usage suggests augmentation of hu...",Duplicate record (keeping first occurrence),5181,0.9
+11311,43.0,percentage,2025,percentages,"pabilities (e.g., learning or iterating on an output) while 43% suggests automation (e.g., fulfillin...",Duplicate record (keeping first occurrence),5182,0.9
+11312,4.0,percentage,2025,percentages,ify the depth of ai use within occupations (figure 4) only ∼4% of occupations exhibit ai usage for a...,Duplicate record (keeping first occurrence),5183,0.9
+11313,75.0,percentage,2025,percentages,"re 4) only ∼4% of occupations exhibit ai usage for at least 75% of their tasks, suggesting the poten...",Duplicate record (keeping first occurrence),5184,0.9
+11314,36.0,percentage,2025,percentages,"ntial for deep task-level use in some roles. more broadly, ∼36% of occupations show usage in at leas...",Duplicate record (keeping first occurrence),5180,0.9
+11315,25.0,percentage,2025,percentages,"s. more broadly, ∼36% of occupations show usage in at least 25% of their tasks, indicating that ai h...",Duplicate record (keeping first occurrence),5186,0.9
+11316,57.0,percentage,2025,percentages,claude to automate or augment tasks (figure 7) we find that 57% of interactions show augmentative pa...,Duplicate record (keeping first occurrence),5181,0.9
+11317,43.0,percentage,2025,percentages,"e patterns (e.g., back-and-forth iteration on a task) while 43% demonstrate automation-focused usage...",Duplicate record (keeping first occurrence),5182,0.9
+11318,36.0,percentage,2025,adoption_rate,ile our empirical usage data shows lower current adoption (∼36% of occupations using ai for at least...,Duplicate record (keeping first occurrence),5180,0.9
+11319,39.0,percentage,2024,percentages,", 2024], while a subsequent study in august 2024 found that 39% of working-age us adults had used ge...",Duplicate record (keeping first occurrence),5190,0.9
+11320,37.2,percentage,2025,percentages,"tions show the highest associated ai usage rate, comprising 37.2% of all queries. • arts, design, en...",Duplicate record (keeping first occurrence),5191,0.9
+11321,10.3,percentage,2025,percentages,"ent, sports, and media occupations were second most common (10.3%), likely reflecting the prevalence...",Duplicate record (keeping first occurrence),5192,0.9
+11322,36.0,percentage,2025,percentages,"e highlight that while many occupations see some ai usage (∼36% have at least 25% of tasks), few occ...",Duplicate record (keeping first occurrence),5180,0.9
+11323,25.0,percentage,2025,percentages,"hile many occupations see some ai usage (∼36% have at least 25% of tasks), few occupations exhibit w...",Duplicate record (keeping first occurrence),5186,0.9
+11324,4.0,percentage,2025,percentages,"ns exhibit widespread usage of ai across their tasks (only ∼4% have 75% or more tasks), suggesting a...",Duplicate record (keeping first occurrence),5183,0.9
+11325,75.0,percentage,2025,percentages,"it widespread usage of ai across their tasks (only ∼4% have 75% or more tasks), suggesting ai integr...",Duplicate record (keeping first occurrence),5184,0.9
+11326,4.0,percentage,2025,percentages,at ai task use follows a heavily skewed distribution. only ∼4% of occupations show usage for at leas...,Duplicate record (keeping first occurrence),5183,0.9
+11327,75.0,percentage,2025,percentages,stribution. only ∼4% of occupations show usage for at least 75% of their associated tasks—for exampl...,Duplicate record (keeping first occurrence),5184,0.9
+11328,75.0,percentage,2025,percentages,"s—for example, in foreign language and literature teachers (75% of tasks), we observe ai usage for t...",Duplicate record (keeping first occurrence),5184,0.9
+11329,11.0,percentage,2025,percentages,iting grant proposals or maintaining student records. just ∼11% of occupations show usage for half o...,Duplicate record (keeping first occurrence),5200,0.9
+11330,50.0,percentage,2025,percentages,"more of their tasks, as illustrated by marketing managers (50% of tasks) where we see ai usage in ta...",Duplicate record (keeping first occurrence),5201,0.9
+11331,36.0,percentage,2025,percentages,"rdination. the picture broadens at lower thresholds, where ∼36% of occupations see at least a quarte...",Duplicate record (keeping first occurrence),5180,0.9
+11332,25.0,percentage,2025,percentages,"s with some usage of ai—exemplified by physical therapists (25% of tasks), where we observe ai inter...",Duplicate record (keeping first occurrence),5186,0.9
+11333,57.0,percentage,2025,percentages,"slightly more conversations being labeled as augmentative (57%) than automative (43%). that said, we...",Duplicate record (keeping first occurrence),5181,0.9
+11334,43.0,percentage,2025,percentages,"ations being labeled as augmentative (57%) than automative (43%). that said, we note an important ca...",Duplicate record (keeping first occurrence),5182,0.9
+11335,43.0,percentage,2025,percentages,"r workflow. figure 7: distribution of automative behaviors (43%) where users delegate tasks to ai, a...",Duplicate record (keeping first occurrence),5182,0.9
+11336,57.0,percentage,2025,percentages,"ere users delegate tasks to ai, and augmentative behaviors (57%) where users actively collaborate wi...",Duplicate record (keeping first occurrence),5181,0.9
+11337,80.0,percentage,2023,employment,highest-wage sectors. eloundou et al. [2023] predicted that 80% of u.s. workers could have at least ...,Duplicate record (keeping first occurrence),5208,0.9
+11338,10.0,percentage,2025,employment,023] predicted that 80% of u.s. workers could have at least 10% of their work tasks affected by lang...,Duplicate record (keeping first occurrence),5209,0.9
+11339,57.0,percentage,2025,adoption_rate,"by contrast, our empirical data shows current adoption at ∼57% of occupations using ai for at least ...",Duplicate record (keeping first occurrence),5181,0.9
+11340,10.0,percentage,2025,adoption_rate,rrent adoption at ∼57% of occupations using ai for at least 10% of their tasks—lower than predicted ...,Duplicate record (keeping first occurrence),5209,0.9
+11341,4.0,percentage,2025,percentages,"peaks in software development and technical writing, with ∼4% of occupations showing usage across th...",Duplicate record (keeping first occurrence),5183,0.9
+11342,36.0,percentage,2025,percentages,ons showing usage across three-quarters of their tasks and ∼36% showing usage in at least a quarter ...,Duplicate record (keeping first occurrence),5180,0.9
+11343,43.0,percentage,2025,percentages,their tasks. usage splits nearly evenly between automation (43%) and augmentation (57%) of human cap...,Duplicate record (keeping first occurrence),5182,0.9
+11344,57.0,percentage,2025,percentages,ts nearly evenly between automation (43%) and augmentation (57%) of human capabilities. while these ...,Duplicate record (keeping first occurrence),5181,0.9
+11345,0.1,percentage,2025,percentages,"our analyses, we filtered out these classifications as only 0.1% of conversations were labeled none....",Duplicate record (keeping first occurrence),5216,0.9
+11346,54.0,percentage,2025,percentages,ious task categories. our sample consisted of approximately 54% claude 3.5 sonnet (new) conversation...,Duplicate record (keeping first occurrence),5217,0.9
+11347,46.0,percentage,2025,percentages,approximately 54% claude 3.5 sonnet (new) conversations and 46% claude 3 opus conversations. b.7 val...,Duplicate record (keeping first occurrence),5218,0.9
+11348,23.0,percentage,2025,percentages,"reening, we found that non-work conversations only comprise 23% of the dataset, and usage relating t...",Duplicate record (keeping first occurrence),5219,0.9
+11349,10.0,percentage,2025,percentages,"dataset, and usage relating to coursework comprises only 5-10% of conversations, depending on the ch...",Duplicate record (keeping first occurrence),5209,0.9
+11350,95.3,percentage,2025,percentages,"ssigned at each level of the hierarchy: • at the top level, 95.3% of conversations are judged as ass...",Duplicate record (keeping first occurrence),5221,0.9
+11351,91.3,percentage,2025,percentages,"d as assigned to an acceptable task. • at the middle level, 91.3% of conversations are judged as ass...",Duplicate record (keeping first occurrence),5222,0.9
+11352,86.0,percentage,2025,percentages,"ssigned to an acceptable task. • at the base (o*net) level, 86% of conversations are judged as assig...",Duplicate record (keeping first occurrence),5223,0.9
+11353,90.7,percentage,2025,percentages,the best categorization for each conversation. we find that 90.7% of conversations are assigned to t...,Duplicate record (keeping first occurrence),5224,0.9
+11354,50.0,percentage,2025,percentages,"sociated related tasks dominate the distribution, at nearly 50% of conversations. the second tier co...",Duplicate record (keeping first occurrence),5201,0.9
+11355,20.0,percentage,2025,percentages,"t, culture, and religious artifacts making up approximately 20% of conversations. business managemen...",Duplicate record (keeping first occurrence),5226,0.9
+11356,15.0,percentage,2025,percentages,service operations form the third major category at around 15% of conversations. the remaining categ...,Duplicate record (keeping first occurrence),5227,0.9
+11357,15.0,percentage,2025,percentages,"1: most prevalent top-level tasks. each represent less than 15% of conversations, with healthcare se...",Duplicate record (keeping first occurrence),5227,0.9
+11358,5.0,percentage,2025,percentages,ronmental systems showing lower representation at less than 5% each. at the middle-level (figure 12)...,Duplicate record (keeping first occurrence),5229,0.9
+11359,14.0,percentage,2025,percentages,"website maintenance is the most prevalent activity at about 14% of conversations, followed by comput...",Duplicate record (keeping first occurrence),5230,0.9
+11360,11.0,percentage,2025,percentages,"ed by computer systems programming and debugging at roughly 11%. system administration, hardware/- s...",Duplicate record (keeping first occurrence),5200,0.9
+11361,6.0,percentage,2025,percentages,"oting, and document publishing processes each account for 4-6% of conversations. marketing/promotion...",Duplicate record (keeping first occurrence),5232,0.9
+11362,3.0,percentage,2025,percentages,lations management appear but at lower frequencies around 2-3% each. data science and machine learni...,Duplicate record (keeping first occurrence),5233,0.9
+11363,2.0,percentage,2025,percentages,e and machine learning applications represent approximately 2% of conversations. at the base-level (...,Duplicate record (keeping first occurrence),5234,0.9
+11364,50.0,percentage,2025,percentages,"eparation), with a representation ratio of 1.50, indicating 50% higher usage than expected given its...",Duplicate record (keeping first occurrence),5201,0.9
+11365,20.0,percentage,2025,percentages,"ared to direct assignment. notably, only a small fraction (<20%) of the ∼20k o*net tasks are recover...",Duplicate record (keeping first occurrence),5226,0.9
+11366,50.0,usd,2025,dollar_amounts,"age is highest for occupations with a median salary between $50,000 and $125,000. figure 21: number ...",Duplicate record (keeping first occurrence),5237,0.9
+11367,125.0,usd,2025,dollar_amounts,"st for occupations with a median salary between $50,000 and $125,000. figure 21: number of occupatio...",Duplicate record (keeping first occurrence),5238,0.9

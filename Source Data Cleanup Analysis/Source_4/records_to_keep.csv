@@ -1,0 +1,138 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence
+98,60.0,percentage,2024,general_rate,ion and creativity (70%) than to automate repetitive tasks (60%) or simplify processes (54%). busine...,Passed all validation checks,0.85
+99,54.0,percentage,2024,general_rate,n to automate repetitive tasks (60%) or simplify processes (54%). business leaders know that the bes...,Passed all validation checks,0.85
+102,18.0,percentage,2023,general_rate,"dp in 2023. the us is followed by germany ($837 billion or 18% of 2023 gdp), india ($621 billion or ...",Passed all validation checks,0.85
+105,5.0,percentage,2024,general_rate,th and social work manufacturing us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11%...,Passed all validation checks,0.85
+106,12.0,percentage,2024,general_rate,social work manufacturing us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12...,Passed all validation checks,0.85
+107,6.0,percentage,2024,general_rate,g us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5...,Passed all validation checks,0.85
+108,20.0,percentage,2024,general_rate,france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15...,Passed all validation checks,0.85
+109,9.0,percentage,2024,general_rate,ce 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17...,Passed all validation checks,0.85
+110,4.0,percentage,2024,general_rate,5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 1...,Passed all validation checks,0.85
+111,7.0,percentage,2024,general_rate,12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% ...,Passed all validation checks,0.85
+115,30.0,percentage,2024,general_rate,tion rates by country and business size 52% 56% 42% 36% 44% 30% 68% 63% 42% 42% 48% 25% 36% 34% 24% ...,Passed all validation checks,0.85
+116,0.0,percentage,2024,general_rate,52% 56% 42% 36% 44% 30% 68% 63% 42% 42% 48% 25% 36% 34% 24% 0% 10% 20% 30% 40% 50% 60% 70% us german...,Passed all validation checks,0.85
+118,177.0,percentage,2024,general_rate,ai literacy skills added by linkedin members increased by 177%. the most frequently added ai literac...,Passed all validation checks,0.85
+119,6.6,billions_usd,2024,financial_metric,"f implemented across all work tasks, gai could unlock up to $6.6 trillion in productive capacity for...",Passed all validation checks,0.85
+120,4.1,billions_usd,2024,financial_metric,"rom widespread gai adoption, with gai potentially unlocking $4.1 trillion in productive capacity, eq...",Passed all validation checks,0.85
+121,837.0,billions_usd,2023,financial_metric,"f the country’s gdp in 2023. the us is followed by germany ($837 billion or 18% of 2023 gdp), india ...",Passed all validation checks,0.85
+122,621.0,billions_usd,2023,financial_metric,"lowed by germany ($837 billion or 18% of 2023 gdp), india ($621 billion or 18% of 2023 gdp), the uk ...",Passed all validation checks,0.85
+123,532.0,billions_usd,2023,financial_metric,"2023 gdp), india ($621 billion or 18% of 2023 gdp), the uk ($532 billion or 16% of 2023 gdp), and fr...",Passed all validation checks,0.85
+129,21.0,number,2024,employment_metric,environmental science. recommendations building our future workforce 21 22 case study: transforming ...,Passed all validation checks,0.85
+131,16.0,percentage,2024,growth_metric,"rew 30% faster than overall talent, while supply typically grew by 16% across major economies. as th...",Passed all validation checks,0.85
+133,20.0,percentage,2018,growth_metric,"oritize these skills, the significance of people skills has increased by 20% since 2018. as they loo...",Passed all validation checks,0.85
+140,62.0,percentage,2024,adoption_metric,"10
+businesses in india and the us lead in gai adoption compared to their 
+european counterparts
+o...",Passed all validation checks,0.85
+141,51.0,percentage,2024,adoption_metric,"10
+businesses in india and the us lead in gai adoption compared to their 
+european counterparts
+o...",Passed all validation checks,0.85
+143,32.0,percentage,2024,adoption_metric,"10
+businesses in india and the us lead in gai adoption compared to their 
+european counterparts
+o...",Passed all validation checks,0.85
+144,36.0,percentage,2024,adoption_metric,"generative ai adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+4...",Passed all validation checks,0.85
+153,24.0,billions_usd,2024,revenue_metric,"businesses using gai are seeing growth 
+and returns in their bottom lines: half 
+of the companies ...",Passed all validation checks,0.85
+154,63.0,percentage,2024,labor_metric,"among businesses considering the impact of technology 
+like gai in their workforce planning, 63% pl...",Passed all validation checks,0.85
+155,17.0,percentage,2024,training_metric,"in the uk, 17% of the total 
+productive capacity that can be unlocked by gai comes from the educati...",Passed all validation checks,0.85
+157,19.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Passed all validation checks,0.85
+163,14.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Passed all validation checks,0.85
+167,22.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Passed all validation checks,0.85
+168,76.0,percentage,2024,training_metric,"time savings from generative ai usage 
+percentage of businesses, %
+76%
+of businesses reported 
+e...",Passed all validation checks,0.85
+169,5.0,number,2024,comparison_metrics,nan,Passed all validation checks,0.85
+170,83.0,percentage,2024,comparative_metric,"eir 
+balance of resources and agility. compared to small businesses, medium firms have greater acce...",Passed all validation checks,0.85
+171,73.0,percentage,2024,comparative_metric,"eir 
+balance of resources and agility. compared to small businesses, medium firms have greater acce...",Passed all validation checks,0.85
+1536,10.0,percentage,2025,revenue,ificant time savings and half report a revenue increase of 10% or more. with many companies still at...,Passed all validation checks,0.85
+1537,70.0,percentage,2025,percentages,inesses today are using gai for innovation and creativity (70%) than to automate repetitive tasks (6...,Passed all validation checks,0.85
+1538,60.0,percentage,2025,percentages,ion and creativity (70%) than to automate repetitive tasks (60%) or simplify processes (54%). busine...,Passed all validation checks,0.85
+1539,54.0,percentage,2025,percentages,n to automate repetitive tasks (60%) or simplify processes (54%). business leaders know that the bes...,Passed all validation checks,0.85
+1540,90.0,percentage,2025,employment,eing outpaced by large companies. smbs represent more than 90% of businesses and 50% of workers worl...,Passed all validation checks,0.85
+1541,50.0,percentage,2025,adoption_rate,companies. smbs represent more than 90% of businesses and 50% of workers worldwide. countries that c...,Passed all validation checks,0.85
+1545,16.0,percentage,2023,percentages,"($621 billion or 18% of 2023 gdp), the uk ($532 billion or 16% of 2023 gdp), and france ($523 billio...",Passed all validation checks,0.85
+1546,17.0,percentage,2023,adoption_rate,"2 billion or 16% of 2023 gdp), and france ($523 billion or 17% of 2023 gdp). 4 the economic gains fr...",Passed all validation checks,0.85
+1547,41.0,percentage,2025,percentages,"oduct design, and market research. in india, nearly half (41%) of total productive capacity gains fr...",Passed all validation checks,0.85
+1548,35.0,percentage,2025,productivity,"in the manufacturing sector, with germany close behind at 35%. greater innovation and productivity i...",Passed all validation checks,0.85
+1549,17.0,percentage,2025,percentages,"work sectors can also greatly benefit from gai. in the uk, 17% of the total productive capacity that...",Passed all validation checks,0.85
+1550,16.0,percentage,2025,energy,"t of any industry in the country. in the us, this figure is 16%. gai-powered tools can reduce admini...",Passed all validation checks,0.85
+1551,5.0,percentage,2025,percentages,th and social work manufacturing us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11%...,Passed all validation checks,0.85
+1552,19.0,percentage,2025,percentages,and social work manufacturing us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12...,Passed all validation checks,0.85
+1553,12.0,percentage,2025,percentages,social work manufacturing us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12...,Passed all validation checks,0.85
+1554,13.0,percentage,2025,percentages,al work manufacturing us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35...,Passed all validation checks,0.85
+1558,18.0,percentage,2025,percentages,uring us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% ...,Passed all validation checks,0.85
+1559,6.0,percentage,2025,percentages,g us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5...,Passed all validation checks,0.85
+1561,11.0,percentage,2025,percentages,ermany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% ...,Passed all validation checks,0.85
+1565,20.0,percentage,2025,percentages,france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15...,Passed all validation checks,0.85
+1566,9.0,percentage,2025,percentages,ce 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17...,Passed all validation checks,0.85
+1567,4.0,percentage,2025,percentages,5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 1...,Passed all validation checks,0.85
+1568,14.0,percentage,2025,percentages,19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% ...,Passed all validation checks,0.85
+1569,7.0,percentage,2025,percentages,12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% ...,Passed all validation checks,0.85
+1576,15.0,percentage,2025,percentages,6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6...,Passed all validation checks,0.85
+1581,8.0,percentage,2025,percentages,% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6 50% 56% 73% early a...,Passed all validation checks,0.85
+1585,22.0,percentage,2025,percentages,7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6 50% 56% 73% early adopters of gai a...,Passed all validation checks,0.85
+1587,56.0,percentage,2025,percentages,19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6 50% 56% 73% early adopters of gai are using t...,Passed all validation checks,0.85
+1588,73.0,percentage,2025,percentages,9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6 50% 56% 73% early adopters of gai are using the t...,Passed all validation checks,0.85
+1592,71.0,percentage,2025,percentages,alysis and visualization data entry and operational tasks 71% 69% 61% 51% 50% 45% ² access partnersh...,Passed all validation checks,0.85
+1593,69.0,percentage,2025,percentages,is and visualization data entry and operational tasks 71% 69% 61% 51% 50% 45% ² access partnership c...,Passed all validation checks,0.85
+1594,61.0,percentage,2025,percentages,and visualization data entry and operational tasks 71% 69% 61% 51% 50% 45% ² access partnership carr...,Passed all validation checks,0.85
+1595,51.0,percentage,2025,percentages,visualization data entry and operational tasks 71% 69% 61% 51% 50% 45% ² access partnership carried ...,Passed all validation checks,0.85
+1597,45.0,percentage,2025,percentages,ation data entry and operational tasks 71% 69% 61% 51% 50% 45% ² access partnership carried out a su...,Passed all validation checks,0.85
+1598,76.0,percentage,2025,adoption_rate,sions and technology adoption decisions. 7 three quarters (76%) of businesses using gai are experien...,Passed all validation checks,0.85
+1601,63.0,percentage,2025,growth_rate,"impact of technology like gai in their workforce planning, 63% plan to increase headcount through hi...",Passed all validation checks,0.85
+1602,68.0,percentage,2025,percentages,"relief. in a survey of 31,000 people across 31 countries, 68% of respondents say they struggle with ...",Passed all validation checks,0.85
+1603,46.0,percentage,2025,adoption_rate,"ts say they struggle with the pace and volume of work, and 46% feel burned out. using ai tools can h...",Passed all validation checks,0.85
+1605,85.0,percentage,2025,percentages,"them save time (90%), focus on their most important work (85%), be more creative (84%), and enjoy th...",Passed all validation checks,0.85
+1606,84.0,percentage,2025,percentages,"focus on their most important work (85%), be more creative (84%), and enjoy their work more (83%). s...",Passed all validation checks,0.85
+1607,83.0,percentage,2025,percentages,"k (85%), be more creative (84%), and enjoy their work more (83%). similarly, a survey conducted by g...",Passed all validation checks,0.85
+1608,75.0,percentage,2025,percentages,"ilarly, a survey conducted by github found that between 60–75% of software developers reported feeli...",Passed all validation checks,0.85
+1610,52.0,percentage,2025,percentages,"count due to generative ai percentage of businesses, % 54% 52% 49% to drive the generative ai transi...",Passed all validation checks,0.85
+1611,49.0,percentage,2025,percentages,"t due to generative ai percentage of businesses, % 54% 52% 49% to drive the generative ai transition...",Passed all validation checks,0.85
+1613,48.0,percentage,2025,percentages,"% of smbs are actively leveraging these tools, compared to 48% of large businesses. medium-sized bus...",Passed all validation checks,0.85
+1618,25.0,percentage,2025,adoption_rate,r organization-wide adoption compared to large businesses (25% vs. 20% of large businesses). strateg...,Passed all validation checks,0.85
+1620,38.0,percentage,2025,adoption_rate,among smaller firms through targeted financial incentives. 38% of businesses indicated that creating...,Passed all validation checks,0.85
+1621,62.0,percentage,2025,adoption_rate,"on compared to their european counterparts overall, india (62%) and the us (51%) report the highest ...",Passed all validation checks,0.85
+1624,40.0,percentage,2025,adoption_rate,"highest adoption rates, followed by germany (41%), the uk (40%), and france (32%). india is seeing s...",Passed all validation checks,0.85
+1625,32.0,percentage,2025,adoption_rate,"ates, followed by germany (41%), the uk (40%), and france (32%). india is seeing such high adoption ...",Passed all validation checks,0.85
+1628,42.0,percentage,2025,adoption_rate,tive ai adoption rates by country and business size 52% 56% 42% 36% 44% 30% 68% 63% 42% 42% 48% 25% ...,Passed all validation checks,0.85
+1629,36.0,percentage,2025,adoption_rate,ai adoption rates by country and business size 52% 56% 42% 36% 44% 30% 68% 63% 42% 42% 48% 25% 36% 3...,Passed all validation checks,0.85
+1630,44.0,percentage,2025,adoption_rate,adoption rates by country and business size 52% 56% 42% 36% 44% 30% 68% 63% 42% 42% 48% 25% 36% 34% ...,Passed all validation checks,0.85
+1631,30.0,percentage,2025,percentages,tion rates by country and business size 52% 56% 42% 36% 44% 30% 68% 63% 42% 42% 48% 25% 36% 34% 24% ...,Passed all validation checks,0.85
+1636,6.6,usd,2025,adoption_rate,"f implemented across all work tasks, gai could unlock up to $6.6 trillion in productive capacity for...",Passed all validation checks,0.85
+1639,4.1,usd,2025,adoption_rate,"rom widespread gai adoption, with gai potentially unlocking $4.1 trillion in productive capacity, eq...",Passed all validation checks,0.85
+1643,523.0,billions_usd,2023,dollar_amounts,"dp), the uk ($532 billion or 16% of 2023 gdp), and france ($523 billion or 17% of 2023 gdp). 4 the e...",Passed all validation checks,0.85
+1644,0.0,number,2025,labor_metrics,"tandard definition for smbs as businesses with fewer than 1,000 employees. small sized businesses ar...",Passed all validation checks,0.85
+1645,200.0,number,2025,labor_metrics,mall sized businesses are defined as those with fewer than 200 employees and medium sized businesses...,Passed all validation checks,0.85
+1646,1000.0,number,2025,labor_metrics,nd medium sized businesses are defined as those with 200 to 1000 employees. 2 chapter 1 the economic...,Passed all validation checks,0.85
+1649,21.0,number,2025,labor_metrics,environmental science. recommendations building our future workforce 21 22 case study: transforming ...,Passed all validation checks,0.85
+1652,177.0,percentage,2025,growth_rate,the number of ai literacy skills added by linkedin members increased by 177%. the most frequently ad...,Passed all validation checks,0.85

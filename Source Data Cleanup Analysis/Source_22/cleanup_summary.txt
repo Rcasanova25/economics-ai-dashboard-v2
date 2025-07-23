@@ -1,0 +1,16 @@
+SOURCE 22 CLEANUP ANALYSIS SUMMARY
+Generated: 2025-07-23T15:13:06.226596
+
+FILE: The Productivity Puzzle_ AI, Technology Adoption and the Workforce _ Richmond Fed.pdf
+Original Records: 4
+
+PROPOSED ACTIONS:
+- Records to KEEP: 2
+- Records to REMOVE: 2
+- Records to MODIFY: 0
+
+Quality Score: 50.0%
+
+Top removal reason: Duplicate record (2 records)
+
+Please review the detailed reports before proceeding with cleanup.

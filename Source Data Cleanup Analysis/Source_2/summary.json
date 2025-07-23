@@ -1,0 +1,36 @@
+{
+  "source_id": 2,
+  "source_name": "AI strategy.pdf",
+  "timestamp": "2025-07-23T13:45:27.261751",
+  "schema_version": "1.1",
+  "total_records": 420,
+  "kept_records": 71,
+  "removed_records": 336,
+  "modified_records": 13,
+  "duplicate_groups": 84,
+  "duplicates_removed": 336,
+  "removal_reasons": {
+    "Duplicate record": 336
+  },
+  "modification_types": {
+    "general_rate \u2192 adoption_metric": 11,
+    "general_rate \u2192 employment_metric": 1,
+    "general_rate \u2192 productivity_metric": 1
+  },
+  "confidence_distribution": {
+    "high": 336,
+    "medium": 84,
+    "low": 0,
+    "high_pct": 80.0,
+    "medium_pct": 20.0,
+    "low_pct": 0.0
+  },
+  "quality_metrics": {
+    "quality_score": 16.9,
+    "issues_found": 349,
+    "removal_rate": 80.0,
+    "modification_rate": 3.1
+  },
+  "top_removal_reason": "Duplicate record",
+  "top_removal_count": 336
+}

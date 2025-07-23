@@ -1,0 +1,41 @@
+{
+  "source_id": 17,
+  "source_name": "Acemoglu_Macroeconomics-of-AI_May-2024.pdf",
+  "timestamp": "2025-07-23T15:12:58.386813",
+  "schema_version": "1.1",
+  "total_records": 5356,
+  "kept_records": 791,
+  "removed_records": 4510,
+  "modified_records": 55,
+  "duplicate_groups": 874,
+  "duplicates_removed": 4482,
+  "removal_reasons": {
+    "Duplicate record": 4470,
+    "Citation year extracted as metric value": 20,
+    "Financial units should not appear with employment metrics": 13,
+    "Invalid unit 'billions_usd' for adoption_metric": 4,
+    "Unexpected unit 'multiple' for cost_metric": 2,
+    "Zero employment with specific numbers in context": 1
+  },
+  "modification_types": {
+    "general_rate \u2192 employment_metric": 25,
+    "general_rate \u2192 adoption_metric": 20,
+    "general_rate \u2192 productivity_metric": 10
+  },
+  "confidence_distribution": {
+    "high": 4508,
+    "medium": 848,
+    "low": 0,
+    "high_pct": 84.2,
+    "medium_pct": 15.8,
+    "low_pct": 0.0
+  },
+  "quality_metrics": {
+    "quality_score": 14.77,
+    "issues_found": 4565,
+    "removal_rate": 84.2,
+    "modification_rate": 1.03
+  },
+  "top_removal_reason": "Duplicate record",
+  "top_removal_count": 4470
+}

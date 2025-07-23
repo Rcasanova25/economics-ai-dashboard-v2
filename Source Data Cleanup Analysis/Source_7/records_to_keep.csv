@@ -1,0 +1,1108 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence
+242,1.9,percentage,2017,general_rate,r of survey) country manufacturing ict source canada 1.9% 20.4% statistics canada (2017) germany 2.2...,ICT sector data - preserved,0.95
+243,20.4,percentage,2017,general_rate,survey) country manufacturing ict source canada 1.9% 20.4% statistics canada (2017) germany 2.2-11.0...,ICT sector data - preserved,0.95
+244,11.0,percentage,2017,general_rate,canada 1.9% 20.4% statistics canada (2017) germany 2.2-11.0% (depending on the subsector) 18.3% zew ...,Passed all validation checks,0.85
+245,18.3,percentage,2022,general_rate,"da (2017) germany 2.2-11.0% (depending on the subsector) 18.3% zew (rammer, fernández and czarnitzki...",Passed all validation checks,0.85
+246,33.0,percentage,2023,general_rate,"ammer, fernández and czarnitzki, 2022[13]). germany 9.0% 33% destatis (destatis, 2023[14]) sweden 3....",Passed all validation checks,0.85
+247,3.5,percentage,2024,general_rate,"germany 9.0% 33% destatis (destatis, 2023[14]) sweden 3.5% 22.7% statistics sweden (2024) (data from...",Passed all validation checks,0.85
+248,22.7,percentage,2024,general_rate,"ny 9.0% 33% destatis (destatis, 2023[14]) sweden 3.5% 22.7% statistics sweden (2024) (data from 2019...",Passed all validation checks,0.85
+249,15.0,percentage,2024,general_rate,"om 60 countries, the oecd ai observatory shows that around 15% of ai-related policies specifically t...",Passed all validation checks,0.85
+250,4.0,percentage,2024,general_rate,"arget small and medium-sized enterprises (smes) (with some 4% aiming at large firms) (oecd, 2024[15]...",Passed all validation checks,0.85
+252,8.0,percentage,2024,general_rate,"nology, both at around 15%. the european union average was 8%. italy and france had shares of 5% and...",Passed all validation checks,0.85
+253,5.0,percentage,2023,general_rate,"opean union average was 8%. italy and france had shares of 5% and 6%, respectively (eurostat, 2023[1...",Passed all validation checks,0.85
+254,5.8,percentage,2022,general_rate,"udy in 2019, covering all firms in germany, found that only 5.8% used ai (rammer, fernández and czar...",Passed all validation checks,0.85
+255,13.0,percentage,2022,general_rate,"czarnitzki, 2022[13]). in brazil, a 2021 survey showed that 13% of companies use some type of ai (br...",Passed all validation checks,0.85
+257,70.0,percentage,2024,general_rate,opt and develop ai. most use several mechanisms. more than 70% of enterprises in both manufacturing ...,ICT sector data - preserved,0.95
+259,2.4,percentage,2024,general_rate,"f turnover) go toward ai-related labour, and the other 27% (2.4% of turnover) go to ai technologies....",Passed all validation checks,0.85
+260,100.0,percentage,2018,general_rate,"2018, annual ai patent applications increased by more than 100%, rising from 30 000 to more than 60 ...",Passed all validation checks,0.85
+261,1.5,percentage,2018,general_rate,"ge differences across countries, ranging from a low of just 1.5 % of all firms in korea in 2017 to 1...",Passed all validation checks,0.85
+263,1.0,percentage,2024,general_rate,"rprises in the sample – 78% – use such a solution, and only 1% were unfamiliar with the technology (...",Passed all validation checks,0.85
+264,0.0,percentage,2024,general_rate,intelligence? • the enterprise does not spend on r&d • 0% • between 1 % and 10% • between 11% and 30...,Passed all validation checks,0.85
+265,0.0,percentage,2024,general_rate,important considerations can 50-249 ict 19 (63.3%) 0 (0.0%) 11 (36.7%) manufacturing 22 (73.3%) 2 (6...,ICT sector data - preserved,0.95
+266,0.0,percentage,2024,general_rate,%) 9 (30.0%) 12 (40.0%) deu 50-249 ict 17 (56.7%) 0 (0.0%) 13 (43.3%) manufacturing 13 (43.3%) 4 (13...,ICT sector data - preserved,0.95
+267,0.0,percentage,2024,general_rate,%) 6 (20.0%) 20 (66.7%) fra 50-249 ict 21 (70.0%) 0 (0.0%) 9 (30.0%) manufacturing 26 (86.7%) 0 (0.0...,ICT sector data - preserved,0.95
+268,0.0,percentage,2024,general_rate,%) 0 (0.0%) 9 (30.0%) manufacturing 26 (86.7%) 0 (0.0%) 4 (13.3%) 250+ ict 18 (60.0%) 0 (0.0%) 12 (4...,ICT sector data - preserved,0.95
+269,0.0,percentage,2024,general_rate,(86.7%) 0 (0.0%) 4 (13.3%) 250+ ict 18 (60.0%) 0 (0.0%) 12 (40.0%) manufacturing 15 (50.0%) 1 (3.3%)...,ICT sector data - preserved,0.95
+270,0.0,percentage,2024,general_rate,(60.0%) 5 (16.7%) 7 (23.3%) 250+ ict 16 (53.3%) 0 (0.0%) 14 (46.7%) manufacturing 8 (26.7%) 3 (10.0%...,ICT sector data - preserved,0.95
+271,0.0,percentage,2024,general_rate,%) 3 (10.0%) 19 (63.3%) ita 50-249 ict 14 (46.7%) 0 (0.0%) 16 (53.3%) manufacturing 10 (33.3%) 8 (26...,ICT sector data - preserved,0.95
+272,0.0,percentage,2024,general_rate,%) 6 (20.0%) 15 (50.0%) jpn 50-249 ict 19 (63.3%) 0 (0.0%) 11 (36.7%) manufacturing 22 (73.3%) 3 (10...,ICT sector data - preserved,0.95
+273,0.0,percentage,2024,general_rate,(73.3%) 3 (10.0%) 5 (16.7%) 250+ ict 25 (83.3%) 0 (0.0%) 5 (16.7%) manufacturing 17 (56.7%) 1 (3.3%)...,ICT sector data - preserved,0.95
+274,0.0,percentage,2024,general_rate,7%) 1 (3.3%) 12 (40.0%) usa 50-249 ict 19 (63.3%) 0 (0.0%) 11 (36.7%) manufacturing 9 (30.0%) 8 (26....,ICT sector data - preserved,0.95
+275,0.0,percentage,2020,general_rate,2000- 2010 2010- 2020 after 2020 can 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.7%) 3 (10.0%) 4 (13....,ICT sector data - preserved,0.95
+276,0.0,percentage,2020,general_rate,2010- 2020 after 2020 can 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.7%) 3 (10.0%) 4 (13.3%) 13 (43....,ICT sector data - preserved,0.95
+277,0.0,percentage,2020,general_rate,after 2020 can 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.7%) 3 (10.0%) 4 (13.3%) 13 (43.3%) 8 (26.7,ICT sector data - preserved,0.95
+281,0.0,percentage,2024,general_rate,3.3%) 0 (0.0%) 7 (23.3%) 8 (26.7%) 12 (40.0%) 0 (0.0%) 250+ ict 1 (3.3%) 3 (10.0%) 0 (0.0%) 1 (3.,ICT sector data - preserved,0.95
+282,0.0,percentage,2024,general_rate,.0%) 0 (0.0%) 250+ ict 1 (3.3%) 3 (10.0%) 0 (0.0%) 1 (3.3%) 2 (6.7%) 4 (13.3%) 13 (43.3%) 6 (20.0,ICT sector data - preserved,0.95
+284,0.0,percentage,2024,general_rate,13.3%) 4 (13.3%) 9 (30.0%) 4 (13.3%) 2 (6.7%) 0 (0.0%) deu 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 0,ICT sector data - preserved,0.95
+285,0.0,percentage,2024,general_rate,4 (13.3%) 2 (6.7%) 0 (0.0%) deu 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 1 (3.3%) 7 (23.3%,ICT sector data - preserved,0.95
+286,0.0,percentage,2024,general_rate,2 (6.7%) 0 (0.0%) deu 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 1 (3.3%) 7 (23.3%) 15 (50.0,ICT sector data - preserved,0.95
+287,0.0,percentage,2024,general_rate,0 (0.0%) deu 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 1 (3.3%) 7 (23.3%) 15 (50.0%) 7 (23.3,ICT sector data - preserved,0.95
+288,0.0,percentage,2024,general_rate,deu 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 1 (3.3%) 7 (23.3%) 15 (50.0%) 7 (23.3%) 0 (0.0%,ICT sector data - preserved,0.95
+292,0.0,percentage,2024,general_rate,.0%) 3 (10.0%) 1 (3.3%) 250+ ict 1 (3.3%) 0 (0.0%) 5 (16.7%) 1 (3.3%) 7 (23.3%) 6 (20.0%) 2 (6.7%,ICT sector data - preserved,0.95
+293,0.0,percentage,2024,general_rate,(6.7%) 3 (10.0%) 3 (10.0%) 4 (13.3%) 2 (6.7%) 0 (0.0%) fra 50-249 ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 1,ICT sector data - preserved,0.95
+294,0.0,percentage,2024,general_rate,4 (13.3%) 2 (6.7%) 0 (0.0%) fra 50-249 ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 1 (3.3%) 9 (30.0%) 7 (23.3%,ICT sector data - preserved,0.95
+295,0.0,percentage,2024,general_rate,2 (6.7%) 0 (0.0%) fra 50-249 ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 1 (3.3%) 9 (30.0%) 7 (23.3%) 7 (23.3%,ICT sector data - preserved,0.95
+300,0.0,percentage,2024,general_rate,0.0%) 1 (3.3%) 8 (26.7%) 8 (26.7%) 12 (40.0%) 0 (0.0%) 250+ ict 2 (6.7%) 0 (0.0%) 1 (3.3%) 1 (3.,ICT sector data - preserved,0.95
+301,0.0,percentage,2024,general_rate,7%) 12 (40.0%) 0 (0.0%) 250+ ict 2 (6.7%) 0 (0.0%) 1 (3.3%) 1 (3.3%) 6 (20.0%) 6 (20.0%) 5 (16.7%,ICT sector data - preserved,0.95
+303,0.0,percentage,2024,general_rate,4 (13.3%) 5 (16.7%) 2 (6.7%) gbr 50-249 ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 7 (23.3%) 4 (13.3%) 3 (10.0%,ICT sector data - preserved,0.95
+304,0.0,percentage,2024,general_rate,5 (16.7%) 2 (6.7%) gbr 50-249 ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 7 (23.3%) 4 (13.3%) 3 (10.0%) 8 (26.7%,ICT sector data - preserved,0.95
+306,0.0,percentage,2024,general_rate,0.0%) 1 (3.3%) 2 (6.7%) 4 (13.3%) 6 (20.0%) 0 (0.0%) 6 (20.0%) 7 (23.3%) 1 (3.3%) 250+ ict 5 (16.7,ICT sector data - preserved,0.95
+307,0.0,percentage,2024,general_rate,.3%) 1 (3.3%) 250+ ict 5 (16.7%) 1 (3.3%) 0 (0.0%) 1 (3.3%) 7 (23.3%) 8 (26.7%) 3 (10.0%) 5 (16.7%,ICT sector data - preserved,0.95
+309,0.0,percentage,2024,general_rate,10.0%) 4 (13.3%) 3 (10.0%) 2 (6.7%) 3 (10.0%) 0 (0.0%) ita 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2,ICT sector data - preserved,0.95
+310,0.0,percentage,2024,general_rate,2 (6.7%) 3 (10.0%) 0 (0.0%) ita 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.7%) 2 (6.7%) 8 (26.7%,ICT sector data - preserved,0.95
+311,0.0,percentage,2024,general_rate,3 (10.0%) 0 (0.0%) ita 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.7%) 2 (6.7%) 8 (26.7%) 11 (36.7,ICT sector data - preserved,0.95
+312,0.0,percentage,2024,general_rate,0 (0.0%) ita 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.7%) 2 (6.7%) 8 (26.7%) 11 (36.7%) 7 (23.3,ICT sector data - preserved,0.95
+314,0.0,percentage,2024,general_rate,13.3%) 4 (13.3%) 5 (16.7%) 6 (20.0%) 3 (10.0%) 0 (0.0%) 250+ ict 1 (3.3%) 0 (0.0%) 0 (0.0%) 3 (10.,ICT sector data - preserved,0.95
+315,0.0,percentage,2024,general_rate,.0%) 3 (10.0%) 0 (0.0%) 250+ ict 1 (3.3%) 0 (0.0%) 0 (0.0%) 3 (10.0%) 8 (26.7%) 9 (30.0%) 5 (16.7%,ICT sector data - preserved,0.95
+316,0.0,percentage,2024,general_rate,.0%) 0 (0.0%) 250+ ict 1 (3.3%) 0 (0.0%) 0 (0.0%) 3 (10.0%) 8 (26.7%) 9 (30.0%) 5 (16.7%) 4 (13.3%,ICT sector data - preserved,0.95
+318,0.0,percentage,2024,general_rate,3 (10.0%) 7 (23.3%) 1 (3.3%) jpn 50-249 ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 3 (10.0%) 4 (13.3%) 9 (30.0%,ICT sector data - preserved,0.95
+319,0.0,percentage,2024,general_rate,7 (23.3%) 1 (3.3%) jpn 50-249 ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 3 (10.0%) 4 (13.3%) 9 (30.0%) 7 (23.3%,ICT sector data - preserved,0.95
+323,0.0,percentage,2024,general_rate,3.3%) 2 (6.7%) 2 (6.7%) 12 (40.0%) 8 (26.7%) 0 (0.0%) 250+ ict 3 (10.0%) 1 (3.3%) 3 (10.0%) 4 (13.,ICT sector data - preserved,0.95
+325,0.0,percentage,2024,general_rate,3.3%) 2 (6.7%) 1 (3.3%) 4 (13.3%) 4 (13.3%) 0 (0.0%) 0 (0.0%) usa 50-249 ict 0 (0.0%) 1 (3.3%) 0,ICT sector data - preserved,0.95
+326,0.0,percentage,2024,general_rate,(6.7%) 1 (3.3%) 4 (13.3%) 4 (13.3%) 0 (0.0%) 0 (0.0%) usa 50-249 ict 0 (0.0%) 1 (3.3%) 0 (0.0%) 0,ICT sector data - preserved,0.95
+327,0.0,percentage,2024,general_rate,4 (13.3%) 0 (0.0%) 0 (0.0%) usa 50-249 ict 0 (0.0%) 1 (3.3%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 4 (13.3%,ICT sector data - preserved,0.95
+328,0.0,percentage,2024,general_rate,0 (0.0%) usa 50-249 ict 0 (0.0%) 1 (3.3%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 4 (13.3%) 5 (16.7%) 19 (63.3,ICT sector data - preserved,0.95
+329,0.0,percentage,2024,general_rate,usa 50-249 ict 0 (0.0%) 1 (3.3%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 4 (13.3%) 5 (16.7%) 19 (63.3%) 1 (3.3%,ICT sector data - preserved,0.95
+330,0.0,percentage,2024,general_rate,ict 0 (0.0%) 1 (3.3%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 4 (13.3%) 5 (16.7%) 19 (63.3%) 1 (3.3%) manu,ICT sector data - preserved,0.95
+334,0.0,percentage,2024,general_rate,7%) 7 (23.3%) 10 (33.3%) 1 (3.3%) 250+ ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 2 (6.7%) 3 (10.0%) 6 (20.0%,ICT sector data - preserved,0.95
+335,0.0,percentage,2024,general_rate,3%) 10 (33.3%) 1 (3.3%) 250+ ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 2 (6.7%) 3 (10.0%) 6 (20.0%) 6 (20.0%,ICT sector data - preserved,0.95
+337,0.0,percentage,2024,general_rate,ar with this concept yes can 50-249 ict 7 (23.3%) 0 (0.0%) 23 (76.7%) manufacturing 5 (16.7%) 0 (0.0...,ICT sector data - preserved,0.95
+338,0.0,percentage,2024,general_rate,%) 0 (0.0%) 23 (76.7%) manufacturing 5 (16.7%) 0 (0.0%) 25 (83.3%) 250+ ict 4 (13.3%) 0 (0.0%) 26 (8...,ICT sector data - preserved,0.95
+339,0.0,percentage,2024,general_rate,(16.7%) 0 (0.0%) 25 (83.3%) 250+ ict 4 (13.3%) 0 (0.0%) 26 (86.7%) manufacturing 15 (50.0%) 0 (0.0%)...,ICT sector data - preserved,0.95
+340,0.0,percentage,2024,general_rate,) 0 (0.0%) 26 (86.7%) manufacturing 15 (50.0%) 0 (0.0%) 15 (50.0%) deu 50-249 ict 2 (6.7%) 0 (0.0%) ...,ICT sector data - preserved,0.95
+341,0.0,percentage,2024,general_rate,0.0%) 0 (0.0%) 15 (50.0%) deu 50-249 ict 2 (6.7%) 0 (0.0%) 28 (93.3%) manufacturing 14 (46.7%) 0 (0....,ICT sector data - preserved,0.95
+342,0.0,percentage,2024,general_rate,) 0 (0.0%) 28 (93.3%) manufacturing 14 (46.7%) 0 (0.0%) 16 (53.3%) 250+ ict 2 (6.7%) 0 (0.0%) 28 (93...,ICT sector data - preserved,0.95
+343,0.0,percentage,2024,general_rate,4 (46.7%) 0 (0.0%) 16 (53.3%) 250+ ict 2 (6.7%) 0 (0.0%) 28 (93.3%) manufacturing 12 (40.0%) 0 (0.0%...,ICT sector data - preserved,0.95
+344,0.0,percentage,2024,general_rate,) 0 (0.0%) 28 (93.3%) manufacturing 12 (40.0%) 0 (0.0%) 18 (60.0%) fra 50-249 ict 3 (10.0%) 0 (0.0%)...,ICT sector data - preserved,0.95
+345,0.0,percentage,2024,general_rate,.0%) 0 (0.0%) 18 (60.0%) fra 50-249 ict 3 (10.0%) 0 (0.0%) 27 (90.0%) manufacturing 2 (6.7%) 0 (0.0%...,ICT sector data - preserved,0.95
+346,0.0,percentage,2024,general_rate,0%) 0 (0.0%) 27 (90.0%) manufacturing 2 (6.7%) 0 (0.0%) 28 (93.3%) 250+ ict 0 (0.0%) 1 (3.3%) 29 (96...,ICT sector data - preserved,0.95
+347,0.0,percentage,2024,general_rate,facturing 2 (6.7%) 0 (0.0%) 28 (93.3%) 250+ ict 0 (0.0%) 1 (3.3%) 29 (96.7%) manufacturing 5 (16.7%)...,ICT sector data - preserved,0.95
+348,0.0,percentage,2024,general_rate,%) 1 (3.3%) 29 (96.7%) manufacturing 5 (16.7%) 0 (0.0%) 25 (83.3%) gbr 50-249 ict 5 (16.7%) 0 (0.0%)...,ICT sector data - preserved,0.95
+349,0.0,percentage,2024,general_rate,.7%) 0 (0.0%) 25 (83.3%) gbr 50-249 ict 5 (16.7%) 0 (0.0%) 25 (83.3%) manufacturing 11 (36.7%) 0 (0....,ICT sector data - preserved,0.95
+350,0.0,percentage,2024,general_rate,) 0 (0.0%) 25 (83.3%) manufacturing 11 (36.7%) 0 (0.0%) 19 (63.3%) 250+ ict 3 (10.0%) 0 (0.0%) 27 (9...,ICT sector data - preserved,0.95
+351,0.0,percentage,2024,general_rate,(36.7%) 0 (0.0%) 19 (63.3%) 250+ ict 3 (10.0%) 0 (0.0%) 27 (90.0%) manufacturing 9 (30.0%) 0 (0.0%) ...,ICT sector data - preserved,0.95
+352,0.0,percentage,2024,general_rate,%) 0 (0.0%) 27 (90.0%) manufacturing 9 (30.0%) 0 (0.0%) 21 (70.0%) ita 50-249 ict 9 (30.0%) 0 (0.0%)...,ICT sector data - preserved,0.95
+353,0.0,percentage,2024,general_rate,.0%) 0 (0.0%) 21 (70.0%) ita 50-249 ict 9 (30.0%) 0 (0.0%) 21 (70.0%) manufacturing 13 (43.3%) 0 (0....,ICT sector data - preserved,0.95
+354,0.0,percentage,2024,general_rate,) 0 (0.0%) 21 (70.0%) manufacturing 13 (43.3%) 0 (0.0%) 17 (56.7%) 250+ ict 1 (3.3%) 0 (0.0%) 29 (96...,ICT sector data - preserved,0.95
+355,0.0,percentage,2024,general_rate,3 (43.3%) 0 (0.0%) 17 (56.7%) 250+ ict 1 (3.3%) 0 (0.0%) 29 (96.7%) manufacturing 11 (36.7%) 0 (0.0%...,ICT sector data - preserved,0.95
+356,0.0,percentage,2024,general_rate,) 0 (0.0%) 29 (96.7%) manufacturing 11 (36.7%) 0 (0.0%) 19 (63.3%) jpn 50-249 ict 6 (20.0%) 0 (0.0%)...,ICT sector data - preserved,0.95
+357,0.0,percentage,2024,general_rate,.7%) 0 (0.0%) 19 (63.3%) jpn 50-249 ict 6 (20.0%) 0 (0.0%) 24 (80.0%) manufacturing 6 (20.0%) 0 (0.0...,ICT sector data - preserved,0.95
+358,0.0,percentage,2024,general_rate,%) 0 (0.0%) 24 (80.0%) manufacturing 6 (20.0%) 0 (0.0%) 24 (80.0%) 250+ ict 3 (10.0%) 0 (0.0%) 27 (9...,ICT sector data - preserved,0.95
+359,0.0,percentage,2024,general_rate,(20.0%) 0 (0.0%) 24 (80.0%) 250+ ict 3 (10.0%) 0 (0.0%) 27 (90.0%) manufacturing 7 (23.3%) 2 (6.7%) ...,ICT sector data - preserved,0.95
+360,0.0,percentage,2024,general_rate,.3%) 2 (6.7%) 21 (70.0%) usa 50-249 ict 5 (16.7%) 0 (0.0%) 25 (83.3%) manufacturing 17 (56.7%) 2 (6....,ICT sector data - preserved,0.95
+361,0.0,percentage,2024,general_rate,7 (56.7%) 2 (6.7%) 11 (36.7%) 250+ ict 1 (3.3%) 0 (0.0%) 29 (96.7%) manufacturing 2 (6.7%) 1 (3.3%) ...,ICT sector data - preserved,0.95
+362,0.0,percentage,2024,general_rate,know no yes don't know no yes can 50-249 ict 0 (0.0%) 27 (90.0%) 3 (10.0%) 0 (0.0%) 24 (80.0%) 6 (20...,ICT sector data - preserved,0.95
+363,0.0,percentage,2024,general_rate,can 50-249 ict 0 (0.0%) 27 (90.0%) 3 (10.0%) 0 (0.0%) 24 (80.0%) 6 (20.0%) 0 (0.0%) 19 (63.3%) 11 (3...,ICT sector data - preserved,0.95
+368,0.0,percentage,2024,general_rate,.3%) 14 (46.7%) 0 (0.0%) 18 (60.0%) 12 (40.0%) 0 (0.0%) 11 (36.7%) 19 (63.3%) 250+ ict 0 (0.0%) 26 (...,ICT sector data - preserved,0.95
+369,0.0,percentage,2024,general_rate,0%) 0 (0.0%) 11 (36.7%) 19 (63.3%) 250+ ict 0 (0.0%) 26 (86.7%) 4 (13.3%) 0 (0.0%) 20 (66.7%) 10 (33...,ICT sector data - preserved,0.95
+370,0.0,percentage,2024,general_rate,.3%) 250+ ict 0 (0.0%) 26 (86.7%) 4 (13.3%) 0 (0.0%) 20 (66.7%) 10 (33.3%) 0 (0.0%) 21 (70.0%) 9 (30...,ICT sector data - preserved,0.95
+374,0.0,percentage,2024,general_rate,.3%) 11 (36.7%) 0 (0.0%) 17 (56.7%) 13 (43.3%) 0 (0.0%) 12 (40.0%) 18 (60.0%) deu 50-249 ict 0 (0.0%...,ICT sector data - preserved,0.95
+375,0.0,percentage,2024,general_rate,0 (0.0%) 12 (40.0%) 18 (60.0%) deu 50-249 ict 0 (0.0%) 20 (66.7%) 10 (33.3%) 0 (0.0%) 21 (70.0%) 9 (...,ICT sector data - preserved,0.95
+376,0.0,percentage,2024,general_rate,deu 50-249 ict 0 (0.0%) 20 (66.7%) 10 (33.3%) 0 (0.0%) 21 (70.0%) 9 (30.0%) 0 (0.0%) 17 (56.7%) 13 (...,ICT sector data - preserved,0.95
+378,0.0,percentage,2024,general_rate,.3%) 1 (3.3%) 9 (30.0%) 20 (66.7%) 250+ ict 0 (0.0%) 23 (76.7%) 7 (23.3%) 0 (0.0%) 22 (73.3%) 8 (26....,ICT sector data - preserved,0.95
+379,0.0,percentage,2024,general_rate,.7%) 250+ ict 0 (0.0%) 23 (76.7%) 7 (23.3%) 0 (0.0%) 22 (73.3%) 8 (26.7%) 0 (0.0%) 19 (63.3%) 11 (36...,ICT sector data - preserved,0.95
+382,0.0,percentage,2024,general_rate,3 (10.0%) 13 (43.3%) 14 (46.7%) fra 50-249 ict 0 (0.0%) 22 (73.3%) 8 (26.7%) 0 (0.0%) 19 (63.3%) 11 ...,ICT sector data - preserved,0.95
+383,0.0,percentage,2024,general_rate,fra 50-249 ict 0 (0.0%) 22 (73.3%) 8 (26.7%) 0 (0.0%) 19 (63.3%) 11 (36.7%) 0 (0.0%) 26 (86.7%) 4 (1...,ICT sector data - preserved,0.95
+389,0.0,percentage,2024,general_rate,.0%) 15 (50.0%) 0 (0.0%) 13 (43.3%) 17 (56.7%) 0 (0.0%) 6 (20.0%) 24 (80.0%) 250+ ict 0 (0.0%) 25 (8...,ICT sector data - preserved,0.95
+390,0.0,percentage,2024,general_rate,.7%) 0 (0.0%) 6 (20.0%) 24 (80.0%) 250+ ict 0 (0.0%) 25 (83.3%) 5 (16.7%) 0 (0.0%) 22 (73.3%) 8 (26....,ICT sector data - preserved,0.95
+391,0.0,percentage,2024,general_rate,.0%) 250+ ict 0 (0.0%) 25 (83.3%) 5 (16.7%) 0 (0.0%) 22 (73.3%) 8 (26.7%) 0 (0.0%) 22 (73.3%) 8 (26....,ICT sector data - preserved,0.95
+394,0.0,percentage,2024,general_rate,3.3%) 7 (23.3%) 0 (0.0%) 15 (50.0%) 15 (50.0%) 0 (0.0%) 11 (36.7%) 19 (63.3%) gbr 50-249 ict 0 (0.0%...,ICT sector data - preserved,0.95
+395,0.0,percentage,2024,general_rate,0 (0.0%) 11 (36.7%) 19 (63.3%) gbr 50-249 ict 0 (0.0%) 20 (66.7%) 10 (33.3%) 0 (0.0%) 18 (60.0%) 12 ...,ICT sector data - preserved,0.95
+396,0.0,percentage,2024,general_rate,gbr 50-249 ict 0 (0.0%) 20 (66.7%) 10 (33.3%) 0 (0.0%) 18 (60.0%) 12 (40.0%) 0 (0.0%) 16 (53.3%) 14 ...,ICT sector data - preserved,0.95
+401,0.0,percentage,2024,general_rate,.3%) 14 (46.7%) 0 (0.0%) 18 (60.0%) 12 (40.0%) 0 (0.0%) 10 (33.3%) 20 (66.7%) 250+ ict 1 (3.3%) 25 (...,ICT sector data - preserved,0.95
+407,0.0,percentage,2024,general_rate,.0%) 12 (40.0%) 0 (0.0%) 19 (63.3%) 11 (36.7%) 0 (0.0%) 15 (50.0%) 15 (50.0%) ita 50-249 ict 0 (0.0%...,ICT sector data - preserved,0.95
+408,0.0,percentage,2024,general_rate,0 (0.0%) 15 (50.0%) 15 (50.0%) ita 50-249 ict 0 (0.0%) 21 (70.0%) 9 (30.0%) 0 (0.0%) 20 (66.7%) 10 (...,ICT sector data - preserved,0.95
+409,0.0,percentage,2024,general_rate,ita 50-249 ict 0 (0.0%) 21 (70.0%) 9 (30.0%) 0 (0.0%) 20 (66.7%) 10 (33.3%) 0 (0.0%) 18 (60.0%) 12 (...,ICT sector data - preserved,0.95
+415,0.0,percentage,2024,general_rate,3%) 1 (3.3%) 14 (46.7%) 15 (50.0%) 250+ ict 0 (0.0%) 28 (93.3%) 2 (6.7%) 0 (0.0%) 22 (73.3%) 8 (26.7...,ICT sector data - preserved,0.95
+416,0.0,percentage,2024,general_rate,0.0%) 250+ ict 0 (0.0%) 28 (93.3%) 2 (6.7%) 0 (0.0%) 22 (73.3%) 8 (26.7%) 0 (0.0%) 20 (66.7%) 10 (33...,ICT sector data - preserved,0.95
+420,0.0,percentage,2024,general_rate,2 (6.7%) 11 (36.7%) 17 (56.7%) jpn 50-249 ict 0 (0.0%) 23 (76.7%) 7 (23.3%) 0 (0.0%) 24 (80.0%) 6 (2...,ICT sector data - preserved,0.95
+421,0.0,percentage,2024,general_rate,jpn 50-249 ict 0 (0.0%) 23 (76.7%) 7 (23.3%) 0 (0.0%) 24 (80.0%) 6 (20.0%) 0 (0.0%) 22 (73.3%) 8 (26...,ICT sector data - preserved,0.95
+426,0.0,percentage,2024,general_rate,.7%) 250+ ict 1 (3.3%) 23 (76.7%) 6 (20.0%) 0 (0.0%) 24 (80.0%) 6 (20.0%) 0 (0.0%) 25 (83.3%) 5 (16....,ICT sector data - preserved,0.95
+433,0.0,percentage,2024,general_rate,know no yes don't know no yes usa 50-249 ict 0 (0.0%) 29 (96.7%) 1 (3.3%) 0 (0.0%) 22 (73.3%) 8 (26....,ICT sector data - preserved,0.95
+434,0.0,percentage,2024,general_rate,s usa 50-249 ict 0 (0.0%) 29 (96.7%) 1 (3.3%) 0 (0.0%) 22 (73.3%) 8 (26.7%) 0 (0.0%) 22 (73.3%) 8 (2...,ICT sector data - preserved,0.95
+440,0.0,percentage,2024,general_rate,6.7%) 7 (23.3%) 0 (0.0%) 20 (66.7%) 10 (33.3%) 0 (0.0%) 12 (40.0%) 18 (60.0%) 250+ ict 0 (0.0%) 29 (...,ICT sector data - preserved,0.95
+441,0.0,percentage,2024,general_rate,3%) 0 (0.0%) 12 (40.0%) 18 (60.0%) 250+ ict 0 (0.0%) 29 (96.7%) 1 (3.3%) 1 (3.3%) 23 (76.7%) 6 (20.0...,ICT sector data - preserved,0.95
+447,0.0,percentage,2024,general_rate,6 (20.0%) 10 (33.3%) 14 (46.7%) manufacturing 0 (0.0%) 1 (3.3%) 29 (96.7%) 250+ ict 3 (10.0%) 3 (10....,ICT sector data - preserved,0.95
+448,0.0,percentage,2024,general_rate,y useful very useful can 50-249 ict 12 (40.0%) 0 (0.0%) 5 (16.7%) 13 (43.3%) 14 (46.7%) 2 (6.7%) 8 (...,ICT sector data - preserved,0.95
+451,0.0,percentage,2024,general_rate,53.3%) 1 (3.3%) 5 (16.7%) 8 (26.7%) 14 (46.7%) 0 (0.0%) 2 (6.7%) 14 (46.7%) 250+ ict 12 (40.0%) 1 (3...,ICT sector data - preserved,0.95
+453,0.0,percentage,2024,general_rate,.3%) 3 (10.0%) 12 (40.0%) 5 (16.7%) 10 (33.3%) 0 (0.0%) 11 (36.7%) 9 (30.0%) deu 50-249 ict 8 (26.7%...,ICT sector data - preserved,0.95
+456,0.0,percentage,2024,general_rate,0.0%) 4 (13.3%) 9 (30.0%) 5 (16.7%) 16 (53.3%) 0 (0.0%) 4 (13.3%) 10 (33.3%) fra 50-249 ict 12 (40.0...,ICT sector data - preserved,0.95
+457,0.0,percentage,2024,general_rate,4 (13.3%) 10 (33.3%) fra 50-249 ict 12 (40.0%) 0 (0.0%) 3 (10.0%) 15 (50.0%) 10 (33.3%) 3 (10.0%) 5 ...,ICT sector data - preserved,0.95
+461,0.0,percentage,2024,general_rate,6.7%) 0 (0.0%) 3 (10.0%) 13 (43.3%) 12 (40.0%) 0 (0.0%) 2 (6.7%) 16 (53.3%) 250+ ict 15 (50.0%) 0 (0...,ICT sector data - preserved,0.95
+462,0.0,percentage,2024,general_rate,0%) 2 (6.7%) 16 (53.3%) 250+ ict 15 (50.0%) 0 (0.0%) 3 (10.0%) 12 (40.0%) 6 (20.0%) 5 (16.7%) 12 (40...,ICT sector data - preserved,0.95
+465,0.0,percentage,2024,general_rate,3 (10.0%) 16 (53.3%) gbr 50-249 ict 10 (33.3%) 0 (0.0%) 5 (16.7%) 15 (50.0%) 14 (46.7%) 2 (6.7%) 8 (...,ICT sector data - preserved,0.95
+467,0.0,percentage,2024,general_rate,(60.0%) 1 (3.3%) 2 (6.7%) 9 (30.0%) 12 (40.0%) 0 (0.0%) 4 (13.3%) 14 (46.7%) 250+ ict 15 (50.0%) 1 (...,ICT sector data - preserved,0.95
+469,0.0,percentage,2024,general_rate,0.0%) 1 (3.3%) 11 (36.7%) 9 (30.0%) 15 (50.0%) 0 (0.0%) 1 (3.3%) 14 (46.7%) ita 50-249 ict 17 (56.7%...,ICT sector data - preserved,0.95
+470,0.0,percentage,2024,general_rate,0.0%) 2 (6.7%) 5 (16.7%) 11 (36.7%) 17 (56.7%) 0 (0.0%) 5 (16.7%) 8 (26.7%) 250+ ict 15 (50.0%) 0 (0...,ICT sector data - preserved,0.95
+471,0.0,percentage,2024,general_rate,0%) 5 (16.7%) 8 (26.7%) 250+ ict 15 (50.0%) 0 (0.0%) 10 (33.3%) 5 (16.7%) 11 (36.7%) 2 (6.7%) 5 (16....,ICT sector data - preserved,0.95
+473,0.0,percentage,2024,general_rate,.7%) 4 (13.3%) 10 (33.3%) 8 (26.7%) 14 (46.7%) 0 (0.0%) 3 (10.0%) 13 (43.3%) jpn 50-249 ict 16 (53.3...,ICT sector data - preserved,0.95
+474,0.0,percentage,2024,general_rate,3 (10.0%) 13 (43.3%) jpn 50-249 ict 16 (53.3%) 0 (0.0%) 4 (13.3%) 10 (33.3%) 9 (30.0%) 1 (3.3%) 6 (2...,ICT sector data - preserved,0.95
+478,0.0,percentage,2024,general_rate,3%) 1 (3.3%) 14 (46.7%) 250+ ict 14 (46.7%) 0 (0.0%) 6 (20.0%) 10 (33.3%) 6 (20.0%) 7 (23.3%) 10 (33...,ICT sector data - preserved,0.95
+480,0.0,percentage,2024,general_rate,ery helpful can 50-249 ict 2 (6.7%) 14 (46.7%) 0 (0.0%) 14 (46.7%) 7 (23.3%) 12 (40.0%) 0 (0.0%) 11 ...,ICT sector data - preserved,0.95
+485,0.0,percentage,2024,general_rate,0.0%) 0 (0.0%) 12 (40.0%) 6 (20.0%) 12 (40.0%) 0 (0.0%) 12 (40.0%) 250+ ict 7 (23.3%) 12 (40.0%) 1 (...,ICT sector data - preserved,0.95
+490,0.0,percentage,2024,general_rate,6.7%) 0 (0.0%) 10 (33.3%) 4 (13.3%) 13 (43.3%) 0 (0.0%) 13 (43.3%) 250+ ict 5 (16.7%) 15 (50.0%) 1 (...,ICT sector data - preserved,0.95
+491,0.0,percentage,2024,general_rate,4 (46.7%) fra 50-249 ict 10 (33.3%) 13 (43.3%) 0 (0.0%) 7 (23.3%) 6 (20.0%) 12 (40.0%) 0 (0.0%) 12 (...,ICT sector data - preserved,0.95
+496,0.0,percentage,2024,general_rate,70.0%) 2 (6.7%) 14 (46.7%) 0 (0.0%) 14 (46.7%) 0 (0.0%) 18 (60.0%) 0 (0.0%) 12 (40.0%) 250+ ict 8 (2...,ICT sector data - preserved,0.95
+497,0.0,percentage,2024,general_rate,46.7%) 0 (0.0%) 14 (46.7%) 0 (0.0%) 18 (60.0%) 0 (0.0%) 12 (40.0%) 250+ ict 8 (26.7%) 15 (50.0%) 1 (...,ICT sector data - preserved,0.95
+505,0.0,percentage,2024,general_rate,46.7%) 0 (0.0%) 8 (26.7%) 3 (10.0%) 16 (53.3%) 0 (0.0%) 11 (36.7%) 250+ ict 4 (13.3%) 13 (43.3%) 2 (...,ICT sector data - preserved,0.95
+508,0.0,percentage,2024,general_rate,40.0%) 1 (3.3%) 9 (30.0%) 4 (13.3%) 14 (46.7%) 0 (0.0%) 12 (40.0%) ita 50-249 ict 5 (16.7%) 16 (53.3...,ICT sector data - preserved,0.95
+511,0.0,percentage,2024,general_rate,53.3%) 0 (0.0%) 8 (26.7%) 4 (13.3%) 15 (50.0%) 0 (0.0%) 11 (36.7%) 250+ ict 5 (16.7%) 14 (46.7%) 1 (...,ICT sector data - preserved,0.95
+513,0.0,percentage,2024,general_rate,16 (53.3%) jpn 50-249 ict 5 (16.7%) 10 (33.3%) 0 (0.0%) 15 (50.0%) 5 (16.7%) 17 (56.7%) 0 (0.0%) 8 (...,ICT sector data - preserved,0.95
+518,0.0,percentage,2024,general_rate,0.0%) 0 (0.0%) 11 (36.7%) 4 (13.3%) 12 (40.0%) 0 (0.0%) 14 (46.7%) 250+ ict 6 (20.0%) 14 (46.7%) 0 (...,ICT sector data - preserved,0.95
+519,0.0,percentage,2024,general_rate,%) 14 (46.7%) 250+ ict 6 (20.0%) 14 (46.7%) 0 (0.0%) 10 (33.3%) 5 (16.7%) 17 (56.7%) 0 (0.0%) 8 (26....,ICT sector data - preserved,0.95
+522,0.0,percentage,2024,general_rate,3.3%) 3 (10.0%) 8 (26.7%) 5 (16.7%) 15 (50.0%) 0 (0.0%) 10 (33.3%) 250+ ict 8 (26.7%) 17 (56.7%) 0 (...,ICT sector data - preserved,0.95
+523,0.0,percentage,2024,general_rate,%) 10 (33.3%) 250+ ict 8 (26.7%) 17 (56.7%) 0 (0.0%) 5 (16.7%) 8 (26.7%) 12 (40.0%) 2 (6.7%) 8 (26.7...,ICT sector data - preserved,0.95
+525,0.0,percentage,2024,general_rate,ry helpful can 50-249 ict 6 (20.0%) 11 (36.7%) 0 (0.0%) 13 (43.3%) 1 (3.3%) 18 (60.0%) 0 (0.0%) 11 (...,ICT sector data - preserved,0.95
+528,0.0,percentage,2024,general_rate,lpful (6.7%) (43.3%) (0.0%) (50.0%) (10.0%) (46.7%) (0.0%) (43.3%) (20.0%) (30.0%) (0.0%) (50.0%) 25...,ICT sector data - preserved,0.95
+529,0.0,percentage,2024,general_rate,.0%) (10.0%) (46.7%) (0.0%) (43.3%) (20.0%) (30.0%) (0.0%) (50.0%) 250+ ict 3 (10.0%) 16 (53.3%) 1 (...,ICT sector data - preserved,0.95
+536,0.0,percentage,2024,general_rate,9 (30.0%) fra 50-249 ict 6 (20.0%) 10 (33.3%) 0 (0.0%) 14 (46.7%) 4 (13.3%) 16 (53.3%) 0 (0.0%) 10 (...,ICT sector data - preserved,0.95
+542,0.0,percentage,2024,general_rate,63.3%) 0 (0.0%) 13 (43.3%) 0 (0.0%) 17 (56.7%) 0 (0.0%) 19 (63.3%) 0 (0.0%) 11 (36.7%) 250+ ict 4 (1...,ICT sector data - preserved,0.95
+543,0.0,percentage,2024,general_rate,43.3%) 0 (0.0%) 17 (56.7%) 0 (0.0%) 19 (63.3%) 0 (0.0%) 11 (36.7%) 250+ ict 4 (13.3%) 14 (46.7%) 0 (...,ICT sector data - preserved,0.95
+544,0.0,percentage,2024,general_rate,%) 11 (36.7%) 250+ ict 4 (13.3%) 14 (46.7%) 0 (0.0%) 12 (40.0%) 4 (13.3%) 14 (46.7%) 0 (0.0%) 12 (40...,ICT sector data - preserved,0.95
+548,0.0,percentage,2024,general_rate,11 (36.7%) gbr 50-249 ict 7 (23.3%) 14 (46.7%) 0 (0.0%) 9 (30.0%) 5 (16.7%) 13 (43.3%) 0 (0.0%) 12 (...,ICT sector data - preserved,0.95
+554,0.0,percentage,2024,general_rate,3.3%) 0 (0.0%) 14 (46.7%) 4 (13.3%) 11 (36.7%) 0 (0.0%) 15 (50.0%) 250+ ict 4 (13.3%) 15 (50.0%) 0 (...,ICT sector data - preserved,0.95
+555,0.0,percentage,2024,general_rate,%) 15 (50.0%) 250+ ict 4 (13.3%) 15 (50.0%) 0 (0.0%) 11 (36.7%) 5 (16.7%) 16 (53.3%) 0 (0.0%) 9 (30....,ICT sector data - preserved,0.95
+559,0.0,percentage,2024,general_rate,6.7%) 0 (0.0%) 11 (36.7%) 5 (16.7%) 13 (43.3%) 0 (0.0%) 12 (40.0%) ita 50-249 ict 5 (16.7%) 16 (53.3...,ICT sector data - preserved,0.95
+561,0.0,percentage,2024,general_rate,6.7%) 1 (3.3%) 16 (53.3%) 7 (23.3%) 17 (56.7%) 0 (0.0%) 6 (20.0%) 250+ ict 7 (23.3%) 16 (53.3%) 0 (0...,ICT sector data - preserved,0.95
+562,0.0,percentage,2024,general_rate,0%) 6 (20.0%) 250+ ict 7 (23.3%) 16 (53.3%) 0 (0.0%) 7 (23.3%) 5 (16.7%) 12 (40.0%) 0 (0.0%) 13 (43....,ICT sector data - preserved,0.95
+564,0.0,percentage,2024,general_rate,6.7%) 1 (3.3%) 19 (63.3%) 7 (23.3%) 13 (43.3%) 0 (0.0%) 10 (33.3%) jpn 50-249 ict 10 (33.3%) 15 (50....,ICT sector data - preserved,0.95
+567,0.0,percentage,2024,general_rate,36.7%) 0 (0.0%) 16 (53.3%) 2 (6.7%) 20 (66.7%) 0 (0.0%) 8 (26.7%) 250+ ict 5 (16.7%) 17 (56.7%) 0 (0...,ICT sector data - preserved,0.95
+568,0.0,percentage,2024,general_rate,0%) 8 (26.7%) 250+ ict 5 (16.7%) 17 (56.7%) 0 (0.0%) 8 (26.7%) 7 (23.3%) 9 (30.0%) 1 (3.3%) 13 (43.3...,ICT sector data - preserved,0.95
+571,0.0,percentage,2024,general_rate,y helpful can 50-249 ict 10 (33.3%) 11 (36.7%) 0 (0.0%) 9 (30.0%) 2 (6.7%) 19 (63.3%) 2 (6.7%) 7 (23...,ICT sector data - preserved,0.95
+574,0.0,percentage,2024,general_rate,6.7%) 1 (3.3%) 10 (33.3%) 3 (10.0%) 18 (60.0%) 0 (0.0%) 9 (30.0%) 250+ ict 8 (26.7%) 13 (43.3%) 2 (6...,ICT sector data - preserved,0.95
+579,0.0,percentage,2024,general_rate,6.7%) 0 (0.0%) 11 (36.7%) 5 (16.7%) 15 (50.0%) 0 (0.0%) 10 (33.3%) 250+ ict 9 (30.0%) 11 (36.7%) 0 (...,ICT sector data - preserved,0.95
+580,0.0,percentage,2024,general_rate,%) 10 (33.3%) 250+ ict 9 (30.0%) 11 (36.7%) 0 (0.0%) 10 (33.3%) 5 (16.7%) 16 (53.3%) 0 (0.0%) 9 (30....,ICT sector data - preserved,0.95
+583,0.0,percentage,2024,general_rate,8 (26.7%) fra 50-249 ict 8 (26.7%) 12 (40.0%) 0 (0.0%) 10 (33.3%) 6 (20.0%) 13 (43.3%) 0 (0.0%) 11 (...,ICT sector data - preserved,0.95
+587,0.0,percentage,2024,general_rate,40.0%) 0 (0.0%) 16 (53.3%) 1 (3.3%) 14 (46.7%) 0 (0.0%) 15 (50.0%) 250+ ict 6 (20.0%) 11 (36.7%) 1 (...,ICT sector data - preserved,0.95
+588,0.0,percentage,2024,general_rate,16 (53.3%) gbr 50-249 ict 6 (20.0%) 13 (43.3%) 0 (0.0%) 11 (36.7%) 6 (20.0%) 13 (43.3%) 1 (3.3%) 10 ...,ICT sector data - preserved,0.95
+593,0.0,percentage,2024,general_rate,3.3%) 1 (3.3%) 10 (33.3%) 6 (20.0%) 11 (36.7%) 0 (0.0%) 13 (43.3%) 250+ ict 5 (16.7%) 14 (46.7%) 0 (...,ICT sector data - preserved,0.95
+594,0.0,percentage,2024,general_rate,%) 13 (43.3%) 250+ ict 5 (16.7%) 14 (46.7%) 0 (0.0%) 11 (36.7%) 7 (23.3%) 15 (50.0%) 2 (6.7%) 6 (20....,ICT sector data - preserved,0.95
+600,0.0,percentage,2024,general_rate,46.7%) 0 (0.0%) 10 (33.3%) 2 (6.7%) 11 (36.7%) 0 (0.0%) 17 (56.7%) 250+ ict 6 (20.0%) 15 (50.0%) 0 (...,ICT sector data - preserved,0.95
+601,0.0,percentage,2024,general_rate,%) 17 (56.7%) 250+ ict 6 (20.0%) 15 (50.0%) 0 (0.0%) 9 (30.0%) 7 (23.3%) 12 (40.0%) 1 (3.3%) 10 (33....,ICT sector data - preserved,0.95
+603,0.0,percentage,2024,general_rate,50-249 ict 2 (6.7%) 28 (93.3%) manufacturing 0 (0.0%) 30 (100.0%) 250+ ict 0 (0.0%) 30 (100.0%) m,ICT sector data - preserved,0.95
+604,0.0,percentage,2024,general_rate,manufacturing 0 (0.0%) 30 (100.0%) 250+ ict 0 (0.0%) 30 (100.0%) manufacturing 7 (23.3%) 23 (76.7%),ICT sector data - preserved,0.95
+605,0.0,percentage,2024,general_rate,ree strongly disagree can 50-249 ict 10 (33.3%) 0 (0.0%) 20 (66.7%) 0 (0.0%) 13 (43.3%) 5 (16.7%) 11...,ICT sector data - preserved,0.95
+606,0.0,percentage,2024,general_rate,can 50-249 ict 10 (33.3%) 0 (0.0%) 20 (66.7%) 0 (0.0%) 13 (43.3%) 5 (16.7%) 11 (36.7%) 1 (3.3%) 15 (...,ICT sector data - preserved,0.95
+611,0.0,percentage,2024,general_rate,0.0%) 0 (0.0%) 14 (46.7%) 3 (10.0%) 13 (43.3%) 0 (0.0%) 250+ ict 8 (26.7%) 0 (0.0%) 22 (73.3%) 0 (0....,ICT sector data - preserved,0.95
+612,0.0,percentage,2024,general_rate,.0%) 13 (43.3%) 0 (0.0%) 250+ ict 8 (26.7%) 0 (0.0%) 22 (73.3%) 0 (0.0%) 15 (50.0%) 3 (10.0%) 12 (40...,ICT sector data - preserved,0.95
+613,0.0,percentage,2024,general_rate,.0%) 250+ ict 8 (26.7%) 0 (0.0%) 22 (73.3%) 0 (0.0%) 15 (50.0%) 3 (10.0%) 12 (40.0%) 0 (0.0%) 16 (53...,ICT sector data - preserved,0.95
+617,0.0,percentage,2024,general_rate,.0%) 4 (13.3%) 11 (36.7%) 8 (26.7%) 11 (36.7%) 0 (0.0%) deu 50-249 ict 15 (50.0%) 0 (0.0%) 15 (50.0%...,ICT sector data - preserved,0.95
+618,0.0,percentage,2024,general_rate,11 (36.7%) 0 (0.0%) deu 50-249 ict 15 (50.0%) 0 (0.0%) 15 (50.0%) 0 (0.0%) 16 (53.3%) 1 (3.3%) 13 (4...,ICT sector data - preserved,0.95
+619,0.0,percentage,2024,general_rate,deu 50-249 ict 15 (50.0%) 0 (0.0%) 15 (50.0%) 0 (0.0%) 16 (53.3%) 1 (3.3%) 13 (43.3%) 0 (0.0%) 16 (5...,ICT sector data - preserved,0.95
+624,0.0,percentage,2024,general_rate,53.3%) 0 (0.0%) 18 (60.0%) 3 (10.0%) 9 (30.0%) 0 (0.0%) 250+ ict 11 (36.7%) 1 (3.3%) 18 (60.0%) 0 (0...,ICT sector data - preserved,0.95
+625,0.0,percentage,2024,general_rate,0%) 250+ ict 11 (36.7%) 1 (3.3%) 18 (60.0%) 0 (0.0%) 13 (43.3%) 6 (20.0%) 11 (36.7%) 0 (0.0%) 16 (53...,ICT sector data - preserved,0.95
+629,0.0,percentage,2024,general_rate,20.0%) 1 (3.3%) 17 (56.7%) 5 (16.7%) 8 (26.7%) 0 (0.0%) fra 50-249 ict 7 (23.3%) 3 (10.0%) 20 (66.7%...,ICT sector data - preserved,0.95
+630,0.0,percentage,2024,general_rate,fra 50-249 ict 7 (23.3%) 3 (10.0%) 20 (66.7%) 0 (0.0%) 11 (36.7%) 4 (13.3%) 13 (43.3%) 2 (6.7%) 14 (...,ICT sector data - preserved,0.95
+635,0.0,percentage,2024,general_rate,40.0%) 0 (0.0%) 10 (33.3%) 2 (6.7%) 18 (60.0%) 0 (0.0%) 250+ ict 5 (16.7%) 0 (0.0%) 25 (83.3%) 0 (0....,ICT sector data - preserved,0.95
+636,0.0,percentage,2024,general_rate,.7%) 18 (60.0%) 0 (0.0%) 250+ ict 5 (16.7%) 0 (0.0%) 25 (83.3%) 0 (0.0%) 14 (46.7%) 2 (6.7%) 14 (46....,ICT sector data - preserved,0.95
+637,0.0,percentage,2024,general_rate,.0%) 250+ ict 5 (16.7%) 0 (0.0%) 25 (83.3%) 0 (0.0%) 14 (46.7%) 2 (6.7%) 14 (46.7%) 0 (0.0%) 16 (53....,ICT sector data - preserved,0.95
+641,0.0,percentage,2024,general_rate,gbr 50-249 ict 13 (43.3%) 1 (3.3%) 16 (53.3%) 0 (0.0%) 14 (46.7%) 7 (23.3%) 9 (30.0%) 0 (0.0%) 15 (5...,ICT sector data - preserved,0.95
+647,0.0,percentage,2024,general_rate,36.7%) 1 (3.3%) 11 (36.7%) 2 (6.7%) 17 (56.7%) 0 (0.0%) 250+ ict 5 (16.7%) 1 (3.3%) 24 (80.0%) 0 (0....,ICT sector data - preserved,0.95
+648,0.0,percentage,2024,general_rate,.0%) 250+ ict 5 (16.7%) 1 (3.3%) 24 (80.0%) 0 (0.0%) 14 (46.7%) 6 (20.0%) 10 (33.3%) 0 (0.0%) 14 (46...,ICT sector data - preserved,0.95
+654,0.0,percentage,2024,general_rate,40.0%) 0 (0.0%) 17 (56.7%) 1 (3.3%) 12 (40.0%) 0 (0.0%) ita 50-249 ict 18 (60.0%) 2 (6.7%) 10 (33.3%...,ICT sector data - preserved,0.95
+655,0.0,percentage,2024,general_rate,ita 50-249 ict 18 (60.0%) 2 (6.7%) 10 (33.3%) 0 (0.0%) 10 (33.3%) 6 (20.0%) 14 (46.7%) 0 (0.0%) 15 (...,ICT sector data - preserved,0.95
+660,0.0,percentage,2024,general_rate,0.0%) 0 (0.0%) 13 (43.3%) 5 (16.7%) 12 (40.0%) 0 (0.0%) 250+ ict 7 (23.3%) 1 (3.3%) 22 (73.3%) 0 (0....,ICT sector data - preserved,0.95
+661,0.0,percentage,2024,general_rate,.0%) 250+ ict 7 (23.3%) 1 (3.3%) 22 (73.3%) 0 (0.0%) 17 (56.7%) 5 (16.7%) 8 (26.7%) 0 (0.0%) 14 (46....,ICT sector data - preserved,0.95
+667,0.0,percentage,2024,general_rate,0.0%) 0 (0.0%) 14 (46.7%) 4 (13.3%) 12 (40.0%) 0 (0.0%) jpn 50-249 ict 7 (23.3%) 3 (10.0%) 20 (66.7%...,ICT sector data - preserved,0.95
+668,0.0,percentage,2024,general_rate,jpn 50-249 ict 7 (23.3%) 3 (10.0%) 20 (66.7%) 0 (0.0%) 9 (30.0%) 6 (20.0%) 15 (50.0%) 0 (0.0%) 24 (8...,ICT sector data - preserved,0.95
+674,0.0,percentage,2024,general_rate,36.7%) 0 (0.0%) 15 (50.0%) 2 (6.7%) 13 (43.3%) 0 (0.0%) 250+ ict 11 (36.7%) 1 (3.3%) 18 (60.0%) 0 (0...,ICT sector data - preserved,0.95
+675,0.0,percentage,2024,general_rate,0%) 250+ ict 11 (36.7%) 1 (3.3%) 18 (60.0%) 0 (0.0%) 15 (50.0%) 7 (23.3%) 7 (23.3%) 1 (3.3%) 17 (56....,ICT sector data - preserved,0.95
+680,0.0,percentage,2024,general_rate,20.0%) 0 (0.0%) 17 (56.7%) 2 (6.7%) 11 (36.7%) 0 (0.0%) usa 50-249 ict 6 (20.0%) 0 (0.0%) 24 (80.0%)...,ICT sector data - preserved,0.95
+681,0.0,percentage,2024,general_rate,11 (36.7%) 0 (0.0%) usa 50-249 ict 6 (20.0%) 0 (0.0%) 24 (80.0%) 0 (0.0%) 12 (40.0%) 6 (20.0%) 10 (3...,ICT sector data - preserved,0.95
+682,0.0,percentage,2024,general_rate,usa 50-249 ict 6 (20.0%) 0 (0.0%) 24 (80.0%) 0 (0.0%) 12 (40.0%) 6 (20.0%) 10 (33.3%) 2 (6.7%) 14 (4...,ICT sector data - preserved,0.95
+685,0.0,percentage,2024,general_rate,23.3%) 1 (3.3%) 17 (56.7%) 5 (16.7%) 8 (26.7%) 0 (0.0%) 250+ ict 7 (23.3%) 0 (0.0%) 23 (76.7%) 0 (0....,ICT sector data - preserved,0.95
+686,0.0,percentage,2024,general_rate,6.7%) 8 (26.7%) 0 (0.0%) 250+ ict 7 (23.3%) 0 (0.0%) 23 (76.7%) 0 (0.0%) 17 (56.7%) 5 (16.7%) 8 (26....,ICT sector data - preserved,0.95
+687,0.0,percentage,2024,general_rate,.0%) 250+ ict 7 (23.3%) 0 (0.0%) 23 (76.7%) 0 (0.0%) 17 (56.7%) 5 (16.7%) 8 (26.7%) 0 (0.0%) 14 (46....,ICT sector data - preserved,0.95
+694,0.0,percentage,2024,general_rate,he enterprise does not spend on r&d can 50-249 ict 0 (0.0%) 14 (46.7%) 12 (40.0%) 0 (0.0%) 4 (13.3%)...,ICT sector data - preserved,0.95
+695,0.0,percentage,2024,general_rate,r&d can 50-249 ict 0 (0.0%) 14 (46.7%) 12 (40.0%) 0 (0.0%) 4 (13.3%) 0 (0.0%) manufacturing 0 (0.0%)...,ICT sector data - preserved,0.95
+698,0.0,percentage,2024,general_rate,manufacturing 0 (0.0%) 15 (50.0%) 12 (40.0%) 0 (0.0%) 3 (10.0%) 0 (0.0%) 250+ ict 0 (0.0%) 16 (53.3%...,ICT sector data - preserved,0.95
+699,0.0,percentage,2024,general_rate,0 (0.0%) 15 (50.0%) 12 (40.0%) 0 (0.0%) 3 (10.0%) 0 (0.0%) 250+ ict 0 (0.0%) 16 (53.3%) 11 (36.7%) 1...,ICT sector data - preserved,0.95
+700,0.0,percentage,2024,general_rate,12 (40.0%) 0 (0.0%) 3 (10.0%) 0 (0.0%) 250+ ict 0 (0.0%) 16 (53.3%) 11 (36.7%) 1 (3.3%) 1 (3.3%) 1 (...,ICT sector data - preserved,0.95
+702,0.0,percentage,2024,general_rate,) manufacturing 0 (0.0%) 21 (70.0%) 8 (26.7%) 0 (0.0%) 1 (3.3%) 0 (0.0%) deu 50-249 ict 0 (0.0%) 8 (...,ICT sector data - preserved,0.95
+703,0.0,percentage,2024,general_rate,ng 0 (0.0%) 21 (70.0%) 8 (26.7%) 0 (0.0%) 1 (3.3%) 0 (0.0%) deu 50-249 ict 0 (0.0%) 8 (26.7%) 15 (50...,ICT sector data - preserved,0.95
+704,0.0,percentage,2024,general_rate,(26.7%) 0 (0.0%) 1 (3.3%) 0 (0.0%) deu 50-249 ict 0 (0.0%) 8 (26.7%) 15 (50.0%) 0 (0.0%) 7 (23.3%) 0...,ICT sector data - preserved,0.95
+705,0.0,percentage,2024,general_rate,.0%) deu 50-249 ict 0 (0.0%) 8 (26.7%) 15 (50.0%) 0 (0.0%) 7 (23.3%) 0 (0.0%) manufacturing 0 (0.0%)...,ICT sector data - preserved,0.95
+708,0.0,percentage,2024,general_rate,) manufacturing 0 (0.0%) 19 (63.3%) 9 (30.0%) 0 (0.0%) 2 (6.7%) 0 (0.0%) 250+ ict 0 (0.0%) 11 (36.7%...,ICT sector data - preserved,0.95
+709,0.0,percentage,2024,general_rate,ng 0 (0.0%) 19 (63.3%) 9 (30.0%) 0 (0.0%) 2 (6.7%) 0 (0.0%) 250+ ict 0 (0.0%) 11 (36.7%) 15 (50.0%) ...,ICT sector data - preserved,0.95
+710,0.0,percentage,2024,general_rate,9 (30.0%) 0 (0.0%) 2 (6.7%) 0 (0.0%) 250+ ict 0 (0.0%) 11 (36.7%) 15 (50.0%) 0 (0.0%) 4 (13.3%) 0 (0...,ICT sector data - preserved,0.95
+711,0.0,percentage,2024,general_rate,(0.0%) 250+ ict 0 (0.0%) 11 (36.7%) 15 (50.0%) 0 (0.0%) 4 (13.3%) 0 (0.0%) manufacturing 2 (6.7%) 22...,ICT sector data - preserved,0.95
+713,0.0,percentage,2024,general_rate,ng 2 (6.7%) 22 (73.3%) 3 (10.0%) 2 (6.7%) 1 (3.3%) 0 (0.0%) fra 50-249 ict 0 (0.0%) 7 (23.3%) 16 (53...,ICT sector data - preserved,0.95
+714,0.0,percentage,2024,general_rate,(10.0%) 2 (6.7%) 1 (3.3%) 0 (0.0%) fra 50-249 ict 0 (0.0%) 7 (23.3%) 16 (53.3%) 0 (0.0%) 7 (23.3%) 0...,ICT sector data - preserved,0.95
+715,0.0,percentage,2024,general_rate,.0%) fra 50-249 ict 0 (0.0%) 7 (23.3%) 16 (53.3%) 0 (0.0%) 7 (23.3%) 0 (0.0%) manufacturing 0 (0.0%)...,ICT sector data - preserved,0.95
+718,0.0,percentage,2024,general_rate,) manufacturing 0 (0.0%) 9 (30.0%) 15 (50.0%) 0 (0.0%) 6 (20.0%) 0 (0.0%) 250+ ict 0 (0.0%) 13 (43.3...,ICT sector data - preserved,0.95
+719,0.0,percentage,2024,general_rate,g 0 (0.0%) 9 (30.0%) 15 (50.0%) 0 (0.0%) 6 (20.0%) 0 (0.0%) 250+ ict 0 (0.0%) 13 (43.3%) 14 (46.7%) ...,ICT sector data - preserved,0.95
+720,0.0,percentage,2024,general_rate,15 (50.0%) 0 (0.0%) 6 (20.0%) 0 (0.0%) 250+ ict 0 (0.0%) 13 (43.3%) 14 (46.7%) 2 (6.7%) 1 (3.3%) 0 (...,ICT sector data - preserved,0.95
+723,0.0,percentage,2024,general_rate,ufacturing 0 (0.0%) 16 (53.3%) 11 (36.7%) 3 (10.0%) 0 (0.0%) 0 (0.0%) gbr 50-249 ict 0 (0.0%) 18 (60...,ICT sector data - preserved,0.95
+724,0.0,percentage,2024,general_rate,0 (0.0%) 16 (53.3%) 11 (36.7%) 3 (10.0%) 0 (0.0%) 0 (0.0%) gbr 50-249 ict 0 (0.0%) 18 (60.0%) 10 (33...,ICT sector data - preserved,0.95
+725,0.0,percentage,2024,general_rate,36.7%) 3 (10.0%) 0 (0.0%) 0 (0.0%) gbr 50-249 ict 0 (0.0%) 18 (60.0%) 10 (33.3%) 0 (0.0%) 2 (6.7%) 0...,ICT sector data - preserved,0.95
+726,0.0,percentage,2024,general_rate,0%) gbr 50-249 ict 0 (0.0%) 18 (60.0%) 10 (33.3%) 0 (0.0%) 2 (6.7%) 0 (0.0%) manufacturing 0 (0.0%) ...,ICT sector data - preserved,0.95
+729,0.0,percentage,2024,general_rate,g 0 (0.0%) 16 (53.3%) 6 (20.0%) 1 (3.3%) 7 (23.3%) 0 (0.0%) 250+ ict 0 (0.0%) 12 (40.0%) 12 (40.0%) ...,ICT sector data - preserved,0.95
+730,0.0,percentage,2024,general_rate,6 (20.0%) 1 (3.3%) 7 (23.3%) 0 (0.0%) 250+ ict 0 (0.0%) 12 (40.0%) 12 (40.0%) 1 (3.3%) 2 (6.7%) 3 (1...,ICT sector data - preserved,0.95
+731,0.0,percentage,2024,general_rate,ng 1 (3.3%) 20 (66.7%) 6 (20.0%) 2 (6.7%) 1 (3.3%) 0 (0.0%) ita 50-249 ict 0 (0.0%) 15 (50.0%) 14 (4...,ICT sector data - preserved,0.95
+732,0.0,percentage,2024,general_rate,(20.0%) 2 (6.7%) 1 (3.3%) 0 (0.0%) ita 50-249 ict 0 (0.0%) 15 (50.0%) 14 (46.7%) 0 (0.0%) 1 (3.3%) 0...,ICT sector data - preserved,0.95
+733,0.0,percentage,2024,general_rate,0%) ita 50-249 ict 0 (0.0%) 15 (50.0%) 14 (46.7%) 0 (0.0%) 1 (3.3%) 0 (0.0%) manufacturing 0 (0.0%) ...,ICT sector data - preserved,0.95
+736,0.0,percentage,2024,general_rate,manufacturing 0 (0.0%) 19 (63.3%) 10 (33.3%) 0 (0.0%) 1 (3.3%) 0 (0.0%) 250+ ict 0 (0.0%) 15 (50.0%)...,ICT sector data - preserved,0.95
+737,0.0,percentage,2024,general_rate,g 0 (0.0%) 19 (63.3%) 10 (33.3%) 0 (0.0%) 1 (3.3%) 0 (0.0%) 250+ ict 0 (0.0%) 15 (50.0%) 13 (43.3%) ...,ICT sector data - preserved,0.95
+738,0.0,percentage,2024,general_rate,10 (33.3%) 0 (0.0%) 1 (3.3%) 0 (0.0%) 250+ ict 0 (0.0%) 15 (50.0%) 13 (43.3%) 0 (0.0%) 2 (6.7%) 0 (0...,ICT sector data - preserved,0.95
+739,0.0,percentage,2024,general_rate,(0.0%) 250+ ict 0 (0.0%) 15 (50.0%) 13 (43.3%) 0 (0.0%) 2 (6.7%) 0 (0.0%) manufacturing 0 (0.0%) 23 ...,ICT sector data - preserved,0.95
+742,0.0,percentage,2024,general_rate,anufacturing 0 (0.0%) 23 (76.7%) 6 (20.0%) 1 (3.3%) 0 (0.0%) 0 (0.0%) jpn 50-249 ict 0 (0.0%) 9 (30....,ICT sector data - preserved,0.95
+743,0.0,percentage,2024,general_rate,ng 0 (0.0%) 23 (76.7%) 6 (20.0%) 1 (3.3%) 0 (0.0%) 0 (0.0%) jpn 50-249 ict 0 (0.0%) 9 (30.0%) 16 (53...,ICT sector data - preserved,0.95
+744,0.0,percentage,2024,general_rate,(20.0%) 1 (3.3%) 0 (0.0%) 0 (0.0%) jpn 50-249 ict 0 (0.0%) 9 (30.0%) 16 (53.3%) 0 (0.0%) 5 (16.7%) 0...,ICT sector data - preserved,0.95
+745,0.0,percentage,2024,general_rate,.0%) jpn 50-249 ict 0 (0.0%) 9 (30.0%) 16 (53.3%) 0 (0.0%) 5 (16.7%) 0 (0.0%) manufacturing 0 (0.0%)...,ICT sector data - preserved,0.95
+748,0.0,percentage,2024,general_rate,manufacturing 0 (0.0%) 11 (36.7%) 18 (60.0%) 0 (0.0%) 1 (3.3%) 0 (0.0%) 250+ ict 0 (0.0%) 17 (56.7%)...,ICT sector data - preserved,0.95
+749,0.0,percentage,2024,general_rate,g 0 (0.0%) 11 (36.7%) 18 (60.0%) 0 (0.0%) 1 (3.3%) 0 (0.0%) 250+ ict 0 (0.0%) 17 (56.7%) 12 (40.0%) ...,ICT sector data - preserved,0.95
+750,0.0,percentage,2024,general_rate,18 (60.0%) 0 (0.0%) 1 (3.3%) 0 (0.0%) 250+ ict 0 (0.0%) 17 (56.7%) 12 (40.0%) 0 (0.0%) 1 (3.3%) 0 (0...,ICT sector data - preserved,0.95
+751,0.0,percentage,2024,general_rate,(0.0%) 250+ ict 0 (0.0%) 17 (56.7%) 12 (40.0%) 0 (0.0%) 1 (3.3%) 0 (0.0%) 188  the adoption of arti...,ICT sector data - preserved,0.95
+753,0.0,percentage,2025,general_rate,oecd/bcg/insead 2025 country enterprise size sector 0% between 1% and 10% between 11% and 30% cannot...,Passed all validation checks,0.85
+755,0.0,percentage,2024,general_rate,nufacturing 0 (0.0%) 15 (50.0%) 13 (43.3%) 1 (3.3%) 0 (0.0%) 1 (3.3%) usa 50-249 ict 1 (3.3%) 16 (53...,ICT sector data - preserved,0.95
+756,0.0,percentage,2024,general_rate,.3%) usa 50-249 ict 1 (3.3%) 16 (53.3%) 8 (26.7%) 0 (0.0%) 5 (16.7%) 0 (0.0%) manufacturing 0 (0.0%)...,ICT sector data - preserved,0.95
+759,0.0,percentage,2024,general_rate,g 0 (0.0%) 14 (46.7%) 13 (43.3%) 1 (3.3%) 2 (6.7%) 0 (0.0%) 250+ ict 0 (0.0%) 19 (63.3%) 5 (16.7%) 4...,ICT sector data - preserved,0.95
+760,0.0,percentage,2024,general_rate,13 (43.3%) 1 (3.3%) 2 (6.7%) 0 (0.0%) 250+ ict 0 (0.0%) 19 (63.3%) 5 (16.7%) 4 (13.3%) 2 (6.7%) 0 (0...,ICT sector data - preserved,0.95
+771,2022.0,percentage,2022,unknown_metric,"of public support across 840 enterprises in g7 countries, 2022-23 94 table 3.9. percentage of 840 en...",Passed all validation checks,0.85
+773,43.0,percentage,2018,gdp_metric,"The results show that smaller US 
+enterprises are lagging in the utilisation of advanced technologi...",Passed all validation checks,0.85
+774,31.0,percentage,2024,gdp_metric,"1 Economically, the state of São Paulo is also 
+the largest, accounting for around 31% of Brazil’s ...",Passed all validation checks,0.85
+775,38.0,percentage,2024,investment_metric,"38% of enterprises that allocate between 
+0-10% of their R&D spending to AI considered AI to be cri...",Passed all validation checks,0.85
+776,10.0,percentage,2024,investment_metric,"38% of enterprises that allocate between 
+0-10% of their R&D spending to AI considered AI to be cri...",Passed all validation checks,0.85
+777,60.0,billions_usd,2019,revenue_metric,"For example, Chapter 2 describes a 2019 survey of 60 manufacturers in the United 
+States with annua...",Passed all validation checks,0.85
+778,500.0,billions_usd,2019,revenue_metric,"For example, Chapter 2 describes a 2019 survey of 60 manufacturers in the United 
+States with annua...",Passed all validation checks,0.85
+779,10.0,billions_usd,2019,revenue_metric,"For example, Chapter 2 describes a 2019 survey of 60 manufacturers in the United 
+States with annua...",Passed all validation checks,0.85
+780,3.0,billions_usd,2018,revenue_metric,"For instance, one study of companies with revenues over USD 3 billion found that organisations 
+tha...",Passed all validation checks,0.85
+781,100.0,billions_usd,2018,revenue_metric,"For instance, one study of companies with revenues over USD 3 billion found that organisations 
+tha...",Passed all validation checks,0.85
+782,47.0,percentage,2017,labor_metric,"An early 
+example of this work is (Frey and Osborne, 2017[3]), which examined the probability of co...",Passed all validation checks,0.85
+785,30.0,percentage,2024,impact_metrics,nan,Passed all validation checks,0.85
+786,13.0,percentage,2024,adoption_metrics,nan,Passed all validation checks,0.85
+4499,1.9,percentage,2017,general_rate,r of survey) country manufacturing ict source canada 1.9% 20.4% statistics canada (2017) germany 2.2...,ICT sector data - preserved,0.95
+4500,20.4,percentage,2017,general_rate,survey) country manufacturing ict source canada 1.9% 20.4% statistics canada (2017) germany 2.2-11.0...,ICT sector data - preserved,0.95
+4514,70.0,percentage,2024,general_rate,opt and develop ai. most use several mechanisms. more than 70% of enterprises in both manufacturing ...,ICT sector data - preserved,0.95
+4522,0.0,percentage,2024,general_rate,important considerations can 50-249 ict 19 (63.3%) 0 (0.0%) 11 (36.7%) manufacturing 22 (73.3%) 2 (6...,ICT sector data - preserved,0.95
+4523,0.0,percentage,2024,general_rate,%) 9 (30.0%) 12 (40.0%) deu 50-249 ict 17 (56.7%) 0 (0.0%) 13 (43.3%) manufacturing 13 (43.3%) 4 (13...,ICT sector data - preserved,0.95
+4524,0.0,percentage,2024,general_rate,%) 6 (20.0%) 20 (66.7%) fra 50-249 ict 21 (70.0%) 0 (0.0%) 9 (30.0%) manufacturing 26 (86.7%) 0 (0.0...,ICT sector data - preserved,0.95
+4525,0.0,percentage,2024,general_rate,%) 0 (0.0%) 9 (30.0%) manufacturing 26 (86.7%) 0 (0.0%) 4 (13.3%) 250+ ict 18 (60.0%) 0 (0.0%) 12 (4...,ICT sector data - preserved,0.95
+4526,0.0,percentage,2024,general_rate,(86.7%) 0 (0.0%) 4 (13.3%) 250+ ict 18 (60.0%) 0 (0.0%) 12 (40.0%) manufacturing 15 (50.0%) 1 (3.3%)...,ICT sector data - preserved,0.95
+4527,0.0,percentage,2024,general_rate,(60.0%) 5 (16.7%) 7 (23.3%) 250+ ict 16 (53.3%) 0 (0.0%) 14 (46.7%) manufacturing 8 (26.7%) 3 (10.0%...,ICT sector data - preserved,0.95
+4528,0.0,percentage,2024,general_rate,%) 3 (10.0%) 19 (63.3%) ita 50-249 ict 14 (46.7%) 0 (0.0%) 16 (53.3%) manufacturing 10 (33.3%) 8 (26...,ICT sector data - preserved,0.95
+4529,0.0,percentage,2024,general_rate,%) 6 (20.0%) 15 (50.0%) jpn 50-249 ict 19 (63.3%) 0 (0.0%) 11 (36.7%) manufacturing 22 (73.3%) 3 (10...,ICT sector data - preserved,0.95
+4530,0.0,percentage,2024,general_rate,(73.3%) 3 (10.0%) 5 (16.7%) 250+ ict 25 (83.3%) 0 (0.0%) 5 (16.7%) manufacturing 17 (56.7%) 1 (3.3%)...,ICT sector data - preserved,0.95
+4531,0.0,percentage,2024,general_rate,7%) 1 (3.3%) 12 (40.0%) usa 50-249 ict 19 (63.3%) 0 (0.0%) 11 (36.7%) manufacturing 9 (30.0%) 8 (26....,ICT sector data - preserved,0.95
+4532,0.0,percentage,2020,general_rate,2000- 2010 2010- 2020 after 2020 can 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.7%) 3 (10.0%) 4 (13....,ICT sector data - preserved,0.95
+4533,0.0,percentage,2020,general_rate,2010- 2020 after 2020 can 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.7%) 3 (10.0%) 4 (13.3%) 13 (43....,ICT sector data - preserved,0.95
+4534,0.0,percentage,2020,general_rate,after 2020 can 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.7%) 3 (10.0%) 4 (13.3%) 13 (43.3%) 8 (26.7,ICT sector data - preserved,0.95
+4538,0.0,percentage,2024,general_rate,3.3%) 0 (0.0%) 7 (23.3%) 8 (26.7%) 12 (40.0%) 0 (0.0%) 250+ ict 1 (3.3%) 3 (10.0%) 0 (0.0%) 1 (3.,ICT sector data - preserved,0.95
+4539,0.0,percentage,2024,general_rate,.0%) 0 (0.0%) 250+ ict 1 (3.3%) 3 (10.0%) 0 (0.0%) 1 (3.3%) 2 (6.7%) 4 (13.3%) 13 (43.3%) 6 (20.0,ICT sector data - preserved,0.95
+4541,0.0,percentage,2024,general_rate,13.3%) 4 (13.3%) 9 (30.0%) 4 (13.3%) 2 (6.7%) 0 (0.0%) deu 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 0,ICT sector data - preserved,0.95
+4542,0.0,percentage,2024,general_rate,4 (13.3%) 2 (6.7%) 0 (0.0%) deu 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 1 (3.3%) 7 (23.3%,ICT sector data - preserved,0.95
+4543,0.0,percentage,2024,general_rate,2 (6.7%) 0 (0.0%) deu 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 1 (3.3%) 7 (23.3%) 15 (50.0,ICT sector data - preserved,0.95
+4544,0.0,percentage,2024,general_rate,0 (0.0%) deu 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 1 (3.3%) 7 (23.3%) 15 (50.0%) 7 (23.3,ICT sector data - preserved,0.95
+4545,0.0,percentage,2024,general_rate,deu 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 1 (3.3%) 7 (23.3%) 15 (50.0%) 7 (23.3%) 0 (0.0%,ICT sector data - preserved,0.95
+4549,0.0,percentage,2024,general_rate,.0%) 3 (10.0%) 1 (3.3%) 250+ ict 1 (3.3%) 0 (0.0%) 5 (16.7%) 1 (3.3%) 7 (23.3%) 6 (20.0%) 2 (6.7%,ICT sector data - preserved,0.95
+4550,0.0,percentage,2024,general_rate,(6.7%) 3 (10.0%) 3 (10.0%) 4 (13.3%) 2 (6.7%) 0 (0.0%) fra 50-249 ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 1,ICT sector data - preserved,0.95
+4551,0.0,percentage,2024,general_rate,4 (13.3%) 2 (6.7%) 0 (0.0%) fra 50-249 ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 1 (3.3%) 9 (30.0%) 7 (23.3%,ICT sector data - preserved,0.95
+4552,0.0,percentage,2024,general_rate,2 (6.7%) 0 (0.0%) fra 50-249 ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 1 (3.3%) 9 (30.0%) 7 (23.3%) 7 (23.3%,ICT sector data - preserved,0.95
+4557,0.0,percentage,2024,general_rate,0.0%) 1 (3.3%) 8 (26.7%) 8 (26.7%) 12 (40.0%) 0 (0.0%) 250+ ict 2 (6.7%) 0 (0.0%) 1 (3.3%) 1 (3.,ICT sector data - preserved,0.95
+4558,0.0,percentage,2024,general_rate,7%) 12 (40.0%) 0 (0.0%) 250+ ict 2 (6.7%) 0 (0.0%) 1 (3.3%) 1 (3.3%) 6 (20.0%) 6 (20.0%) 5 (16.7%,ICT sector data - preserved,0.95
+4560,0.0,percentage,2024,general_rate,4 (13.3%) 5 (16.7%) 2 (6.7%) gbr 50-249 ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 7 (23.3%) 4 (13.3%) 3 (10.0%,ICT sector data - preserved,0.95
+4561,0.0,percentage,2024,general_rate,5 (16.7%) 2 (6.7%) gbr 50-249 ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 7 (23.3%) 4 (13.3%) 3 (10.0%) 8 (26.7%,ICT sector data - preserved,0.95
+4563,0.0,percentage,2024,general_rate,0.0%) 1 (3.3%) 2 (6.7%) 4 (13.3%) 6 (20.0%) 0 (0.0%) 6 (20.0%) 7 (23.3%) 1 (3.3%) 250+ ict 5 (16.7,ICT sector data - preserved,0.95
+4564,0.0,percentage,2024,general_rate,.3%) 1 (3.3%) 250+ ict 5 (16.7%) 1 (3.3%) 0 (0.0%) 1 (3.3%) 7 (23.3%) 8 (26.7%) 3 (10.0%) 5 (16.7%,ICT sector data - preserved,0.95
+4566,0.0,percentage,2024,general_rate,10.0%) 4 (13.3%) 3 (10.0%) 2 (6.7%) 3 (10.0%) 0 (0.0%) ita 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2,ICT sector data - preserved,0.95
+4567,0.0,percentage,2024,general_rate,2 (6.7%) 3 (10.0%) 0 (0.0%) ita 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.7%) 2 (6.7%) 8 (26.7%,ICT sector data - preserved,0.95
+4568,0.0,percentage,2024,general_rate,3 (10.0%) 0 (0.0%) ita 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.7%) 2 (6.7%) 8 (26.7%) 11 (36.7,ICT sector data - preserved,0.95
+4569,0.0,percentage,2024,general_rate,0 (0.0%) ita 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.7%) 2 (6.7%) 8 (26.7%) 11 (36.7%) 7 (23.3,ICT sector data - preserved,0.95
+4571,0.0,percentage,2024,general_rate,13.3%) 4 (13.3%) 5 (16.7%) 6 (20.0%) 3 (10.0%) 0 (0.0%) 250+ ict 1 (3.3%) 0 (0.0%) 0 (0.0%) 3 (10.,ICT sector data - preserved,0.95
+4572,0.0,percentage,2024,general_rate,.0%) 3 (10.0%) 0 (0.0%) 250+ ict 1 (3.3%) 0 (0.0%) 0 (0.0%) 3 (10.0%) 8 (26.7%) 9 (30.0%) 5 (16.7%,ICT sector data - preserved,0.95
+4573,0.0,percentage,2024,general_rate,.0%) 0 (0.0%) 250+ ict 1 (3.3%) 0 (0.0%) 0 (0.0%) 3 (10.0%) 8 (26.7%) 9 (30.0%) 5 (16.7%) 4 (13.3%,ICT sector data - preserved,0.95
+4575,0.0,percentage,2024,general_rate,3 (10.0%) 7 (23.3%) 1 (3.3%) jpn 50-249 ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 3 (10.0%) 4 (13.3%) 9 (30.0%,ICT sector data - preserved,0.95
+4576,0.0,percentage,2024,general_rate,7 (23.3%) 1 (3.3%) jpn 50-249 ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 3 (10.0%) 4 (13.3%) 9 (30.0%) 7 (23.3%,ICT sector data - preserved,0.95
+4580,0.0,percentage,2024,general_rate,3.3%) 2 (6.7%) 2 (6.7%) 12 (40.0%) 8 (26.7%) 0 (0.0%) 250+ ict 3 (10.0%) 1 (3.3%) 3 (10.0%) 4 (13.,ICT sector data - preserved,0.95
+4582,0.0,percentage,2024,general_rate,3.3%) 2 (6.7%) 1 (3.3%) 4 (13.3%) 4 (13.3%) 0 (0.0%) 0 (0.0%) usa 50-249 ict 0 (0.0%) 1 (3.3%) 0,ICT sector data - preserved,0.95
+4583,0.0,percentage,2024,general_rate,(6.7%) 1 (3.3%) 4 (13.3%) 4 (13.3%) 0 (0.0%) 0 (0.0%) usa 50-249 ict 0 (0.0%) 1 (3.3%) 0 (0.0%) 0,ICT sector data - preserved,0.95
+4584,0.0,percentage,2024,general_rate,4 (13.3%) 0 (0.0%) 0 (0.0%) usa 50-249 ict 0 (0.0%) 1 (3.3%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 4 (13.3%,ICT sector data - preserved,0.95
+4585,0.0,percentage,2024,general_rate,0 (0.0%) usa 50-249 ict 0 (0.0%) 1 (3.3%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 4 (13.3%) 5 (16.7%) 19 (63.3,ICT sector data - preserved,0.95
+4586,0.0,percentage,2024,general_rate,usa 50-249 ict 0 (0.0%) 1 (3.3%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 4 (13.3%) 5 (16.7%) 19 (63.3%) 1 (3.3%,ICT sector data - preserved,0.95
+4587,0.0,percentage,2024,general_rate,ict 0 (0.0%) 1 (3.3%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 4 (13.3%) 5 (16.7%) 19 (63.3%) 1 (3.3%) manu,ICT sector data - preserved,0.95
+4591,0.0,percentage,2024,general_rate,7%) 7 (23.3%) 10 (33.3%) 1 (3.3%) 250+ ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 2 (6.7%) 3 (10.0%) 6 (20.0%,ICT sector data - preserved,0.95
+4592,0.0,percentage,2024,general_rate,3%) 10 (33.3%) 1 (3.3%) 250+ ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 2 (6.7%) 3 (10.0%) 6 (20.0%) 6 (20.0%,ICT sector data - preserved,0.95
+4594,0.0,percentage,2024,general_rate,ar with this concept yes can 50-249 ict 7 (23.3%) 0 (0.0%) 23 (76.7%) manufacturing 5 (16.7%) 0 (0.0...,ICT sector data - preserved,0.95
+4595,0.0,percentage,2024,general_rate,%) 0 (0.0%) 23 (76.7%) manufacturing 5 (16.7%) 0 (0.0%) 25 (83.3%) 250+ ict 4 (13.3%) 0 (0.0%) 26 (8...,ICT sector data - preserved,0.95
+4596,0.0,percentage,2024,general_rate,(16.7%) 0 (0.0%) 25 (83.3%) 250+ ict 4 (13.3%) 0 (0.0%) 26 (86.7%) manufacturing 15 (50.0%) 0 (0.0%)...,ICT sector data - preserved,0.95
+4597,0.0,percentage,2024,general_rate,) 0 (0.0%) 26 (86.7%) manufacturing 15 (50.0%) 0 (0.0%) 15 (50.0%) deu 50-249 ict 2 (6.7%) 0 (0.0%) ...,ICT sector data - preserved,0.95
+4598,0.0,percentage,2024,general_rate,0.0%) 0 (0.0%) 15 (50.0%) deu 50-249 ict 2 (6.7%) 0 (0.0%) 28 (93.3%) manufacturing 14 (46.7%) 0 (0....,ICT sector data - preserved,0.95
+4599,0.0,percentage,2024,general_rate,) 0 (0.0%) 28 (93.3%) manufacturing 14 (46.7%) 0 (0.0%) 16 (53.3%) 250+ ict 2 (6.7%) 0 (0.0%) 28 (93...,ICT sector data - preserved,0.95
+4600,0.0,percentage,2024,general_rate,4 (46.7%) 0 (0.0%) 16 (53.3%) 250+ ict 2 (6.7%) 0 (0.0%) 28 (93.3%) manufacturing 12 (40.0%) 0 (0.0%...,ICT sector data - preserved,0.95
+4601,0.0,percentage,2024,general_rate,) 0 (0.0%) 28 (93.3%) manufacturing 12 (40.0%) 0 (0.0%) 18 (60.0%) fra 50-249 ict 3 (10.0%) 0 (0.0%)...,ICT sector data - preserved,0.95
+4602,0.0,percentage,2024,general_rate,.0%) 0 (0.0%) 18 (60.0%) fra 50-249 ict 3 (10.0%) 0 (0.0%) 27 (90.0%) manufacturing 2 (6.7%) 0 (0.0%...,ICT sector data - preserved,0.95
+4603,0.0,percentage,2024,general_rate,0%) 0 (0.0%) 27 (90.0%) manufacturing 2 (6.7%) 0 (0.0%) 28 (93.3%) 250+ ict 0 (0.0%) 1 (3.3%) 29 (96...,ICT sector data - preserved,0.95
+4604,0.0,percentage,2024,general_rate,facturing 2 (6.7%) 0 (0.0%) 28 (93.3%) 250+ ict 0 (0.0%) 1 (3.3%) 29 (96.7%) manufacturing 5 (16.7%)...,ICT sector data - preserved,0.95
+4605,0.0,percentage,2024,general_rate,%) 1 (3.3%) 29 (96.7%) manufacturing 5 (16.7%) 0 (0.0%) 25 (83.3%) gbr 50-249 ict 5 (16.7%) 0 (0.0%)...,ICT sector data - preserved,0.95
+4606,0.0,percentage,2024,general_rate,.7%) 0 (0.0%) 25 (83.3%) gbr 50-249 ict 5 (16.7%) 0 (0.0%) 25 (83.3%) manufacturing 11 (36.7%) 0 (0....,ICT sector data - preserved,0.95
+4607,0.0,percentage,2024,general_rate,) 0 (0.0%) 25 (83.3%) manufacturing 11 (36.7%) 0 (0.0%) 19 (63.3%) 250+ ict 3 (10.0%) 0 (0.0%) 27 (9...,ICT sector data - preserved,0.95
+4608,0.0,percentage,2024,general_rate,(36.7%) 0 (0.0%) 19 (63.3%) 250+ ict 3 (10.0%) 0 (0.0%) 27 (90.0%) manufacturing 9 (30.0%) 0 (0.0%) ...,ICT sector data - preserved,0.95
+4609,0.0,percentage,2024,general_rate,%) 0 (0.0%) 27 (90.0%) manufacturing 9 (30.0%) 0 (0.0%) 21 (70.0%) ita 50-249 ict 9 (30.0%) 0 (0.0%)...,ICT sector data - preserved,0.95
+4610,0.0,percentage,2024,general_rate,.0%) 0 (0.0%) 21 (70.0%) ita 50-249 ict 9 (30.0%) 0 (0.0%) 21 (70.0%) manufacturing 13 (43.3%) 0 (0....,ICT sector data - preserved,0.95
+4611,0.0,percentage,2024,general_rate,) 0 (0.0%) 21 (70.0%) manufacturing 13 (43.3%) 0 (0.0%) 17 (56.7%) 250+ ict 1 (3.3%) 0 (0.0%) 29 (96...,ICT sector data - preserved,0.95
+4612,0.0,percentage,2024,general_rate,3 (43.3%) 0 (0.0%) 17 (56.7%) 250+ ict 1 (3.3%) 0 (0.0%) 29 (96.7%) manufacturing 11 (36.7%) 0 (0.0%...,ICT sector data - preserved,0.95
+4613,0.0,percentage,2024,general_rate,) 0 (0.0%) 29 (96.7%) manufacturing 11 (36.7%) 0 (0.0%) 19 (63.3%) jpn 50-249 ict 6 (20.0%) 0 (0.0%)...,ICT sector data - preserved,0.95
+4614,0.0,percentage,2024,general_rate,.7%) 0 (0.0%) 19 (63.3%) jpn 50-249 ict 6 (20.0%) 0 (0.0%) 24 (80.0%) manufacturing 6 (20.0%) 0 (0.0...,ICT sector data - preserved,0.95
+4615,0.0,percentage,2024,general_rate,%) 0 (0.0%) 24 (80.0%) manufacturing 6 (20.0%) 0 (0.0%) 24 (80.0%) 250+ ict 3 (10.0%) 0 (0.0%) 27 (9...,ICT sector data - preserved,0.95
+4616,0.0,percentage,2024,general_rate,(20.0%) 0 (0.0%) 24 (80.0%) 250+ ict 3 (10.0%) 0 (0.0%) 27 (90.0%) manufacturing 7 (23.3%) 2 (6.7%) ...,ICT sector data - preserved,0.95
+4617,0.0,percentage,2024,general_rate,.3%) 2 (6.7%) 21 (70.0%) usa 50-249 ict 5 (16.7%) 0 (0.0%) 25 (83.3%) manufacturing 17 (56.7%) 2 (6....,ICT sector data - preserved,0.95
+4618,0.0,percentage,2024,general_rate,7 (56.7%) 2 (6.7%) 11 (36.7%) 250+ ict 1 (3.3%) 0 (0.0%) 29 (96.7%) manufacturing 2 (6.7%) 1 (3.3%) ...,ICT sector data - preserved,0.95
+4619,0.0,percentage,2024,general_rate,know no yes don't know no yes can 50-249 ict 0 (0.0%) 27 (90.0%) 3 (10.0%) 0 (0.0%) 24 (80.0%) 6 (20...,ICT sector data - preserved,0.95
+4620,0.0,percentage,2024,general_rate,can 50-249 ict 0 (0.0%) 27 (90.0%) 3 (10.0%) 0 (0.0%) 24 (80.0%) 6 (20.0%) 0 (0.0%) 19 (63.3%) 11 (3...,ICT sector data - preserved,0.95
+4625,0.0,percentage,2024,general_rate,.3%) 14 (46.7%) 0 (0.0%) 18 (60.0%) 12 (40.0%) 0 (0.0%) 11 (36.7%) 19 (63.3%) 250+ ict 0 (0.0%) 26 (...,ICT sector data - preserved,0.95
+4626,0.0,percentage,2024,general_rate,0%) 0 (0.0%) 11 (36.7%) 19 (63.3%) 250+ ict 0 (0.0%) 26 (86.7%) 4 (13.3%) 0 (0.0%) 20 (66.7%) 10 (33...,ICT sector data - preserved,0.95
+4627,0.0,percentage,2024,general_rate,.3%) 250+ ict 0 (0.0%) 26 (86.7%) 4 (13.3%) 0 (0.0%) 20 (66.7%) 10 (33.3%) 0 (0.0%) 21 (70.0%) 9 (30...,ICT sector data - preserved,0.95
+4631,0.0,percentage,2024,general_rate,.3%) 11 (36.7%) 0 (0.0%) 17 (56.7%) 13 (43.3%) 0 (0.0%) 12 (40.0%) 18 (60.0%) deu 50-249 ict 0 (0.0%...,ICT sector data - preserved,0.95
+4632,0.0,percentage,2024,general_rate,0 (0.0%) 12 (40.0%) 18 (60.0%) deu 50-249 ict 0 (0.0%) 20 (66.7%) 10 (33.3%) 0 (0.0%) 21 (70.0%) 9 (...,ICT sector data - preserved,0.95
+4633,0.0,percentage,2024,general_rate,deu 50-249 ict 0 (0.0%) 20 (66.7%) 10 (33.3%) 0 (0.0%) 21 (70.0%) 9 (30.0%) 0 (0.0%) 17 (56.7%) 13 (...,ICT sector data - preserved,0.95
+4635,0.0,percentage,2024,general_rate,.3%) 1 (3.3%) 9 (30.0%) 20 (66.7%) 250+ ict 0 (0.0%) 23 (76.7%) 7 (23.3%) 0 (0.0%) 22 (73.3%) 8 (26....,ICT sector data - preserved,0.95
+4636,0.0,percentage,2024,general_rate,.7%) 250+ ict 0 (0.0%) 23 (76.7%) 7 (23.3%) 0 (0.0%) 22 (73.3%) 8 (26.7%) 0 (0.0%) 19 (63.3%) 11 (36...,ICT sector data - preserved,0.95
+4639,0.0,percentage,2024,general_rate,3 (10.0%) 13 (43.3%) 14 (46.7%) fra 50-249 ict 0 (0.0%) 22 (73.3%) 8 (26.7%) 0 (0.0%) 19 (63.3%) 11 ...,ICT sector data - preserved,0.95
+4640,0.0,percentage,2024,general_rate,fra 50-249 ict 0 (0.0%) 22 (73.3%) 8 (26.7%) 0 (0.0%) 19 (63.3%) 11 (36.7%) 0 (0.0%) 26 (86.7%) 4 (1...,ICT sector data - preserved,0.95
+4646,0.0,percentage,2024,general_rate,.0%) 15 (50.0%) 0 (0.0%) 13 (43.3%) 17 (56.7%) 0 (0.0%) 6 (20.0%) 24 (80.0%) 250+ ict 0 (0.0%) 25 (8...,ICT sector data - preserved,0.95
+4647,0.0,percentage,2024,general_rate,.7%) 0 (0.0%) 6 (20.0%) 24 (80.0%) 250+ ict 0 (0.0%) 25 (83.3%) 5 (16.7%) 0 (0.0%) 22 (73.3%) 8 (26....,ICT sector data - preserved,0.95
+4648,0.0,percentage,2024,general_rate,.0%) 250+ ict 0 (0.0%) 25 (83.3%) 5 (16.7%) 0 (0.0%) 22 (73.3%) 8 (26.7%) 0 (0.0%) 22 (73.3%) 8 (26....,ICT sector data - preserved,0.95
+4651,0.0,percentage,2024,general_rate,3.3%) 7 (23.3%) 0 (0.0%) 15 (50.0%) 15 (50.0%) 0 (0.0%) 11 (36.7%) 19 (63.3%) gbr 50-249 ict 0 (0.0%...,ICT sector data - preserved,0.95
+4652,0.0,percentage,2024,general_rate,0 (0.0%) 11 (36.7%) 19 (63.3%) gbr 50-249 ict 0 (0.0%) 20 (66.7%) 10 (33.3%) 0 (0.0%) 18 (60.0%) 12 ...,ICT sector data - preserved,0.95
+4653,0.0,percentage,2024,general_rate,gbr 50-249 ict 0 (0.0%) 20 (66.7%) 10 (33.3%) 0 (0.0%) 18 (60.0%) 12 (40.0%) 0 (0.0%) 16 (53.3%) 14 ...,ICT sector data - preserved,0.95
+4658,0.0,percentage,2024,general_rate,.3%) 14 (46.7%) 0 (0.0%) 18 (60.0%) 12 (40.0%) 0 (0.0%) 10 (33.3%) 20 (66.7%) 250+ ict 1 (3.3%) 25 (...,ICT sector data - preserved,0.95
+4664,0.0,percentage,2024,general_rate,.0%) 12 (40.0%) 0 (0.0%) 19 (63.3%) 11 (36.7%) 0 (0.0%) 15 (50.0%) 15 (50.0%) ita 50-249 ict 0 (0.0%...,ICT sector data - preserved,0.95
+4665,0.0,percentage,2024,general_rate,0 (0.0%) 15 (50.0%) 15 (50.0%) ita 50-249 ict 0 (0.0%) 21 (70.0%) 9 (30.0%) 0 (0.0%) 20 (66.7%) 10 (...,ICT sector data - preserved,0.95
+4666,0.0,percentage,2024,general_rate,ita 50-249 ict 0 (0.0%) 21 (70.0%) 9 (30.0%) 0 (0.0%) 20 (66.7%) 10 (33.3%) 0 (0.0%) 18 (60.0%) 12 (...,ICT sector data - preserved,0.95
+4672,0.0,percentage,2024,general_rate,3%) 1 (3.3%) 14 (46.7%) 15 (50.0%) 250+ ict 0 (0.0%) 28 (93.3%) 2 (6.7%) 0 (0.0%) 22 (73.3%) 8 (26.7...,ICT sector data - preserved,0.95
+4673,0.0,percentage,2024,general_rate,0.0%) 250+ ict 0 (0.0%) 28 (93.3%) 2 (6.7%) 0 (0.0%) 22 (73.3%) 8 (26.7%) 0 (0.0%) 20 (66.7%) 10 (33...,ICT sector data - preserved,0.95
+4677,0.0,percentage,2024,general_rate,2 (6.7%) 11 (36.7%) 17 (56.7%) jpn 50-249 ict 0 (0.0%) 23 (76.7%) 7 (23.3%) 0 (0.0%) 24 (80.0%) 6 (2...,ICT sector data - preserved,0.95
+4678,0.0,percentage,2024,general_rate,jpn 50-249 ict 0 (0.0%) 23 (76.7%) 7 (23.3%) 0 (0.0%) 24 (80.0%) 6 (20.0%) 0 (0.0%) 22 (73.3%) 8 (26...,ICT sector data - preserved,0.95
+4683,0.0,percentage,2024,general_rate,.7%) 250+ ict 1 (3.3%) 23 (76.7%) 6 (20.0%) 0 (0.0%) 24 (80.0%) 6 (20.0%) 0 (0.0%) 25 (83.3%) 5 (16....,ICT sector data - preserved,0.95
+4690,0.0,percentage,2024,general_rate,know no yes don't know no yes usa 50-249 ict 0 (0.0%) 29 (96.7%) 1 (3.3%) 0 (0.0%) 22 (73.3%) 8 (26....,ICT sector data - preserved,0.95
+4691,0.0,percentage,2024,general_rate,s usa 50-249 ict 0 (0.0%) 29 (96.7%) 1 (3.3%) 0 (0.0%) 22 (73.3%) 8 (26.7%) 0 (0.0%) 22 (73.3%) 8 (2...,ICT sector data - preserved,0.95
+4697,0.0,percentage,2024,general_rate,6.7%) 7 (23.3%) 0 (0.0%) 20 (66.7%) 10 (33.3%) 0 (0.0%) 12 (40.0%) 18 (60.0%) 250+ ict 0 (0.0%) 29 (...,ICT sector data - preserved,0.95
+4698,0.0,percentage,2024,general_rate,3%) 0 (0.0%) 12 (40.0%) 18 (60.0%) 250+ ict 0 (0.0%) 29 (96.7%) 1 (3.3%) 1 (3.3%) 23 (76.7%) 6 (20.0...,ICT sector data - preserved,0.95
+4704,0.0,percentage,2024,general_rate,6 (20.0%) 10 (33.3%) 14 (46.7%) manufacturing 0 (0.0%) 1 (3.3%) 29 (96.7%) 250+ ict 3 (10.0%) 3 (10....,ICT sector data - preserved,0.95
+4705,0.0,percentage,2024,general_rate,y useful very useful can 50-249 ict 12 (40.0%) 0 (0.0%) 5 (16.7%) 13 (43.3%) 14 (46.7%) 2 (6.7%) 8 (...,ICT sector data - preserved,0.95
+4708,0.0,percentage,2024,general_rate,53.3%) 1 (3.3%) 5 (16.7%) 8 (26.7%) 14 (46.7%) 0 (0.0%) 2 (6.7%) 14 (46.7%) 250+ ict 12 (40.0%) 1 (3...,ICT sector data - preserved,0.95
+4710,0.0,percentage,2024,general_rate,.3%) 3 (10.0%) 12 (40.0%) 5 (16.7%) 10 (33.3%) 0 (0.0%) 11 (36.7%) 9 (30.0%) deu 50-249 ict 8 (26.7%...,ICT sector data - preserved,0.95
+4713,0.0,percentage,2024,general_rate,0.0%) 4 (13.3%) 9 (30.0%) 5 (16.7%) 16 (53.3%) 0 (0.0%) 4 (13.3%) 10 (33.3%) fra 50-249 ict 12 (40.0...,ICT sector data - preserved,0.95
+4714,0.0,percentage,2024,general_rate,4 (13.3%) 10 (33.3%) fra 50-249 ict 12 (40.0%) 0 (0.0%) 3 (10.0%) 15 (50.0%) 10 (33.3%) 3 (10.0%) 5 ...,ICT sector data - preserved,0.95
+4718,0.0,percentage,2024,general_rate,6.7%) 0 (0.0%) 3 (10.0%) 13 (43.3%) 12 (40.0%) 0 (0.0%) 2 (6.7%) 16 (53.3%) 250+ ict 15 (50.0%) 0 (0...,ICT sector data - preserved,0.95
+4719,0.0,percentage,2024,general_rate,0%) 2 (6.7%) 16 (53.3%) 250+ ict 15 (50.0%) 0 (0.0%) 3 (10.0%) 12 (40.0%) 6 (20.0%) 5 (16.7%) 12 (40...,ICT sector data - preserved,0.95
+4722,0.0,percentage,2024,general_rate,3 (10.0%) 16 (53.3%) gbr 50-249 ict 10 (33.3%) 0 (0.0%) 5 (16.7%) 15 (50.0%) 14 (46.7%) 2 (6.7%) 8 (...,ICT sector data - preserved,0.95
+4724,0.0,percentage,2024,general_rate,(60.0%) 1 (3.3%) 2 (6.7%) 9 (30.0%) 12 (40.0%) 0 (0.0%) 4 (13.3%) 14 (46.7%) 250+ ict 15 (50.0%) 1 (...,ICT sector data - preserved,0.95
+4726,0.0,percentage,2024,general_rate,0.0%) 1 (3.3%) 11 (36.7%) 9 (30.0%) 15 (50.0%) 0 (0.0%) 1 (3.3%) 14 (46.7%) ita 50-249 ict 17 (56.7%...,ICT sector data - preserved,0.95
+4727,0.0,percentage,2024,general_rate,0.0%) 2 (6.7%) 5 (16.7%) 11 (36.7%) 17 (56.7%) 0 (0.0%) 5 (16.7%) 8 (26.7%) 250+ ict 15 (50.0%) 0 (0...,ICT sector data - preserved,0.95
+4728,0.0,percentage,2024,general_rate,0%) 5 (16.7%) 8 (26.7%) 250+ ict 15 (50.0%) 0 (0.0%) 10 (33.3%) 5 (16.7%) 11 (36.7%) 2 (6.7%) 5 (16....,ICT sector data - preserved,0.95
+4730,0.0,percentage,2024,general_rate,.7%) 4 (13.3%) 10 (33.3%) 8 (26.7%) 14 (46.7%) 0 (0.0%) 3 (10.0%) 13 (43.3%) jpn 50-249 ict 16 (53.3...,ICT sector data - preserved,0.95
+4731,0.0,percentage,2024,general_rate,3 (10.0%) 13 (43.3%) jpn 50-249 ict 16 (53.3%) 0 (0.0%) 4 (13.3%) 10 (33.3%) 9 (30.0%) 1 (3.3%) 6 (2...,ICT sector data - preserved,0.95
+4735,0.0,percentage,2024,general_rate,3%) 1 (3.3%) 14 (46.7%) 250+ ict 14 (46.7%) 0 (0.0%) 6 (20.0%) 10 (33.3%) 6 (20.0%) 7 (23.3%) 10 (33...,ICT sector data - preserved,0.95
+4737,0.0,percentage,2024,general_rate,ery helpful can 50-249 ict 2 (6.7%) 14 (46.7%) 0 (0.0%) 14 (46.7%) 7 (23.3%) 12 (40.0%) 0 (0.0%) 11 ...,ICT sector data - preserved,0.95
+4742,0.0,percentage,2024,general_rate,0.0%) 0 (0.0%) 12 (40.0%) 6 (20.0%) 12 (40.0%) 0 (0.0%) 12 (40.0%) 250+ ict 7 (23.3%) 12 (40.0%) 1 (...,ICT sector data - preserved,0.95
+4747,0.0,percentage,2024,general_rate,6.7%) 0 (0.0%) 10 (33.3%) 4 (13.3%) 13 (43.3%) 0 (0.0%) 13 (43.3%) 250+ ict 5 (16.7%) 15 (50.0%) 1 (...,ICT sector data - preserved,0.95
+4748,0.0,percentage,2024,general_rate,4 (46.7%) fra 50-249 ict 10 (33.3%) 13 (43.3%) 0 (0.0%) 7 (23.3%) 6 (20.0%) 12 (40.0%) 0 (0.0%) 12 (...,ICT sector data - preserved,0.95
+4753,0.0,percentage,2024,general_rate,70.0%) 2 (6.7%) 14 (46.7%) 0 (0.0%) 14 (46.7%) 0 (0.0%) 18 (60.0%) 0 (0.0%) 12 (40.0%) 250+ ict 8 (2...,ICT sector data - preserved,0.95
+4754,0.0,percentage,2024,general_rate,46.7%) 0 (0.0%) 14 (46.7%) 0 (0.0%) 18 (60.0%) 0 (0.0%) 12 (40.0%) 250+ ict 8 (26.7%) 15 (50.0%) 1 (...,ICT sector data - preserved,0.95
+4762,0.0,percentage,2024,general_rate,46.7%) 0 (0.0%) 8 (26.7%) 3 (10.0%) 16 (53.3%) 0 (0.0%) 11 (36.7%) 250+ ict 4 (13.3%) 13 (43.3%) 2 (...,ICT sector data - preserved,0.95
+4765,0.0,percentage,2024,general_rate,40.0%) 1 (3.3%) 9 (30.0%) 4 (13.3%) 14 (46.7%) 0 (0.0%) 12 (40.0%) ita 50-249 ict 5 (16.7%) 16 (53.3...,ICT sector data - preserved,0.95
+4768,0.0,percentage,2024,general_rate,53.3%) 0 (0.0%) 8 (26.7%) 4 (13.3%) 15 (50.0%) 0 (0.0%) 11 (36.7%) 250+ ict 5 (16.7%) 14 (46.7%) 1 (...,ICT sector data - preserved,0.95
+4770,0.0,percentage,2024,general_rate,16 (53.3%) jpn 50-249 ict 5 (16.7%) 10 (33.3%) 0 (0.0%) 15 (50.0%) 5 (16.7%) 17 (56.7%) 0 (0.0%) 8 (...,ICT sector data - preserved,0.95
+4775,0.0,percentage,2024,general_rate,0.0%) 0 (0.0%) 11 (36.7%) 4 (13.3%) 12 (40.0%) 0 (0.0%) 14 (46.7%) 250+ ict 6 (20.0%) 14 (46.7%) 0 (...,ICT sector data - preserved,0.95
+4776,0.0,percentage,2024,general_rate,%) 14 (46.7%) 250+ ict 6 (20.0%) 14 (46.7%) 0 (0.0%) 10 (33.3%) 5 (16.7%) 17 (56.7%) 0 (0.0%) 8 (26....,ICT sector data - preserved,0.95
+4779,0.0,percentage,2024,general_rate,3.3%) 3 (10.0%) 8 (26.7%) 5 (16.7%) 15 (50.0%) 0 (0.0%) 10 (33.3%) 250+ ict 8 (26.7%) 17 (56.7%) 0 (...,ICT sector data - preserved,0.95
+4780,0.0,percentage,2024,general_rate,%) 10 (33.3%) 250+ ict 8 (26.7%) 17 (56.7%) 0 (0.0%) 5 (16.7%) 8 (26.7%) 12 (40.0%) 2 (6.7%) 8 (26.7...,ICT sector data - preserved,0.95
+4782,0.0,percentage,2024,general_rate,ry helpful can 50-249 ict 6 (20.0%) 11 (36.7%) 0 (0.0%) 13 (43.3%) 1 (3.3%) 18 (60.0%) 0 (0.0%) 11 (...,ICT sector data - preserved,0.95
+4785,0.0,percentage,2024,general_rate,lpful (6.7%) (43.3%) (0.0%) (50.0%) (10.0%) (46.7%) (0.0%) (43.3%) (20.0%) (30.0%) (0.0%) (50.0%) 25...,ICT sector data - preserved,0.95
+4786,0.0,percentage,2024,general_rate,.0%) (10.0%) (46.7%) (0.0%) (43.3%) (20.0%) (30.0%) (0.0%) (50.0%) 250+ ict 3 (10.0%) 16 (53.3%) 1 (...,ICT sector data - preserved,0.95
+4793,0.0,percentage,2024,general_rate,9 (30.0%) fra 50-249 ict 6 (20.0%) 10 (33.3%) 0 (0.0%) 14 (46.7%) 4 (13.3%) 16 (53.3%) 0 (0.0%) 10 (...,ICT sector data - preserved,0.95
+4799,0.0,percentage,2024,general_rate,63.3%) 0 (0.0%) 13 (43.3%) 0 (0.0%) 17 (56.7%) 0 (0.0%) 19 (63.3%) 0 (0.0%) 11 (36.7%) 250+ ict 4 (1...,ICT sector data - preserved,0.95
+4800,0.0,percentage,2024,general_rate,43.3%) 0 (0.0%) 17 (56.7%) 0 (0.0%) 19 (63.3%) 0 (0.0%) 11 (36.7%) 250+ ict 4 (13.3%) 14 (46.7%) 0 (...,ICT sector data - preserved,0.95
+4801,0.0,percentage,2024,general_rate,%) 11 (36.7%) 250+ ict 4 (13.3%) 14 (46.7%) 0 (0.0%) 12 (40.0%) 4 (13.3%) 14 (46.7%) 0 (0.0%) 12 (40...,ICT sector data - preserved,0.95
+4805,0.0,percentage,2024,general_rate,11 (36.7%) gbr 50-249 ict 7 (23.3%) 14 (46.7%) 0 (0.0%) 9 (30.0%) 5 (16.7%) 13 (43.3%) 0 (0.0%) 12 (...,ICT sector data - preserved,0.95
+4811,0.0,percentage,2024,general_rate,3.3%) 0 (0.0%) 14 (46.7%) 4 (13.3%) 11 (36.7%) 0 (0.0%) 15 (50.0%) 250+ ict 4 (13.3%) 15 (50.0%) 0 (...,ICT sector data - preserved,0.95
+4812,0.0,percentage,2024,general_rate,%) 15 (50.0%) 250+ ict 4 (13.3%) 15 (50.0%) 0 (0.0%) 11 (36.7%) 5 (16.7%) 16 (53.3%) 0 (0.0%) 9 (30....,ICT sector data - preserved,0.95
+4816,0.0,percentage,2024,general_rate,6.7%) 0 (0.0%) 11 (36.7%) 5 (16.7%) 13 (43.3%) 0 (0.0%) 12 (40.0%) ita 50-249 ict 5 (16.7%) 16 (53.3...,ICT sector data - preserved,0.95
+4818,0.0,percentage,2024,general_rate,6.7%) 1 (3.3%) 16 (53.3%) 7 (23.3%) 17 (56.7%) 0 (0.0%) 6 (20.0%) 250+ ict 7 (23.3%) 16 (53.3%) 0 (0...,ICT sector data - preserved,0.95
+4819,0.0,percentage,2024,general_rate,0%) 6 (20.0%) 250+ ict 7 (23.3%) 16 (53.3%) 0 (0.0%) 7 (23.3%) 5 (16.7%) 12 (40.0%) 0 (0.0%) 13 (43....,ICT sector data - preserved,0.95
+4821,0.0,percentage,2024,general_rate,6.7%) 1 (3.3%) 19 (63.3%) 7 (23.3%) 13 (43.3%) 0 (0.0%) 10 (33.3%) jpn 50-249 ict 10 (33.3%) 15 (50....,ICT sector data - preserved,0.95
+4824,0.0,percentage,2024,general_rate,36.7%) 0 (0.0%) 16 (53.3%) 2 (6.7%) 20 (66.7%) 0 (0.0%) 8 (26.7%) 250+ ict 5 (16.7%) 17 (56.7%) 0 (0...,ICT sector data - preserved,0.95
+4825,0.0,percentage,2024,general_rate,0%) 8 (26.7%) 250+ ict 5 (16.7%) 17 (56.7%) 0 (0.0%) 8 (26.7%) 7 (23.3%) 9 (30.0%) 1 (3.3%) 13 (43.3...,ICT sector data - preserved,0.95
+4828,0.0,percentage,2024,general_rate,y helpful can 50-249 ict 10 (33.3%) 11 (36.7%) 0 (0.0%) 9 (30.0%) 2 (6.7%) 19 (63.3%) 2 (6.7%) 7 (23...,ICT sector data - preserved,0.95
+4831,0.0,percentage,2024,general_rate,6.7%) 1 (3.3%) 10 (33.3%) 3 (10.0%) 18 (60.0%) 0 (0.0%) 9 (30.0%) 250+ ict 8 (26.7%) 13 (43.3%) 2 (6...,ICT sector data - preserved,0.95
+4836,0.0,percentage,2024,general_rate,6.7%) 0 (0.0%) 11 (36.7%) 5 (16.7%) 15 (50.0%) 0 (0.0%) 10 (33.3%) 250+ ict 9 (30.0%) 11 (36.7%) 0 (...,ICT sector data - preserved,0.95
+4837,0.0,percentage,2024,general_rate,%) 10 (33.3%) 250+ ict 9 (30.0%) 11 (36.7%) 0 (0.0%) 10 (33.3%) 5 (16.7%) 16 (53.3%) 0 (0.0%) 9 (30....,ICT sector data - preserved,0.95
+4840,0.0,percentage,2024,general_rate,8 (26.7%) fra 50-249 ict 8 (26.7%) 12 (40.0%) 0 (0.0%) 10 (33.3%) 6 (20.0%) 13 (43.3%) 0 (0.0%) 11 (...,ICT sector data - preserved,0.95
+4844,0.0,percentage,2024,general_rate,40.0%) 0 (0.0%) 16 (53.3%) 1 (3.3%) 14 (46.7%) 0 (0.0%) 15 (50.0%) 250+ ict 6 (20.0%) 11 (36.7%) 1 (...,ICT sector data - preserved,0.95
+4845,0.0,percentage,2024,general_rate,16 (53.3%) gbr 50-249 ict 6 (20.0%) 13 (43.3%) 0 (0.0%) 11 (36.7%) 6 (20.0%) 13 (43.3%) 1 (3.3%) 10 ...,ICT sector data - preserved,0.95
+4850,0.0,percentage,2024,general_rate,3.3%) 1 (3.3%) 10 (33.3%) 6 (20.0%) 11 (36.7%) 0 (0.0%) 13 (43.3%) 250+ ict 5 (16.7%) 14 (46.7%) 0 (...,ICT sector data - preserved,0.95
+4851,0.0,percentage,2024,general_rate,%) 13 (43.3%) 250+ ict 5 (16.7%) 14 (46.7%) 0 (0.0%) 11 (36.7%) 7 (23.3%) 15 (50.0%) 2 (6.7%) 6 (20....,ICT sector data - preserved,0.95
+4857,0.0,percentage,2024,general_rate,46.7%) 0 (0.0%) 10 (33.3%) 2 (6.7%) 11 (36.7%) 0 (0.0%) 17 (56.7%) 250+ ict 6 (20.0%) 15 (50.0%) 0 (...,ICT sector data - preserved,0.95
+4858,0.0,percentage,2024,general_rate,%) 17 (56.7%) 250+ ict 6 (20.0%) 15 (50.0%) 0 (0.0%) 9 (30.0%) 7 (23.3%) 12 (40.0%) 1 (3.3%) 10 (33....,ICT sector data - preserved,0.95
+4860,0.0,percentage,2024,general_rate,50-249 ict 2 (6.7%) 28 (93.3%) manufacturing 0 (0.0%) 30 (100.0%) 250+ ict 0 (0.0%) 30 (100.0%) m,ICT sector data - preserved,0.95
+4861,0.0,percentage,2024,general_rate,manufacturing 0 (0.0%) 30 (100.0%) 250+ ict 0 (0.0%) 30 (100.0%) manufacturing 7 (23.3%) 23 (76.7%),ICT sector data - preserved,0.95
+4862,0.0,percentage,2024,general_rate,ree strongly disagree can 50-249 ict 10 (33.3%) 0 (0.0%) 20 (66.7%) 0 (0.0%) 13 (43.3%) 5 (16.7%) 11...,ICT sector data - preserved,0.95
+4863,0.0,percentage,2024,general_rate,can 50-249 ict 10 (33.3%) 0 (0.0%) 20 (66.7%) 0 (0.0%) 13 (43.3%) 5 (16.7%) 11 (36.7%) 1 (3.3%) 15 (...,ICT sector data - preserved,0.95
+4868,0.0,percentage,2024,general_rate,0.0%) 0 (0.0%) 14 (46.7%) 3 (10.0%) 13 (43.3%) 0 (0.0%) 250+ ict 8 (26.7%) 0 (0.0%) 22 (73.3%) 0 (0....,ICT sector data - preserved,0.95
+4869,0.0,percentage,2024,general_rate,.0%) 13 (43.3%) 0 (0.0%) 250+ ict 8 (26.7%) 0 (0.0%) 22 (73.3%) 0 (0.0%) 15 (50.0%) 3 (10.0%) 12 (40...,ICT sector data - preserved,0.95
+4870,0.0,percentage,2024,general_rate,.0%) 250+ ict 8 (26.7%) 0 (0.0%) 22 (73.3%) 0 (0.0%) 15 (50.0%) 3 (10.0%) 12 (40.0%) 0 (0.0%) 16 (53...,ICT sector data - preserved,0.95
+4874,0.0,percentage,2024,general_rate,.0%) 4 (13.3%) 11 (36.7%) 8 (26.7%) 11 (36.7%) 0 (0.0%) deu 50-249 ict 15 (50.0%) 0 (0.0%) 15 (50.0%...,ICT sector data - preserved,0.95
+4875,0.0,percentage,2024,general_rate,11 (36.7%) 0 (0.0%) deu 50-249 ict 15 (50.0%) 0 (0.0%) 15 (50.0%) 0 (0.0%) 16 (53.3%) 1 (3.3%) 13 (4...,ICT sector data - preserved,0.95
+4876,0.0,percentage,2024,general_rate,deu 50-249 ict 15 (50.0%) 0 (0.0%) 15 (50.0%) 0 (0.0%) 16 (53.3%) 1 (3.3%) 13 (43.3%) 0 (0.0%) 16 (5...,ICT sector data - preserved,0.95
+4881,0.0,percentage,2024,general_rate,53.3%) 0 (0.0%) 18 (60.0%) 3 (10.0%) 9 (30.0%) 0 (0.0%) 250+ ict 11 (36.7%) 1 (3.3%) 18 (60.0%) 0 (0...,ICT sector data - preserved,0.95
+4882,0.0,percentage,2024,general_rate,0%) 250+ ict 11 (36.7%) 1 (3.3%) 18 (60.0%) 0 (0.0%) 13 (43.3%) 6 (20.0%) 11 (36.7%) 0 (0.0%) 16 (53...,ICT sector data - preserved,0.95
+4886,0.0,percentage,2024,general_rate,20.0%) 1 (3.3%) 17 (56.7%) 5 (16.7%) 8 (26.7%) 0 (0.0%) fra 50-249 ict 7 (23.3%) 3 (10.0%) 20 (66.7%...,ICT sector data - preserved,0.95
+4887,0.0,percentage,2024,general_rate,fra 50-249 ict 7 (23.3%) 3 (10.0%) 20 (66.7%) 0 (0.0%) 11 (36.7%) 4 (13.3%) 13 (43.3%) 2 (6.7%) 14 (...,ICT sector data - preserved,0.95
+4892,0.0,percentage,2024,general_rate,40.0%) 0 (0.0%) 10 (33.3%) 2 (6.7%) 18 (60.0%) 0 (0.0%) 250+ ict 5 (16.7%) 0 (0.0%) 25 (83.3%) 0 (0....,ICT sector data - preserved,0.95
+4893,0.0,percentage,2024,general_rate,.7%) 18 (60.0%) 0 (0.0%) 250+ ict 5 (16.7%) 0 (0.0%) 25 (83.3%) 0 (0.0%) 14 (46.7%) 2 (6.7%) 14 (46....,ICT sector data - preserved,0.95
+4894,0.0,percentage,2024,general_rate,.0%) 250+ ict 5 (16.7%) 0 (0.0%) 25 (83.3%) 0 (0.0%) 14 (46.7%) 2 (6.7%) 14 (46.7%) 0 (0.0%) 16 (53....,ICT sector data - preserved,0.95
+4898,0.0,percentage,2024,general_rate,gbr 50-249 ict 13 (43.3%) 1 (3.3%) 16 (53.3%) 0 (0.0%) 14 (46.7%) 7 (23.3%) 9 (30.0%) 0 (0.0%) 15 (5...,ICT sector data - preserved,0.95
+4904,0.0,percentage,2024,general_rate,36.7%) 1 (3.3%) 11 (36.7%) 2 (6.7%) 17 (56.7%) 0 (0.0%) 250+ ict 5 (16.7%) 1 (3.3%) 24 (80.0%) 0 (0....,ICT sector data - preserved,0.95
+4905,0.0,percentage,2024,general_rate,.0%) 250+ ict 5 (16.7%) 1 (3.3%) 24 (80.0%) 0 (0.0%) 14 (46.7%) 6 (20.0%) 10 (33.3%) 0 (0.0%) 14 (46...,ICT sector data - preserved,0.95
+4911,0.0,percentage,2024,general_rate,40.0%) 0 (0.0%) 17 (56.7%) 1 (3.3%) 12 (40.0%) 0 (0.0%) ita 50-249 ict 18 (60.0%) 2 (6.7%) 10 (33.3%...,ICT sector data - preserved,0.95
+4912,0.0,percentage,2024,general_rate,ita 50-249 ict 18 (60.0%) 2 (6.7%) 10 (33.3%) 0 (0.0%) 10 (33.3%) 6 (20.0%) 14 (46.7%) 0 (0.0%) 15 (...,ICT sector data - preserved,0.95
+4917,0.0,percentage,2024,general_rate,0.0%) 0 (0.0%) 13 (43.3%) 5 (16.7%) 12 (40.0%) 0 (0.0%) 250+ ict 7 (23.3%) 1 (3.3%) 22 (73.3%) 0 (0....,ICT sector data - preserved,0.95
+4918,0.0,percentage,2024,general_rate,.0%) 250+ ict 7 (23.3%) 1 (3.3%) 22 (73.3%) 0 (0.0%) 17 (56.7%) 5 (16.7%) 8 (26.7%) 0 (0.0%) 14 (46....,ICT sector data - preserved,0.95
+4924,0.0,percentage,2024,general_rate,0.0%) 0 (0.0%) 14 (46.7%) 4 (13.3%) 12 (40.0%) 0 (0.0%) jpn 50-249 ict 7 (23.3%) 3 (10.0%) 20 (66.7%...,ICT sector data - preserved,0.95
+4925,0.0,percentage,2024,general_rate,jpn 50-249 ict 7 (23.3%) 3 (10.0%) 20 (66.7%) 0 (0.0%) 9 (30.0%) 6 (20.0%) 15 (50.0%) 0 (0.0%) 24 (8...,ICT sector data - preserved,0.95
+4931,0.0,percentage,2024,general_rate,36.7%) 0 (0.0%) 15 (50.0%) 2 (6.7%) 13 (43.3%) 0 (0.0%) 250+ ict 11 (36.7%) 1 (3.3%) 18 (60.0%) 0 (0...,ICT sector data - preserved,0.95
+4932,0.0,percentage,2024,general_rate,0%) 250+ ict 11 (36.7%) 1 (3.3%) 18 (60.0%) 0 (0.0%) 15 (50.0%) 7 (23.3%) 7 (23.3%) 1 (3.3%) 17 (56....,ICT sector data - preserved,0.95
+4937,0.0,percentage,2024,general_rate,20.0%) 0 (0.0%) 17 (56.7%) 2 (6.7%) 11 (36.7%) 0 (0.0%) usa 50-249 ict 6 (20.0%) 0 (0.0%) 24 (80.0%)...,ICT sector data - preserved,0.95
+4938,0.0,percentage,2024,general_rate,11 (36.7%) 0 (0.0%) usa 50-249 ict 6 (20.0%) 0 (0.0%) 24 (80.0%) 0 (0.0%) 12 (40.0%) 6 (20.0%) 10 (3...,ICT sector data - preserved,0.95
+4939,0.0,percentage,2024,general_rate,usa 50-249 ict 6 (20.0%) 0 (0.0%) 24 (80.0%) 0 (0.0%) 12 (40.0%) 6 (20.0%) 10 (33.3%) 2 (6.7%) 14 (4...,ICT sector data - preserved,0.95
+4942,0.0,percentage,2024,general_rate,23.3%) 1 (3.3%) 17 (56.7%) 5 (16.7%) 8 (26.7%) 0 (0.0%) 250+ ict 7 (23.3%) 0 (0.0%) 23 (76.7%) 0 (0....,ICT sector data - preserved,0.95
+4943,0.0,percentage,2024,general_rate,6.7%) 8 (26.7%) 0 (0.0%) 250+ ict 7 (23.3%) 0 (0.0%) 23 (76.7%) 0 (0.0%) 17 (56.7%) 5 (16.7%) 8 (26....,ICT sector data - preserved,0.95
+4944,0.0,percentage,2024,general_rate,.0%) 250+ ict 7 (23.3%) 0 (0.0%) 23 (76.7%) 0 (0.0%) 17 (56.7%) 5 (16.7%) 8 (26.7%) 0 (0.0%) 14 (46....,ICT sector data - preserved,0.95
+4951,0.0,percentage,2024,general_rate,he enterprise does not spend on r&d can 50-249 ict 0 (0.0%) 14 (46.7%) 12 (40.0%) 0 (0.0%) 4 (13.3%)...,ICT sector data - preserved,0.95
+4952,0.0,percentage,2024,general_rate,r&d can 50-249 ict 0 (0.0%) 14 (46.7%) 12 (40.0%) 0 (0.0%) 4 (13.3%) 0 (0.0%) manufacturing 0 (0.0%)...,ICT sector data - preserved,0.95
+4955,0.0,percentage,2024,general_rate,manufacturing 0 (0.0%) 15 (50.0%) 12 (40.0%) 0 (0.0%) 3 (10.0%) 0 (0.0%) 250+ ict 0 (0.0%) 16 (53.3%...,ICT sector data - preserved,0.95
+4956,0.0,percentage,2024,general_rate,0 (0.0%) 15 (50.0%) 12 (40.0%) 0 (0.0%) 3 (10.0%) 0 (0.0%) 250+ ict 0 (0.0%) 16 (53.3%) 11 (36.7%) 1...,ICT sector data - preserved,0.95
+4957,0.0,percentage,2024,general_rate,12 (40.0%) 0 (0.0%) 3 (10.0%) 0 (0.0%) 250+ ict 0 (0.0%) 16 (53.3%) 11 (36.7%) 1 (3.3%) 1 (3.3%) 1 (...,ICT sector data - preserved,0.95
+4959,0.0,percentage,2024,general_rate,) manufacturing 0 (0.0%) 21 (70.0%) 8 (26.7%) 0 (0.0%) 1 (3.3%) 0 (0.0%) deu 50-249 ict 0 (0.0%) 8 (...,ICT sector data - preserved,0.95
+4960,0.0,percentage,2024,general_rate,ng 0 (0.0%) 21 (70.0%) 8 (26.7%) 0 (0.0%) 1 (3.3%) 0 (0.0%) deu 50-249 ict 0 (0.0%) 8 (26.7%) 15 (50...,ICT sector data - preserved,0.95
+4961,0.0,percentage,2024,general_rate,(26.7%) 0 (0.0%) 1 (3.3%) 0 (0.0%) deu 50-249 ict 0 (0.0%) 8 (26.7%) 15 (50.0%) 0 (0.0%) 7 (23.3%) 0...,ICT sector data - preserved,0.95
+4962,0.0,percentage,2024,general_rate,.0%) deu 50-249 ict 0 (0.0%) 8 (26.7%) 15 (50.0%) 0 (0.0%) 7 (23.3%) 0 (0.0%) manufacturing 0 (0.0%)...,ICT sector data - preserved,0.95
+4965,0.0,percentage,2024,general_rate,) manufacturing 0 (0.0%) 19 (63.3%) 9 (30.0%) 0 (0.0%) 2 (6.7%) 0 (0.0%) 250+ ict 0 (0.0%) 11 (36.7%...,ICT sector data - preserved,0.95
+4966,0.0,percentage,2024,general_rate,ng 0 (0.0%) 19 (63.3%) 9 (30.0%) 0 (0.0%) 2 (6.7%) 0 (0.0%) 250+ ict 0 (0.0%) 11 (36.7%) 15 (50.0%) ...,ICT sector data - preserved,0.95
+4967,0.0,percentage,2024,general_rate,9 (30.0%) 0 (0.0%) 2 (6.7%) 0 (0.0%) 250+ ict 0 (0.0%) 11 (36.7%) 15 (50.0%) 0 (0.0%) 4 (13.3%) 0 (0...,ICT sector data - preserved,0.95
+4968,0.0,percentage,2024,general_rate,(0.0%) 250+ ict 0 (0.0%) 11 (36.7%) 15 (50.0%) 0 (0.0%) 4 (13.3%) 0 (0.0%) manufacturing 2 (6.7%) 22...,ICT sector data - preserved,0.95
+4970,0.0,percentage,2024,general_rate,ng 2 (6.7%) 22 (73.3%) 3 (10.0%) 2 (6.7%) 1 (3.3%) 0 (0.0%) fra 50-249 ict 0 (0.0%) 7 (23.3%) 16 (53...,ICT sector data - preserved,0.95
+4971,0.0,percentage,2024,general_rate,(10.0%) 2 (6.7%) 1 (3.3%) 0 (0.0%) fra 50-249 ict 0 (0.0%) 7 (23.3%) 16 (53.3%) 0 (0.0%) 7 (23.3%) 0...,ICT sector data - preserved,0.95
+4972,0.0,percentage,2024,general_rate,.0%) fra 50-249 ict 0 (0.0%) 7 (23.3%) 16 (53.3%) 0 (0.0%) 7 (23.3%) 0 (0.0%) manufacturing 0 (0.0%)...,ICT sector data - preserved,0.95
+4975,0.0,percentage,2024,general_rate,) manufacturing 0 (0.0%) 9 (30.0%) 15 (50.0%) 0 (0.0%) 6 (20.0%) 0 (0.0%) 250+ ict 0 (0.0%) 13 (43.3...,ICT sector data - preserved,0.95
+4976,0.0,percentage,2024,general_rate,g 0 (0.0%) 9 (30.0%) 15 (50.0%) 0 (0.0%) 6 (20.0%) 0 (0.0%) 250+ ict 0 (0.0%) 13 (43.3%) 14 (46.7%) ...,ICT sector data - preserved,0.95
+4977,0.0,percentage,2024,general_rate,15 (50.0%) 0 (0.0%) 6 (20.0%) 0 (0.0%) 250+ ict 0 (0.0%) 13 (43.3%) 14 (46.7%) 2 (6.7%) 1 (3.3%) 0 (...,ICT sector data - preserved,0.95
+4980,0.0,percentage,2024,general_rate,ufacturing 0 (0.0%) 16 (53.3%) 11 (36.7%) 3 (10.0%) 0 (0.0%) 0 (0.0%) gbr 50-249 ict 0 (0.0%) 18 (60...,ICT sector data - preserved,0.95
+4981,0.0,percentage,2024,general_rate,0 (0.0%) 16 (53.3%) 11 (36.7%) 3 (10.0%) 0 (0.0%) 0 (0.0%) gbr 50-249 ict 0 (0.0%) 18 (60.0%) 10 (33...,ICT sector data - preserved,0.95
+4982,0.0,percentage,2024,general_rate,36.7%) 3 (10.0%) 0 (0.0%) 0 (0.0%) gbr 50-249 ict 0 (0.0%) 18 (60.0%) 10 (33.3%) 0 (0.0%) 2 (6.7%) 0...,ICT sector data - preserved,0.95
+4983,0.0,percentage,2024,general_rate,0%) gbr 50-249 ict 0 (0.0%) 18 (60.0%) 10 (33.3%) 0 (0.0%) 2 (6.7%) 0 (0.0%) manufacturing 0 (0.0%) ...,ICT sector data - preserved,0.95
+4986,0.0,percentage,2024,general_rate,g 0 (0.0%) 16 (53.3%) 6 (20.0%) 1 (3.3%) 7 (23.3%) 0 (0.0%) 250+ ict 0 (0.0%) 12 (40.0%) 12 (40.0%) ...,ICT sector data - preserved,0.95
+4987,0.0,percentage,2024,general_rate,6 (20.0%) 1 (3.3%) 7 (23.3%) 0 (0.0%) 250+ ict 0 (0.0%) 12 (40.0%) 12 (40.0%) 1 (3.3%) 2 (6.7%) 3 (1...,ICT sector data - preserved,0.95
+4988,0.0,percentage,2024,general_rate,ng 1 (3.3%) 20 (66.7%) 6 (20.0%) 2 (6.7%) 1 (3.3%) 0 (0.0%) ita 50-249 ict 0 (0.0%) 15 (50.0%) 14 (4...,ICT sector data - preserved,0.95
+4989,0.0,percentage,2024,general_rate,(20.0%) 2 (6.7%) 1 (3.3%) 0 (0.0%) ita 50-249 ict 0 (0.0%) 15 (50.0%) 14 (46.7%) 0 (0.0%) 1 (3.3%) 0...,ICT sector data - preserved,0.95
+4990,0.0,percentage,2024,general_rate,0%) ita 50-249 ict 0 (0.0%) 15 (50.0%) 14 (46.7%) 0 (0.0%) 1 (3.3%) 0 (0.0%) manufacturing 0 (0.0%) ...,ICT sector data - preserved,0.95
+4993,0.0,percentage,2024,general_rate,manufacturing 0 (0.0%) 19 (63.3%) 10 (33.3%) 0 (0.0%) 1 (3.3%) 0 (0.0%) 250+ ict 0 (0.0%) 15 (50.0%)...,ICT sector data - preserved,0.95
+4994,0.0,percentage,2024,general_rate,g 0 (0.0%) 19 (63.3%) 10 (33.3%) 0 (0.0%) 1 (3.3%) 0 (0.0%) 250+ ict 0 (0.0%) 15 (50.0%) 13 (43.3%) ...,ICT sector data - preserved,0.95
+4995,0.0,percentage,2024,general_rate,10 (33.3%) 0 (0.0%) 1 (3.3%) 0 (0.0%) 250+ ict 0 (0.0%) 15 (50.0%) 13 (43.3%) 0 (0.0%) 2 (6.7%) 0 (0...,ICT sector data - preserved,0.95
+4996,0.0,percentage,2024,general_rate,(0.0%) 250+ ict 0 (0.0%) 15 (50.0%) 13 (43.3%) 0 (0.0%) 2 (6.7%) 0 (0.0%) manufacturing 0 (0.0%) 23 ...,ICT sector data - preserved,0.95
+4999,0.0,percentage,2024,general_rate,anufacturing 0 (0.0%) 23 (76.7%) 6 (20.0%) 1 (3.3%) 0 (0.0%) 0 (0.0%) jpn 50-249 ict 0 (0.0%) 9 (30....,ICT sector data - preserved,0.95
+5000,0.0,percentage,2024,general_rate,ng 0 (0.0%) 23 (76.7%) 6 (20.0%) 1 (3.3%) 0 (0.0%) 0 (0.0%) jpn 50-249 ict 0 (0.0%) 9 (30.0%) 16 (53...,ICT sector data - preserved,0.95
+5001,0.0,percentage,2024,general_rate,(20.0%) 1 (3.3%) 0 (0.0%) 0 (0.0%) jpn 50-249 ict 0 (0.0%) 9 (30.0%) 16 (53.3%) 0 (0.0%) 5 (16.7%) 0...,ICT sector data - preserved,0.95
+5002,0.0,percentage,2024,general_rate,.0%) jpn 50-249 ict 0 (0.0%) 9 (30.0%) 16 (53.3%) 0 (0.0%) 5 (16.7%) 0 (0.0%) manufacturing 0 (0.0%)...,ICT sector data - preserved,0.95
+5005,0.0,percentage,2024,general_rate,manufacturing 0 (0.0%) 11 (36.7%) 18 (60.0%) 0 (0.0%) 1 (3.3%) 0 (0.0%) 250+ ict 0 (0.0%) 17 (56.7%)...,ICT sector data - preserved,0.95
+5006,0.0,percentage,2024,general_rate,g 0 (0.0%) 11 (36.7%) 18 (60.0%) 0 (0.0%) 1 (3.3%) 0 (0.0%) 250+ ict 0 (0.0%) 17 (56.7%) 12 (40.0%) ...,ICT sector data - preserved,0.95
+5007,0.0,percentage,2024,general_rate,18 (60.0%) 0 (0.0%) 1 (3.3%) 0 (0.0%) 250+ ict 0 (0.0%) 17 (56.7%) 12 (40.0%) 0 (0.0%) 1 (3.3%) 0 (0...,ICT sector data - preserved,0.95
+5008,0.0,percentage,2024,general_rate,(0.0%) 250+ ict 0 (0.0%) 17 (56.7%) 12 (40.0%) 0 (0.0%) 1 (3.3%) 0 (0.0%) 188  the adoption of arti...,ICT sector data - preserved,0.95
+5012,0.0,percentage,2024,general_rate,nufacturing 0 (0.0%) 15 (50.0%) 13 (43.3%) 1 (3.3%) 0 (0.0%) 1 (3.3%) usa 50-249 ict 1 (3.3%) 16 (53...,ICT sector data - preserved,0.95
+5013,0.0,percentage,2024,general_rate,.3%) usa 50-249 ict 1 (3.3%) 16 (53.3%) 8 (26.7%) 0 (0.0%) 5 (16.7%) 0 (0.0%) manufacturing 0 (0.0%)...,ICT sector data - preserved,0.95
+5016,0.0,percentage,2024,general_rate,g 0 (0.0%) 14 (46.7%) 13 (43.3%) 1 (3.3%) 2 (6.7%) 0 (0.0%) 250+ ict 0 (0.0%) 19 (63.3%) 5 (16.7%) 4...,ICT sector data - preserved,0.95
+5017,0.0,percentage,2024,general_rate,13 (43.3%) 1 (3.3%) 2 (6.7%) 0 (0.0%) 250+ ict 0 (0.0%) 19 (63.3%) 5 (16.7%) 4 (13.3%) 2 (6.7%) 0 (0...,ICT sector data - preserved,0.95
+5044,47.0,percentage,2025,employment,"ty of computation of over 700 occupations, concluding that 47% of total US employment is attributabl...",Passed all validation checks,0.85
+5046,28.0,percentage,2025,employment,"ccupations at highest risk of automation account for about 28% of jobs. More recently, in research f...",Passed all validation checks,0.85
+5047,40.0,percentage,2025,employment,ts or replaces job roles. The authors conclude that almost 40% of global employment is exposed to AI...,Passed all validation checks,0.85
+5048,60.0,percentage,2025,employment,"40% of global employment is exposed to AI, rising to around 60% of jobs in advanced economies, owing...",Passed all validation checks,0.85
+5049,45.0,percentage,2016,percentages,"The new partition was stronger than the one it replaced and 45% lighter (Airbus, 2016[9]). • Fabrica...",Passed all validation checks,0.85
+5050,30.0,percentage,2025,cost,"s a result, some automotive companies have achieved up to a 30% reduction in logistics- related cost...",Passed all validation checks,0.85
+5051,1.9,percentage,2017,percentages,r of survey) Country Manufacturing ICT Source Canada 1.9% 20.4% Statistics Canada (2017) Germany 2.2...,ICT sector data - preserved,0.95
+5052,20.4,percentage,2017,percentages,survey) Country Manufacturing ICT Source Canada 1.9% 20.4% Statistics Canada (2017) Germany 2.2-11.0...,ICT sector data - preserved,0.95
+5054,18.3,percentage,2017,percentages,"da (2017) Germany 2.2-11.0% (depending on the subsector) 18.3% ZEW (Rammer, Fernández and Czarnitzki...",Passed all validation checks,0.85
+5056,33.0,percentage,2022,percentages,"ammer, Fernández and Czarnitzki, 2022[13]). Germany 9.0% 33% Destatis (Destatis, 2023[14]) Sweden 3....",Passed all validation checks,0.85
+5057,3.5,percentage,2023,percentages,"Germany 9.0% 33% Destatis (Destatis, 2023[14]) Sweden 3.5% 22.7% Statistics Sweden (2024) (data from...",Passed all validation checks,0.85
+5058,22.7,percentage,2023,percentages,"ny 9.0% 33% Destatis (Destatis, 2023[14]) Sweden 3.5% 22.7% Statistics Sweden (2024) (data from 2019...",Passed all validation checks,0.85
+5059,15.0,percentage,2025,percentages,"om 60 countries, the OECD AI Observatory shows that around 15% of AI-related policies specifically t...",Passed all validation checks,0.85
+5061,6.6,percentage,2020,adoption_rate,"l firm types found that the overall adoption rate was just 6.6% (Zolas et al., 2020[17]). In the Eur...",Passed all validation checks,0.85
+5063,8.0,percentage,2025,percentages,"nology, both at around 15%. The European Union average was 8%. Italy and France had shares of 5% and...",Passed all validation checks,0.85
+5065,6.0,percentage,2023,percentages,"nion average was 8%. Italy and France had shares of 5% and 6%, respectively (Eurostat, 2023[18]). A ...",Passed all validation checks,0.85
+5066,5.8,percentage,2019,percentages,"udy in 2019, covering all firms in Germany, found that only 5.8% used AI (Rammer, Fernández and Czar...",Passed all validation checks,0.85
+5068,15.0,percentage,2022,percentages,"or instance, a 2022 study in the United Kingdom found that 15% of small firms were adopting AI, comp...",Passed all validation checks,0.85
+5069,34.0,percentage,2022,percentages,"found that 15% of small firms were adopting AI, compared to 34% of medium- sized firms (Evans and He...",Passed all validation checks,0.85
+5070,2.0,percentage,2022,percentages,"of medium- sized firms (Evans and Heimann, 2022[20]). Only 2% of small firms, 5% of medium-sized fir...",Passed all validation checks,0.85
+5071,5.0,percentage,2022,percentages,"irms (Evans and Heimann, 2022[20]). Only 2% of small firms, 5% of medium-sized firms, and 9% of larg...",Passed all validation checks,0.85
+5072,9.0,percentage,2025,percentages,"20]). Only 2% of small firms, 5% of medium-sized firms, and 9% of large firms were piloting AI. The ...",Passed all validation checks,0.85
+5073,10.0,percentage,2021,percentages,"class was half that of firms with 1 000 to 1 999 employees (10% and 22% respectively) (MIC, 2021[21]...",Passed all validation checks,0.85
+5074,22.0,percentage,2021,percentages,"s half that of firms with 1 000 to 1 999 employees (10% and 22% respectively) (MIC, 2021[21]). Simil...",Passed all validation checks,0.85
+5075,22.0,percentage,2025,percentages,"ss than half that of firms with 2 000 or more employees (at 22% and 48%, respectively). Numerous fac...",Passed all validation checks,0.85
+5076,48.0,percentage,2025,percentages,"half that of firms with 2 000 or more employees (at 22% and 48%, respectively). Numerous factors cou...",Passed all validation checks,0.85
+5077,5.0,percentage,2025,percentages,"l stages of manufacturing digitalisation. At the time, just 5% of the companies had mapped where AI ...",Passed all validation checks,0.85
+5078,56.0,percentage,2019,percentages,"ategy for sourcing the data that AI requires. Furthermore, 56% had no plans to do so (Atkinson and E...",Passed all validation checks,0.85
+5079,85.0,percentage,2025,percentages,r developing a skilled workforce is a common problem. About 85% of firms responding to an EU-wide su...,Passed all validation checks,0.85
+5081,78.0,percentage,2025,percentages,he surveyed enterprises were relatively data mature. Most – 78% – used at least one data management ...,Passed all validation checks,0.85
+5082,51.0,percentage,2025,percentages,"olution. In addition to data generated internally, between 51% and 61% of enterprises used external ...",Passed all validation checks,0.85
+5083,61.0,percentage,2025,percentages,"In addition to data generated internally, between 51% and 61% of enterprises used external data, whe...",Passed all validation checks,0.85
+5084,70.0,percentage,2025,percentages,opt and develop AI. Most use several mechanisms. More than 70% of enterprises in both manufacturing ...,ICT sector data - preserved,0.95
+5086,53.0,percentage,2025,percentages,es hire new staff to help develop AI technologies. Between 53% and 64% of enterprises use customised...,Passed all validation checks,0.85
+5087,64.0,percentage,2025,percentages,new staff to help develop AI technologies. Between 53% and 64% of enterprises use customised systems...,Passed all validation checks,0.85
+5088,38.0,percentage,2025,percentages,sitively related to how critical enterprises deem AI to be. 38% of enterprises that allocate between...,Passed all validation checks,0.85
+5089,10.0,percentage,2025,cost,deem AI to be. 38% of enterprises that allocate between 0-10% of their R&D spending to AI considered...,Passed all validation checks,0.85
+5091,87.0,percentage,2025,percentages,"ng enterprises that spend more than 30% of their R&D on AI, 87% considered AI critical to the busine...",Passed all validation checks,0.85
+5093,65.0,percentage,2025,percentages,searchers in public research organisations. Between 60% and 65% of enterprises that spend more than ...,Passed all validation checks,0.85
+5094,11.0,percentage,2025,percentages,s. Between 60% and 65% of enterprises that spend more than 11% of their R&D on AI have such collabor...,Passed all validation checks,0.85
+5095,44.0,percentage,2025,percentages,"1% of their R&D on AI have such collaborations, compared to 44% of enterprises that spend less than ...",Passed all validation checks,0.85
+5097,76.0,percentage,2025,percentages,to gain access to skilled graduates. A significant portion (76%) of enterprises involved in such col...,Passed all validation checks,0.85
+5098,73.0,percentage,2025,investment,"inesses that do not prioritise AI in their core operations, 73% view such public investments as eith...",Passed all validation checks,0.85
+5100,20.0,percentage,2025,percentages,rprises reiterates these findings and observations. Around 20% of enterprises with 50-250 employees ...,Passed all validation checks,0.85
+5101,17.0,percentage,2025,percentages,able vacancies. Even many large enterprises – approximately 17% – experience the same problem. In a ...,Passed all validation checks,0.85
+5103,19.0,percentage,2025,percentages,ng the skills to look for in potential AI recruits. Almost 19% of respondents acknowledged having th...,Passed all validation checks,0.85
+5104,86.0,percentage,2025,percentages,"% of respondents acknowledged having this problem. Indeed, 86% of enterprises that place a high valu...",Passed all validation checks,0.85
+5105,62.0,percentage,2025,percentages,ty in estimating a priori the ROI in AI applications. Some 62% of manufacturers and 56% of enterpris...,ICT sector data - preserved,0.95
+5106,56.0,percentage,2025,percentages,the ROI in AI applications. Some 62% of manufacturers and 56% of enterprises in ICT cite this as pro...,ICT sector data - preserved,0.95
+5107,40.0,percentage,2025,percentages,Source: OECD/BCG/INSEAD interviews with enterprises. Over 40% of manufacturing and ICT enterprises r...,ICT sector data - preserved,0.95
+5110,33.0,percentage,2025,percentages,onsiderably less likely to report such financial barriers (33% in manufacturing and 30% in ICT). Rou...,ICT sector data - preserved,0.95
+5111,30.0,percentage,2025,percentages,o report such financial barriers (33% in manufacturing and 30% in ICT). Roughly every second enterpr...,ICT sector data - preserved,0.95
+5112,45.0,percentage,2025,percentages,"reluctance of some staff to retrain or upskill, as cited by 45% of manufacturers and 34% of enterpri...",ICT sector data - preserved,0.95
+5113,34.0,percentage,2025,percentages,"to retrain or upskill, as cited by 45% of manufacturers and 34% of enterprises in ICT. Manufacturers...",ICT sector data - preserved,0.95
+5114,60.0,percentage,2025,percentages,"the most frequently cited obstacle, both in manufacturing (60%) and ICT (56%). Approximately every s...",ICT sector data - preserved,0.95
+5115,56.0,percentage,2025,percentages,"ently cited obstacle, both in manufacturing (60%) and ICT (56%). Approximately every second enterpri...",ICT sector data - preserved,0.95
+5117,75.0,percentage,2025,percentages,"uring are those providing access to information or advice (75% in manufacturing, 69% in ICT). Initia...",ICT sector data - preserved,0.95
+5118,69.0,percentage,2025,investment,"ing access to information or advice (75% in manufacturing, 69% in ICT). Initiatives to develop human...",ICT sector data - preserved,0.95
+5119,58.0,percentage,2025,percentages,also among the most widely used and highly valued. Roughly 58% of enterprises make use of training s...,Passed all validation checks,0.85
+5120,42.0,percentage,2025,percentages,"s in some way supported by the public sector. In addition, 42% use public programmes that promote ac...",Passed all validation checks,0.85
+5122,68.0,percentage,2025,percentages,"m of information or advisory service, compared with roughly 68% for other groups of enterprises. Ent...",Passed all validation checks,0.85
+5124,50.0,percentage,2025,growth_rate,"ates use services promoting access to finance, compared to 50% of enterprises in Japan. Supporting g...",Passed all validation checks,0.85
+5125,84.0,percentage,2025,percentages,blic support would help strengthen staff skills in AI. Some 84% of enterprises indicate that partner...,Passed all validation checks,0.85
+5126,67.0,percentage,2025,percentages,"either “very useful” or “moderately useful”. In addition, 67% of enterprises indicate that tax allow...",Passed all validation checks,0.85
+5129,83.0,percentage,2025,percentages,nterprises indicate they would be at least “helpful”. Fully 83% of enterprises judged that having mo...,Passed all validation checks,0.85
+5131,82.0,percentage,2025,investment,"rk with AI would be “helpful” or “very helpful”. Similarly, 82% of enterprises considered public inv...",Passed all validation checks,0.85
+5136,6.5,percentage,2025,percentages,"y incipient. From a sample of 2 561 enterprises, only 167 (6.5%) were found to use AI actively. This...",Passed all validation checks,0.85
+5137,49.0,percentage,2025,percentages,"anagement systems. Among enterprises that actively use AI, 49% use it in customer-oriented services....",Passed all validation checks,0.85
+5140,4.0,percentage,2025,percentages,nterprises with just one or two AI applications compared to 4% in G7 countries). Most enterprises in...,Passed all validation checks,0.85
+5144,249.0,number,2025,labor_metrics,two size classes: medium-sized enterprises (between 50 and 249 employees) and larger enterprises (25...,Passed all validation checks,0.85
+5147,49.0,number,2025,labor_metrics,erprises (250 or more employees). Small enterprises (with 0-49 employees) were not sampled. Analytic...,Passed all validation checks,0.85
+5148,50.0,number,2025,cost,iness processes in small enterprises (i.e. with fewer than 50 employees). This raises the administra...,Passed all validation checks,0.85
+5149,299.0,number,2025,labor_metrics,"an enterprise is considered an SME if it employs from 4 to 299 employees. In the United States, SMEs...",Passed all validation checks,0.85
+5150,500.0,number,2025,labor_metrics,". In the United States, SMEs include firms with fewer than 500 employees. Nevertheless, selection cr...",Passed all validation checks,0.85
+5151,999.0,number,2021,labor_metrics,employee size class was half that of firms with 1 000 to 1 999 employees (10% and 22% respectively) ...,Passed all validation checks,0.85
+5152,999.0,number,2025,adoption_rate,"arly, the incidence of AI adoption in firms with 1 000 to 1 999 employees was less than half that of...",Passed all validation checks,0.85
+5153,250.0,number,2025,labor_metrics,ndings and observations. Around 20% of enterprises with 50-250 employees report being unable to find...,Passed all validation checks,0.85
+5155,20.0,number,2025,revenue,irms and industrial non-profit organisations with at least 20 employees and CAD 250 000 (Canadian do...,Passed all validation checks,0.85
+5156,99.0,number,2025,labor_metrics,"sification System [NAICS] code) and 1 of 3 size classes (20-99 employees, 100-249 employees, and 250...",Passed all validation checks,0.85
+5157,249.0,number,2017,labor_metrics,"NAICS] code) and 1 of 3 size classes (20-99 employees, 100-249 employees, and 250+ employees). Quest...",Passed all validation checks,0.85
+5158,100.0,number,2025,adoption_rate,"anies. Surprisingly, the share of all firms (with at least 100 employees) using AI and Internet of T...",Passed all validation checks,0.85
+5164,249.0,number,2025,labor_metrics,"ICT] services), and two enterprise size classes (from 50 to 249 employees and from 250 employees upw...",ICT sector data - preserved,0.95
+5167,250.0,number,2023,labor_metrics,ng AI is about twice as high in enterprises with more than 250 employees than in enterprises with 50...,Passed all validation checks,0.85
+5168,249.0,number,2023,labor_metrics,"es with more than 250 employees than in enterprises with 50-249 employees (OECD, 2023[5]). Figure 3....",Passed all validation checks,0.85
+6371,1.9,percentage,2017,general_rate,r of survey) country manufacturing ict source canada 1.9% 20.4% statistics canada (2017) germany 2.2...,ICT sector data - preserved,0.95
+6372,20.4,percentage,2017,general_rate,survey) country manufacturing ict source canada 1.9% 20.4% statistics canada (2017) germany 2.2-11.0...,ICT sector data - preserved,0.95
+6386,70.0,percentage,2024,general_rate,opt and develop ai. most use several mechanisms. more than 70% of enterprises in both manufacturing ...,ICT sector data - preserved,0.95
+6394,0.0,percentage,2024,general_rate,important considerations can 50-249 ict 19 (63.3%) 0 (0.0%) 11 (36.7%) manufacturing 22 (73.3%) 2 (6...,ICT sector data - preserved,0.95
+6395,0.0,percentage,2024,general_rate,%) 9 (30.0%) 12 (40.0%) deu 50-249 ict 17 (56.7%) 0 (0.0%) 13 (43.3%) manufacturing 13 (43.3%) 4 (13...,ICT sector data - preserved,0.95
+6396,0.0,percentage,2024,general_rate,%) 6 (20.0%) 20 (66.7%) fra 50-249 ict 21 (70.0%) 0 (0.0%) 9 (30.0%) manufacturing 26 (86.7%) 0 (0.0...,ICT sector data - preserved,0.95
+6397,0.0,percentage,2024,general_rate,%) 0 (0.0%) 9 (30.0%) manufacturing 26 (86.7%) 0 (0.0%) 4 (13.3%) 250+ ict 18 (60.0%) 0 (0.0%) 12 (4...,ICT sector data - preserved,0.95
+6398,0.0,percentage,2024,general_rate,(86.7%) 0 (0.0%) 4 (13.3%) 250+ ict 18 (60.0%) 0 (0.0%) 12 (40.0%) manufacturing 15 (50.0%) 1 (3.3%)...,ICT sector data - preserved,0.95
+6399,0.0,percentage,2024,general_rate,(60.0%) 5 (16.7%) 7 (23.3%) 250+ ict 16 (53.3%) 0 (0.0%) 14 (46.7%) manufacturing 8 (26.7%) 3 (10.0%...,ICT sector data - preserved,0.95
+6400,0.0,percentage,2024,general_rate,%) 3 (10.0%) 19 (63.3%) ita 50-249 ict 14 (46.7%) 0 (0.0%) 16 (53.3%) manufacturing 10 (33.3%) 8 (26...,ICT sector data - preserved,0.95
+6401,0.0,percentage,2024,general_rate,%) 6 (20.0%) 15 (50.0%) jpn 50-249 ict 19 (63.3%) 0 (0.0%) 11 (36.7%) manufacturing 22 (73.3%) 3 (10...,ICT sector data - preserved,0.95
+6402,0.0,percentage,2024,general_rate,(73.3%) 3 (10.0%) 5 (16.7%) 250+ ict 25 (83.3%) 0 (0.0%) 5 (16.7%) manufacturing 17 (56.7%) 1 (3.3%)...,ICT sector data - preserved,0.95
+6403,0.0,percentage,2024,general_rate,7%) 1 (3.3%) 12 (40.0%) usa 50-249 ict 19 (63.3%) 0 (0.0%) 11 (36.7%) manufacturing 9 (30.0%) 8 (26....,ICT sector data - preserved,0.95
+6404,0.0,percentage,2020,general_rate,2000- 2010 2010- 2020 after 2020 can 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.7%) 3 (10.0%) 4 (13....,ICT sector data - preserved,0.95
+6405,0.0,percentage,2020,general_rate,2010- 2020 after 2020 can 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.7%) 3 (10.0%) 4 (13.3%) 13 (43....,ICT sector data - preserved,0.95
+6406,0.0,percentage,2020,general_rate,after 2020 can 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.7%) 3 (10.0%) 4 (13.3%) 13 (43.3%) 8 (26.7,ICT sector data - preserved,0.95
+6410,0.0,percentage,2024,general_rate,3.3%) 0 (0.0%) 7 (23.3%) 8 (26.7%) 12 (40.0%) 0 (0.0%) 250+ ict 1 (3.3%) 3 (10.0%) 0 (0.0%) 1 (3.,ICT sector data - preserved,0.95
+6411,0.0,percentage,2024,general_rate,.0%) 0 (0.0%) 250+ ict 1 (3.3%) 3 (10.0%) 0 (0.0%) 1 (3.3%) 2 (6.7%) 4 (13.3%) 13 (43.3%) 6 (20.0,ICT sector data - preserved,0.95
+6413,0.0,percentage,2024,general_rate,13.3%) 4 (13.3%) 9 (30.0%) 4 (13.3%) 2 (6.7%) 0 (0.0%) deu 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 0,ICT sector data - preserved,0.95
+6414,0.0,percentage,2024,general_rate,4 (13.3%) 2 (6.7%) 0 (0.0%) deu 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 1 (3.3%) 7 (23.3%,ICT sector data - preserved,0.95
+6415,0.0,percentage,2024,general_rate,2 (6.7%) 0 (0.0%) deu 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 1 (3.3%) 7 (23.3%) 15 (50.0,ICT sector data - preserved,0.95
+6416,0.0,percentage,2024,general_rate,0 (0.0%) deu 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 1 (3.3%) 7 (23.3%) 15 (50.0%) 7 (23.3,ICT sector data - preserved,0.95
+6417,0.0,percentage,2024,general_rate,deu 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 1 (3.3%) 7 (23.3%) 15 (50.0%) 7 (23.3%) 0 (0.0%,ICT sector data - preserved,0.95
+6421,0.0,percentage,2024,general_rate,.0%) 3 (10.0%) 1 (3.3%) 250+ ict 1 (3.3%) 0 (0.0%) 5 (16.7%) 1 (3.3%) 7 (23.3%) 6 (20.0%) 2 (6.7%,ICT sector data - preserved,0.95
+6422,0.0,percentage,2024,general_rate,(6.7%) 3 (10.0%) 3 (10.0%) 4 (13.3%) 2 (6.7%) 0 (0.0%) fra 50-249 ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 1,ICT sector data - preserved,0.95
+6423,0.0,percentage,2024,general_rate,4 (13.3%) 2 (6.7%) 0 (0.0%) fra 50-249 ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 1 (3.3%) 9 (30.0%) 7 (23.3%,ICT sector data - preserved,0.95
+6424,0.0,percentage,2024,general_rate,2 (6.7%) 0 (0.0%) fra 50-249 ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 1 (3.3%) 9 (30.0%) 7 (23.3%) 7 (23.3%,ICT sector data - preserved,0.95
+6429,0.0,percentage,2024,general_rate,0.0%) 1 (3.3%) 8 (26.7%) 8 (26.7%) 12 (40.0%) 0 (0.0%) 250+ ict 2 (6.7%) 0 (0.0%) 1 (3.3%) 1 (3.,ICT sector data - preserved,0.95
+6430,0.0,percentage,2024,general_rate,7%) 12 (40.0%) 0 (0.0%) 250+ ict 2 (6.7%) 0 (0.0%) 1 (3.3%) 1 (3.3%) 6 (20.0%) 6 (20.0%) 5 (16.7%,ICT sector data - preserved,0.95
+6432,0.0,percentage,2024,general_rate,4 (13.3%) 5 (16.7%) 2 (6.7%) gbr 50-249 ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 7 (23.3%) 4 (13.3%) 3 (10.0%,ICT sector data - preserved,0.95
+6433,0.0,percentage,2024,general_rate,5 (16.7%) 2 (6.7%) gbr 50-249 ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 7 (23.3%) 4 (13.3%) 3 (10.0%) 8 (26.7%,ICT sector data - preserved,0.95
+6435,0.0,percentage,2024,general_rate,0.0%) 1 (3.3%) 2 (6.7%) 4 (13.3%) 6 (20.0%) 0 (0.0%) 6 (20.0%) 7 (23.3%) 1 (3.3%) 250+ ict 5 (16.7,ICT sector data - preserved,0.95
+6436,0.0,percentage,2024,general_rate,.3%) 1 (3.3%) 250+ ict 5 (16.7%) 1 (3.3%) 0 (0.0%) 1 (3.3%) 7 (23.3%) 8 (26.7%) 3 (10.0%) 5 (16.7%,ICT sector data - preserved,0.95
+6438,0.0,percentage,2024,general_rate,10.0%) 4 (13.3%) 3 (10.0%) 2 (6.7%) 3 (10.0%) 0 (0.0%) ita 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2,ICT sector data - preserved,0.95
+6439,0.0,percentage,2024,general_rate,2 (6.7%) 3 (10.0%) 0 (0.0%) ita 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.7%) 2 (6.7%) 8 (26.7%,ICT sector data - preserved,0.95
+6440,0.0,percentage,2024,general_rate,3 (10.0%) 0 (0.0%) ita 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.7%) 2 (6.7%) 8 (26.7%) 11 (36.7,ICT sector data - preserved,0.95
+6441,0.0,percentage,2024,general_rate,0 (0.0%) ita 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.7%) 2 (6.7%) 8 (26.7%) 11 (36.7%) 7 (23.3,ICT sector data - preserved,0.95
+6443,0.0,percentage,2024,general_rate,13.3%) 4 (13.3%) 5 (16.7%) 6 (20.0%) 3 (10.0%) 0 (0.0%) 250+ ict 1 (3.3%) 0 (0.0%) 0 (0.0%) 3 (10.,ICT sector data - preserved,0.95
+6444,0.0,percentage,2024,general_rate,.0%) 3 (10.0%) 0 (0.0%) 250+ ict 1 (3.3%) 0 (0.0%) 0 (0.0%) 3 (10.0%) 8 (26.7%) 9 (30.0%) 5 (16.7%,ICT sector data - preserved,0.95
+6445,0.0,percentage,2024,general_rate,.0%) 0 (0.0%) 250+ ict 1 (3.3%) 0 (0.0%) 0 (0.0%) 3 (10.0%) 8 (26.7%) 9 (30.0%) 5 (16.7%) 4 (13.3%,ICT sector data - preserved,0.95
+6447,0.0,percentage,2024,general_rate,3 (10.0%) 7 (23.3%) 1 (3.3%) jpn 50-249 ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 3 (10.0%) 4 (13.3%) 9 (30.0%,ICT sector data - preserved,0.95
+6448,0.0,percentage,2024,general_rate,7 (23.3%) 1 (3.3%) jpn 50-249 ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 3 (10.0%) 4 (13.3%) 9 (30.0%) 7 (23.3%,ICT sector data - preserved,0.95
+6452,0.0,percentage,2024,general_rate,3.3%) 2 (6.7%) 2 (6.7%) 12 (40.0%) 8 (26.7%) 0 (0.0%) 250+ ict 3 (10.0%) 1 (3.3%) 3 (10.0%) 4 (13.,ICT sector data - preserved,0.95
+6454,0.0,percentage,2024,general_rate,3.3%) 2 (6.7%) 1 (3.3%) 4 (13.3%) 4 (13.3%) 0 (0.0%) 0 (0.0%) usa 50-249 ict 0 (0.0%) 1 (3.3%) 0,ICT sector data - preserved,0.95
+6455,0.0,percentage,2024,general_rate,(6.7%) 1 (3.3%) 4 (13.3%) 4 (13.3%) 0 (0.0%) 0 (0.0%) usa 50-249 ict 0 (0.0%) 1 (3.3%) 0 (0.0%) 0,ICT sector data - preserved,0.95
+6456,0.0,percentage,2024,general_rate,4 (13.3%) 0 (0.0%) 0 (0.0%) usa 50-249 ict 0 (0.0%) 1 (3.3%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 4 (13.3%,ICT sector data - preserved,0.95
+6457,0.0,percentage,2024,general_rate,0 (0.0%) usa 50-249 ict 0 (0.0%) 1 (3.3%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 4 (13.3%) 5 (16.7%) 19 (63.3,ICT sector data - preserved,0.95
+6458,0.0,percentage,2024,general_rate,usa 50-249 ict 0 (0.0%) 1 (3.3%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 4 (13.3%) 5 (16.7%) 19 (63.3%) 1 (3.3%,ICT sector data - preserved,0.95
+6459,0.0,percentage,2024,general_rate,ict 0 (0.0%) 1 (3.3%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 4 (13.3%) 5 (16.7%) 19 (63.3%) 1 (3.3%) manu,ICT sector data - preserved,0.95
+6463,0.0,percentage,2024,general_rate,7%) 7 (23.3%) 10 (33.3%) 1 (3.3%) 250+ ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 2 (6.7%) 3 (10.0%) 6 (20.0%,ICT sector data - preserved,0.95
+6464,0.0,percentage,2024,general_rate,3%) 10 (33.3%) 1 (3.3%) 250+ ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 2 (6.7%) 3 (10.0%) 6 (20.0%) 6 (20.0%,ICT sector data - preserved,0.95
+6466,0.0,percentage,2024,general_rate,ar with this concept yes can 50-249 ict 7 (23.3%) 0 (0.0%) 23 (76.7%) manufacturing 5 (16.7%) 0 (0.0...,ICT sector data - preserved,0.95
+6467,0.0,percentage,2024,general_rate,%) 0 (0.0%) 23 (76.7%) manufacturing 5 (16.7%) 0 (0.0%) 25 (83.3%) 250+ ict 4 (13.3%) 0 (0.0%) 26 (8...,ICT sector data - preserved,0.95
+6468,0.0,percentage,2024,general_rate,(16.7%) 0 (0.0%) 25 (83.3%) 250+ ict 4 (13.3%) 0 (0.0%) 26 (86.7%) manufacturing 15 (50.0%) 0 (0.0%)...,ICT sector data - preserved,0.95
+6469,0.0,percentage,2024,general_rate,) 0 (0.0%) 26 (86.7%) manufacturing 15 (50.0%) 0 (0.0%) 15 (50.0%) deu 50-249 ict 2 (6.7%) 0 (0.0%) ...,ICT sector data - preserved,0.95
+6470,0.0,percentage,2024,general_rate,0.0%) 0 (0.0%) 15 (50.0%) deu 50-249 ict 2 (6.7%) 0 (0.0%) 28 (93.3%) manufacturing 14 (46.7%) 0 (0....,ICT sector data - preserved,0.95
+6471,0.0,percentage,2024,general_rate,) 0 (0.0%) 28 (93.3%) manufacturing 14 (46.7%) 0 (0.0%) 16 (53.3%) 250+ ict 2 (6.7%) 0 (0.0%) 28 (93...,ICT sector data - preserved,0.95
+6472,0.0,percentage,2024,general_rate,4 (46.7%) 0 (0.0%) 16 (53.3%) 250+ ict 2 (6.7%) 0 (0.0%) 28 (93.3%) manufacturing 12 (40.0%) 0 (0.0%...,ICT sector data - preserved,0.95
+6473,0.0,percentage,2024,general_rate,) 0 (0.0%) 28 (93.3%) manufacturing 12 (40.0%) 0 (0.0%) 18 (60.0%) fra 50-249 ict 3 (10.0%) 0 (0.0%)...,ICT sector data - preserved,0.95
+6474,0.0,percentage,2024,general_rate,.0%) 0 (0.0%) 18 (60.0%) fra 50-249 ict 3 (10.0%) 0 (0.0%) 27 (90.0%) manufacturing 2 (6.7%) 0 (0.0%...,ICT sector data - preserved,0.95
+6475,0.0,percentage,2024,general_rate,0%) 0 (0.0%) 27 (90.0%) manufacturing 2 (6.7%) 0 (0.0%) 28 (93.3%) 250+ ict 0 (0.0%) 1 (3.3%) 29 (96...,ICT sector data - preserved,0.95
+6476,0.0,percentage,2024,general_rate,facturing 2 (6.7%) 0 (0.0%) 28 (93.3%) 250+ ict 0 (0.0%) 1 (3.3%) 29 (96.7%) manufacturing 5 (16.7%)...,ICT sector data - preserved,0.95
+6477,0.0,percentage,2024,general_rate,%) 1 (3.3%) 29 (96.7%) manufacturing 5 (16.7%) 0 (0.0%) 25 (83.3%) gbr 50-249 ict 5 (16.7%) 0 (0.0%)...,ICT sector data - preserved,0.95
+6478,0.0,percentage,2024,general_rate,.7%) 0 (0.0%) 25 (83.3%) gbr 50-249 ict 5 (16.7%) 0 (0.0%) 25 (83.3%) manufacturing 11 (36.7%) 0 (0....,ICT sector data - preserved,0.95
+6479,0.0,percentage,2024,general_rate,) 0 (0.0%) 25 (83.3%) manufacturing 11 (36.7%) 0 (0.0%) 19 (63.3%) 250+ ict 3 (10.0%) 0 (0.0%) 27 (9...,ICT sector data - preserved,0.95
+6480,0.0,percentage,2024,general_rate,(36.7%) 0 (0.0%) 19 (63.3%) 250+ ict 3 (10.0%) 0 (0.0%) 27 (90.0%) manufacturing 9 (30.0%) 0 (0.0%) ...,ICT sector data - preserved,0.95
+6481,0.0,percentage,2024,general_rate,%) 0 (0.0%) 27 (90.0%) manufacturing 9 (30.0%) 0 (0.0%) 21 (70.0%) ita 50-249 ict 9 (30.0%) 0 (0.0%)...,ICT sector data - preserved,0.95
+6482,0.0,percentage,2024,general_rate,.0%) 0 (0.0%) 21 (70.0%) ita 50-249 ict 9 (30.0%) 0 (0.0%) 21 (70.0%) manufacturing 13 (43.3%) 0 (0....,ICT sector data - preserved,0.95
+6483,0.0,percentage,2024,general_rate,) 0 (0.0%) 21 (70.0%) manufacturing 13 (43.3%) 0 (0.0%) 17 (56.7%) 250+ ict 1 (3.3%) 0 (0.0%) 29 (96...,ICT sector data - preserved,0.95
+6484,0.0,percentage,2024,general_rate,3 (43.3%) 0 (0.0%) 17 (56.7%) 250+ ict 1 (3.3%) 0 (0.0%) 29 (96.7%) manufacturing 11 (36.7%) 0 (0.0%...,ICT sector data - preserved,0.95
+6485,0.0,percentage,2024,general_rate,) 0 (0.0%) 29 (96.7%) manufacturing 11 (36.7%) 0 (0.0%) 19 (63.3%) jpn 50-249 ict 6 (20.0%) 0 (0.0%)...,ICT sector data - preserved,0.95
+6486,0.0,percentage,2024,general_rate,.7%) 0 (0.0%) 19 (63.3%) jpn 50-249 ict 6 (20.0%) 0 (0.0%) 24 (80.0%) manufacturing 6 (20.0%) 0 (0.0...,ICT sector data - preserved,0.95
+6487,0.0,percentage,2024,general_rate,%) 0 (0.0%) 24 (80.0%) manufacturing 6 (20.0%) 0 (0.0%) 24 (80.0%) 250+ ict 3 (10.0%) 0 (0.0%) 27 (9...,ICT sector data - preserved,0.95
+6488,0.0,percentage,2024,general_rate,(20.0%) 0 (0.0%) 24 (80.0%) 250+ ict 3 (10.0%) 0 (0.0%) 27 (90.0%) manufacturing 7 (23.3%) 2 (6.7%) ...,ICT sector data - preserved,0.95
+6489,0.0,percentage,2024,general_rate,.3%) 2 (6.7%) 21 (70.0%) usa 50-249 ict 5 (16.7%) 0 (0.0%) 25 (83.3%) manufacturing 17 (56.7%) 2 (6....,ICT sector data - preserved,0.95
+6490,0.0,percentage,2024,general_rate,7 (56.7%) 2 (6.7%) 11 (36.7%) 250+ ict 1 (3.3%) 0 (0.0%) 29 (96.7%) manufacturing 2 (6.7%) 1 (3.3%) ...,ICT sector data - preserved,0.95
+6491,0.0,percentage,2024,general_rate,know no yes don't know no yes can 50-249 ict 0 (0.0%) 27 (90.0%) 3 (10.0%) 0 (0.0%) 24 (80.0%) 6 (20...,ICT sector data - preserved,0.95
+6492,0.0,percentage,2024,general_rate,can 50-249 ict 0 (0.0%) 27 (90.0%) 3 (10.0%) 0 (0.0%) 24 (80.0%) 6 (20.0%) 0 (0.0%) 19 (63.3%) 11 (3...,ICT sector data - preserved,0.95
+6497,0.0,percentage,2024,general_rate,.3%) 14 (46.7%) 0 (0.0%) 18 (60.0%) 12 (40.0%) 0 (0.0%) 11 (36.7%) 19 (63.3%) 250+ ict 0 (0.0%) 26 (...,ICT sector data - preserved,0.95
+6498,0.0,percentage,2024,general_rate,0%) 0 (0.0%) 11 (36.7%) 19 (63.3%) 250+ ict 0 (0.0%) 26 (86.7%) 4 (13.3%) 0 (0.0%) 20 (66.7%) 10 (33...,ICT sector data - preserved,0.95
+6499,0.0,percentage,2024,general_rate,.3%) 250+ ict 0 (0.0%) 26 (86.7%) 4 (13.3%) 0 (0.0%) 20 (66.7%) 10 (33.3%) 0 (0.0%) 21 (70.0%) 9 (30...,ICT sector data - preserved,0.95
+6503,0.0,percentage,2024,general_rate,.3%) 11 (36.7%) 0 (0.0%) 17 (56.7%) 13 (43.3%) 0 (0.0%) 12 (40.0%) 18 (60.0%) deu 50-249 ict 0 (0.0%...,ICT sector data - preserved,0.95
+6504,0.0,percentage,2024,general_rate,0 (0.0%) 12 (40.0%) 18 (60.0%) deu 50-249 ict 0 (0.0%) 20 (66.7%) 10 (33.3%) 0 (0.0%) 21 (70.0%) 9 (...,ICT sector data - preserved,0.95
+6505,0.0,percentage,2024,general_rate,deu 50-249 ict 0 (0.0%) 20 (66.7%) 10 (33.3%) 0 (0.0%) 21 (70.0%) 9 (30.0%) 0 (0.0%) 17 (56.7%) 13 (...,ICT sector data - preserved,0.95
+6507,0.0,percentage,2024,general_rate,.3%) 1 (3.3%) 9 (30.0%) 20 (66.7%) 250+ ict 0 (0.0%) 23 (76.7%) 7 (23.3%) 0 (0.0%) 22 (73.3%) 8 (26....,ICT sector data - preserved,0.95
+6508,0.0,percentage,2024,general_rate,.7%) 250+ ict 0 (0.0%) 23 (76.7%) 7 (23.3%) 0 (0.0%) 22 (73.3%) 8 (26.7%) 0 (0.0%) 19 (63.3%) 11 (36...,ICT sector data - preserved,0.95
+6511,0.0,percentage,2024,general_rate,3 (10.0%) 13 (43.3%) 14 (46.7%) fra 50-249 ict 0 (0.0%) 22 (73.3%) 8 (26.7%) 0 (0.0%) 19 (63.3%) 11 ...,ICT sector data - preserved,0.95
+6512,0.0,percentage,2024,general_rate,fra 50-249 ict 0 (0.0%) 22 (73.3%) 8 (26.7%) 0 (0.0%) 19 (63.3%) 11 (36.7%) 0 (0.0%) 26 (86.7%) 4 (1...,ICT sector data - preserved,0.95
+6518,0.0,percentage,2024,general_rate,.0%) 15 (50.0%) 0 (0.0%) 13 (43.3%) 17 (56.7%) 0 (0.0%) 6 (20.0%) 24 (80.0%) 250+ ict 0 (0.0%) 25 (8...,ICT sector data - preserved,0.95
+6519,0.0,percentage,2024,general_rate,.7%) 0 (0.0%) 6 (20.0%) 24 (80.0%) 250+ ict 0 (0.0%) 25 (83.3%) 5 (16.7%) 0 (0.0%) 22 (73.3%) 8 (26....,ICT sector data - preserved,0.95
+6520,0.0,percentage,2024,general_rate,.0%) 250+ ict 0 (0.0%) 25 (83.3%) 5 (16.7%) 0 (0.0%) 22 (73.3%) 8 (26.7%) 0 (0.0%) 22 (73.3%) 8 (26....,ICT sector data - preserved,0.95
+6523,0.0,percentage,2024,general_rate,3.3%) 7 (23.3%) 0 (0.0%) 15 (50.0%) 15 (50.0%) 0 (0.0%) 11 (36.7%) 19 (63.3%) gbr 50-249 ict 0 (0.0%...,ICT sector data - preserved,0.95
+6524,0.0,percentage,2024,general_rate,0 (0.0%) 11 (36.7%) 19 (63.3%) gbr 50-249 ict 0 (0.0%) 20 (66.7%) 10 (33.3%) 0 (0.0%) 18 (60.0%) 12 ...,ICT sector data - preserved,0.95
+6525,0.0,percentage,2024,general_rate,gbr 50-249 ict 0 (0.0%) 20 (66.7%) 10 (33.3%) 0 (0.0%) 18 (60.0%) 12 (40.0%) 0 (0.0%) 16 (53.3%) 14 ...,ICT sector data - preserved,0.95
+6530,0.0,percentage,2024,general_rate,.3%) 14 (46.7%) 0 (0.0%) 18 (60.0%) 12 (40.0%) 0 (0.0%) 10 (33.3%) 20 (66.7%) 250+ ict 1 (3.3%) 25 (...,ICT sector data - preserved,0.95
+6536,0.0,percentage,2024,general_rate,.0%) 12 (40.0%) 0 (0.0%) 19 (63.3%) 11 (36.7%) 0 (0.0%) 15 (50.0%) 15 (50.0%) ita 50-249 ict 0 (0.0%...,ICT sector data - preserved,0.95
+6537,0.0,percentage,2024,general_rate,0 (0.0%) 15 (50.0%) 15 (50.0%) ita 50-249 ict 0 (0.0%) 21 (70.0%) 9 (30.0%) 0 (0.0%) 20 (66.7%) 10 (...,ICT sector data - preserved,0.95
+6538,0.0,percentage,2024,general_rate,ita 50-249 ict 0 (0.0%) 21 (70.0%) 9 (30.0%) 0 (0.0%) 20 (66.7%) 10 (33.3%) 0 (0.0%) 18 (60.0%) 12 (...,ICT sector data - preserved,0.95
+6544,0.0,percentage,2024,general_rate,3%) 1 (3.3%) 14 (46.7%) 15 (50.0%) 250+ ict 0 (0.0%) 28 (93.3%) 2 (6.7%) 0 (0.0%) 22 (73.3%) 8 (26.7...,ICT sector data - preserved,0.95
+6545,0.0,percentage,2024,general_rate,0.0%) 250+ ict 0 (0.0%) 28 (93.3%) 2 (6.7%) 0 (0.0%) 22 (73.3%) 8 (26.7%) 0 (0.0%) 20 (66.7%) 10 (33...,ICT sector data - preserved,0.95
+6549,0.0,percentage,2024,general_rate,2 (6.7%) 11 (36.7%) 17 (56.7%) jpn 50-249 ict 0 (0.0%) 23 (76.7%) 7 (23.3%) 0 (0.0%) 24 (80.0%) 6 (2...,ICT sector data - preserved,0.95
+6550,0.0,percentage,2024,general_rate,jpn 50-249 ict 0 (0.0%) 23 (76.7%) 7 (23.3%) 0 (0.0%) 24 (80.0%) 6 (20.0%) 0 (0.0%) 22 (73.3%) 8 (26...,ICT sector data - preserved,0.95
+6555,0.0,percentage,2024,general_rate,.7%) 250+ ict 1 (3.3%) 23 (76.7%) 6 (20.0%) 0 (0.0%) 24 (80.0%) 6 (20.0%) 0 (0.0%) 25 (83.3%) 5 (16....,ICT sector data - preserved,0.95
+6562,0.0,percentage,2024,general_rate,know no yes don't know no yes usa 50-249 ict 0 (0.0%) 29 (96.7%) 1 (3.3%) 0 (0.0%) 22 (73.3%) 8 (26....,ICT sector data - preserved,0.95
+6563,0.0,percentage,2024,general_rate,s usa 50-249 ict 0 (0.0%) 29 (96.7%) 1 (3.3%) 0 (0.0%) 22 (73.3%) 8 (26.7%) 0 (0.0%) 22 (73.3%) 8 (2...,ICT sector data - preserved,0.95
+6569,0.0,percentage,2024,general_rate,6.7%) 7 (23.3%) 0 (0.0%) 20 (66.7%) 10 (33.3%) 0 (0.0%) 12 (40.0%) 18 (60.0%) 250+ ict 0 (0.0%) 29 (...,ICT sector data - preserved,0.95
+6570,0.0,percentage,2024,general_rate,3%) 0 (0.0%) 12 (40.0%) 18 (60.0%) 250+ ict 0 (0.0%) 29 (96.7%) 1 (3.3%) 1 (3.3%) 23 (76.7%) 6 (20.0...,ICT sector data - preserved,0.95
+6576,0.0,percentage,2024,general_rate,6 (20.0%) 10 (33.3%) 14 (46.7%) manufacturing 0 (0.0%) 1 (3.3%) 29 (96.7%) 250+ ict 3 (10.0%) 3 (10....,ICT sector data - preserved,0.95
+6577,0.0,percentage,2024,general_rate,y useful very useful can 50-249 ict 12 (40.0%) 0 (0.0%) 5 (16.7%) 13 (43.3%) 14 (46.7%) 2 (6.7%) 8 (...,ICT sector data - preserved,0.95
+6580,0.0,percentage,2024,general_rate,53.3%) 1 (3.3%) 5 (16.7%) 8 (26.7%) 14 (46.7%) 0 (0.0%) 2 (6.7%) 14 (46.7%) 250+ ict 12 (40.0%) 1 (3...,ICT sector data - preserved,0.95
+6582,0.0,percentage,2024,general_rate,.3%) 3 (10.0%) 12 (40.0%) 5 (16.7%) 10 (33.3%) 0 (0.0%) 11 (36.7%) 9 (30.0%) deu 50-249 ict 8 (26.7%...,ICT sector data - preserved,0.95
+6585,0.0,percentage,2024,general_rate,0.0%) 4 (13.3%) 9 (30.0%) 5 (16.7%) 16 (53.3%) 0 (0.0%) 4 (13.3%) 10 (33.3%) fra 50-249 ict 12 (40.0...,ICT sector data - preserved,0.95
+6586,0.0,percentage,2024,general_rate,4 (13.3%) 10 (33.3%) fra 50-249 ict 12 (40.0%) 0 (0.0%) 3 (10.0%) 15 (50.0%) 10 (33.3%) 3 (10.0%) 5 ...,ICT sector data - preserved,0.95
+6590,0.0,percentage,2024,general_rate,6.7%) 0 (0.0%) 3 (10.0%) 13 (43.3%) 12 (40.0%) 0 (0.0%) 2 (6.7%) 16 (53.3%) 250+ ict 15 (50.0%) 0 (0...,ICT sector data - preserved,0.95
+6591,0.0,percentage,2024,general_rate,0%) 2 (6.7%) 16 (53.3%) 250+ ict 15 (50.0%) 0 (0.0%) 3 (10.0%) 12 (40.0%) 6 (20.0%) 5 (16.7%) 12 (40...,ICT sector data - preserved,0.95
+6594,0.0,percentage,2024,general_rate,3 (10.0%) 16 (53.3%) gbr 50-249 ict 10 (33.3%) 0 (0.0%) 5 (16.7%) 15 (50.0%) 14 (46.7%) 2 (6.7%) 8 (...,ICT sector data - preserved,0.95
+6596,0.0,percentage,2024,general_rate,(60.0%) 1 (3.3%) 2 (6.7%) 9 (30.0%) 12 (40.0%) 0 (0.0%) 4 (13.3%) 14 (46.7%) 250+ ict 15 (50.0%) 1 (...,ICT sector data - preserved,0.95
+6598,0.0,percentage,2024,general_rate,0.0%) 1 (3.3%) 11 (36.7%) 9 (30.0%) 15 (50.0%) 0 (0.0%) 1 (3.3%) 14 (46.7%) ita 50-249 ict 17 (56.7%...,ICT sector data - preserved,0.95
+6599,0.0,percentage,2024,general_rate,0.0%) 2 (6.7%) 5 (16.7%) 11 (36.7%) 17 (56.7%) 0 (0.0%) 5 (16.7%) 8 (26.7%) 250+ ict 15 (50.0%) 0 (0...,ICT sector data - preserved,0.95
+6600,0.0,percentage,2024,general_rate,0%) 5 (16.7%) 8 (26.7%) 250+ ict 15 (50.0%) 0 (0.0%) 10 (33.3%) 5 (16.7%) 11 (36.7%) 2 (6.7%) 5 (16....,ICT sector data - preserved,0.95
+6602,0.0,percentage,2024,general_rate,.7%) 4 (13.3%) 10 (33.3%) 8 (26.7%) 14 (46.7%) 0 (0.0%) 3 (10.0%) 13 (43.3%) jpn 50-249 ict 16 (53.3...,ICT sector data - preserved,0.95
+6603,0.0,percentage,2024,general_rate,3 (10.0%) 13 (43.3%) jpn 50-249 ict 16 (53.3%) 0 (0.0%) 4 (13.3%) 10 (33.3%) 9 (30.0%) 1 (3.3%) 6 (2...,ICT sector data - preserved,0.95
+6607,0.0,percentage,2024,general_rate,3%) 1 (3.3%) 14 (46.7%) 250+ ict 14 (46.7%) 0 (0.0%) 6 (20.0%) 10 (33.3%) 6 (20.0%) 7 (23.3%) 10 (33...,ICT sector data - preserved,0.95
+6609,0.0,percentage,2024,general_rate,ery helpful can 50-249 ict 2 (6.7%) 14 (46.7%) 0 (0.0%) 14 (46.7%) 7 (23.3%) 12 (40.0%) 0 (0.0%) 11 ...,ICT sector data - preserved,0.95
+6614,0.0,percentage,2024,general_rate,0.0%) 0 (0.0%) 12 (40.0%) 6 (20.0%) 12 (40.0%) 0 (0.0%) 12 (40.0%) 250+ ict 7 (23.3%) 12 (40.0%) 1 (...,ICT sector data - preserved,0.95
+6619,0.0,percentage,2024,general_rate,6.7%) 0 (0.0%) 10 (33.3%) 4 (13.3%) 13 (43.3%) 0 (0.0%) 13 (43.3%) 250+ ict 5 (16.7%) 15 (50.0%) 1 (...,ICT sector data - preserved,0.95
+6620,0.0,percentage,2024,general_rate,4 (46.7%) fra 50-249 ict 10 (33.3%) 13 (43.3%) 0 (0.0%) 7 (23.3%) 6 (20.0%) 12 (40.0%) 0 (0.0%) 12 (...,ICT sector data - preserved,0.95
+6625,0.0,percentage,2024,general_rate,70.0%) 2 (6.7%) 14 (46.7%) 0 (0.0%) 14 (46.7%) 0 (0.0%) 18 (60.0%) 0 (0.0%) 12 (40.0%) 250+ ict 8 (2...,ICT sector data - preserved,0.95
+6626,0.0,percentage,2024,general_rate,46.7%) 0 (0.0%) 14 (46.7%) 0 (0.0%) 18 (60.0%) 0 (0.0%) 12 (40.0%) 250+ ict 8 (26.7%) 15 (50.0%) 1 (...,ICT sector data - preserved,0.95
+6634,0.0,percentage,2024,general_rate,46.7%) 0 (0.0%) 8 (26.7%) 3 (10.0%) 16 (53.3%) 0 (0.0%) 11 (36.7%) 250+ ict 4 (13.3%) 13 (43.3%) 2 (...,ICT sector data - preserved,0.95
+6637,0.0,percentage,2024,general_rate,40.0%) 1 (3.3%) 9 (30.0%) 4 (13.3%) 14 (46.7%) 0 (0.0%) 12 (40.0%) ita 50-249 ict 5 (16.7%) 16 (53.3...,ICT sector data - preserved,0.95
+6640,0.0,percentage,2024,general_rate,53.3%) 0 (0.0%) 8 (26.7%) 4 (13.3%) 15 (50.0%) 0 (0.0%) 11 (36.7%) 250+ ict 5 (16.7%) 14 (46.7%) 1 (...,ICT sector data - preserved,0.95
+6642,0.0,percentage,2024,general_rate,16 (53.3%) jpn 50-249 ict 5 (16.7%) 10 (33.3%) 0 (0.0%) 15 (50.0%) 5 (16.7%) 17 (56.7%) 0 (0.0%) 8 (...,ICT sector data - preserved,0.95
+6647,0.0,percentage,2024,general_rate,0.0%) 0 (0.0%) 11 (36.7%) 4 (13.3%) 12 (40.0%) 0 (0.0%) 14 (46.7%) 250+ ict 6 (20.0%) 14 (46.7%) 0 (...,ICT sector data - preserved,0.95
+6648,0.0,percentage,2024,general_rate,%) 14 (46.7%) 250+ ict 6 (20.0%) 14 (46.7%) 0 (0.0%) 10 (33.3%) 5 (16.7%) 17 (56.7%) 0 (0.0%) 8 (26....,ICT sector data - preserved,0.95
+6651,0.0,percentage,2024,general_rate,3.3%) 3 (10.0%) 8 (26.7%) 5 (16.7%) 15 (50.0%) 0 (0.0%) 10 (33.3%) 250+ ict 8 (26.7%) 17 (56.7%) 0 (...,ICT sector data - preserved,0.95
+6652,0.0,percentage,2024,general_rate,%) 10 (33.3%) 250+ ict 8 (26.7%) 17 (56.7%) 0 (0.0%) 5 (16.7%) 8 (26.7%) 12 (40.0%) 2 (6.7%) 8 (26.7...,ICT sector data - preserved,0.95
+6654,0.0,percentage,2024,general_rate,ry helpful can 50-249 ict 6 (20.0%) 11 (36.7%) 0 (0.0%) 13 (43.3%) 1 (3.3%) 18 (60.0%) 0 (0.0%) 11 (...,ICT sector data - preserved,0.95
+6657,0.0,percentage,2024,general_rate,lpful (6.7%) (43.3%) (0.0%) (50.0%) (10.0%) (46.7%) (0.0%) (43.3%) (20.0%) (30.0%) (0.0%) (50.0%) 25...,ICT sector data - preserved,0.95
+6658,0.0,percentage,2024,general_rate,.0%) (10.0%) (46.7%) (0.0%) (43.3%) (20.0%) (30.0%) (0.0%) (50.0%) 250+ ict 3 (10.0%) 16 (53.3%) 1 (...,ICT sector data - preserved,0.95
+6665,0.0,percentage,2024,general_rate,9 (30.0%) fra 50-249 ict 6 (20.0%) 10 (33.3%) 0 (0.0%) 14 (46.7%) 4 (13.3%) 16 (53.3%) 0 (0.0%) 10 (...,ICT sector data - preserved,0.95
+6671,0.0,percentage,2024,general_rate,63.3%) 0 (0.0%) 13 (43.3%) 0 (0.0%) 17 (56.7%) 0 (0.0%) 19 (63.3%) 0 (0.0%) 11 (36.7%) 250+ ict 4 (1...,ICT sector data - preserved,0.95
+6672,0.0,percentage,2024,general_rate,43.3%) 0 (0.0%) 17 (56.7%) 0 (0.0%) 19 (63.3%) 0 (0.0%) 11 (36.7%) 250+ ict 4 (13.3%) 14 (46.7%) 0 (...,ICT sector data - preserved,0.95
+6673,0.0,percentage,2024,general_rate,%) 11 (36.7%) 250+ ict 4 (13.3%) 14 (46.7%) 0 (0.0%) 12 (40.0%) 4 (13.3%) 14 (46.7%) 0 (0.0%) 12 (40...,ICT sector data - preserved,0.95
+6677,0.0,percentage,2024,general_rate,11 (36.7%) gbr 50-249 ict 7 (23.3%) 14 (46.7%) 0 (0.0%) 9 (30.0%) 5 (16.7%) 13 (43.3%) 0 (0.0%) 12 (...,ICT sector data - preserved,0.95
+6683,0.0,percentage,2024,general_rate,3.3%) 0 (0.0%) 14 (46.7%) 4 (13.3%) 11 (36.7%) 0 (0.0%) 15 (50.0%) 250+ ict 4 (13.3%) 15 (50.0%) 0 (...,ICT sector data - preserved,0.95
+6684,0.0,percentage,2024,general_rate,%) 15 (50.0%) 250+ ict 4 (13.3%) 15 (50.0%) 0 (0.0%) 11 (36.7%) 5 (16.7%) 16 (53.3%) 0 (0.0%) 9 (30....,ICT sector data - preserved,0.95
+6688,0.0,percentage,2024,general_rate,6.7%) 0 (0.0%) 11 (36.7%) 5 (16.7%) 13 (43.3%) 0 (0.0%) 12 (40.0%) ita 50-249 ict 5 (16.7%) 16 (53.3...,ICT sector data - preserved,0.95
+6690,0.0,percentage,2024,general_rate,6.7%) 1 (3.3%) 16 (53.3%) 7 (23.3%) 17 (56.7%) 0 (0.0%) 6 (20.0%) 250+ ict 7 (23.3%) 16 (53.3%) 0 (0...,ICT sector data - preserved,0.95
+6691,0.0,percentage,2024,general_rate,0%) 6 (20.0%) 250+ ict 7 (23.3%) 16 (53.3%) 0 (0.0%) 7 (23.3%) 5 (16.7%) 12 (40.0%) 0 (0.0%) 13 (43....,ICT sector data - preserved,0.95
+6693,0.0,percentage,2024,general_rate,6.7%) 1 (3.3%) 19 (63.3%) 7 (23.3%) 13 (43.3%) 0 (0.0%) 10 (33.3%) jpn 50-249 ict 10 (33.3%) 15 (50....,ICT sector data - preserved,0.95
+6696,0.0,percentage,2024,general_rate,36.7%) 0 (0.0%) 16 (53.3%) 2 (6.7%) 20 (66.7%) 0 (0.0%) 8 (26.7%) 250+ ict 5 (16.7%) 17 (56.7%) 0 (0...,ICT sector data - preserved,0.95
+6697,0.0,percentage,2024,general_rate,0%) 8 (26.7%) 250+ ict 5 (16.7%) 17 (56.7%) 0 (0.0%) 8 (26.7%) 7 (23.3%) 9 (30.0%) 1 (3.3%) 13 (43.3...,ICT sector data - preserved,0.95
+6700,0.0,percentage,2024,general_rate,y helpful can 50-249 ict 10 (33.3%) 11 (36.7%) 0 (0.0%) 9 (30.0%) 2 (6.7%) 19 (63.3%) 2 (6.7%) 7 (23...,ICT sector data - preserved,0.95
+6703,0.0,percentage,2024,general_rate,6.7%) 1 (3.3%) 10 (33.3%) 3 (10.0%) 18 (60.0%) 0 (0.0%) 9 (30.0%) 250+ ict 8 (26.7%) 13 (43.3%) 2 (6...,ICT sector data - preserved,0.95
+6708,0.0,percentage,2024,general_rate,6.7%) 0 (0.0%) 11 (36.7%) 5 (16.7%) 15 (50.0%) 0 (0.0%) 10 (33.3%) 250+ ict 9 (30.0%) 11 (36.7%) 0 (...,ICT sector data - preserved,0.95
+6709,0.0,percentage,2024,general_rate,%) 10 (33.3%) 250+ ict 9 (30.0%) 11 (36.7%) 0 (0.0%) 10 (33.3%) 5 (16.7%) 16 (53.3%) 0 (0.0%) 9 (30....,ICT sector data - preserved,0.95
+6712,0.0,percentage,2024,general_rate,8 (26.7%) fra 50-249 ict 8 (26.7%) 12 (40.0%) 0 (0.0%) 10 (33.3%) 6 (20.0%) 13 (43.3%) 0 (0.0%) 11 (...,ICT sector data - preserved,0.95
+6716,0.0,percentage,2024,general_rate,40.0%) 0 (0.0%) 16 (53.3%) 1 (3.3%) 14 (46.7%) 0 (0.0%) 15 (50.0%) 250+ ict 6 (20.0%) 11 (36.7%) 1 (...,ICT sector data - preserved,0.95
+6717,0.0,percentage,2024,general_rate,16 (53.3%) gbr 50-249 ict 6 (20.0%) 13 (43.3%) 0 (0.0%) 11 (36.7%) 6 (20.0%) 13 (43.3%) 1 (3.3%) 10 ...,ICT sector data - preserved,0.95
+6722,0.0,percentage,2024,general_rate,3.3%) 1 (3.3%) 10 (33.3%) 6 (20.0%) 11 (36.7%) 0 (0.0%) 13 (43.3%) 250+ ict 5 (16.7%) 14 (46.7%) 0 (...,ICT sector data - preserved,0.95
+6723,0.0,percentage,2024,general_rate,%) 13 (43.3%) 250+ ict 5 (16.7%) 14 (46.7%) 0 (0.0%) 11 (36.7%) 7 (23.3%) 15 (50.0%) 2 (6.7%) 6 (20....,ICT sector data - preserved,0.95
+6729,0.0,percentage,2024,general_rate,46.7%) 0 (0.0%) 10 (33.3%) 2 (6.7%) 11 (36.7%) 0 (0.0%) 17 (56.7%) 250+ ict 6 (20.0%) 15 (50.0%) 0 (...,ICT sector data - preserved,0.95
+6730,0.0,percentage,2024,general_rate,%) 17 (56.7%) 250+ ict 6 (20.0%) 15 (50.0%) 0 (0.0%) 9 (30.0%) 7 (23.3%) 12 (40.0%) 1 (3.3%) 10 (33....,ICT sector data - preserved,0.95
+6732,0.0,percentage,2024,general_rate,50-249 ict 2 (6.7%) 28 (93.3%) manufacturing 0 (0.0%) 30 (100.0%) 250+ ict 0 (0.0%) 30 (100.0%) m,ICT sector data - preserved,0.95
+6733,0.0,percentage,2024,general_rate,manufacturing 0 (0.0%) 30 (100.0%) 250+ ict 0 (0.0%) 30 (100.0%) manufacturing 7 (23.3%) 23 (76.7%),ICT sector data - preserved,0.95
+6734,0.0,percentage,2024,general_rate,ree strongly disagree can 50-249 ict 10 (33.3%) 0 (0.0%) 20 (66.7%) 0 (0.0%) 13 (43.3%) 5 (16.7%) 11...,ICT sector data - preserved,0.95
+6735,0.0,percentage,2024,general_rate,can 50-249 ict 10 (33.3%) 0 (0.0%) 20 (66.7%) 0 (0.0%) 13 (43.3%) 5 (16.7%) 11 (36.7%) 1 (3.3%) 15 (...,ICT sector data - preserved,0.95
+6740,0.0,percentage,2024,general_rate,0.0%) 0 (0.0%) 14 (46.7%) 3 (10.0%) 13 (43.3%) 0 (0.0%) 250+ ict 8 (26.7%) 0 (0.0%) 22 (73.3%) 0 (0....,ICT sector data - preserved,0.95
+6741,0.0,percentage,2024,general_rate,.0%) 13 (43.3%) 0 (0.0%) 250+ ict 8 (26.7%) 0 (0.0%) 22 (73.3%) 0 (0.0%) 15 (50.0%) 3 (10.0%) 12 (40...,ICT sector data - preserved,0.95
+6742,0.0,percentage,2024,general_rate,.0%) 250+ ict 8 (26.7%) 0 (0.0%) 22 (73.3%) 0 (0.0%) 15 (50.0%) 3 (10.0%) 12 (40.0%) 0 (0.0%) 16 (53...,ICT sector data - preserved,0.95
+6746,0.0,percentage,2024,general_rate,.0%) 4 (13.3%) 11 (36.7%) 8 (26.7%) 11 (36.7%) 0 (0.0%) deu 50-249 ict 15 (50.0%) 0 (0.0%) 15 (50.0%...,ICT sector data - preserved,0.95
+6747,0.0,percentage,2024,general_rate,11 (36.7%) 0 (0.0%) deu 50-249 ict 15 (50.0%) 0 (0.0%) 15 (50.0%) 0 (0.0%) 16 (53.3%) 1 (3.3%) 13 (4...,ICT sector data - preserved,0.95
+6748,0.0,percentage,2024,general_rate,deu 50-249 ict 15 (50.0%) 0 (0.0%) 15 (50.0%) 0 (0.0%) 16 (53.3%) 1 (3.3%) 13 (43.3%) 0 (0.0%) 16 (5...,ICT sector data - preserved,0.95
+6753,0.0,percentage,2024,general_rate,53.3%) 0 (0.0%) 18 (60.0%) 3 (10.0%) 9 (30.0%) 0 (0.0%) 250+ ict 11 (36.7%) 1 (3.3%) 18 (60.0%) 0 (0...,ICT sector data - preserved,0.95
+6754,0.0,percentage,2024,general_rate,0%) 250+ ict 11 (36.7%) 1 (3.3%) 18 (60.0%) 0 (0.0%) 13 (43.3%) 6 (20.0%) 11 (36.7%) 0 (0.0%) 16 (53...,ICT sector data - preserved,0.95
+6758,0.0,percentage,2024,general_rate,20.0%) 1 (3.3%) 17 (56.7%) 5 (16.7%) 8 (26.7%) 0 (0.0%) fra 50-249 ict 7 (23.3%) 3 (10.0%) 20 (66.7%...,ICT sector data - preserved,0.95
+6759,0.0,percentage,2024,general_rate,fra 50-249 ict 7 (23.3%) 3 (10.0%) 20 (66.7%) 0 (0.0%) 11 (36.7%) 4 (13.3%) 13 (43.3%) 2 (6.7%) 14 (...,ICT sector data - preserved,0.95
+6764,0.0,percentage,2024,general_rate,40.0%) 0 (0.0%) 10 (33.3%) 2 (6.7%) 18 (60.0%) 0 (0.0%) 250+ ict 5 (16.7%) 0 (0.0%) 25 (83.3%) 0 (0....,ICT sector data - preserved,0.95
+6765,0.0,percentage,2024,general_rate,.7%) 18 (60.0%) 0 (0.0%) 250+ ict 5 (16.7%) 0 (0.0%) 25 (83.3%) 0 (0.0%) 14 (46.7%) 2 (6.7%) 14 (46....,ICT sector data - preserved,0.95
+6766,0.0,percentage,2024,general_rate,.0%) 250+ ict 5 (16.7%) 0 (0.0%) 25 (83.3%) 0 (0.0%) 14 (46.7%) 2 (6.7%) 14 (46.7%) 0 (0.0%) 16 (53....,ICT sector data - preserved,0.95
+6770,0.0,percentage,2024,general_rate,gbr 50-249 ict 13 (43.3%) 1 (3.3%) 16 (53.3%) 0 (0.0%) 14 (46.7%) 7 (23.3%) 9 (30.0%) 0 (0.0%) 15 (5...,ICT sector data - preserved,0.95
+6776,0.0,percentage,2024,general_rate,36.7%) 1 (3.3%) 11 (36.7%) 2 (6.7%) 17 (56.7%) 0 (0.0%) 250+ ict 5 (16.7%) 1 (3.3%) 24 (80.0%) 0 (0....,ICT sector data - preserved,0.95
+6777,0.0,percentage,2024,general_rate,.0%) 250+ ict 5 (16.7%) 1 (3.3%) 24 (80.0%) 0 (0.0%) 14 (46.7%) 6 (20.0%) 10 (33.3%) 0 (0.0%) 14 (46...,ICT sector data - preserved,0.95
+6783,0.0,percentage,2024,general_rate,40.0%) 0 (0.0%) 17 (56.7%) 1 (3.3%) 12 (40.0%) 0 (0.0%) ita 50-249 ict 18 (60.0%) 2 (6.7%) 10 (33.3%...,ICT sector data - preserved,0.95
+6784,0.0,percentage,2024,general_rate,ita 50-249 ict 18 (60.0%) 2 (6.7%) 10 (33.3%) 0 (0.0%) 10 (33.3%) 6 (20.0%) 14 (46.7%) 0 (0.0%) 15 (...,ICT sector data - preserved,0.95
+6789,0.0,percentage,2024,general_rate,0.0%) 0 (0.0%) 13 (43.3%) 5 (16.7%) 12 (40.0%) 0 (0.0%) 250+ ict 7 (23.3%) 1 (3.3%) 22 (73.3%) 0 (0....,ICT sector data - preserved,0.95
+6790,0.0,percentage,2024,general_rate,.0%) 250+ ict 7 (23.3%) 1 (3.3%) 22 (73.3%) 0 (0.0%) 17 (56.7%) 5 (16.7%) 8 (26.7%) 0 (0.0%) 14 (46....,ICT sector data - preserved,0.95
+6796,0.0,percentage,2024,general_rate,0.0%) 0 (0.0%) 14 (46.7%) 4 (13.3%) 12 (40.0%) 0 (0.0%) jpn 50-249 ict 7 (23.3%) 3 (10.0%) 20 (66.7%...,ICT sector data - preserved,0.95
+6797,0.0,percentage,2024,general_rate,jpn 50-249 ict 7 (23.3%) 3 (10.0%) 20 (66.7%) 0 (0.0%) 9 (30.0%) 6 (20.0%) 15 (50.0%) 0 (0.0%) 24 (8...,ICT sector data - preserved,0.95
+6803,0.0,percentage,2024,general_rate,36.7%) 0 (0.0%) 15 (50.0%) 2 (6.7%) 13 (43.3%) 0 (0.0%) 250+ ict 11 (36.7%) 1 (3.3%) 18 (60.0%) 0 (0...,ICT sector data - preserved,0.95
+6804,0.0,percentage,2024,general_rate,0%) 250+ ict 11 (36.7%) 1 (3.3%) 18 (60.0%) 0 (0.0%) 15 (50.0%) 7 (23.3%) 7 (23.3%) 1 (3.3%) 17 (56....,ICT sector data - preserved,0.95
+6809,0.0,percentage,2024,general_rate,20.0%) 0 (0.0%) 17 (56.7%) 2 (6.7%) 11 (36.7%) 0 (0.0%) usa 50-249 ict 6 (20.0%) 0 (0.0%) 24 (80.0%)...,ICT sector data - preserved,0.95
+6810,0.0,percentage,2024,general_rate,11 (36.7%) 0 (0.0%) usa 50-249 ict 6 (20.0%) 0 (0.0%) 24 (80.0%) 0 (0.0%) 12 (40.0%) 6 (20.0%) 10 (3...,ICT sector data - preserved,0.95
+6811,0.0,percentage,2024,general_rate,usa 50-249 ict 6 (20.0%) 0 (0.0%) 24 (80.0%) 0 (0.0%) 12 (40.0%) 6 (20.0%) 10 (33.3%) 2 (6.7%) 14 (4...,ICT sector data - preserved,0.95
+6814,0.0,percentage,2024,general_rate,23.3%) 1 (3.3%) 17 (56.7%) 5 (16.7%) 8 (26.7%) 0 (0.0%) 250+ ict 7 (23.3%) 0 (0.0%) 23 (76.7%) 0 (0....,ICT sector data - preserved,0.95
+6815,0.0,percentage,2024,general_rate,6.7%) 8 (26.7%) 0 (0.0%) 250+ ict 7 (23.3%) 0 (0.0%) 23 (76.7%) 0 (0.0%) 17 (56.7%) 5 (16.7%) 8 (26....,ICT sector data - preserved,0.95
+6816,0.0,percentage,2024,general_rate,.0%) 250+ ict 7 (23.3%) 0 (0.0%) 23 (76.7%) 0 (0.0%) 17 (56.7%) 5 (16.7%) 8 (26.7%) 0 (0.0%) 14 (46....,ICT sector data - preserved,0.95
+6823,0.0,percentage,2024,general_rate,he enterprise does not spend on r&d can 50-249 ict 0 (0.0%) 14 (46.7%) 12 (40.0%) 0 (0.0%) 4 (13.3%)...,ICT sector data - preserved,0.95
+6824,0.0,percentage,2024,general_rate,r&d can 50-249 ict 0 (0.0%) 14 (46.7%) 12 (40.0%) 0 (0.0%) 4 (13.3%) 0 (0.0%) manufacturing 0 (0.0%)...,ICT sector data - preserved,0.95
+6827,0.0,percentage,2024,general_rate,manufacturing 0 (0.0%) 15 (50.0%) 12 (40.0%) 0 (0.0%) 3 (10.0%) 0 (0.0%) 250+ ict 0 (0.0%) 16 (53.3%...,ICT sector data - preserved,0.95
+6828,0.0,percentage,2024,general_rate,0 (0.0%) 15 (50.0%) 12 (40.0%) 0 (0.0%) 3 (10.0%) 0 (0.0%) 250+ ict 0 (0.0%) 16 (53.3%) 11 (36.7%) 1...,ICT sector data - preserved,0.95
+6829,0.0,percentage,2024,general_rate,12 (40.0%) 0 (0.0%) 3 (10.0%) 0 (0.0%) 250+ ict 0 (0.0%) 16 (53.3%) 11 (36.7%) 1 (3.3%) 1 (3.3%) 1 (...,ICT sector data - preserved,0.95
+6831,0.0,percentage,2024,general_rate,) manufacturing 0 (0.0%) 21 (70.0%) 8 (26.7%) 0 (0.0%) 1 (3.3%) 0 (0.0%) deu 50-249 ict 0 (0.0%) 8 (...,ICT sector data - preserved,0.95
+6832,0.0,percentage,2024,general_rate,ng 0 (0.0%) 21 (70.0%) 8 (26.7%) 0 (0.0%) 1 (3.3%) 0 (0.0%) deu 50-249 ict 0 (0.0%) 8 (26.7%) 15 (50...,ICT sector data - preserved,0.95
+6833,0.0,percentage,2024,general_rate,(26.7%) 0 (0.0%) 1 (3.3%) 0 (0.0%) deu 50-249 ict 0 (0.0%) 8 (26.7%) 15 (50.0%) 0 (0.0%) 7 (23.3%) 0...,ICT sector data - preserved,0.95
+6834,0.0,percentage,2024,general_rate,.0%) deu 50-249 ict 0 (0.0%) 8 (26.7%) 15 (50.0%) 0 (0.0%) 7 (23.3%) 0 (0.0%) manufacturing 0 (0.0%)...,ICT sector data - preserved,0.95
+6837,0.0,percentage,2024,general_rate,) manufacturing 0 (0.0%) 19 (63.3%) 9 (30.0%) 0 (0.0%) 2 (6.7%) 0 (0.0%) 250+ ict 0 (0.0%) 11 (36.7%...,ICT sector data - preserved,0.95
+6838,0.0,percentage,2024,general_rate,ng 0 (0.0%) 19 (63.3%) 9 (30.0%) 0 (0.0%) 2 (6.7%) 0 (0.0%) 250+ ict 0 (0.0%) 11 (36.7%) 15 (50.0%) ...,ICT sector data - preserved,0.95
+6839,0.0,percentage,2024,general_rate,9 (30.0%) 0 (0.0%) 2 (6.7%) 0 (0.0%) 250+ ict 0 (0.0%) 11 (36.7%) 15 (50.0%) 0 (0.0%) 4 (13.3%) 0 (0...,ICT sector data - preserved,0.95
+6840,0.0,percentage,2024,general_rate,(0.0%) 250+ ict 0 (0.0%) 11 (36.7%) 15 (50.0%) 0 (0.0%) 4 (13.3%) 0 (0.0%) manufacturing 2 (6.7%) 22...,ICT sector data - preserved,0.95
+6842,0.0,percentage,2024,general_rate,ng 2 (6.7%) 22 (73.3%) 3 (10.0%) 2 (6.7%) 1 (3.3%) 0 (0.0%) fra 50-249 ict 0 (0.0%) 7 (23.3%) 16 (53...,ICT sector data - preserved,0.95
+6843,0.0,percentage,2024,general_rate,(10.0%) 2 (6.7%) 1 (3.3%) 0 (0.0%) fra 50-249 ict 0 (0.0%) 7 (23.3%) 16 (53.3%) 0 (0.0%) 7 (23.3%) 0...,ICT sector data - preserved,0.95
+6844,0.0,percentage,2024,general_rate,.0%) fra 50-249 ict 0 (0.0%) 7 (23.3%) 16 (53.3%) 0 (0.0%) 7 (23.3%) 0 (0.0%) manufacturing 0 (0.0%)...,ICT sector data - preserved,0.95
+6847,0.0,percentage,2024,general_rate,) manufacturing 0 (0.0%) 9 (30.0%) 15 (50.0%) 0 (0.0%) 6 (20.0%) 0 (0.0%) 250+ ict 0 (0.0%) 13 (43.3...,ICT sector data - preserved,0.95
+6848,0.0,percentage,2024,general_rate,g 0 (0.0%) 9 (30.0%) 15 (50.0%) 0 (0.0%) 6 (20.0%) 0 (0.0%) 250+ ict 0 (0.0%) 13 (43.3%) 14 (46.7%) ...,ICT sector data - preserved,0.95
+6849,0.0,percentage,2024,general_rate,15 (50.0%) 0 (0.0%) 6 (20.0%) 0 (0.0%) 250+ ict 0 (0.0%) 13 (43.3%) 14 (46.7%) 2 (6.7%) 1 (3.3%) 0 (...,ICT sector data - preserved,0.95
+6852,0.0,percentage,2024,general_rate,ufacturing 0 (0.0%) 16 (53.3%) 11 (36.7%) 3 (10.0%) 0 (0.0%) 0 (0.0%) gbr 50-249 ict 0 (0.0%) 18 (60...,ICT sector data - preserved,0.95
+6853,0.0,percentage,2024,general_rate,0 (0.0%) 16 (53.3%) 11 (36.7%) 3 (10.0%) 0 (0.0%) 0 (0.0%) gbr 50-249 ict 0 (0.0%) 18 (60.0%) 10 (33...,ICT sector data - preserved,0.95
+6854,0.0,percentage,2024,general_rate,36.7%) 3 (10.0%) 0 (0.0%) 0 (0.0%) gbr 50-249 ict 0 (0.0%) 18 (60.0%) 10 (33.3%) 0 (0.0%) 2 (6.7%) 0...,ICT sector data - preserved,0.95
+6855,0.0,percentage,2024,general_rate,0%) gbr 50-249 ict 0 (0.0%) 18 (60.0%) 10 (33.3%) 0 (0.0%) 2 (6.7%) 0 (0.0%) manufacturing 0 (0.0%) ...,ICT sector data - preserved,0.95
+6858,0.0,percentage,2024,general_rate,g 0 (0.0%) 16 (53.3%) 6 (20.0%) 1 (3.3%) 7 (23.3%) 0 (0.0%) 250+ ict 0 (0.0%) 12 (40.0%) 12 (40.0%) ...,ICT sector data - preserved,0.95
+6859,0.0,percentage,2024,general_rate,6 (20.0%) 1 (3.3%) 7 (23.3%) 0 (0.0%) 250+ ict 0 (0.0%) 12 (40.0%) 12 (40.0%) 1 (3.3%) 2 (6.7%) 3 (1...,ICT sector data - preserved,0.95
+6860,0.0,percentage,2024,general_rate,ng 1 (3.3%) 20 (66.7%) 6 (20.0%) 2 (6.7%) 1 (3.3%) 0 (0.0%) ita 50-249 ict 0 (0.0%) 15 (50.0%) 14 (4...,ICT sector data - preserved,0.95
+6861,0.0,percentage,2024,general_rate,(20.0%) 2 (6.7%) 1 (3.3%) 0 (0.0%) ita 50-249 ict 0 (0.0%) 15 (50.0%) 14 (46.7%) 0 (0.0%) 1 (3.3%) 0...,ICT sector data - preserved,0.95
+6862,0.0,percentage,2024,general_rate,0%) ita 50-249 ict 0 (0.0%) 15 (50.0%) 14 (46.7%) 0 (0.0%) 1 (3.3%) 0 (0.0%) manufacturing 0 (0.0%) ...,ICT sector data - preserved,0.95
+6865,0.0,percentage,2024,general_rate,manufacturing 0 (0.0%) 19 (63.3%) 10 (33.3%) 0 (0.0%) 1 (3.3%) 0 (0.0%) 250+ ict 0 (0.0%) 15 (50.0%)...,ICT sector data - preserved,0.95
+6866,0.0,percentage,2024,general_rate,g 0 (0.0%) 19 (63.3%) 10 (33.3%) 0 (0.0%) 1 (3.3%) 0 (0.0%) 250+ ict 0 (0.0%) 15 (50.0%) 13 (43.3%) ...,ICT sector data - preserved,0.95
+6867,0.0,percentage,2024,general_rate,10 (33.3%) 0 (0.0%) 1 (3.3%) 0 (0.0%) 250+ ict 0 (0.0%) 15 (50.0%) 13 (43.3%) 0 (0.0%) 2 (6.7%) 0 (0...,ICT sector data - preserved,0.95
+6868,0.0,percentage,2024,general_rate,(0.0%) 250+ ict 0 (0.0%) 15 (50.0%) 13 (43.3%) 0 (0.0%) 2 (6.7%) 0 (0.0%) manufacturing 0 (0.0%) 23 ...,ICT sector data - preserved,0.95
+6871,0.0,percentage,2024,general_rate,anufacturing 0 (0.0%) 23 (76.7%) 6 (20.0%) 1 (3.3%) 0 (0.0%) 0 (0.0%) jpn 50-249 ict 0 (0.0%) 9 (30....,ICT sector data - preserved,0.95
+6872,0.0,percentage,2024,general_rate,ng 0 (0.0%) 23 (76.7%) 6 (20.0%) 1 (3.3%) 0 (0.0%) 0 (0.0%) jpn 50-249 ict 0 (0.0%) 9 (30.0%) 16 (53...,ICT sector data - preserved,0.95
+6873,0.0,percentage,2024,general_rate,(20.0%) 1 (3.3%) 0 (0.0%) 0 (0.0%) jpn 50-249 ict 0 (0.0%) 9 (30.0%) 16 (53.3%) 0 (0.0%) 5 (16.7%) 0...,ICT sector data - preserved,0.95
+6874,0.0,percentage,2024,general_rate,.0%) jpn 50-249 ict 0 (0.0%) 9 (30.0%) 16 (53.3%) 0 (0.0%) 5 (16.7%) 0 (0.0%) manufacturing 0 (0.0%)...,ICT sector data - preserved,0.95
+6877,0.0,percentage,2024,general_rate,manufacturing 0 (0.0%) 11 (36.7%) 18 (60.0%) 0 (0.0%) 1 (3.3%) 0 (0.0%) 250+ ict 0 (0.0%) 17 (56.7%)...,ICT sector data - preserved,0.95
+6878,0.0,percentage,2024,general_rate,g 0 (0.0%) 11 (36.7%) 18 (60.0%) 0 (0.0%) 1 (3.3%) 0 (0.0%) 250+ ict 0 (0.0%) 17 (56.7%) 12 (40.0%) ...,ICT sector data - preserved,0.95
+6879,0.0,percentage,2024,general_rate,18 (60.0%) 0 (0.0%) 1 (3.3%) 0 (0.0%) 250+ ict 0 (0.0%) 17 (56.7%) 12 (40.0%) 0 (0.0%) 1 (3.3%) 0 (0...,ICT sector data - preserved,0.95
+6880,0.0,percentage,2024,general_rate,(0.0%) 250+ ict 0 (0.0%) 17 (56.7%) 12 (40.0%) 0 (0.0%) 1 (3.3%) 0 (0.0%) 188  the adoption of arti...,ICT sector data - preserved,0.95
+6884,0.0,percentage,2024,general_rate,nufacturing 0 (0.0%) 15 (50.0%) 13 (43.3%) 1 (3.3%) 0 (0.0%) 1 (3.3%) usa 50-249 ict 1 (3.3%) 16 (53...,ICT sector data - preserved,0.95
+6885,0.0,percentage,2024,general_rate,.3%) usa 50-249 ict 1 (3.3%) 16 (53.3%) 8 (26.7%) 0 (0.0%) 5 (16.7%) 0 (0.0%) manufacturing 0 (0.0%)...,ICT sector data - preserved,0.95
+6888,0.0,percentage,2024,general_rate,g 0 (0.0%) 14 (46.7%) 13 (43.3%) 1 (3.3%) 2 (6.7%) 0 (0.0%) 250+ ict 0 (0.0%) 19 (63.3%) 5 (16.7%) 4...,ICT sector data - preserved,0.95
+6889,0.0,percentage,2024,general_rate,13 (43.3%) 1 (3.3%) 2 (6.7%) 0 (0.0%) 250+ ict 0 (0.0%) 19 (63.3%) 5 (16.7%) 4 (13.3%) 2 (6.7%) 0 (0...,ICT sector data - preserved,0.95
+10628,1.9,percentage,2017,general_rate,r of survey) country manufacturing ict source canada 1.9% 20.4% statistics canada (2017) germany 2.2...,ICT sector data - preserved,0.95
+10629,20.4,percentage,2017,general_rate,survey) country manufacturing ict source canada 1.9% 20.4% statistics canada (2017) germany 2.2-11.0...,ICT sector data - preserved,0.95
+10643,70.0,percentage,2024,general_rate,opt and develop ai. most use several mechanisms. more than 70% of enterprises in both manufacturing ...,ICT sector data - preserved,0.95
+10651,0.0,percentage,2024,general_rate,important considerations can 50-249 ict 19 (63.3%) 0 (0.0%) 11 (36.7%) manufacturing 22 (73.3%) 2 (6...,ICT sector data - preserved,0.95
+10652,0.0,percentage,2024,general_rate,%) 9 (30.0%) 12 (40.0%) deu 50-249 ict 17 (56.7%) 0 (0.0%) 13 (43.3%) manufacturing 13 (43.3%) 4 (13...,ICT sector data - preserved,0.95
+10653,0.0,percentage,2024,general_rate,%) 6 (20.0%) 20 (66.7%) fra 50-249 ict 21 (70.0%) 0 (0.0%) 9 (30.0%) manufacturing 26 (86.7%) 0 (0.0...,ICT sector data - preserved,0.95
+10654,0.0,percentage,2024,general_rate,%) 0 (0.0%) 9 (30.0%) manufacturing 26 (86.7%) 0 (0.0%) 4 (13.3%) 250+ ict 18 (60.0%) 0 (0.0%) 12 (4...,ICT sector data - preserved,0.95
+10655,0.0,percentage,2024,general_rate,(86.7%) 0 (0.0%) 4 (13.3%) 250+ ict 18 (60.0%) 0 (0.0%) 12 (40.0%) manufacturing 15 (50.0%) 1 (3.3%)...,ICT sector data - preserved,0.95
+10656,0.0,percentage,2024,general_rate,(60.0%) 5 (16.7%) 7 (23.3%) 250+ ict 16 (53.3%) 0 (0.0%) 14 (46.7%) manufacturing 8 (26.7%) 3 (10.0%...,ICT sector data - preserved,0.95
+10657,0.0,percentage,2024,general_rate,%) 3 (10.0%) 19 (63.3%) ita 50-249 ict 14 (46.7%) 0 (0.0%) 16 (53.3%) manufacturing 10 (33.3%) 8 (26...,ICT sector data - preserved,0.95
+10658,0.0,percentage,2024,general_rate,%) 6 (20.0%) 15 (50.0%) jpn 50-249 ict 19 (63.3%) 0 (0.0%) 11 (36.7%) manufacturing 22 (73.3%) 3 (10...,ICT sector data - preserved,0.95
+10659,0.0,percentage,2024,general_rate,(73.3%) 3 (10.0%) 5 (16.7%) 250+ ict 25 (83.3%) 0 (0.0%) 5 (16.7%) manufacturing 17 (56.7%) 1 (3.3%)...,ICT sector data - preserved,0.95
+10660,0.0,percentage,2024,general_rate,7%) 1 (3.3%) 12 (40.0%) usa 50-249 ict 19 (63.3%) 0 (0.0%) 11 (36.7%) manufacturing 9 (30.0%) 8 (26....,ICT sector data - preserved,0.95
+10661,0.0,percentage,2020,general_rate,2000- 2010 2010- 2020 after 2020 can 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.7%) 3 (10.0%) 4 (13....,ICT sector data - preserved,0.95
+10662,0.0,percentage,2020,general_rate,2010- 2020 after 2020 can 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.7%) 3 (10.0%) 4 (13.3%) 13 (43....,ICT sector data - preserved,0.95
+10663,0.0,percentage,2020,general_rate,after 2020 can 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.7%) 3 (10.0%) 4 (13.3%) 13 (43.3%) 8 (26.7,ICT sector data - preserved,0.95
+10667,0.0,percentage,2024,general_rate,3.3%) 0 (0.0%) 7 (23.3%) 8 (26.7%) 12 (40.0%) 0 (0.0%) 250+ ict 1 (3.3%) 3 (10.0%) 0 (0.0%) 1 (3.,ICT sector data - preserved,0.95
+10668,0.0,percentage,2024,general_rate,.0%) 0 (0.0%) 250+ ict 1 (3.3%) 3 (10.0%) 0 (0.0%) 1 (3.3%) 2 (6.7%) 4 (13.3%) 13 (43.3%) 6 (20.0,ICT sector data - preserved,0.95
+10670,0.0,percentage,2024,general_rate,13.3%) 4 (13.3%) 9 (30.0%) 4 (13.3%) 2 (6.7%) 0 (0.0%) deu 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 0,ICT sector data - preserved,0.95
+10671,0.0,percentage,2024,general_rate,4 (13.3%) 2 (6.7%) 0 (0.0%) deu 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 1 (3.3%) 7 (23.3%,ICT sector data - preserved,0.95
+10672,0.0,percentage,2024,general_rate,2 (6.7%) 0 (0.0%) deu 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 1 (3.3%) 7 (23.3%) 15 (50.0,ICT sector data - preserved,0.95
+10673,0.0,percentage,2024,general_rate,0 (0.0%) deu 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 1 (3.3%) 7 (23.3%) 15 (50.0%) 7 (23.3,ICT sector data - preserved,0.95
+10674,0.0,percentage,2024,general_rate,deu 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 1 (3.3%) 7 (23.3%) 15 (50.0%) 7 (23.3%) 0 (0.0%,ICT sector data - preserved,0.95
+10678,0.0,percentage,2024,general_rate,.0%) 3 (10.0%) 1 (3.3%) 250+ ict 1 (3.3%) 0 (0.0%) 5 (16.7%) 1 (3.3%) 7 (23.3%) 6 (20.0%) 2 (6.7%,ICT sector data - preserved,0.95
+10679,0.0,percentage,2024,general_rate,(6.7%) 3 (10.0%) 3 (10.0%) 4 (13.3%) 2 (6.7%) 0 (0.0%) fra 50-249 ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 1,ICT sector data - preserved,0.95
+10680,0.0,percentage,2024,general_rate,4 (13.3%) 2 (6.7%) 0 (0.0%) fra 50-249 ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 1 (3.3%) 9 (30.0%) 7 (23.3%,ICT sector data - preserved,0.95
+10681,0.0,percentage,2024,general_rate,2 (6.7%) 0 (0.0%) fra 50-249 ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 1 (3.3%) 9 (30.0%) 7 (23.3%) 7 (23.3%,ICT sector data - preserved,0.95
+10686,0.0,percentage,2024,general_rate,0.0%) 1 (3.3%) 8 (26.7%) 8 (26.7%) 12 (40.0%) 0 (0.0%) 250+ ict 2 (6.7%) 0 (0.0%) 1 (3.3%) 1 (3.,ICT sector data - preserved,0.95
+10687,0.0,percentage,2024,general_rate,7%) 12 (40.0%) 0 (0.0%) 250+ ict 2 (6.7%) 0 (0.0%) 1 (3.3%) 1 (3.3%) 6 (20.0%) 6 (20.0%) 5 (16.7%,ICT sector data - preserved,0.95
+10689,0.0,percentage,2024,general_rate,4 (13.3%) 5 (16.7%) 2 (6.7%) gbr 50-249 ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 7 (23.3%) 4 (13.3%) 3 (10.0%,ICT sector data - preserved,0.95
+10690,0.0,percentage,2024,general_rate,5 (16.7%) 2 (6.7%) gbr 50-249 ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 7 (23.3%) 4 (13.3%) 3 (10.0%) 8 (26.7%,ICT sector data - preserved,0.95
+10692,0.0,percentage,2024,general_rate,0.0%) 1 (3.3%) 2 (6.7%) 4 (13.3%) 6 (20.0%) 0 (0.0%) 6 (20.0%) 7 (23.3%) 1 (3.3%) 250+ ict 5 (16.7,ICT sector data - preserved,0.95
+10693,0.0,percentage,2024,general_rate,.3%) 1 (3.3%) 250+ ict 5 (16.7%) 1 (3.3%) 0 (0.0%) 1 (3.3%) 7 (23.3%) 8 (26.7%) 3 (10.0%) 5 (16.7%,ICT sector data - preserved,0.95
+10695,0.0,percentage,2024,general_rate,10.0%) 4 (13.3%) 3 (10.0%) 2 (6.7%) 3 (10.0%) 0 (0.0%) ita 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2,ICT sector data - preserved,0.95
+10696,0.0,percentage,2024,general_rate,2 (6.7%) 3 (10.0%) 0 (0.0%) ita 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.7%) 2 (6.7%) 8 (26.7%,ICT sector data - preserved,0.95
+10697,0.0,percentage,2024,general_rate,3 (10.0%) 0 (0.0%) ita 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.7%) 2 (6.7%) 8 (26.7%) 11 (36.7,ICT sector data - preserved,0.95
+10698,0.0,percentage,2024,general_rate,0 (0.0%) ita 50-249 ict 0 (0.0%) 0 (0.0%) 0 (0.0%) 2 (6.7%) 2 (6.7%) 8 (26.7%) 11 (36.7%) 7 (23.3,ICT sector data - preserved,0.95
+10700,0.0,percentage,2024,general_rate,13.3%) 4 (13.3%) 5 (16.7%) 6 (20.0%) 3 (10.0%) 0 (0.0%) 250+ ict 1 (3.3%) 0 (0.0%) 0 (0.0%) 3 (10.,ICT sector data - preserved,0.95
+10701,0.0,percentage,2024,general_rate,.0%) 3 (10.0%) 0 (0.0%) 250+ ict 1 (3.3%) 0 (0.0%) 0 (0.0%) 3 (10.0%) 8 (26.7%) 9 (30.0%) 5 (16.7%,ICT sector data - preserved,0.95
+10702,0.0,percentage,2024,general_rate,.0%) 0 (0.0%) 250+ ict 1 (3.3%) 0 (0.0%) 0 (0.0%) 3 (10.0%) 8 (26.7%) 9 (30.0%) 5 (16.7%) 4 (13.3%,ICT sector data - preserved,0.95
+10704,0.0,percentage,2024,general_rate,3 (10.0%) 7 (23.3%) 1 (3.3%) jpn 50-249 ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 3 (10.0%) 4 (13.3%) 9 (30.0%,ICT sector data - preserved,0.95
+10705,0.0,percentage,2024,general_rate,7 (23.3%) 1 (3.3%) jpn 50-249 ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 3 (10.0%) 4 (13.3%) 9 (30.0%) 7 (23.3%,ICT sector data - preserved,0.95
+10709,0.0,percentage,2024,general_rate,3.3%) 2 (6.7%) 2 (6.7%) 12 (40.0%) 8 (26.7%) 0 (0.0%) 250+ ict 3 (10.0%) 1 (3.3%) 3 (10.0%) 4 (13.,ICT sector data - preserved,0.95
+10711,0.0,percentage,2024,general_rate,3.3%) 2 (6.7%) 1 (3.3%) 4 (13.3%) 4 (13.3%) 0 (0.0%) 0 (0.0%) usa 50-249 ict 0 (0.0%) 1 (3.3%) 0,ICT sector data - preserved,0.95
+10712,0.0,percentage,2024,general_rate,(6.7%) 1 (3.3%) 4 (13.3%) 4 (13.3%) 0 (0.0%) 0 (0.0%) usa 50-249 ict 0 (0.0%) 1 (3.3%) 0 (0.0%) 0,ICT sector data - preserved,0.95
+10713,0.0,percentage,2024,general_rate,4 (13.3%) 0 (0.0%) 0 (0.0%) usa 50-249 ict 0 (0.0%) 1 (3.3%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 4 (13.3%,ICT sector data - preserved,0.95
+10714,0.0,percentage,2024,general_rate,0 (0.0%) usa 50-249 ict 0 (0.0%) 1 (3.3%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 4 (13.3%) 5 (16.7%) 19 (63.3,ICT sector data - preserved,0.95
+10715,0.0,percentage,2024,general_rate,usa 50-249 ict 0 (0.0%) 1 (3.3%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 4 (13.3%) 5 (16.7%) 19 (63.3%) 1 (3.3%,ICT sector data - preserved,0.95
+10716,0.0,percentage,2024,general_rate,ict 0 (0.0%) 1 (3.3%) 0 (0.0%) 0 (0.0%) 0 (0.0%) 4 (13.3%) 5 (16.7%) 19 (63.3%) 1 (3.3%) manu,ICT sector data - preserved,0.95
+10720,0.0,percentage,2024,general_rate,7%) 7 (23.3%) 10 (33.3%) 1 (3.3%) 250+ ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 2 (6.7%) 3 (10.0%) 6 (20.0%,ICT sector data - preserved,0.95
+10721,0.0,percentage,2024,general_rate,3%) 10 (33.3%) 1 (3.3%) 250+ ict 0 (0.0%) 0 (0.0%) 1 (3.3%) 2 (6.7%) 3 (10.0%) 6 (20.0%) 6 (20.0%,ICT sector data - preserved,0.95
+10723,0.0,percentage,2024,general_rate,ar with this concept yes can 50-249 ict 7 (23.3%) 0 (0.0%) 23 (76.7%) manufacturing 5 (16.7%) 0 (0.0...,ICT sector data - preserved,0.95
+10724,0.0,percentage,2024,general_rate,%) 0 (0.0%) 23 (76.7%) manufacturing 5 (16.7%) 0 (0.0%) 25 (83.3%) 250+ ict 4 (13.3%) 0 (0.0%) 26 (8...,ICT sector data - preserved,0.95
+10725,0.0,percentage,2024,general_rate,(16.7%) 0 (0.0%) 25 (83.3%) 250+ ict 4 (13.3%) 0 (0.0%) 26 (86.7%) manufacturing 15 (50.0%) 0 (0.0%)...,ICT sector data - preserved,0.95
+10726,0.0,percentage,2024,general_rate,) 0 (0.0%) 26 (86.7%) manufacturing 15 (50.0%) 0 (0.0%) 15 (50.0%) deu 50-249 ict 2 (6.7%) 0 (0.0%) ...,ICT sector data - preserved,0.95
+10727,0.0,percentage,2024,general_rate,0.0%) 0 (0.0%) 15 (50.0%) deu 50-249 ict 2 (6.7%) 0 (0.0%) 28 (93.3%) manufacturing 14 (46.7%) 0 (0....,ICT sector data - preserved,0.95
+10728,0.0,percentage,2024,general_rate,) 0 (0.0%) 28 (93.3%) manufacturing 14 (46.7%) 0 (0.0%) 16 (53.3%) 250+ ict 2 (6.7%) 0 (0.0%) 28 (93...,ICT sector data - preserved,0.95
+10729,0.0,percentage,2024,general_rate,4 (46.7%) 0 (0.0%) 16 (53.3%) 250+ ict 2 (6.7%) 0 (0.0%) 28 (93.3%) manufacturing 12 (40.0%) 0 (0.0%...,ICT sector data - preserved,0.95
+10730,0.0,percentage,2024,general_rate,) 0 (0.0%) 28 (93.3%) manufacturing 12 (40.0%) 0 (0.0%) 18 (60.0%) fra 50-249 ict 3 (10.0%) 0 (0.0%)...,ICT sector data - preserved,0.95
+10731,0.0,percentage,2024,general_rate,.0%) 0 (0.0%) 18 (60.0%) fra 50-249 ict 3 (10.0%) 0 (0.0%) 27 (90.0%) manufacturing 2 (6.7%) 0 (0.0%...,ICT sector data - preserved,0.95
+10732,0.0,percentage,2024,general_rate,0%) 0 (0.0%) 27 (90.0%) manufacturing 2 (6.7%) 0 (0.0%) 28 (93.3%) 250+ ict 0 (0.0%) 1 (3.3%) 29 (96...,ICT sector data - preserved,0.95
+10733,0.0,percentage,2024,general_rate,facturing 2 (6.7%) 0 (0.0%) 28 (93.3%) 250+ ict 0 (0.0%) 1 (3.3%) 29 (96.7%) manufacturing 5 (16.7%)...,ICT sector data - preserved,0.95
+10734,0.0,percentage,2024,general_rate,%) 1 (3.3%) 29 (96.7%) manufacturing 5 (16.7%) 0 (0.0%) 25 (83.3%) gbr 50-249 ict 5 (16.7%) 0 (0.0%)...,ICT sector data - preserved,0.95
+10735,0.0,percentage,2024,general_rate,.7%) 0 (0.0%) 25 (83.3%) gbr 50-249 ict 5 (16.7%) 0 (0.0%) 25 (83.3%) manufacturing 11 (36.7%) 0 (0....,ICT sector data - preserved,0.95
+10736,0.0,percentage,2024,general_rate,) 0 (0.0%) 25 (83.3%) manufacturing 11 (36.7%) 0 (0.0%) 19 (63.3%) 250+ ict 3 (10.0%) 0 (0.0%) 27 (9...,ICT sector data - preserved,0.95
+10737,0.0,percentage,2024,general_rate,(36.7%) 0 (0.0%) 19 (63.3%) 250+ ict 3 (10.0%) 0 (0.0%) 27 (90.0%) manufacturing 9 (30.0%) 0 (0.0%) ...,ICT sector data - preserved,0.95
+10738,0.0,percentage,2024,general_rate,%) 0 (0.0%) 27 (90.0%) manufacturing 9 (30.0%) 0 (0.0%) 21 (70.0%) ita 50-249 ict 9 (30.0%) 0 (0.0%)...,ICT sector data - preserved,0.95
+10739,0.0,percentage,2024,general_rate,.0%) 0 (0.0%) 21 (70.0%) ita 50-249 ict 9 (30.0%) 0 (0.0%) 21 (70.0%) manufacturing 13 (43.3%) 0 (0....,ICT sector data - preserved,0.95
+10740,0.0,percentage,2024,general_rate,) 0 (0.0%) 21 (70.0%) manufacturing 13 (43.3%) 0 (0.0%) 17 (56.7%) 250+ ict 1 (3.3%) 0 (0.0%) 29 (96...,ICT sector data - preserved,0.95
+10741,0.0,percentage,2024,general_rate,3 (43.3%) 0 (0.0%) 17 (56.7%) 250+ ict 1 (3.3%) 0 (0.0%) 29 (96.7%) manufacturing 11 (36.7%) 0 (0.0%...,ICT sector data - preserved,0.95
+10742,0.0,percentage,2024,general_rate,) 0 (0.0%) 29 (96.7%) manufacturing 11 (36.7%) 0 (0.0%) 19 (63.3%) jpn 50-249 ict 6 (20.0%) 0 (0.0%)...,ICT sector data - preserved,0.95
+10743,0.0,percentage,2024,general_rate,.7%) 0 (0.0%) 19 (63.3%) jpn 50-249 ict 6 (20.0%) 0 (0.0%) 24 (80.0%) manufacturing 6 (20.0%) 0 (0.0...,ICT sector data - preserved,0.95
+10744,0.0,percentage,2024,general_rate,%) 0 (0.0%) 24 (80.0%) manufacturing 6 (20.0%) 0 (0.0%) 24 (80.0%) 250+ ict 3 (10.0%) 0 (0.0%) 27 (9...,ICT sector data - preserved,0.95
+10745,0.0,percentage,2024,general_rate,(20.0%) 0 (0.0%) 24 (80.0%) 250+ ict 3 (10.0%) 0 (0.0%) 27 (90.0%) manufacturing 7 (23.3%) 2 (6.7%) ...,ICT sector data - preserved,0.95
+10746,0.0,percentage,2024,general_rate,.3%) 2 (6.7%) 21 (70.0%) usa 50-249 ict 5 (16.7%) 0 (0.0%) 25 (83.3%) manufacturing 17 (56.7%) 2 (6....,ICT sector data - preserved,0.95
+10747,0.0,percentage,2024,general_rate,7 (56.7%) 2 (6.7%) 11 (36.7%) 250+ ict 1 (3.3%) 0 (0.0%) 29 (96.7%) manufacturing 2 (6.7%) 1 (3.3%) ...,ICT sector data - preserved,0.95
+10748,0.0,percentage,2024,general_rate,know no yes don't know no yes can 50-249 ict 0 (0.0%) 27 (90.0%) 3 (10.0%) 0 (0.0%) 24 (80.0%) 6 (20...,ICT sector data - preserved,0.95
+10749,0.0,percentage,2024,general_rate,can 50-249 ict 0 (0.0%) 27 (90.0%) 3 (10.0%) 0 (0.0%) 24 (80.0%) 6 (20.0%) 0 (0.0%) 19 (63.3%) 11 (3...,ICT sector data - preserved,0.95
+10754,0.0,percentage,2024,general_rate,.3%) 14 (46.7%) 0 (0.0%) 18 (60.0%) 12 (40.0%) 0 (0.0%) 11 (36.7%) 19 (63.3%) 250+ ict 0 (0.0%) 26 (...,ICT sector data - preserved,0.95
+10755,0.0,percentage,2024,general_rate,0%) 0 (0.0%) 11 (36.7%) 19 (63.3%) 250+ ict 0 (0.0%) 26 (86.7%) 4 (13.3%) 0 (0.0%) 20 (66.7%) 10 (33...,ICT sector data - preserved,0.95
+10756,0.0,percentage,2024,general_rate,.3%) 250+ ict 0 (0.0%) 26 (86.7%) 4 (13.3%) 0 (0.0%) 20 (66.7%) 10 (33.3%) 0 (0.0%) 21 (70.0%) 9 (30...,ICT sector data - preserved,0.95
+10760,0.0,percentage,2024,general_rate,.3%) 11 (36.7%) 0 (0.0%) 17 (56.7%) 13 (43.3%) 0 (0.0%) 12 (40.0%) 18 (60.0%) deu 50-249 ict 0 (0.0%...,ICT sector data - preserved,0.95
+10761,0.0,percentage,2024,general_rate,0 (0.0%) 12 (40.0%) 18 (60.0%) deu 50-249 ict 0 (0.0%) 20 (66.7%) 10 (33.3%) 0 (0.0%) 21 (70.0%) 9 (...,ICT sector data - preserved,0.95
+10762,0.0,percentage,2024,general_rate,deu 50-249 ict 0 (0.0%) 20 (66.7%) 10 (33.3%) 0 (0.0%) 21 (70.0%) 9 (30.0%) 0 (0.0%) 17 (56.7%) 13 (...,ICT sector data - preserved,0.95
+10764,0.0,percentage,2024,general_rate,.3%) 1 (3.3%) 9 (30.0%) 20 (66.7%) 250+ ict 0 (0.0%) 23 (76.7%) 7 (23.3%) 0 (0.0%) 22 (73.3%) 8 (26....,ICT sector data - preserved,0.95
+10765,0.0,percentage,2024,general_rate,.7%) 250+ ict 0 (0.0%) 23 (76.7%) 7 (23.3%) 0 (0.0%) 22 (73.3%) 8 (26.7%) 0 (0.0%) 19 (63.3%) 11 (36...,ICT sector data - preserved,0.95
+10768,0.0,percentage,2024,general_rate,3 (10.0%) 13 (43.3%) 14 (46.7%) fra 50-249 ict 0 (0.0%) 22 (73.3%) 8 (26.7%) 0 (0.0%) 19 (63.3%) 11 ...,ICT sector data - preserved,0.95
+10769,0.0,percentage,2024,general_rate,fra 50-249 ict 0 (0.0%) 22 (73.3%) 8 (26.7%) 0 (0.0%) 19 (63.3%) 11 (36.7%) 0 (0.0%) 26 (86.7%) 4 (1...,ICT sector data - preserved,0.95
+10775,0.0,percentage,2024,general_rate,.0%) 15 (50.0%) 0 (0.0%) 13 (43.3%) 17 (56.7%) 0 (0.0%) 6 (20.0%) 24 (80.0%) 250+ ict 0 (0.0%) 25 (8...,ICT sector data - preserved,0.95
+10776,0.0,percentage,2024,general_rate,.7%) 0 (0.0%) 6 (20.0%) 24 (80.0%) 250+ ict 0 (0.0%) 25 (83.3%) 5 (16.7%) 0 (0.0%) 22 (73.3%) 8 (26....,ICT sector data - preserved,0.95
+10777,0.0,percentage,2024,general_rate,.0%) 250+ ict 0 (0.0%) 25 (83.3%) 5 (16.7%) 0 (0.0%) 22 (73.3%) 8 (26.7%) 0 (0.0%) 22 (73.3%) 8 (26....,ICT sector data - preserved,0.95
+10780,0.0,percentage,2024,general_rate,3.3%) 7 (23.3%) 0 (0.0%) 15 (50.0%) 15 (50.0%) 0 (0.0%) 11 (36.7%) 19 (63.3%) gbr 50-249 ict 0 (0.0%...,ICT sector data - preserved,0.95
+10781,0.0,percentage,2024,general_rate,0 (0.0%) 11 (36.7%) 19 (63.3%) gbr 50-249 ict 0 (0.0%) 20 (66.7%) 10 (33.3%) 0 (0.0%) 18 (60.0%) 12 ...,ICT sector data - preserved,0.95
+10782,0.0,percentage,2024,general_rate,gbr 50-249 ict 0 (0.0%) 20 (66.7%) 10 (33.3%) 0 (0.0%) 18 (60.0%) 12 (40.0%) 0 (0.0%) 16 (53.3%) 14 ...,ICT sector data - preserved,0.95
+10787,0.0,percentage,2024,general_rate,.3%) 14 (46.7%) 0 (0.0%) 18 (60.0%) 12 (40.0%) 0 (0.0%) 10 (33.3%) 20 (66.7%) 250+ ict 1 (3.3%) 25 (...,ICT sector data - preserved,0.95
+10793,0.0,percentage,2024,general_rate,.0%) 12 (40.0%) 0 (0.0%) 19 (63.3%) 11 (36.7%) 0 (0.0%) 15 (50.0%) 15 (50.0%) ita 50-249 ict 0 (0.0%...,ICT sector data - preserved,0.95
+10794,0.0,percentage,2024,general_rate,0 (0.0%) 15 (50.0%) 15 (50.0%) ita 50-249 ict 0 (0.0%) 21 (70.0%) 9 (30.0%) 0 (0.0%) 20 (66.7%) 10 (...,ICT sector data - preserved,0.95
+10795,0.0,percentage,2024,general_rate,ita 50-249 ict 0 (0.0%) 21 (70.0%) 9 (30.0%) 0 (0.0%) 20 (66.7%) 10 (33.3%) 0 (0.0%) 18 (60.0%) 12 (...,ICT sector data - preserved,0.95
+10801,0.0,percentage,2024,general_rate,3%) 1 (3.3%) 14 (46.7%) 15 (50.0%) 250+ ict 0 (0.0%) 28 (93.3%) 2 (6.7%) 0 (0.0%) 22 (73.3%) 8 (26.7...,ICT sector data - preserved,0.95
+10802,0.0,percentage,2024,general_rate,0.0%) 250+ ict 0 (0.0%) 28 (93.3%) 2 (6.7%) 0 (0.0%) 22 (73.3%) 8 (26.7%) 0 (0.0%) 20 (66.7%) 10 (33...,ICT sector data - preserved,0.95
+10806,0.0,percentage,2024,general_rate,2 (6.7%) 11 (36.7%) 17 (56.7%) jpn 50-249 ict 0 (0.0%) 23 (76.7%) 7 (23.3%) 0 (0.0%) 24 (80.0%) 6 (2...,ICT sector data - preserved,0.95
+10807,0.0,percentage,2024,general_rate,jpn 50-249 ict 0 (0.0%) 23 (76.7%) 7 (23.3%) 0 (0.0%) 24 (80.0%) 6 (20.0%) 0 (0.0%) 22 (73.3%) 8 (26...,ICT sector data - preserved,0.95
+10812,0.0,percentage,2024,general_rate,.7%) 250+ ict 1 (3.3%) 23 (76.7%) 6 (20.0%) 0 (0.0%) 24 (80.0%) 6 (20.0%) 0 (0.0%) 25 (83.3%) 5 (16....,ICT sector data - preserved,0.95
+10819,0.0,percentage,2024,general_rate,know no yes don't know no yes usa 50-249 ict 0 (0.0%) 29 (96.7%) 1 (3.3%) 0 (0.0%) 22 (73.3%) 8 (26....,ICT sector data - preserved,0.95
+10820,0.0,percentage,2024,general_rate,s usa 50-249 ict 0 (0.0%) 29 (96.7%) 1 (3.3%) 0 (0.0%) 22 (73.3%) 8 (26.7%) 0 (0.0%) 22 (73.3%) 8 (2...,ICT sector data - preserved,0.95
+10826,0.0,percentage,2024,general_rate,6.7%) 7 (23.3%) 0 (0.0%) 20 (66.7%) 10 (33.3%) 0 (0.0%) 12 (40.0%) 18 (60.0%) 250+ ict 0 (0.0%) 29 (...,ICT sector data - preserved,0.95
+10827,0.0,percentage,2024,general_rate,3%) 0 (0.0%) 12 (40.0%) 18 (60.0%) 250+ ict 0 (0.0%) 29 (96.7%) 1 (3.3%) 1 (3.3%) 23 (76.7%) 6 (20.0...,ICT sector data - preserved,0.95
+10833,0.0,percentage,2024,general_rate,6 (20.0%) 10 (33.3%) 14 (46.7%) manufacturing 0 (0.0%) 1 (3.3%) 29 (96.7%) 250+ ict 3 (10.0%) 3 (10....,ICT sector data - preserved,0.95
+10834,0.0,percentage,2024,general_rate,y useful very useful can 50-249 ict 12 (40.0%) 0 (0.0%) 5 (16.7%) 13 (43.3%) 14 (46.7%) 2 (6.7%) 8 (...,ICT sector data - preserved,0.95
+10837,0.0,percentage,2024,general_rate,53.3%) 1 (3.3%) 5 (16.7%) 8 (26.7%) 14 (46.7%) 0 (0.0%) 2 (6.7%) 14 (46.7%) 250+ ict 12 (40.0%) 1 (3...,ICT sector data - preserved,0.95
+10839,0.0,percentage,2024,general_rate,.3%) 3 (10.0%) 12 (40.0%) 5 (16.7%) 10 (33.3%) 0 (0.0%) 11 (36.7%) 9 (30.0%) deu 50-249 ict 8 (26.7%...,ICT sector data - preserved,0.95
+10842,0.0,percentage,2024,general_rate,0.0%) 4 (13.3%) 9 (30.0%) 5 (16.7%) 16 (53.3%) 0 (0.0%) 4 (13.3%) 10 (33.3%) fra 50-249 ict 12 (40.0...,ICT sector data - preserved,0.95
+10843,0.0,percentage,2024,general_rate,4 (13.3%) 10 (33.3%) fra 50-249 ict 12 (40.0%) 0 (0.0%) 3 (10.0%) 15 (50.0%) 10 (33.3%) 3 (10.0%) 5 ...,ICT sector data - preserved,0.95
+10847,0.0,percentage,2024,general_rate,6.7%) 0 (0.0%) 3 (10.0%) 13 (43.3%) 12 (40.0%) 0 (0.0%) 2 (6.7%) 16 (53.3%) 250+ ict 15 (50.0%) 0 (0...,ICT sector data - preserved,0.95
+10848,0.0,percentage,2024,general_rate,0%) 2 (6.7%) 16 (53.3%) 250+ ict 15 (50.0%) 0 (0.0%) 3 (10.0%) 12 (40.0%) 6 (20.0%) 5 (16.7%) 12 (40...,ICT sector data - preserved,0.95
+10851,0.0,percentage,2024,general_rate,3 (10.0%) 16 (53.3%) gbr 50-249 ict 10 (33.3%) 0 (0.0%) 5 (16.7%) 15 (50.0%) 14 (46.7%) 2 (6.7%) 8 (...,ICT sector data - preserved,0.95
+10853,0.0,percentage,2024,general_rate,(60.0%) 1 (3.3%) 2 (6.7%) 9 (30.0%) 12 (40.0%) 0 (0.0%) 4 (13.3%) 14 (46.7%) 250+ ict 15 (50.0%) 1 (...,ICT sector data - preserved,0.95
+10855,0.0,percentage,2024,general_rate,0.0%) 1 (3.3%) 11 (36.7%) 9 (30.0%) 15 (50.0%) 0 (0.0%) 1 (3.3%) 14 (46.7%) ita 50-249 ict 17 (56.7%...,ICT sector data - preserved,0.95
+10856,0.0,percentage,2024,general_rate,0.0%) 2 (6.7%) 5 (16.7%) 11 (36.7%) 17 (56.7%) 0 (0.0%) 5 (16.7%) 8 (26.7%) 250+ ict 15 (50.0%) 0 (0...,ICT sector data - preserved,0.95
+10857,0.0,percentage,2024,general_rate,0%) 5 (16.7%) 8 (26.7%) 250+ ict 15 (50.0%) 0 (0.0%) 10 (33.3%) 5 (16.7%) 11 (36.7%) 2 (6.7%) 5 (16....,ICT sector data - preserved,0.95
+10859,0.0,percentage,2024,general_rate,.7%) 4 (13.3%) 10 (33.3%) 8 (26.7%) 14 (46.7%) 0 (0.0%) 3 (10.0%) 13 (43.3%) jpn 50-249 ict 16 (53.3...,ICT sector data - preserved,0.95
+10860,0.0,percentage,2024,general_rate,3 (10.0%) 13 (43.3%) jpn 50-249 ict 16 (53.3%) 0 (0.0%) 4 (13.3%) 10 (33.3%) 9 (30.0%) 1 (3.3%) 6 (2...,ICT sector data - preserved,0.95
+10864,0.0,percentage,2024,general_rate,3%) 1 (3.3%) 14 (46.7%) 250+ ict 14 (46.7%) 0 (0.0%) 6 (20.0%) 10 (33.3%) 6 (20.0%) 7 (23.3%) 10 (33...,ICT sector data - preserved,0.95
+10866,0.0,percentage,2024,general_rate,ery helpful can 50-249 ict 2 (6.7%) 14 (46.7%) 0 (0.0%) 14 (46.7%) 7 (23.3%) 12 (40.0%) 0 (0.0%) 11 ...,ICT sector data - preserved,0.95
+10871,0.0,percentage,2024,general_rate,0.0%) 0 (0.0%) 12 (40.0%) 6 (20.0%) 12 (40.0%) 0 (0.0%) 12 (40.0%) 250+ ict 7 (23.3%) 12 (40.0%) 1 (...,ICT sector data - preserved,0.95
+10876,0.0,percentage,2024,general_rate,6.7%) 0 (0.0%) 10 (33.3%) 4 (13.3%) 13 (43.3%) 0 (0.0%) 13 (43.3%) 250+ ict 5 (16.7%) 15 (50.0%) 1 (...,ICT sector data - preserved,0.95
+10877,0.0,percentage,2024,general_rate,4 (46.7%) fra 50-249 ict 10 (33.3%) 13 (43.3%) 0 (0.0%) 7 (23.3%) 6 (20.0%) 12 (40.0%) 0 (0.0%) 12 (...,ICT sector data - preserved,0.95
+10882,0.0,percentage,2024,general_rate,70.0%) 2 (6.7%) 14 (46.7%) 0 (0.0%) 14 (46.7%) 0 (0.0%) 18 (60.0%) 0 (0.0%) 12 (40.0%) 250+ ict 8 (2...,ICT sector data - preserved,0.95
+10883,0.0,percentage,2024,general_rate,46.7%) 0 (0.0%) 14 (46.7%) 0 (0.0%) 18 (60.0%) 0 (0.0%) 12 (40.0%) 250+ ict 8 (26.7%) 15 (50.0%) 1 (...,ICT sector data - preserved,0.95
+10891,0.0,percentage,2024,general_rate,46.7%) 0 (0.0%) 8 (26.7%) 3 (10.0%) 16 (53.3%) 0 (0.0%) 11 (36.7%) 250+ ict 4 (13.3%) 13 (43.3%) 2 (...,ICT sector data - preserved,0.95
+10894,0.0,percentage,2024,general_rate,40.0%) 1 (3.3%) 9 (30.0%) 4 (13.3%) 14 (46.7%) 0 (0.0%) 12 (40.0%) ita 50-249 ict 5 (16.7%) 16 (53.3...,ICT sector data - preserved,0.95
+10897,0.0,percentage,2024,general_rate,53.3%) 0 (0.0%) 8 (26.7%) 4 (13.3%) 15 (50.0%) 0 (0.0%) 11 (36.7%) 250+ ict 5 (16.7%) 14 (46.7%) 1 (...,ICT sector data - preserved,0.95
+10899,0.0,percentage,2024,general_rate,16 (53.3%) jpn 50-249 ict 5 (16.7%) 10 (33.3%) 0 (0.0%) 15 (50.0%) 5 (16.7%) 17 (56.7%) 0 (0.0%) 8 (...,ICT sector data - preserved,0.95
+10904,0.0,percentage,2024,general_rate,0.0%) 0 (0.0%) 11 (36.7%) 4 (13.3%) 12 (40.0%) 0 (0.0%) 14 (46.7%) 250+ ict 6 (20.0%) 14 (46.7%) 0 (...,ICT sector data - preserved,0.95
+10905,0.0,percentage,2024,general_rate,%) 14 (46.7%) 250+ ict 6 (20.0%) 14 (46.7%) 0 (0.0%) 10 (33.3%) 5 (16.7%) 17 (56.7%) 0 (0.0%) 8 (26....,ICT sector data - preserved,0.95
+10908,0.0,percentage,2024,general_rate,3.3%) 3 (10.0%) 8 (26.7%) 5 (16.7%) 15 (50.0%) 0 (0.0%) 10 (33.3%) 250+ ict 8 (26.7%) 17 (56.7%) 0 (...,ICT sector data - preserved,0.95
+10909,0.0,percentage,2024,general_rate,%) 10 (33.3%) 250+ ict 8 (26.7%) 17 (56.7%) 0 (0.0%) 5 (16.7%) 8 (26.7%) 12 (40.0%) 2 (6.7%) 8 (26.7...,ICT sector data - preserved,0.95
+10911,0.0,percentage,2024,general_rate,ry helpful can 50-249 ict 6 (20.0%) 11 (36.7%) 0 (0.0%) 13 (43.3%) 1 (3.3%) 18 (60.0%) 0 (0.0%) 11 (...,ICT sector data - preserved,0.95
+10914,0.0,percentage,2024,general_rate,lpful (6.7%) (43.3%) (0.0%) (50.0%) (10.0%) (46.7%) (0.0%) (43.3%) (20.0%) (30.0%) (0.0%) (50.0%) 25...,ICT sector data - preserved,0.95
+10915,0.0,percentage,2024,general_rate,.0%) (10.0%) (46.7%) (0.0%) (43.3%) (20.0%) (30.0%) (0.0%) (50.0%) 250+ ict 3 (10.0%) 16 (53.3%) 1 (...,ICT sector data - preserved,0.95
+10922,0.0,percentage,2024,general_rate,9 (30.0%) fra 50-249 ict 6 (20.0%) 10 (33.3%) 0 (0.0%) 14 (46.7%) 4 (13.3%) 16 (53.3%) 0 (0.0%) 10 (...,ICT sector data - preserved,0.95
+10928,0.0,percentage,2024,general_rate,63.3%) 0 (0.0%) 13 (43.3%) 0 (0.0%) 17 (56.7%) 0 (0.0%) 19 (63.3%) 0 (0.0%) 11 (36.7%) 250+ ict 4 (1...,ICT sector data - preserved,0.95
+10929,0.0,percentage,2024,general_rate,43.3%) 0 (0.0%) 17 (56.7%) 0 (0.0%) 19 (63.3%) 0 (0.0%) 11 (36.7%) 250+ ict 4 (13.3%) 14 (46.7%) 0 (...,ICT sector data - preserved,0.95
+10930,0.0,percentage,2024,general_rate,%) 11 (36.7%) 250+ ict 4 (13.3%) 14 (46.7%) 0 (0.0%) 12 (40.0%) 4 (13.3%) 14 (46.7%) 0 (0.0%) 12 (40...,ICT sector data - preserved,0.95
+10934,0.0,percentage,2024,general_rate,11 (36.7%) gbr 50-249 ict 7 (23.3%) 14 (46.7%) 0 (0.0%) 9 (30.0%) 5 (16.7%) 13 (43.3%) 0 (0.0%) 12 (...,ICT sector data - preserved,0.95
+10940,0.0,percentage,2024,general_rate,3.3%) 0 (0.0%) 14 (46.7%) 4 (13.3%) 11 (36.7%) 0 (0.0%) 15 (50.0%) 250+ ict 4 (13.3%) 15 (50.0%) 0 (...,ICT sector data - preserved,0.95
+10941,0.0,percentage,2024,general_rate,%) 15 (50.0%) 250+ ict 4 (13.3%) 15 (50.0%) 0 (0.0%) 11 (36.7%) 5 (16.7%) 16 (53.3%) 0 (0.0%) 9 (30....,ICT sector data - preserved,0.95
+10945,0.0,percentage,2024,general_rate,6.7%) 0 (0.0%) 11 (36.7%) 5 (16.7%) 13 (43.3%) 0 (0.0%) 12 (40.0%) ita 50-249 ict 5 (16.7%) 16 (53.3...,ICT sector data - preserved,0.95
+10947,0.0,percentage,2024,general_rate,6.7%) 1 (3.3%) 16 (53.3%) 7 (23.3%) 17 (56.7%) 0 (0.0%) 6 (20.0%) 250+ ict 7 (23.3%) 16 (53.3%) 0 (0...,ICT sector data - preserved,0.95
+10948,0.0,percentage,2024,general_rate,0%) 6 (20.0%) 250+ ict 7 (23.3%) 16 (53.3%) 0 (0.0%) 7 (23.3%) 5 (16.7%) 12 (40.0%) 0 (0.0%) 13 (43....,ICT sector data - preserved,0.95
+10950,0.0,percentage,2024,general_rate,6.7%) 1 (3.3%) 19 (63.3%) 7 (23.3%) 13 (43.3%) 0 (0.0%) 10 (33.3%) jpn 50-249 ict 10 (33.3%) 15 (50....,ICT sector data - preserved,0.95
+10953,0.0,percentage,2024,general_rate,36.7%) 0 (0.0%) 16 (53.3%) 2 (6.7%) 20 (66.7%) 0 (0.0%) 8 (26.7%) 250+ ict 5 (16.7%) 17 (56.7%) 0 (0...,ICT sector data - preserved,0.95
+10954,0.0,percentage,2024,general_rate,0%) 8 (26.7%) 250+ ict 5 (16.7%) 17 (56.7%) 0 (0.0%) 8 (26.7%) 7 (23.3%) 9 (30.0%) 1 (3.3%) 13 (43.3...,ICT sector data - preserved,0.95
+10957,0.0,percentage,2024,general_rate,y helpful can 50-249 ict 10 (33.3%) 11 (36.7%) 0 (0.0%) 9 (30.0%) 2 (6.7%) 19 (63.3%) 2 (6.7%) 7 (23...,ICT sector data - preserved,0.95
+10960,0.0,percentage,2024,general_rate,6.7%) 1 (3.3%) 10 (33.3%) 3 (10.0%) 18 (60.0%) 0 (0.0%) 9 (30.0%) 250+ ict 8 (26.7%) 13 (43.3%) 2 (6...,ICT sector data - preserved,0.95
+10965,0.0,percentage,2024,general_rate,6.7%) 0 (0.0%) 11 (36.7%) 5 (16.7%) 15 (50.0%) 0 (0.0%) 10 (33.3%) 250+ ict 9 (30.0%) 11 (36.7%) 0 (...,ICT sector data - preserved,0.95
+10966,0.0,percentage,2024,general_rate,%) 10 (33.3%) 250+ ict 9 (30.0%) 11 (36.7%) 0 (0.0%) 10 (33.3%) 5 (16.7%) 16 (53.3%) 0 (0.0%) 9 (30....,ICT sector data - preserved,0.95
+10969,0.0,percentage,2024,general_rate,8 (26.7%) fra 50-249 ict 8 (26.7%) 12 (40.0%) 0 (0.0%) 10 (33.3%) 6 (20.0%) 13 (43.3%) 0 (0.0%) 11 (...,ICT sector data - preserved,0.95
+10973,0.0,percentage,2024,general_rate,40.0%) 0 (0.0%) 16 (53.3%) 1 (3.3%) 14 (46.7%) 0 (0.0%) 15 (50.0%) 250+ ict 6 (20.0%) 11 (36.7%) 1 (...,ICT sector data - preserved,0.95
+10974,0.0,percentage,2024,general_rate,16 (53.3%) gbr 50-249 ict 6 (20.0%) 13 (43.3%) 0 (0.0%) 11 (36.7%) 6 (20.0%) 13 (43.3%) 1 (3.3%) 10 ...,ICT sector data - preserved,0.95
+10979,0.0,percentage,2024,general_rate,3.3%) 1 (3.3%) 10 (33.3%) 6 (20.0%) 11 (36.7%) 0 (0.0%) 13 (43.3%) 250+ ict 5 (16.7%) 14 (46.7%) 0 (...,ICT sector data - preserved,0.95
+10980,0.0,percentage,2024,general_rate,%) 13 (43.3%) 250+ ict 5 (16.7%) 14 (46.7%) 0 (0.0%) 11 (36.7%) 7 (23.3%) 15 (50.0%) 2 (6.7%) 6 (20....,ICT sector data - preserved,0.95
+10986,0.0,percentage,2024,general_rate,46.7%) 0 (0.0%) 10 (33.3%) 2 (6.7%) 11 (36.7%) 0 (0.0%) 17 (56.7%) 250+ ict 6 (20.0%) 15 (50.0%) 0 (...,ICT sector data - preserved,0.95
+10987,0.0,percentage,2024,general_rate,%) 17 (56.7%) 250+ ict 6 (20.0%) 15 (50.0%) 0 (0.0%) 9 (30.0%) 7 (23.3%) 12 (40.0%) 1 (3.3%) 10 (33....,ICT sector data - preserved,0.95
+10989,0.0,percentage,2024,general_rate,50-249 ict 2 (6.7%) 28 (93.3%) manufacturing 0 (0.0%) 30 (100.0%) 250+ ict 0 (0.0%) 30 (100.0%) m,ICT sector data - preserved,0.95
+10990,0.0,percentage,2024,general_rate,manufacturing 0 (0.0%) 30 (100.0%) 250+ ict 0 (0.0%) 30 (100.0%) manufacturing 7 (23.3%) 23 (76.7%),ICT sector data - preserved,0.95
+10991,0.0,percentage,2024,general_rate,ree strongly disagree can 50-249 ict 10 (33.3%) 0 (0.0%) 20 (66.7%) 0 (0.0%) 13 (43.3%) 5 (16.7%) 11...,ICT sector data - preserved,0.95
+10992,0.0,percentage,2024,general_rate,can 50-249 ict 10 (33.3%) 0 (0.0%) 20 (66.7%) 0 (0.0%) 13 (43.3%) 5 (16.7%) 11 (36.7%) 1 (3.3%) 15 (...,ICT sector data - preserved,0.95
+10997,0.0,percentage,2024,general_rate,0.0%) 0 (0.0%) 14 (46.7%) 3 (10.0%) 13 (43.3%) 0 (0.0%) 250+ ict 8 (26.7%) 0 (0.0%) 22 (73.3%) 0 (0....,ICT sector data - preserved,0.95
+10998,0.0,percentage,2024,general_rate,.0%) 13 (43.3%) 0 (0.0%) 250+ ict 8 (26.7%) 0 (0.0%) 22 (73.3%) 0 (0.0%) 15 (50.0%) 3 (10.0%) 12 (40...,ICT sector data - preserved,0.95
+10999,0.0,percentage,2024,general_rate,.0%) 250+ ict 8 (26.7%) 0 (0.0%) 22 (73.3%) 0 (0.0%) 15 (50.0%) 3 (10.0%) 12 (40.0%) 0 (0.0%) 16 (53...,ICT sector data - preserved,0.95
+11003,0.0,percentage,2024,general_rate,.0%) 4 (13.3%) 11 (36.7%) 8 (26.7%) 11 (36.7%) 0 (0.0%) deu 50-249 ict 15 (50.0%) 0 (0.0%) 15 (50.0%...,ICT sector data - preserved,0.95
+11004,0.0,percentage,2024,general_rate,11 (36.7%) 0 (0.0%) deu 50-249 ict 15 (50.0%) 0 (0.0%) 15 (50.0%) 0 (0.0%) 16 (53.3%) 1 (3.3%) 13 (4...,ICT sector data - preserved,0.95
+11005,0.0,percentage,2024,general_rate,deu 50-249 ict 15 (50.0%) 0 (0.0%) 15 (50.0%) 0 (0.0%) 16 (53.3%) 1 (3.3%) 13 (43.3%) 0 (0.0%) 16 (5...,ICT sector data - preserved,0.95
+11010,0.0,percentage,2024,general_rate,53.3%) 0 (0.0%) 18 (60.0%) 3 (10.0%) 9 (30.0%) 0 (0.0%) 250+ ict 11 (36.7%) 1 (3.3%) 18 (60.0%) 0 (0...,ICT sector data - preserved,0.95
+11011,0.0,percentage,2024,general_rate,0%) 250+ ict 11 (36.7%) 1 (3.3%) 18 (60.0%) 0 (0.0%) 13 (43.3%) 6 (20.0%) 11 (36.7%) 0 (0.0%) 16 (53...,ICT sector data - preserved,0.95
+11015,0.0,percentage,2024,general_rate,20.0%) 1 (3.3%) 17 (56.7%) 5 (16.7%) 8 (26.7%) 0 (0.0%) fra 50-249 ict 7 (23.3%) 3 (10.0%) 20 (66.7%...,ICT sector data - preserved,0.95
+11016,0.0,percentage,2024,general_rate,fra 50-249 ict 7 (23.3%) 3 (10.0%) 20 (66.7%) 0 (0.0%) 11 (36.7%) 4 (13.3%) 13 (43.3%) 2 (6.7%) 14 (...,ICT sector data - preserved,0.95
+11021,0.0,percentage,2024,general_rate,40.0%) 0 (0.0%) 10 (33.3%) 2 (6.7%) 18 (60.0%) 0 (0.0%) 250+ ict 5 (16.7%) 0 (0.0%) 25 (83.3%) 0 (0....,ICT sector data - preserved,0.95
+11022,0.0,percentage,2024,general_rate,.7%) 18 (60.0%) 0 (0.0%) 250+ ict 5 (16.7%) 0 (0.0%) 25 (83.3%) 0 (0.0%) 14 (46.7%) 2 (6.7%) 14 (46....,ICT sector data - preserved,0.95
+11023,0.0,percentage,2024,general_rate,.0%) 250+ ict 5 (16.7%) 0 (0.0%) 25 (83.3%) 0 (0.0%) 14 (46.7%) 2 (6.7%) 14 (46.7%) 0 (0.0%) 16 (53....,ICT sector data - preserved,0.95
+11027,0.0,percentage,2024,general_rate,gbr 50-249 ict 13 (43.3%) 1 (3.3%) 16 (53.3%) 0 (0.0%) 14 (46.7%) 7 (23.3%) 9 (30.0%) 0 (0.0%) 15 (5...,ICT sector data - preserved,0.95
+11033,0.0,percentage,2024,general_rate,36.7%) 1 (3.3%) 11 (36.7%) 2 (6.7%) 17 (56.7%) 0 (0.0%) 250+ ict 5 (16.7%) 1 (3.3%) 24 (80.0%) 0 (0....,ICT sector data - preserved,0.95
+11034,0.0,percentage,2024,general_rate,.0%) 250+ ict 5 (16.7%) 1 (3.3%) 24 (80.0%) 0 (0.0%) 14 (46.7%) 6 (20.0%) 10 (33.3%) 0 (0.0%) 14 (46...,ICT sector data - preserved,0.95
+11040,0.0,percentage,2024,general_rate,40.0%) 0 (0.0%) 17 (56.7%) 1 (3.3%) 12 (40.0%) 0 (0.0%) ita 50-249 ict 18 (60.0%) 2 (6.7%) 10 (33.3%...,ICT sector data - preserved,0.95
+11041,0.0,percentage,2024,general_rate,ita 50-249 ict 18 (60.0%) 2 (6.7%) 10 (33.3%) 0 (0.0%) 10 (33.3%) 6 (20.0%) 14 (46.7%) 0 (0.0%) 15 (...,ICT sector data - preserved,0.95
+11046,0.0,percentage,2024,general_rate,0.0%) 0 (0.0%) 13 (43.3%) 5 (16.7%) 12 (40.0%) 0 (0.0%) 250+ ict 7 (23.3%) 1 (3.3%) 22 (73.3%) 0 (0....,ICT sector data - preserved,0.95
+11047,0.0,percentage,2024,general_rate,.0%) 250+ ict 7 (23.3%) 1 (3.3%) 22 (73.3%) 0 (0.0%) 17 (56.7%) 5 (16.7%) 8 (26.7%) 0 (0.0%) 14 (46....,ICT sector data - preserved,0.95
+11053,0.0,percentage,2024,general_rate,0.0%) 0 (0.0%) 14 (46.7%) 4 (13.3%) 12 (40.0%) 0 (0.0%) jpn 50-249 ict 7 (23.3%) 3 (10.0%) 20 (66.7%...,ICT sector data - preserved,0.95
+11054,0.0,percentage,2024,general_rate,jpn 50-249 ict 7 (23.3%) 3 (10.0%) 20 (66.7%) 0 (0.0%) 9 (30.0%) 6 (20.0%) 15 (50.0%) 0 (0.0%) 24 (8...,ICT sector data - preserved,0.95
+11060,0.0,percentage,2024,general_rate,36.7%) 0 (0.0%) 15 (50.0%) 2 (6.7%) 13 (43.3%) 0 (0.0%) 250+ ict 11 (36.7%) 1 (3.3%) 18 (60.0%) 0 (0...,ICT sector data - preserved,0.95
+11061,0.0,percentage,2024,general_rate,0%) 250+ ict 11 (36.7%) 1 (3.3%) 18 (60.0%) 0 (0.0%) 15 (50.0%) 7 (23.3%) 7 (23.3%) 1 (3.3%) 17 (56....,ICT sector data - preserved,0.95
+11066,0.0,percentage,2024,general_rate,20.0%) 0 (0.0%) 17 (56.7%) 2 (6.7%) 11 (36.7%) 0 (0.0%) usa 50-249 ict 6 (20.0%) 0 (0.0%) 24 (80.0%)...,ICT sector data - preserved,0.95
+11067,0.0,percentage,2024,general_rate,11 (36.7%) 0 (0.0%) usa 50-249 ict 6 (20.0%) 0 (0.0%) 24 (80.0%) 0 (0.0%) 12 (40.0%) 6 (20.0%) 10 (3...,ICT sector data - preserved,0.95
+11068,0.0,percentage,2024,general_rate,usa 50-249 ict 6 (20.0%) 0 (0.0%) 24 (80.0%) 0 (0.0%) 12 (40.0%) 6 (20.0%) 10 (33.3%) 2 (6.7%) 14 (4...,ICT sector data - preserved,0.95
+11071,0.0,percentage,2024,general_rate,23.3%) 1 (3.3%) 17 (56.7%) 5 (16.7%) 8 (26.7%) 0 (0.0%) 250+ ict 7 (23.3%) 0 (0.0%) 23 (76.7%) 0 (0....,ICT sector data - preserved,0.95
+11072,0.0,percentage,2024,general_rate,6.7%) 8 (26.7%) 0 (0.0%) 250+ ict 7 (23.3%) 0 (0.0%) 23 (76.7%) 0 (0.0%) 17 (56.7%) 5 (16.7%) 8 (26....,ICT sector data - preserved,0.95
+11073,0.0,percentage,2024,general_rate,.0%) 250+ ict 7 (23.3%) 0 (0.0%) 23 (76.7%) 0 (0.0%) 17 (56.7%) 5 (16.7%) 8 (26.7%) 0 (0.0%) 14 (46....,ICT sector data - preserved,0.95
+11080,0.0,percentage,2024,general_rate,he enterprise does not spend on r&d can 50-249 ict 0 (0.0%) 14 (46.7%) 12 (40.0%) 0 (0.0%) 4 (13.3%)...,ICT sector data - preserved,0.95
+11081,0.0,percentage,2024,general_rate,r&d can 50-249 ict 0 (0.0%) 14 (46.7%) 12 (40.0%) 0 (0.0%) 4 (13.3%) 0 (0.0%) manufacturing 0 (0.0%)...,ICT sector data - preserved,0.95
+11084,0.0,percentage,2024,general_rate,manufacturing 0 (0.0%) 15 (50.0%) 12 (40.0%) 0 (0.0%) 3 (10.0%) 0 (0.0%) 250+ ict 0 (0.0%) 16 (53.3%...,ICT sector data - preserved,0.95
+11085,0.0,percentage,2024,general_rate,0 (0.0%) 15 (50.0%) 12 (40.0%) 0 (0.0%) 3 (10.0%) 0 (0.0%) 250+ ict 0 (0.0%) 16 (53.3%) 11 (36.7%) 1...,ICT sector data - preserved,0.95
+11086,0.0,percentage,2024,general_rate,12 (40.0%) 0 (0.0%) 3 (10.0%) 0 (0.0%) 250+ ict 0 (0.0%) 16 (53.3%) 11 (36.7%) 1 (3.3%) 1 (3.3%) 1 (...,ICT sector data - preserved,0.95
+11088,0.0,percentage,2024,general_rate,) manufacturing 0 (0.0%) 21 (70.0%) 8 (26.7%) 0 (0.0%) 1 (3.3%) 0 (0.0%) deu 50-249 ict 0 (0.0%) 8 (...,ICT sector data - preserved,0.95
+11089,0.0,percentage,2024,general_rate,ng 0 (0.0%) 21 (70.0%) 8 (26.7%) 0 (0.0%) 1 (3.3%) 0 (0.0%) deu 50-249 ict 0 (0.0%) 8 (26.7%) 15 (50...,ICT sector data - preserved,0.95
+11090,0.0,percentage,2024,general_rate,(26.7%) 0 (0.0%) 1 (3.3%) 0 (0.0%) deu 50-249 ict 0 (0.0%) 8 (26.7%) 15 (50.0%) 0 (0.0%) 7 (23.3%) 0...,ICT sector data - preserved,0.95
+11091,0.0,percentage,2024,general_rate,.0%) deu 50-249 ict 0 (0.0%) 8 (26.7%) 15 (50.0%) 0 (0.0%) 7 (23.3%) 0 (0.0%) manufacturing 0 (0.0%)...,ICT sector data - preserved,0.95
+11094,0.0,percentage,2024,general_rate,) manufacturing 0 (0.0%) 19 (63.3%) 9 (30.0%) 0 (0.0%) 2 (6.7%) 0 (0.0%) 250+ ict 0 (0.0%) 11 (36.7%...,ICT sector data - preserved,0.95
+11095,0.0,percentage,2024,general_rate,ng 0 (0.0%) 19 (63.3%) 9 (30.0%) 0 (0.0%) 2 (6.7%) 0 (0.0%) 250+ ict 0 (0.0%) 11 (36.7%) 15 (50.0%) ...,ICT sector data - preserved,0.95
+11096,0.0,percentage,2024,general_rate,9 (30.0%) 0 (0.0%) 2 (6.7%) 0 (0.0%) 250+ ict 0 (0.0%) 11 (36.7%) 15 (50.0%) 0 (0.0%) 4 (13.3%) 0 (0...,ICT sector data - preserved,0.95
+11097,0.0,percentage,2024,general_rate,(0.0%) 250+ ict 0 (0.0%) 11 (36.7%) 15 (50.0%) 0 (0.0%) 4 (13.3%) 0 (0.0%) manufacturing 2 (6.7%) 22...,ICT sector data - preserved,0.95
+11099,0.0,percentage,2024,general_rate,ng 2 (6.7%) 22 (73.3%) 3 (10.0%) 2 (6.7%) 1 (3.3%) 0 (0.0%) fra 50-249 ict 0 (0.0%) 7 (23.3%) 16 (53...,ICT sector data - preserved,0.95
+11100,0.0,percentage,2024,general_rate,(10.0%) 2 (6.7%) 1 (3.3%) 0 (0.0%) fra 50-249 ict 0 (0.0%) 7 (23.3%) 16 (53.3%) 0 (0.0%) 7 (23.3%) 0...,ICT sector data - preserved,0.95
+11101,0.0,percentage,2024,general_rate,.0%) fra 50-249 ict 0 (0.0%) 7 (23.3%) 16 (53.3%) 0 (0.0%) 7 (23.3%) 0 (0.0%) manufacturing 0 (0.0%)...,ICT sector data - preserved,0.95
+11104,0.0,percentage,2024,general_rate,) manufacturing 0 (0.0%) 9 (30.0%) 15 (50.0%) 0 (0.0%) 6 (20.0%) 0 (0.0%) 250+ ict 0 (0.0%) 13 (43.3...,ICT sector data - preserved,0.95
+11105,0.0,percentage,2024,general_rate,g 0 (0.0%) 9 (30.0%) 15 (50.0%) 0 (0.0%) 6 (20.0%) 0 (0.0%) 250+ ict 0 (0.0%) 13 (43.3%) 14 (46.7%) ...,ICT sector data - preserved,0.95
+11106,0.0,percentage,2024,general_rate,15 (50.0%) 0 (0.0%) 6 (20.0%) 0 (0.0%) 250+ ict 0 (0.0%) 13 (43.3%) 14 (46.7%) 2 (6.7%) 1 (3.3%) 0 (...,ICT sector data - preserved,0.95
+11109,0.0,percentage,2024,general_rate,ufacturing 0 (0.0%) 16 (53.3%) 11 (36.7%) 3 (10.0%) 0 (0.0%) 0 (0.0%) gbr 50-249 ict 0 (0.0%) 18 (60...,ICT sector data - preserved,0.95
+11110,0.0,percentage,2024,general_rate,0 (0.0%) 16 (53.3%) 11 (36.7%) 3 (10.0%) 0 (0.0%) 0 (0.0%) gbr 50-249 ict 0 (0.0%) 18 (60.0%) 10 (33...,ICT sector data - preserved,0.95
+11111,0.0,percentage,2024,general_rate,36.7%) 3 (10.0%) 0 (0.0%) 0 (0.0%) gbr 50-249 ict 0 (0.0%) 18 (60.0%) 10 (33.3%) 0 (0.0%) 2 (6.7%) 0...,ICT sector data - preserved,0.95
+11112,0.0,percentage,2024,general_rate,0%) gbr 50-249 ict 0 (0.0%) 18 (60.0%) 10 (33.3%) 0 (0.0%) 2 (6.7%) 0 (0.0%) manufacturing 0 (0.0%) ...,ICT sector data - preserved,0.95
+11115,0.0,percentage,2024,general_rate,g 0 (0.0%) 16 (53.3%) 6 (20.0%) 1 (3.3%) 7 (23.3%) 0 (0.0%) 250+ ict 0 (0.0%) 12 (40.0%) 12 (40.0%) ...,ICT sector data - preserved,0.95
+11116,0.0,percentage,2024,general_rate,6 (20.0%) 1 (3.3%) 7 (23.3%) 0 (0.0%) 250+ ict 0 (0.0%) 12 (40.0%) 12 (40.0%) 1 (3.3%) 2 (6.7%) 3 (1...,ICT sector data - preserved,0.95
+11117,0.0,percentage,2024,general_rate,ng 1 (3.3%) 20 (66.7%) 6 (20.0%) 2 (6.7%) 1 (3.3%) 0 (0.0%) ita 50-249 ict 0 (0.0%) 15 (50.0%) 14 (4...,ICT sector data - preserved,0.95
+11118,0.0,percentage,2024,general_rate,(20.0%) 2 (6.7%) 1 (3.3%) 0 (0.0%) ita 50-249 ict 0 (0.0%) 15 (50.0%) 14 (46.7%) 0 (0.0%) 1 (3.3%) 0...,ICT sector data - preserved,0.95
+11119,0.0,percentage,2024,general_rate,0%) ita 50-249 ict 0 (0.0%) 15 (50.0%) 14 (46.7%) 0 (0.0%) 1 (3.3%) 0 (0.0%) manufacturing 0 (0.0%) ...,ICT sector data - preserved,0.95
+11122,0.0,percentage,2024,general_rate,manufacturing 0 (0.0%) 19 (63.3%) 10 (33.3%) 0 (0.0%) 1 (3.3%) 0 (0.0%) 250+ ict 0 (0.0%) 15 (50.0%)...,ICT sector data - preserved,0.95
+11123,0.0,percentage,2024,general_rate,g 0 (0.0%) 19 (63.3%) 10 (33.3%) 0 (0.0%) 1 (3.3%) 0 (0.0%) 250+ ict 0 (0.0%) 15 (50.0%) 13 (43.3%) ...,ICT sector data - preserved,0.95
+11124,0.0,percentage,2024,general_rate,10 (33.3%) 0 (0.0%) 1 (3.3%) 0 (0.0%) 250+ ict 0 (0.0%) 15 (50.0%) 13 (43.3%) 0 (0.0%) 2 (6.7%) 0 (0...,ICT sector data - preserved,0.95
+11125,0.0,percentage,2024,general_rate,(0.0%) 250+ ict 0 (0.0%) 15 (50.0%) 13 (43.3%) 0 (0.0%) 2 (6.7%) 0 (0.0%) manufacturing 0 (0.0%) 23 ...,ICT sector data - preserved,0.95
+11128,0.0,percentage,2024,general_rate,anufacturing 0 (0.0%) 23 (76.7%) 6 (20.0%) 1 (3.3%) 0 (0.0%) 0 (0.0%) jpn 50-249 ict 0 (0.0%) 9 (30....,ICT sector data - preserved,0.95
+11129,0.0,percentage,2024,general_rate,ng 0 (0.0%) 23 (76.7%) 6 (20.0%) 1 (3.3%) 0 (0.0%) 0 (0.0%) jpn 50-249 ict 0 (0.0%) 9 (30.0%) 16 (53...,ICT sector data - preserved,0.95
+11130,0.0,percentage,2024,general_rate,(20.0%) 1 (3.3%) 0 (0.0%) 0 (0.0%) jpn 50-249 ict 0 (0.0%) 9 (30.0%) 16 (53.3%) 0 (0.0%) 5 (16.7%) 0...,ICT sector data - preserved,0.95
+11131,0.0,percentage,2024,general_rate,.0%) jpn 50-249 ict 0 (0.0%) 9 (30.0%) 16 (53.3%) 0 (0.0%) 5 (16.7%) 0 (0.0%) manufacturing 0 (0.0%)...,ICT sector data - preserved,0.95
+11134,0.0,percentage,2024,general_rate,manufacturing 0 (0.0%) 11 (36.7%) 18 (60.0%) 0 (0.0%) 1 (3.3%) 0 (0.0%) 250+ ict 0 (0.0%) 17 (56.7%)...,ICT sector data - preserved,0.95
+11135,0.0,percentage,2024,general_rate,g 0 (0.0%) 11 (36.7%) 18 (60.0%) 0 (0.0%) 1 (3.3%) 0 (0.0%) 250+ ict 0 (0.0%) 17 (56.7%) 12 (40.0%) ...,ICT sector data - preserved,0.95
+11136,0.0,percentage,2024,general_rate,18 (60.0%) 0 (0.0%) 1 (3.3%) 0 (0.0%) 250+ ict 0 (0.0%) 17 (56.7%) 12 (40.0%) 0 (0.0%) 1 (3.3%) 0 (0...,ICT sector data - preserved,0.95
+11137,0.0,percentage,2024,general_rate,(0.0%) 250+ ict 0 (0.0%) 17 (56.7%) 12 (40.0%) 0 (0.0%) 1 (3.3%) 0 (0.0%) 188  the adoption of arti...,ICT sector data - preserved,0.95
+11141,0.0,percentage,2024,general_rate,nufacturing 0 (0.0%) 15 (50.0%) 13 (43.3%) 1 (3.3%) 0 (0.0%) 1 (3.3%) usa 50-249 ict 1 (3.3%) 16 (53...,ICT sector data - preserved,0.95
+11142,0.0,percentage,2024,general_rate,.3%) usa 50-249 ict 1 (3.3%) 16 (53.3%) 8 (26.7%) 0 (0.0%) 5 (16.7%) 0 (0.0%) manufacturing 0 (0.0%)...,ICT sector data - preserved,0.95
+11145,0.0,percentage,2024,general_rate,g 0 (0.0%) 14 (46.7%) 13 (43.3%) 1 (3.3%) 2 (6.7%) 0 (0.0%) 250+ ict 0 (0.0%) 19 (63.3%) 5 (16.7%) 4...,ICT sector data - preserved,0.95
+11146,0.0,percentage,2024,general_rate,13 (43.3%) 1 (3.3%) 2 (6.7%) 0 (0.0%) 250+ ict 0 (0.0%) 19 (63.3%) 5 (16.7%) 4 (13.3%) 2 (6.7%) 0 (0...,ICT sector data - preserved,0.95
+11180,1.9,percentage,2017,percentages,r of survey) Country Manufacturing ICT Source Canada 1.9% 20.4% Statistics Canada (2017) Germany 2.2...,ICT sector data - preserved,0.95
+11181,20.4,percentage,2017,percentages,survey) Country Manufacturing ICT Source Canada 1.9% 20.4% Statistics Canada (2017) Germany 2.2-11.0...,ICT sector data - preserved,0.95
+11213,70.0,percentage,2025,percentages,opt and develop AI. Most use several mechanisms. More than 70% of enterprises in both manufacturing ...,ICT sector data - preserved,0.95
+11234,62.0,percentage,2025,percentages,ty in estimating a priori the ROI in AI applications. Some 62% of manufacturers and 56% of enterpris...,ICT sector data - preserved,0.95
+11235,56.0,percentage,2025,percentages,the ROI in AI applications. Some 62% of manufacturers and 56% of enterprises in ICT cite this as pro...,ICT sector data - preserved,0.95
+11236,40.0,percentage,2025,percentages,Source: OECD/BCG/INSEAD interviews with enterprises. Over 40% of manufacturing and ICT enterprises r...,ICT sector data - preserved,0.95
+11239,33.0,percentage,2025,percentages,onsiderably less likely to report such financial barriers (33% in manufacturing and 30% in ICT). Rou...,ICT sector data - preserved,0.95
+11240,30.0,percentage,2025,percentages,o report such financial barriers (33% in manufacturing and 30% in ICT). Roughly every second enterpr...,ICT sector data - preserved,0.95
+11241,45.0,percentage,2025,percentages,"reluctance of some staff to retrain or upskill, as cited by 45% of manufacturers and 34% of enterpri...",ICT sector data - preserved,0.95
+11242,34.0,percentage,2025,percentages,"to retrain or upskill, as cited by 45% of manufacturers and 34% of enterprises in ICT. Manufacturers...",ICT sector data - preserved,0.95
+11243,60.0,percentage,2025,percentages,"the most frequently cited obstacle, both in manufacturing (60%) and ICT (56%). Approximately every s...",ICT sector data - preserved,0.95
+11244,56.0,percentage,2025,percentages,"ently cited obstacle, both in manufacturing (60%) and ICT (56%). Approximately every second enterpri...",ICT sector data - preserved,0.95
+11246,75.0,percentage,2025,percentages,"uring are those providing access to information or advice (75% in manufacturing, 69% in ICT). Initia...",ICT sector data - preserved,0.95
+11247,69.0,percentage,2025,investment,"ing access to information or advice (75% in manufacturing, 69% in ICT). Initiatives to develop human...",ICT sector data - preserved,0.95
+11293,249.0,number,2025,labor_metrics,"ICT] services), and two enterprise size classes (from 50 to 249 employees and from 250 employees upw...",ICT sector data - preserved,0.95

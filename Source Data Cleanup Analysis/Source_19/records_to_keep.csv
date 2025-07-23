@@ -1,0 +1,31 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence
+5180,36.0,percentage,2025,adoption_rate,"usage of ai extends more broadly across the economy, with ∼36% of occupations using ai for at least ...",Passed all validation checks,0.85
+5181,57.0,percentage,2025,percentages,"ks. we also analyze how ai is being used for tasks, finding 57% of usage suggests augmentation of hu...",Passed all validation checks,0.85
+5182,43.0,percentage,2025,percentages,"pabilities (e.g., learning or iterating on an output) while 43% suggests automation (e.g., fulfillin...",Passed all validation checks,0.85
+5183,4.0,percentage,2025,percentages,ify the depth of ai use within occupations (figure 4) only ∼4% of occupations exhibit ai usage for a...,Passed all validation checks,0.85
+5184,75.0,percentage,2025,percentages,"re 4) only ∼4% of occupations exhibit ai usage for at least 75% of their tasks, suggesting the poten...",Passed all validation checks,0.85
+5186,25.0,percentage,2025,percentages,"s. more broadly, ∼36% of occupations show usage in at least 25% of their tasks, indicating that ai h...",Passed all validation checks,0.85
+5190,39.0,percentage,2024,percentages,", 2024], while a subsequent study in august 2024 found that 39% of working-age us adults had used ge...",Passed all validation checks,0.85
+5191,37.2,percentage,2025,percentages,"tions show the highest associated ai usage rate, comprising 37.2% of all queries. • arts, design, en...",Passed all validation checks,0.85
+5192,10.3,percentage,2025,percentages,"ent, sports, and media occupations were second most common (10.3%), likely reflecting the prevalence...",Passed all validation checks,0.85
+5200,11.0,percentage,2025,percentages,iting grant proposals or maintaining student records. just ∼11% of occupations show usage for half o...,Passed all validation checks,0.85
+5201,50.0,percentage,2025,percentages,"more of their tasks, as illustrated by marketing managers (50% of tasks) where we see ai usage in ta...",Passed all validation checks,0.85
+5208,80.0,percentage,2023,employment,highest-wage sectors. eloundou et al. [2023] predicted that 80% of u.s. workers could have at least ...,Passed all validation checks,0.85
+5209,10.0,percentage,2025,employment,023] predicted that 80% of u.s. workers could have at least 10% of their work tasks affected by lang...,Passed all validation checks,0.85
+5216,0.1,percentage,2025,percentages,"our analyses, we filtered out these classifications as only 0.1% of conversations were labeled none....",Passed all validation checks,0.85
+5217,54.0,percentage,2025,percentages,ious task categories. our sample consisted of approximately 54% claude 3.5 sonnet (new) conversation...,Passed all validation checks,0.85
+5218,46.0,percentage,2025,percentages,approximately 54% claude 3.5 sonnet (new) conversations and 46% claude 3 opus conversations. b.7 val...,Passed all validation checks,0.85
+5219,23.0,percentage,2025,percentages,"reening, we found that non-work conversations only comprise 23% of the dataset, and usage relating t...",Passed all validation checks,0.85
+5221,95.3,percentage,2025,percentages,"ssigned at each level of the hierarchy: • at the top level, 95.3% of conversations are judged as ass...",Passed all validation checks,0.85
+5222,91.3,percentage,2025,percentages,"d as assigned to an acceptable task. • at the middle level, 91.3% of conversations are judged as ass...",Passed all validation checks,0.85
+5223,86.0,percentage,2025,percentages,"ssigned to an acceptable task. • at the base (o*net) level, 86% of conversations are judged as assig...",Passed all validation checks,0.85
+5224,90.7,percentage,2025,percentages,the best categorization for each conversation. we find that 90.7% of conversations are assigned to t...,Passed all validation checks,0.85
+5226,20.0,percentage,2025,percentages,"t, culture, and religious artifacts making up approximately 20% of conversations. business managemen...",Passed all validation checks,0.85
+5227,15.0,percentage,2025,percentages,service operations form the third major category at around 15% of conversations. the remaining categ...,Passed all validation checks,0.85
+5229,5.0,percentage,2025,percentages,ronmental systems showing lower representation at less than 5% each. at the middle-level (figure 12)...,Passed all validation checks,0.85
+5230,14.0,percentage,2025,percentages,"website maintenance is the most prevalent activity at about 14% of conversations, followed by comput...",Passed all validation checks,0.85
+5232,6.0,percentage,2025,percentages,"oting, and document publishing processes each account for 4-6% of conversations. marketing/promotion...",Passed all validation checks,0.85
+5233,3.0,percentage,2025,percentages,lations management appear but at lower frequencies around 2-3% each. data science and machine learni...,Passed all validation checks,0.85
+5234,2.0,percentage,2025,percentages,e and machine learning applications represent approximately 2% of conversations. at the base-level (...,Passed all validation checks,0.85
+5237,50.0,usd,2025,dollar_amounts,"age is highest for occupations with a median salary between $50,000 and $125,000. figure 21: number ...",Passed all validation checks,0.85
+5238,125.0,usd,2025,dollar_amounts,"st for occupations with a median salary between $50,000 and $125,000. figure 21: number of occupatio...",Passed all validation checks,0.85

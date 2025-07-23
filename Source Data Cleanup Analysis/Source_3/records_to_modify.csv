@@ -1,0 +1,3 @@
+original_id,value,unit,year,current_metric_type,new_metric_type,context_preview,sector,country,company_size,reason,confidence
+85,56.0,percentage,2024,general_rate,productivity_metric,"platforms, data, and infrastructure to get the most value. 56% of organizations say productivity and...",,,,Reclassify: general_rate → productivity_metric,0.8
+86,43.0,percentage,2024,general_rate,productivity_metric,th are the two most important business outcomes for ai.1 43% of leaders say productivity use cases a...,,,,Reclassify: general_rate → productivity_metric,0.8

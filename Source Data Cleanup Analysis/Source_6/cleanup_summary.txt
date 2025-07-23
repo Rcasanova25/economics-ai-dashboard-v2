@@ -1,0 +1,16 @@
+SOURCE 6 CLEANUP ANALYSIS SUMMARY
+Generated: 2025-07-23T15:05:54.155226
+
+FILE: Assessing the Impact of Artificial Intelligence Tools on Employee.pdf
+Original Records: 374
+
+PROPOSED ACTIONS:
+- Records to KEEP: 100
+- Records to REMOVE: 264
+- Records to MODIFY: 10
+
+Quality Score: 26.74%
+
+Top removal reason: Duplicate record (263 records)
+
+Please review the detailed reports before proceeding with cleanup.

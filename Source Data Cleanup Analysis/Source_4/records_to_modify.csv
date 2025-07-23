@@ -1,0 +1,11 @@
+original_id,value,unit,year,current_metric_type,new_metric_type,context_preview,sector,country,company_size,reason,confidence
+96,10.0,percentage,2024,general_rate,cost_metric,ificant time savings and half report a revenue increase of 10% or more. with many companies still at...,,,,Reclassify: general_rate → cost_metric,0.8
+97,70.0,percentage,2024,general_rate,adoption_metric,inesses today are using gai for innovation and creativity (70%) than to automate repetitive tasks (6...,,,,Reclassify: general_rate → adoption_metric,0.8
+100,90.0,percentage,2024,general_rate,employment_metric,eing outpaced by large companies. smbs represent more than 90% of businesses and 50% of workers worl...,,,,Reclassify: general_rate → employment_metric,0.8
+101,15.0,percentage,2023,general_rate,productivity_metric,"ocking $4.1 trillion in productive capacity, equivalent to 15% of the country’s gdp in 2023. the us ...",,,,Reclassify: general_rate → productivity_metric,0.8
+103,41.0,percentage,2024,general_rate,productivity_metric,"oduct design, and market research. in india, nearly half (41%) of total productive capacity gains fr...",,,,Reclassify: general_rate → productivity_metric,0.8
+104,35.0,percentage,2024,general_rate,productivity_metric,"in the manufacturing sector, with germany close behind at 35%. greater innovation and productivity i...",manufacturing,,,Reclassify: general_rate → productivity_metric,0.8
+112,8.0,percentage,2024,general_rate,adoption_metric,% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6 50% 56% 73% early a...,,,,Reclassify: general_rate → adoption_metric,0.8
+113,46.0,percentage,2024,general_rate,adoption_metric,"ts say they struggle with the pace and volume of work, and 46% feel burned out. using ai tools can h...",,,,Reclassify: general_rate → adoption_metric,0.8
+114,25.0,percentage,2024,general_rate,adoption_metric,r organization-wide adoption compared to large businesses (25% vs. 20% of large businesses). strateg...,,,,Reclassify: general_rate → adoption_metric,0.8
+117,1.0,percentage,2024,general_rate,employment_metric,the pool of ai engineering talent is very small – less than 1% of the workforce globally – and many ...,,,,Reclassify: general_rate → employment_metric,0.8

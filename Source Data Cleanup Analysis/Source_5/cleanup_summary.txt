@@ -1,0 +1,16 @@
+SOURCE 5 CLEANUP ANALYSIS SUMMARY
+Generated: 2025-07-23T14:55:43.792425
+
+FILE: AI100Report_MT_10.pdf
+Original Records: 126
+
+PROPOSED ACTIONS:
+- Records to KEEP: 32
+- Records to REMOVE: 94
+- Records to MODIFY: 0
+
+Quality Score: 25.4%
+
+Top removal reason: Duplicate record (89 records)
+
+Please review the detailed reports before proceeding with cleanup.

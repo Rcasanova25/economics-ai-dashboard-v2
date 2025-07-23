@@ -1,0 +1,459 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence,proposed_action,kept_record_id
+889,252.3,billions_usd,2025,investment,nan,Passed all validation checks,0.85,KEEP,
+890,0.01,unknown,2025,carbon_emissions,nan,Passed all validation checks,0.85,KEEP,
+5497,252.3,billions_usd,2025,investment,nan,Duplicate record (keeping first occurrence),0.9,REMOVE,889.0
+5498,0.01,unknown,2025,carbon_emissions,nan,Duplicate record (keeping first occurrence),0.9,REMOVE,890.0
+5499,18.7,percentage,2023,investment,attracting $33.9 billion globally in private investment—an 18.7% increase from 2023. ai business usa...,Passed all validation checks,0.85,KEEP,
+5500,78.0,percentage,2023,adoption_rate,increase from 2023. ai business usage is also accelerating: 78% of organizations reported using ai i...,Passed all validation checks,0.85,KEEP,
+5501,55.0,percentage,2024,adoption_rate,"g: 78% of organizations reported using ai in 2024, up from 55% the year before. meanwhile, a growing...",Passed all validation checks,0.85,KEEP,
+5502,83.0,percentage,2025,percentages,"—but deep regional divides remain. in countries like china (83%), indonesia (80%), and thailand (77%...",Passed all validation checks,0.85,KEEP,
+5503,80.0,percentage,2025,percentages,"l divides remain. in countries like china (83%), indonesia (80%), and thailand (77%), strong majorit...",Passed all validation checks,0.85,KEEP,
+5504,77.0,percentage,2025,percentages,"countries like china (83%), indonesia (80%), and thailand (77%), strong majorities see ai products a...",Passed all validation checks,0.85,KEEP,
+5505,40.0,percentage,2025,percentages,"ontrast, optimism remains far lower in places like canada (40%), the united states (39%), and the ne...",Passed all validation checks,0.85,KEEP,
+5506,39.0,percentage,2025,percentages,"far lower in places like canada (40%), the united states (39%), and the netherlands (36%). still, se...",Passed all validation checks,0.85,KEEP,
+5507,36.0,percentage,2022,percentages,"canada (40%), the united states (39%), and the netherlands (36%). still, sentiment is shifting: sinc...",Passed all validation checks,0.85,KEEP,
+5508,10.0,percentage,2025,percentages,"several previously skeptical countries, including germany (+10%), france (+10%), canada (+8%), great...",Passed all validation checks,0.85,KEEP,
+5509,10.0,percentage,2025,percentages,"sly skeptical countries, including germany (+10%), france (+10%), canada (+8%), great britain (+8%),...",Duplicate record (keeping first occurrence),0.9,REMOVE,5508.0
+5510,8.0,percentage,2025,percentages,"untries, including germany (+10%), france (+10%), canada (+8%), great britain (+8%), and the united ...",Passed all validation checks,0.85,KEEP,
+5511,8.0,percentage,2025,percentages,"rmany (+10%), france (+10%), canada (+8%), great britain (+8%), and the united states (+4%). 7. ai b...",Duplicate record (keeping first occurrence),0.9,REMOVE,5510.0
+5512,4.0,percentage,2025,percentages,"canada (+8%), great britain (+8%), and the united states (+4%). 7. ai becomes more efficient, afford...",Passed all validation checks,0.85,KEEP,
+5513,30.0,percentage,2024,cost,"ctober 2024. at the hardware level, costs have declined by 30% annually, while energy efficiency has...",Passed all validation checks,0.85,KEEP,
+5514,40.0,percentage,2025,productivity,"ed by 30% annually, while energy efficiency has improved by 40% each year. open-weight models are cl...",Duplicate record (keeping first occurrence),0.9,REMOVE,5505.0
+5515,8.0,percentage,2025,percentages,"ith closed models, reducing the performance difference from 8% to just 1.7% on some benchmarks in a ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5510.0
+5516,1.7,percentage,2025,percentages,"models, reducing the performance difference from 8% to just 1.7% on some benchmarks in a single year...",Passed all validation checks,0.85,KEEP,
+5517,21.3,percentage,2023,growth_rate,"s many agencies. globally, legislative mentions of ai rose 21.3% across 75 countries since 2023, mar...",Passed all validation checks,0.85,KEEP,
+5518,22.0,percentage,2025,growth_rate,raduates with bachelor’s degrees in computing has increased 22% over the last 10 years. yet access r...,Passed all validation checks,0.85,KEEP,
+5519,81.0,percentage,2025,percentages,"to basic infrastructure gaps like electricity. in the u.s., 81% of k–12 cs teachers say ai should be...",Passed all validation checks,0.85,KEEP,
+5520,90.0,percentage,2024,percentages,s racing ahead in ai—but the frontier is tightening. nearly 90% of notable ai models in 2024 came fr...,Passed all validation checks,0.85,KEEP,
+5521,60.0,percentage,2024,percentages,"% of notable ai models in 2024 came from industry, up from 60% in 2023, while academia remains the t...",Passed all validation checks,0.85,KEEP,
+5522,11.9,percentage,2025,percentages,"difference between the top and 10th-ranked models fell from 11.9% to 5.4% in a year, and the top two...",Passed all validation checks,0.85,KEEP,
+5523,5.4,percentage,2025,percentages,"e between the top and 10th-ranked models fell from 11.9% to 5.4% in a year, and the top two are now ...",Passed all validation checks,0.85,KEEP,
+5524,0.7,percentage,2025,percentages,"5.4% in a year, and the top two are now separated by just 0.7%. the frontier is increasingly competi...",Passed all validation checks,0.85,KEEP,
+5525,90.0,percentage,2024,percentages,"index reports, has only grown more pronounced, with nearly 90% of notable models in 2024 (compared t...",Duplicate record (keeping first occurrence),0.9,REMOVE,5520.0
+5526,60.0,percentage,2024,percentages,"ced, with nearly 90% of notable models in 2024 (compared to 60% in 2023) originating from industry. ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5521.0
+5527,23.2,percentage,2023,percentages,"al research. in 2023, china produced more ai publications (23.2%) and citations (22.6%) than any oth...",Passed all validation checks,0.85,KEEP,
+5528,22.6,percentage,2025,percentages,china produced more ai publications (23.2%) and citations (22.6%) than any other country. over the p...,Passed all validation checks,0.85,KEEP,
+5529,21.6,percentage,2013,percentages,ai’s share of computer science publications has risen from 21.6% in 2013 to 41.8% in 2023. 4. the un...,Passed all validation checks,0.85,KEEP,
+5530,41.8,percentage,2013,percentages,puter science publications has risen from 21.6% in 2013 to 41.8% in 2023. 4. the united states conti...,Passed all validation checks,0.85,KEEP,
+5531,29.6,percentage,2023,percentages,". in just the last year, the number of ai patents has risen 29.6%. as of 2023, china leads in total ...",Passed all validation checks,0.85,KEEP,
+5532,69.7,percentage,2023,percentages,"s of 2023, china leads in total ai patents, accounting for 69.7% of all grants, while south korea an...",Passed all validation checks,0.85,KEEP,
+5533,43.0,percentage,2025,percentages,"ce, measured in 16-bit floating-point operations, has grown 43% annually, doubling every 1.9 years. ...",Passed all validation checks,0.85,KEEP,
+5534,30.0,percentage,2025,cost,"years. price performance has improved, with costs dropping 30% per year, while energy efficiency has...",Passed all validation checks,0.85,KEEP,
+5535,40.0,percentage,2025,productivity,"ping 30% per year, while energy efficiency has increased by 40% annually. 9. carbon emissions from a...",Duplicate record (keeping first occurrence),0.9,REMOVE,5505.0
+5536,4.4,percentage,2023,percentages,"qa, respectively. on swe-bench, ai systems could solve just 4.4% of coding problems in 2023—a figure...",Passed all validation checks,0.85,KEEP,
+5537,71.7,percentage,2023,percentages,st 4.4% of coding problems in 2023—a figure that jumped to 71.7% in 2024. 2. open-weight models catc...,Passed all validation checks,0.85,KEEP,
+5538,8.0,percentage,2025,percentages,sed- weight model outperformed the top open-weight model by 8.0% on the chatbot arena leaderboard. b...,Duplicate record (keeping first occurrence),0.9,REMOVE,5510.0
+5539,1.7,percentage,2025,percentages,"na leaderboard. by february 2025, this gap had narrowed to 1.7%. chapter 1: research and development...",Duplicate record (keeping first occurrence),0.9,REMOVE,5516.0
+5540,11.9,percentage,2025,percentages,"and 10th-ranked model on the chatbot arena leaderboard was 11.9%. by early 2025, this gap had narrow...",Duplicate record (keeping first occurrence),0.9,REMOVE,5522.0
+5541,5.4,percentage,2025,percentages,"erboard was 11.9%. by early 2025, this gap had narrowed to 5.4%. likewise, the difference between th...",Duplicate record (keeping first occurrence),0.9,REMOVE,5523.0
+5542,4.9,percentage,2023,percentages,"wise, the difference between the top two models shrank from 4.9% in 2023 to just 0.7% in 2024. the a...",Passed all validation checks,0.85,KEEP,
+5543,0.7,percentage,2023,percentages,between the top two models shrank from 4.9% in 2023 to just 0.7% in 2024. the ai landscape is becomi...,Passed all validation checks,0.85,KEEP,
+5544,74.4,percentage,2025,percentages,"approach dramatically improved performance, with o1 scoring 74.4% on an international mathematical o...",Passed all validation checks,0.85,KEEP,
+5545,9.3,percentage,2025,cost,"athematical olympiad qualifying exam, compared to gpt-4o’s 9.3%. however, this enhanced reasoning co...",Passed all validation checks,0.85,KEEP,
+5546,8.8,percentage,2025,percentages,", a rigorous academic test where the top system scores just 8.80%; frontiermath, a complex mathemati...",Passed all validation checks,0.85,KEEP,
+5547,2.0,percentage,2025,percentages,"complex mathematics benchmark where ai systems solve only 2% of problems; and bigcodebench, a coding...",Passed all validation checks,0.85,KEEP,
+5548,35.5,percentage,2025,percentages,"igcodebench, a coding benchmark where ai systems achieve a 35.5% success rate—well below the human s...",Passed all validation checks,0.85,KEEP,
+5549,97.0,percentage,2025,percentages,ieve a 35.5% success rate—well below the human standard of 97%. 7. high-quality ai video generators ...,Passed all validation checks,0.85,KEEP,
+5550,60.0,percentage,2022,percentages,"in 2022, the smallest model registering a score higher than 60% on mmlu was palm, with 540 billion p...",Passed all validation checks,0.85,KEEP,
+5551,56.4,percentage,2024,growth_rate,i-related incidents rose to 233 in 2024—a record high and a 56.4% increase over 2023. chapter 2: tec...,Passed all validation checks,0.85,KEEP,
+5552,64.0,percentage,2025,percentages,"e, and cybersecurity were top of mind for leaders with only 64%, 63%, and 60% of respondents, respec...",Passed all validation checks,0.85,KEEP,
+5553,63.0,percentage,2025,percentages,"d cybersecurity were top of mind for leaders with only 64%, 63%, and 60% of respondents, respectivel...",Passed all validation checks,0.85,KEEP,
+5554,60.0,percentage,2025,percentages,"curity were top of mind for leaders with only 64%, 63%, and 60% of respondents, respectively, citing...",Passed all validation checks,0.85,KEEP,
+5555,7.0,percentage,2025,percentages,"dataset, the proportion of restricted tokens jumped from 5–7% to 20–33%. this decline has consequenc...",Passed all validation checks,0.85,KEEP,
+5556,33.0,percentage,2025,percentages,the proportion of restricted tokens jumped from 5–7% to 20–33%. this decline has consequences for da...,Passed all validation checks,0.85,KEEP,
+5557,37.0,percentage,2023,growth_rate,nsparency score among major model developers increased from 37% in october 2023 to 58% in may 2024. ...,Passed all validation checks,0.85,KEEP,
+5558,58.0,percentage,2023,growth_rate,ajor model developers increased from 37% in october 2023 to 58% in may 2024. while these gains are p...,Passed all validation checks,0.85,KEEP,
+5559,28.8,percentage,2023,growth_rate,"rai papers accepted at leading ai conferences increased by 28.8%, from 992 in 2023 to 1,278 in 2024,...",Passed all validation checks,0.85,KEEP,
+5560,26.0,percentage,2025,investment,ights 1. global private ai investment hits record high with 26% growth. corporate ai investment reac...,Passed all validation checks,0.85,KEEP,
+5561,44.5,percentage,2024,investment,"d $252.3 billion in 2024, with private investment climbing 44.5% and mergers and acquisitions up 12....",Passed all validation checks,0.85,KEEP,
+5562,12.1,percentage,2025,investment,e investment climbing 44.5% and mergers and acquisitions up 12.1% from the previous year. the sector...,Passed all validation checks,0.85,KEEP,
+5563,18.7,percentage,2024,percentages,"vestment in generative ai reached $33.9 billion in 2024, up 18.7% from 2023 and over 8.5 times highe...",Passed all validation checks,0.85,KEEP,
+5564,20.0,percentage,2022,investment,igher than 2022 levels. the sector now represents more than 20% of all ai-related private investment...,Passed all validation checks,0.85,KEEP,
+5565,78.0,percentage,2023,percentages,"pondents reporting ai use by their organizations jumped to 78% from 55% in 2023. similarly, the numb...",Duplicate record (keeping first occurrence),0.9,REMOVE,5500.0
+5566,55.0,percentage,2023,percentages,"reporting ai use by their organizations jumped to 78% from 55% in 2023. similarly, the number of res...",Passed all validation checks,0.85,KEEP,
+5567,33.0,percentage,2023,percentages,i in at least one business function more than doubled—from 33% in 2023 to 71% last year. chapter 4: ...,Passed all validation checks,0.85,KEEP,
+5568,71.0,percentage,2023,percentages,one business function more than doubled—from 33% in 2023 to 71% last year. chapter 4: economy artifi...,Passed all validation checks,0.85,KEEP,
+5569,49.0,percentage,2025,percentages,ess function estimate the benefits as being at low levels. 49% of respondents whose organizations us...,Passed all validation checks,0.85,KEEP,
+5570,43.0,percentage,2025,cost,"report cost savings, followed by supply chain management (43%) and software engineering (41%), but m...",Duplicate record (keeping first occurrence),0.9,REMOVE,5533.0
+5571,41.0,percentage,2025,cost,"by supply chain management (43%) and software engineering (41%), but most of them report cost saving...",Passed all validation checks,0.85,KEEP,
+5572,10.0,percentage,2025,adoption_rate,"ng (41%), but most of them report cost savings of less than 10%. with regard to revenue, 71% of resp...",Duplicate record (keeping first occurrence),0.9,REMOVE,5508.0
+5573,71.0,percentage,2025,adoption_rate,"ort cost savings of less than 10%. with regard to revenue, 71% of respondents using ai in marketing ...",Passed all validation checks,0.85,KEEP,
+5574,63.0,percentage,2025,adoption_rate,"dents using ai in marketing and sales report revenue gains, 63% in supply chain management, and 57% ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5553.0
+5575,57.0,percentage,2025,revenue,"report revenue gains, 63% in supply chain management, and 57% in service operations, but the most co...",Passed all validation checks,0.85,KEEP,
+5576,5.0,percentage,2025,revenue,but the most common level of revenue increases is less than 5%. 6. use of ai shows dramatic shifts b...,Passed all validation checks,0.85,KEEP,
+5577,20.8,percentage,2013,percentages,". since surpassing japan in 2013, when china accounted for 20.8% of global installations, its share ...",Passed all validation checks,0.85,KEEP,
+5578,51.1,percentage,2025,percentages,"d for 20.8% of global installations, its share has risen to 51.1%. while china continues to install ...",Passed all validation checks,0.85,KEEP,
+5579,2.8,percentage,2017,percentages,"e common. in 2017, collaborative robots represented a mere 2.8% of all new industrial robot installa...",Passed all validation checks,0.85,KEEP,
+5580,10.5,percentage,2023,percentages,"ew industrial robot installations, a figure that climbed to 10.5% by 2023. similarly, 2023 saw a ris...",Passed all validation checks,0.85,KEEP,
+5581,96.0,percentage,2025,percentages,. openai’s recently released o1 set a new state- of-the-art 96.0% on the medqa benchmark—a 5.8 perce...,Passed all validation checks,0.85,KEEP,
+5582,31.0,percentage,2025,percentages,"ence databases has grown significantly, including uniprot (31%), pdb (23%), and alphafold (585%). th...",Passed all validation checks,0.85,KEEP,
+5583,23.0,percentage,2025,percentages,"ases has grown significantly, including uniprot (31%), pdb (23%), and alphafold (585%). this expansi...",Passed all validation checks,0.85,KEEP,
+5584,585.0,percentage,2025,percentages,"icantly, including uniprot (31%), pdb (23%), and alphafold (585%). this expansion has important impl...",Passed all validation checks,0.85,KEEP,
+5585,21.3,percentage,2024,growth_rate,"tries, ai mentions in legislative proceedings increased by 21.3% in 2024, rising to 1,889 from 1,557...",Passed all validation checks,0.85,KEEP,
+5586,81.0,percentage,2025,adoption_rate,to teach ai but do not feel equipped to do so. despite the 81% of cs teachers who agree that using a...,Duplicate record (keeping first occurrence),0.9,REMOVE,5519.0
+5587,52.0,percentage,2022,percentages,nd services as more beneficial than harmful has risen from 52% in 2022 to 55% in 2024. 2. the expect...,Passed all validation checks,0.85,KEEP,
+5588,55.0,percentage,2022,percentages,more beneficial than harmful has risen from 52% in 2022 to 55% in 2024. 2. the expectation and ackno...,Passed all validation checks,0.85,KEEP,
+5589,17.0,percentage,2022,percentages,"s perception since 2022, with the largest jumps in canada (17%) and germany (15%). 3. skepticism abo...",Passed all validation checks,0.85,KEEP,
+5590,15.0,percentage,2022,percentages,"e 2022, with the largest jumps in canada (17%) and germany (15%). 3. skepticism about the ethical co...",Passed all validation checks,0.85,KEEP,
+5591,50.0,percentage,2023,percentages,"onfidence that ai companies protect personal data fell from 50% in 2023 to 47% in 2024. likewise, fe...",Passed all validation checks,0.85,KEEP,
+5592,47.0,percentage,2023,percentages,"ai companies protect personal data fell from 50% in 2023 to 47% in 2024. likewise, fewer people toda...",Passed all validation checks,0.85,KEEP,
+5593,83.0,percentage,2025,percentages,"ffer more benefits than drawbacks in countries like china (83%), indonesia (80%), and thailand (77%)...",Duplicate record (keeping first occurrence),0.9,REMOVE,5502.0
+5594,80.0,percentage,2025,percentages,"s than drawbacks in countries like china (83%), indonesia (80%), and thailand (77%), while only a mi...",Duplicate record (keeping first occurrence),0.9,REMOVE,5503.0
+5595,77.0,percentage,2025,percentages,"countries like china (83%), indonesia (80%), and thailand (77%), while only a minority share this vi...",Duplicate record (keeping first occurrence),0.9,REMOVE,5504.0
+5596,40.0,percentage,2025,percentages,"nd (77%), while only a minority share this view in canada (40%), the united states (39%), and the ne...",Duplicate record (keeping first occurrence),0.9,REMOVE,5505.0
+5597,39.0,percentage,2025,percentages,"nority share this view in canada (40%), the united states (39%), and the netherlands (36%). chapter ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5506.0
+5598,36.0,percentage,2025,percentages,"anada (40%), the united states (39%), and the netherlands (36%). chapter 7: education (cont’d) chapt...",Passed all validation checks,0.85,KEEP,
+5599,109.1,billions_usd,2024,investment,"tivity impacts. in 2024, u.s. private ai investment grew to $109.1 billion—nearly 12 times china’s $...",Passed all validation checks,0.85,KEEP,
+5600,9.3,billions_usd,2025,investment,i investment grew to $109.1 billion—nearly 12 times china’s $9.3 billion and 24 times the u.k.’s $4....,Passed all validation checks,0.85,KEEP,
+5601,4.5,billions_usd,2025,dollar_amounts,arly 12 times china’s $9.3 billion and 24 times the u.k.’s $4.5 billion. generative ai saw particula...,Passed all validation checks,0.85,KEEP,
+5602,33.9,billions_usd,2023,investment,"generative ai saw particularly strong momentum, attracting $33.9 billion globally in private investm...",Passed all validation checks,0.85,KEEP,
+5603,2.4,billions_usd,2025,dollar_amounts,"ention, governments are investing at scale: canada pledged $2.4 billion, china launched a $47.5 bill...",Passed all validation checks,0.85,KEEP,
+5604,47.5,billions_usd,2025,dollar_amounts,"ing at scale: canada pledged $2.4 billion, china launched a $47.5 billion semiconductor fund, france...",Passed all validation checks,0.85,KEEP,
+5605,1.25,billions_usd,2025,dollar_amounts,"nductor fund, france committed €109 billion, india pledged $1.25 billion, and saudi arabia’s project...",Passed all validation checks,0.85,KEEP,
+5606,100.0,billions_usd,2025,dollar_amounts,"lion, and saudi arabia’s project transcendence represents a $100 billion initiative. 9. ai and compu...",Passed all validation checks,0.85,KEEP,
+5607,20.0,usd,2022,dollar_amounts,"mark for assessing language model performance, dropped from $20.00 per million tokens in november 20...",Passed all validation checks,0.85,KEEP,
+5608,0.07,usd,2022,dollar_amounts,ed from $20.00 per million tokens in november 2022 to just $0.07 per million tokens by october 2024 ...,Passed all validation checks,0.85,KEEP,
+5609,252.3,billions_usd,2024,investment,"ecord high with 26% growth. corporate ai investment reached $252.3 billion in 2024, with private inv...",Passed all validation checks,0.85,KEEP,
+5610,33.9,billions_usd,2024,investment,"funding soars. private investment in generative ai reached $33.9 billion in 2024, up 18.7% from 2023...",Passed all validation checks,0.85,KEEP,
+5611,109.1,billions_usd,2024,investment,"lobal ai private investment. u.s. private ai investment hit $109.1 billion in 2024, nearly 12 times ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5599.0
+5612,9.3,billions_usd,2024,dollar_amounts,"109.1 billion in 2024, nearly 12 times higher than china’s $9.3 billion and 24 times the u.k.’s $4.5...",Passed all validation checks,0.85,KEEP,
+5613,4.5,billions_usd,2025,dollar_amounts,es higher than china’s $9.3 billion and 24 times the u.k.’s $4.5 billion. the gap is even more prono...,Duplicate record (keeping first occurrence),0.9,REMOVE,5601.0
+5614,25.4,billions_usd,2023,dollar_amounts,"ined total of china and the european union plus the u.k. by $25.4 billion, expanding on its $21.8 bi...",Passed all validation checks,0.85,KEEP,
+5615,21.8,billions_usd,2023,dollar_amounts,"ean union plus the u.k. by $25.4 billion, expanding on its $21.8 billion gap in 2023. 4. use of ai c...",Passed all validation checks,0.85,KEEP,
+5616,1.6,billions_usd,2025,energy,tracting interest in nuclear energy. microsoft announced a $1.6 billion deal to revive the three mil...,Passed all validation checks,0.85,KEEP,
+5617,2.4,billions_usd,2025,dollar_amounts,"s the world invest in ai infrastructure. canada announced a $2.4 billion ai infrastructure package, ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5603.0
+5618,47.5,billions_usd,2025,dollar_amounts,"billion ai infrastructure package, while china launched a $47.5 billion fund to boost semiconductor ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5604.0
+5619,117.0,billions_usd,2025,dollar_amounts,"on fund to boost semiconductor production. france committed $117 billion to ai infrastructure, india...",Passed all validation checks,0.85,KEEP,
+5620,1.25,billions_usd,2025,dollar_amounts,"committed $117 billion to ai infrastructure, india pledged $1.25 billion, and saudi arabia’s project...",Duplicate record (keeping first occurrence),0.9,REMOVE,5605.0
+5621,100.0,billions_usd,2025,investment,"illion, and saudi arabia’s project transcendence includes a $100 billion investment in ai. 3. across...",Duplicate record (keeping first occurrence),0.9,REMOVE,5606.0
+5622,20.0,usd,2022,dollar_amounts,"mark for assessing language model performance, dropped from $20.00 per million tokens in november 20...",Duplicate record (keeping first occurrence),0.9,REMOVE,5607.0
+5623,0.07,usd,2022,dollar_amounts,ed from $20.00 per million tokens in november 2022 to just $0.07 per million tokens by october 2024 ...,Duplicate record (keeping first occurrence),0.9,REMOVE,5608.0
+5624,20.0,usd,2022,dollar_amounts,"ark for assessing language model performance, dropped from $20 per million tokens in november 2022 t...",Duplicate record (keeping first occurrence),0.9,REMOVE,5607.0
+5625,0.07,usd,2022,dollar_amounts,opped from $20 per million tokens in november 2022 to just $0.07 per million tokens by october 2024 ...,Duplicate record (keeping first occurrence),0.9,REMOVE,5608.0
+5626,15.0,usd,2024,cost,"benchmark than mmlu. there, inference costs declined from $15 per million tokens in may 2024 to $0.1...",Passed all validation checks,0.85,KEEP,
+5627,0.12,usd,2024,cost,costs declined from $15 per million tokens in may 2024 to $0.12 per million tokens by december 2024 ...,Passed all validation checks,0.85,KEEP,
+5628,100.0,millions_usd,2024,dollar_amounts,"tman, for instance, indicated that training gpt-4 exceeded $100 million. in july 2024, anthropic ceo...",Passed all validation checks,0.85,KEEP,
+5629,1.0,billions_usd,2025,cost,dario amodei noted that model training runs costing around $1 billion were already underway. even mo...,Passed all validation checks,0.85,KEEP,
+5630,6.0,millions_usd,2025,cost,"nt models, such as deepseek-v3, reportedly cost less—about $6 million—but overall, training remains ...",Passed all validation checks,0.85,KEEP,
+5631,670.0,usd,2019,cost,"ure that underpins virtually every modern llm, cost around $670 to train. roberta large, released in...",Passed all validation checks,0.85,KEEP,
+5632,160.0,usd,2023,cost,"comprehension benchmarks like squad and glue, cost around $160,000 to train. fast-forward to 2023, a...",Passed all validation checks,0.85,KEEP,
+5633,79.0,millions_usd,2024,cost,nd training costs for openai’s gpt-4 were estimated around $79 million. one of the few 2024 models f...,Passed all validation checks,0.85,KEEP,
+5634,170.0,millions_usd,2025,cost,"aining costs was llama 3.1-405b, with an estimated cost of $170 million. as the ai landscape grows m...",Passed all validation checks,0.85,KEEP,
+5635,650.0,millions_usd,2025,dollar_amounts,"ter the model’s release, microsoft acquired inflection for $650 million. figure 2.1.6 source: inflec...",Passed all validation checks,0.85,KEEP,
+5636,2.5,usd,2025,cost,"th a financial and latency cost. for example, gpt-4o costs $2.50 per 1 million input tokens and $10 ...",Passed all validation checks,0.85,KEEP,
+5637,10.0,usd,2025,cost,"example, gpt-4o costs $2.50 per 1 million input tokens and $10 per 1 million output tokens. converse...",Passed all validation checks,0.85,KEEP,
+5638,15.0,usd,2025,cost,"and $10 per 1 million output tokens. conversely, o1 costs $15 per 1 million input tokens and $60 per...",Passed all validation checks,0.85,KEEP,
+5639,60.0,usd,2025,cost,"s. conversely, o1 costs $15 per 1 million input tokens and $60 per 1 million output tokens.8 moreove...",Passed all validation checks,0.85,KEEP,
+5640,200.0,usd,2024,dollar_amounts,"he full version of o1 (as well as access to chatgpt pro, a $200 monthly subscription enabling access...",Passed all validation checks,0.85,KEEP,
+5641,10.0,usd,2025,dollar_amounts,"allocated a high- compute budget exceeding the benchmark’s $10,000 limit, it achieved a score of 87....",Duplicate record (keeping first occurrence),0.9,REMOVE,5637.0
+5642,30.0,usd,2026,dollar_amounts,"s, which is set for production in 2026 at a price of under $30,000. tesla also unveiled the robovan,...",Passed all validation checks,0.85,KEEP,
+5643,30.0,usd,2025,dollar_amounts,"cities in china (figure 2.9.12). with a price tag of just $30,000 and a battery-swapping system, the...",Passed all validation checks,0.85,KEEP,
+5644,10.0,billions_usd,2025,investment,erprises—particularly those with annual revenues exceeding $10 billion—demonstrated higher total inv...,Passed all validation checks,0.85,KEEP,
+5645,10.0,billions_usd,2025,investment,"al investment into rai. notably, 27% of organizations with $10 billion–$30 billion in revenue and 21...",Duplicate record (keeping first occurrence),0.9,REMOVE,5644.0
+5646,30.0,billions_usd,2025,revenue,"t into rai. notably, 27% of organizations with $10 billion–$30 billion in revenue and 21% of those e...",Passed all validation checks,0.85,KEEP,
+5647,30.0,billions_usd,2025,revenue,billion–$30 billion in revenue and 21% of those exceeding $30 billion invest $10 million–$25 million...,Duplicate record (keeping first occurrence),0.9,REMOVE,5646.0
+5648,10.0,millions_usd,2025,revenue,n in revenue and 21% of those exceeding $30 billion invest $10 million–$25 million in rai. these fin...,Passed all validation checks,0.85,KEEP,
+5649,25.0,millions_usd,2025,dollar_amounts,and 21% of those exceeding $30 billion invest $10 million–$25 million in rai. these findings suggest...,Passed all validation checks,0.85,KEEP,
+5650,500.0,millions_usd,2025,revenue,"s from 1,500 organizations, each with revenues of at least $500 million, were collected from 20 coun...",Passed all validation checks,0.85,KEEP,
+5651,252.3,billions_usd,2024,investment,"ecord high with 26% growth. corporate ai investment reached $252.3 billion in 2024, with private inv...",Duplicate record (keeping first occurrence),0.9,REMOVE,5609.0
+5652,33.9,billions_usd,2024,investment,"funding soars. private investment in generative ai reached $33.9 billion in 2024, up 18.7% from 2023...",Duplicate record (keeping first occurrence),0.9,REMOVE,5610.0
+5653,109.1,billions_usd,2024,investment,"lobal ai private investment. u.s. private ai investment hit $109.1 billion in 2024, nearly 12 times ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5599.0
+5654,9.3,billions_usd,2024,dollar_amounts,"109.1 billion in 2024, nearly 12 times higher than china’s $9.3 billion and 24 times the u.k.’s $4.5...",Duplicate record (keeping first occurrence),0.9,REMOVE,5612.0
+5655,4.5,billions_usd,2025,dollar_amounts,es higher than china’s $9.3 billion and 24 times the u.k.’s $4.5 billion. the gap is even more prono...,Duplicate record (keeping first occurrence),0.9,REMOVE,5601.0
+5656,25.4,billions_usd,2023,dollar_amounts,"ined total of china and the european union plus the u.k. by $25.4 billion, expanding on its $21.8 bi...",Duplicate record (keeping first occurrence),0.9,REMOVE,5614.0
+5657,21.8,billions_usd,2023,dollar_amounts,"ean union plus the u.k. by $25.4 billion, expanding on its $21.8 billion gap in 2023. 5. ai is begin...",Duplicate record (keeping first occurrence),0.9,REMOVE,5615.0
+5658,1.6,billions_usd,2025,energy,tracting interest in nuclear energy. microsoft announced a $1.6 billion deal to revive the three mil...,Duplicate record (keeping first occurrence),0.9,REMOVE,5616.0
+5659,35.0,billions_usd,2024,dollar_amounts,"e event type image jan 16, 2024 synopsys acquires ansys for $35 billion to improve silicon-to-system...",Passed all validation checks,0.85,KEEP,
+5660,2.0,billions_usd,2024,revenue,"psys, 2024 feb 21, 2024 reports claim that openai surpassed $2 billion in annualized revenue in dece...",Passed all validation checks,0.85,KEEP,
+5661,675.0,millions_usd,2024,investment,"24 feb 29, 2024 figure ai, a humanoid robot startup, raises $675 million at a valuation of $2.6 bill...",Passed all validation checks,0.85,KEEP,
+5662,2.6,billions_usd,2025,investment,"anoid robot startup, raises $675 million at a valuation of $2.6 billion. investment/funding figure 4...",Passed all validation checks,0.85,KEEP,
+5663,650.0,millions_usd,2025,dollar_amounts,"t of inflection ai’s staff, including cofounders, and pays $650 million to license inflection’s ai m...",Duplicate record (keeping first occurrence),0.9,REMOVE,5635.0
+5664,1.1,billions_usd,2025,investment,"4 coreweave, an ai cloud infrastructure startup, secures a $1.1 billion funding round at a valuation...",Passed all validation checks,0.85,KEEP,
+5665,19.0,billions_usd,2024,investment,"p, secures a $1.1 billion funding round at a valuation of $19 billion. investment/funding figure 4.1...",Passed all validation checks,0.85,KEEP,
+5666,1.0,billions_usd,2024,investment,"view may 21, 2024 scale ai, a data-labeling startup, raises $1 billion and reaches a valuation of $1...",Passed all validation checks,0.85,KEEP,
+5667,13.8,billions_usd,2024,investment,"ling startup, raises $1 billion and reaches a valuation of $13.8 billion. investment/funding figure ...",Passed all validation checks,0.85,KEEP,
+5668,640.0,millions_usd,2025,investment,"mistral ai, a french open-source ai model startup, raises $640 million at a valuation of $6 billion....",Passed all validation checks,0.85,KEEP,
+5669,6.0,billions_usd,2025,investment,"ce ai model startup, raises $640 million at a valuation of $6 billion. investment/funding figure 4.1...",Passed all validation checks,0.85,KEEP,
+5670,410.7,millions_usd,2025,dollar_amounts,"eraging ai for medical data analysis, goes public, raising $410.7 million and achieving an implied v...",Passed all validation checks,0.85,KEEP,
+5671,6.0,billions_usd,2024,investment,$410.7 million and achieving an implied valuation of over $6 billion. investment/funding figure 4.1....,Passed all validation checks,0.85,KEEP,
+5672,500.0,millions_usd,2025,investment,"ai startup specializing in enterprise applications, raises $500 million in funding at a valuation of...",Duplicate record (keeping first occurrence),0.9,REMOVE,5650.0
+5673,5.5,billions_usd,2024,investment,"ications, raises $500 million in funding at a valuation of $5.5 billion. investment/funding figure 4...",Passed all validation checks,0.85,KEEP,
+5674,2.5,billions_usd,2024,dollar_amounts,l to buy out character.ai’s shareholders for approximately $2.5 billion. acquisition figure 4.1.10 s...,Passed all validation checks,0.85,KEEP,
+5675,640.0,millions_usd,2025,investment,"an ai chip startup specializing in fast inference, raises $640 million at a valuation of $2.8 billio...",Duplicate record (keeping first occurrence),0.9,REMOVE,5668.0
+5676,2.8,billions_usd,2024,investment,"g in fast inference, raises $640 million at a valuation of $2.8 billion. investment/funding figure 4...",Passed all validation checks,0.85,KEEP,
+5677,665.0,millions_usd,2024,dollar_amounts,"ilo ai, europe’s largest private ai lab, for approximately $665 million. acquisition figure 4.1.12 s...",Passed all validation checks,0.85,KEEP,
+5678,1.0,billions_usd,2024,investment,"amd, 2024 sep 5, 2024 safe superintelligence (ssi) secures $1 billion in funding. investment/funding...",Duplicate record (keeping first occurrence),0.9,REMOVE,5666.0
+5679,1.6,billions_usd,2024,revenue,"source: salesforce, 2024 sep 20, 2024 microsoft announces a $1.6 billion deal with constellation ene...",Passed all validation checks,0.85,KEEP,
+5680,6.6,billions_usd,2024,investment,"figure 4.1.15 source: npr, 2024 oct 2, 2024 openai raises $6.6 billion at a valuation of $157 billio...",Passed all validation checks,0.85,KEEP,
+5681,157.0,billions_usd,2024,investment,"24 oct 2, 2024 openai raises $6.6 billion at a valuation of $157 billion. investment/funding figure ...",Passed all validation checks,0.85,KEEP,
+5682,4.0,billions_usd,2025,investment,"hropic expands its partnership with aws with an additional $4 billion investment from amazon, bringi...",Passed all validation checks,0.85,KEEP,
+5683,8.0,billions_usd,2024,investment,"l $4 billion investment from amazon, bringing the total to $8 billion. partnership figure 4.1.20 sou...",Passed all validation checks,0.85,KEEP,
+5684,10.0,billions_usd,2024,investment,"17, 2024 databricks, an ai data analytics company, raises $10 billion at a valuation of $62 billion....",Passed all validation checks,0.85,KEEP,
+5685,62.0,billions_usd,2025,investment,"ta analytics company, raises $10 billion at a valuation of $62 billion. investment/funding figure 4....",Passed all validation checks,0.85,KEEP,
+5686,500.0,millions_usd,2025,investment,"i, a startup focused on ai-powered search products, raises $500 million at a valuation of $9 billion...",Duplicate record (keeping first occurrence),0.9,REMOVE,5650.0
+5687,9.0,billions_usd,2025,investment,"ed search products, raises $500 million at a valuation of $9 billion. investment/funding figure 4.1....",Passed all validation checks,0.85,KEEP,
+5688,6.0,billions_usd,2024,investment,".22 source: ai magazine, 2024 dec 23, 2024 xai announces a $6 billion funding round, bringing the to...",Duplicate record (keeping first occurrence),0.9,REMOVE,5671.0
+5689,12.0,billions_usd,2025,investment,"nnounces a $6 billion funding round, bringing the total to $12 billion at a valuation of over $40 bi...",Passed all validation checks,0.85,KEEP,
+5690,40.0,billions_usd,2024,investment,", bringing the total to $12 billion at a valuation of over $40 billion. investment/funding figure 4....",Passed all validation checks,0.85,KEEP,
+5691,700.0,millions_usd,2024,growth_rate,"024 dec 30, 2024 nvidia acquires israeli startup run:ai for $700 million to increase its gpu optimiz...",Passed all validation checks,0.85,KEEP,
+5692,252.3,billions_usd,2024,investment,"nd public offerings. in 2024, the total investment grew to $252.3 billion, an increase of 25.5% from...",Duplicate record (keeping first occurrence),0.9,REMOVE,5609.0
+5693,1.5,millions_usd,2013,investment,e investment trends in ai startups that have received over $1.5 million in investment since 2013. gl...,Passed all validation checks,0.85,KEEP,
+5694,33.9,billions_usd,2024,growth_rate,"ease sharply (figure 4.3.3). in 2024, the sector attracted $33.9 billion, representing an 18.7% incr...",Duplicate record (keeping first occurrence),0.9,REMOVE,5610.0
+5695,31.6,millions_usd,2024,investment,"to 2024, the average increased significantly, growing from $31.6 million to $45.4 million. figure 4....",Passed all validation checks,0.85,KEEP,
+5696,45.4,millions_usd,2025,investment,"age increased significantly, growing from $31.6 million to $45.4 million. figure 4.3.7 reports ai fu...",Passed all validation checks,0.85,KEEP,
+5697,100.0,millions_usd,2025,investment,events increased across funding size categories exceeding $100 million and decreased or remained con...,Passed all validation checks,0.85,KEEP,
+5698,1.0,billions_usd,2013,investment,investment events that involved funding sizes greater than $1 billion. 45.43 2013 2014 2015 2016 201...,Passed all validation checks,0.85,KEEP,
+5699,170.0,number,2025,cost,"imate training costs was llama 3.1-405b, with an estimated cost of $170 million. as the ai landscape...",Passed all validation checks,0.85,KEEP,
+5700,2.5,number,2025,cost,"ice—both a financial and latency cost. for example, gpt-4o costs $2.50 per 1 million input tokens an...",Passed all validation checks,0.85,KEEP,
+5701,15.0,number,2025,cost,"tokens and $10 per 1 million output tokens. conversely, o1 costs $15 per 1 million input tokens and ...",Passed all validation checks,0.85,KEEP,
+5702,233.0,number,2025,labor_metrics,tation. a survey conducted by romanian researchers of 233 employees found that organizations with hi...,Passed all validation checks,0.85,KEEP,
+5703,30.0,percentage,2022,cost,"r 2022 and october 2024. at the hardware level, costs have declined by 30% annually, while energy ef...",Passed all validation checks,0.85,KEEP,
+5704,21.3,percentage,2023,growth_rate,"ice as many agencies. globally, legislative mentions of ai rose 21.3% across 75 countries since 2023...",Duplicate record (keeping first occurrence),0.9,REMOVE,5517.0
+5705,22.0,percentage,2025,growth_rate,umber of graduates with bachelor’s degrees in computing has increased 22% over the last 10 years. ye...,Duplicate record (keeping first occurrence),0.9,REMOVE,5518.0
+5706,40.0,percentage,2025,cost,"th costs dropping 30% per year, while energy efficiency has increased by 40% annually. 9. carbon emi...",Duplicate record (keeping first occurrence),0.9,REMOVE,5505.0
+5707,28.8,percentage,2023,growth_rate,"he number of rai papers accepted at leading ai conferences increased by 28.8%, from 992 in 2023 to 1...",Duplicate record (keeping first occurrence),0.9,REMOVE,5559.0
+5708,21.3,percentage,2024,growth_rate,"cross 75 countries, ai mentions in legislative proceedings increased by 21.3% in 2024, rising to 1,8...",Duplicate record (keeping first occurrence),0.9,REMOVE,5585.0
+5709,40.0,percentage,2025,cost,"th costs dropping 30% per year, while energy efficiency has increased by 40% annually. 9. carbon emi...",Duplicate record (keeping first occurrence),0.9,REMOVE,5505.0
+5710,28.8,percentage,2023,growth_rate,"he number of rai papers accepted at leading ai conferences increased by 28.8%, from 992 in 2023 to 1...",Duplicate record (keeping first occurrence),0.9,REMOVE,5559.0
+5711,28.8,percentage,2023,growth_rates,"he number of rai papers accepted at leading ai conferences rose by 28.8%, from 992 in 2023 to 1,278 ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5559.0
+5712,14.5,percentage,2019,growth_rates,r of accepted papers on privacy and data governance topics decreased by 14.5% at select ai conferenc...,Passed all validation checks,0.85,KEEP,
+5713,33.4,percentage,2025,growth_rate,", the ratio of ai talent hiring relative to overall hiring grew 33.4%. figure 4.2.135 4 for each mon...",Passed all validation checks,0.85,KEEP,
+5714,44.5,percentage,2025,investment,"t significant upturn occurred in private investment, which rose by 44.5% compared with the previous ...",Passed all validation checks,0.85,KEEP,
+5715,12.1,percentage,2025,investment,"red with the previous year, while mergers and acquisitions increased by 12.1%. over the past decade,...",Duplicate record (keeping first occurrence),0.9,REMOVE,5562.0
+5716,44.5,percentage,2013,investment,"ment since 2013. global trends global private ai investment increased 44.5% between 2023 and 2024, m...",Passed all validation checks,0.85,KEEP,
+5717,21.3,percentage,2024,growth_rate,"75 major countries, ai mentions in legislative proceedings increased by 21.3% in 2024, rising to 1,8...",Duplicate record (keeping first occurrence),0.9,REMOVE,5585.0
+5718,21.3,percentage,2016,growth_rates,"ave mentioned ai since 2016. in the past year, ai mentions rose by 21.3%, increasing from 1,557 in 2...",Passed all validation checks,0.85,KEEP,
+5719,22.0,percentage,2023,growth_rate,mber of graduates with bachelor’s degrees in computing has increased 22% over the last 10 years (fig...,Passed all validation checks,0.85,KEEP,
+5720,2.0,number,2020,token_metrics,"ge language model revolution, was trained on approximately 2 billion tokens. by 2020, gpt-3 175b—one...",Passed all validation checks,0.85,KEEP,
+5721,374.0,number,2025,token_metrics,"erpinning the original chatgpt—was trained on an estimated 374 billion tokens. in contrast, meta’s f...",Passed all validation checks,0.85,KEEP,
+5722,0.0,number,2025,token_metrics,"y openai and meta, featured context windows of 8,000 and 4,000 tokens, respectively. in contrast, mo...",Passed all validation checks,0.85,KEEP,
+5723,82.0,number,2025,token_metrics,"rom unstructured electronic health records, was trained on 82 billion tokens. in contrast, llama 3 w...",Passed all validation checks,0.85,KEEP,
+7018,252.3,billions_usd,2025,investment,nan,Duplicate record (keeping first occurrence),0.9,REMOVE,889.0
+7019,0.01,unknown,2025,carbon_emissions,nan,Duplicate record (keeping first occurrence),0.9,REMOVE,890.0
+11626,252.3,billions_usd,2025,investment,nan,Duplicate record (keeping first occurrence),0.9,REMOVE,889.0
+11627,0.01,unknown,2025,carbon_emissions,nan,Duplicate record (keeping first occurrence),0.9,REMOVE,890.0
+11628,18.7,percentage,2023,investment,attracting $33.9 billion globally in private investment—an 18.7% increase from 2023. ai business usa...,Duplicate record (keeping first occurrence),0.9,REMOVE,5499.0
+11629,78.0,percentage,2023,adoption_rate,increase from 2023. ai business usage is also accelerating: 78% of organizations reported using ai i...,Duplicate record (keeping first occurrence),0.9,REMOVE,5500.0
+11630,55.0,percentage,2024,adoption_rate,"g: 78% of organizations reported using ai in 2024, up from 55% the year before. meanwhile, a growing...",Duplicate record (keeping first occurrence),0.9,REMOVE,5501.0
+11631,83.0,percentage,2025,percentages,"—but deep regional divides remain. in countries like china (83%), indonesia (80%), and thailand (77%...",Duplicate record (keeping first occurrence),0.9,REMOVE,5502.0
+11632,80.0,percentage,2025,percentages,"l divides remain. in countries like china (83%), indonesia (80%), and thailand (77%), strong majorit...",Duplicate record (keeping first occurrence),0.9,REMOVE,5503.0
+11633,77.0,percentage,2025,percentages,"countries like china (83%), indonesia (80%), and thailand (77%), strong majorities see ai products a...",Duplicate record (keeping first occurrence),0.9,REMOVE,5504.0
+11634,40.0,percentage,2025,percentages,"ontrast, optimism remains far lower in places like canada (40%), the united states (39%), and the ne...",Duplicate record (keeping first occurrence),0.9,REMOVE,5505.0
+11635,39.0,percentage,2025,percentages,"far lower in places like canada (40%), the united states (39%), and the netherlands (36%). still, se...",Duplicate record (keeping first occurrence),0.9,REMOVE,5506.0
+11636,36.0,percentage,2022,percentages,"canada (40%), the united states (39%), and the netherlands (36%). still, sentiment is shifting: sinc...",Duplicate record (keeping first occurrence),0.9,REMOVE,5507.0
+11637,10.0,percentage,2025,percentages,"several previously skeptical countries, including germany (+10%), france (+10%), canada (+8%), great...",Duplicate record (keeping first occurrence),0.9,REMOVE,5508.0
+11638,10.0,percentage,2025,percentages,"sly skeptical countries, including germany (+10%), france (+10%), canada (+8%), great britain (+8%),...",Duplicate record (keeping first occurrence),0.9,REMOVE,5508.0
+11639,8.0,percentage,2025,percentages,"untries, including germany (+10%), france (+10%), canada (+8%), great britain (+8%), and the united ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5510.0
+11640,8.0,percentage,2025,percentages,"rmany (+10%), france (+10%), canada (+8%), great britain (+8%), and the united states (+4%). 7. ai b...",Duplicate record (keeping first occurrence),0.9,REMOVE,5510.0
+11641,4.0,percentage,2025,percentages,"canada (+8%), great britain (+8%), and the united states (+4%). 7. ai becomes more efficient, afford...",Duplicate record (keeping first occurrence),0.9,REMOVE,5512.0
+11642,30.0,percentage,2024,cost,"ctober 2024. at the hardware level, costs have declined by 30% annually, while energy efficiency has...",Duplicate record (keeping first occurrence),0.9,REMOVE,5513.0
+11643,40.0,percentage,2025,productivity,"ed by 30% annually, while energy efficiency has improved by 40% each year. open-weight models are cl...",Duplicate record (keeping first occurrence),0.9,REMOVE,5505.0
+11644,8.0,percentage,2025,percentages,"ith closed models, reducing the performance difference from 8% to just 1.7% on some benchmarks in a ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5510.0
+11645,1.7,percentage,2025,percentages,"models, reducing the performance difference from 8% to just 1.7% on some benchmarks in a single year...",Duplicate record (keeping first occurrence),0.9,REMOVE,5516.0
+11646,21.3,percentage,2023,growth_rate,"s many agencies. globally, legislative mentions of ai rose 21.3% across 75 countries since 2023, mar...",Duplicate record (keeping first occurrence),0.9,REMOVE,5517.0
+11647,22.0,percentage,2025,growth_rate,raduates with bachelor’s degrees in computing has increased 22% over the last 10 years. yet access r...,Duplicate record (keeping first occurrence),0.9,REMOVE,5518.0
+11648,81.0,percentage,2025,percentages,"to basic infrastructure gaps like electricity. in the u.s., 81% of k–12 cs teachers say ai should be...",Duplicate record (keeping first occurrence),0.9,REMOVE,5519.0
+11649,90.0,percentage,2024,percentages,s racing ahead in ai—but the frontier is tightening. nearly 90% of notable ai models in 2024 came fr...,Duplicate record (keeping first occurrence),0.9,REMOVE,5520.0
+11650,60.0,percentage,2024,percentages,"% of notable ai models in 2024 came from industry, up from 60% in 2023, while academia remains the t...",Duplicate record (keeping first occurrence),0.9,REMOVE,5521.0
+11651,11.9,percentage,2025,percentages,"difference between the top and 10th-ranked models fell from 11.9% to 5.4% in a year, and the top two...",Duplicate record (keeping first occurrence),0.9,REMOVE,5522.0
+11652,5.4,percentage,2025,percentages,"e between the top and 10th-ranked models fell from 11.9% to 5.4% in a year, and the top two are now ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5523.0
+11653,0.7,percentage,2025,percentages,"5.4% in a year, and the top two are now separated by just 0.7%. the frontier is increasingly competi...",Duplicate record (keeping first occurrence),0.9,REMOVE,5524.0
+11654,90.0,percentage,2024,percentages,"index reports, has only grown more pronounced, with nearly 90% of notable models in 2024 (compared t...",Duplicate record (keeping first occurrence),0.9,REMOVE,5520.0
+11655,60.0,percentage,2024,percentages,"ced, with nearly 90% of notable models in 2024 (compared to 60% in 2023) originating from industry. ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5521.0
+11656,23.2,percentage,2023,percentages,"al research. in 2023, china produced more ai publications (23.2%) and citations (22.6%) than any oth...",Duplicate record (keeping first occurrence),0.9,REMOVE,5527.0
+11657,22.6,percentage,2025,percentages,china produced more ai publications (23.2%) and citations (22.6%) than any other country. over the p...,Duplicate record (keeping first occurrence),0.9,REMOVE,5528.0
+11658,21.6,percentage,2013,percentages,ai’s share of computer science publications has risen from 21.6% in 2013 to 41.8% in 2023. 4. the un...,Duplicate record (keeping first occurrence),0.9,REMOVE,5529.0
+11659,41.8,percentage,2013,percentages,puter science publications has risen from 21.6% in 2013 to 41.8% in 2023. 4. the united states conti...,Duplicate record (keeping first occurrence),0.9,REMOVE,5530.0
+11660,29.6,percentage,2023,percentages,". in just the last year, the number of ai patents has risen 29.6%. as of 2023, china leads in total ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5531.0
+11661,69.7,percentage,2023,percentages,"s of 2023, china leads in total ai patents, accounting for 69.7% of all grants, while south korea an...",Duplicate record (keeping first occurrence),0.9,REMOVE,5532.0
+11662,43.0,percentage,2025,percentages,"ce, measured in 16-bit floating-point operations, has grown 43% annually, doubling every 1.9 years. ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5533.0
+11663,30.0,percentage,2025,cost,"years. price performance has improved, with costs dropping 30% per year, while energy efficiency has...",Duplicate record (keeping first occurrence),0.9,REMOVE,5534.0
+11664,40.0,percentage,2025,productivity,"ping 30% per year, while energy efficiency has increased by 40% annually. 9. carbon emissions from a...",Duplicate record (keeping first occurrence),0.9,REMOVE,5505.0
+11665,4.4,percentage,2023,percentages,"qa, respectively. on swe-bench, ai systems could solve just 4.4% of coding problems in 2023—a figure...",Duplicate record (keeping first occurrence),0.9,REMOVE,5536.0
+11666,71.7,percentage,2023,percentages,st 4.4% of coding problems in 2023—a figure that jumped to 71.7% in 2024. 2. open-weight models catc...,Duplicate record (keeping first occurrence),0.9,REMOVE,5537.0
+11667,8.0,percentage,2025,percentages,sed- weight model outperformed the top open-weight model by 8.0% on the chatbot arena leaderboard. b...,Duplicate record (keeping first occurrence),0.9,REMOVE,5510.0
+11668,1.7,percentage,2025,percentages,"na leaderboard. by february 2025, this gap had narrowed to 1.7%. chapter 1: research and development...",Duplicate record (keeping first occurrence),0.9,REMOVE,5516.0
+11669,11.9,percentage,2025,percentages,"and 10th-ranked model on the chatbot arena leaderboard was 11.9%. by early 2025, this gap had narrow...",Duplicate record (keeping first occurrence),0.9,REMOVE,5522.0
+11670,5.4,percentage,2025,percentages,"erboard was 11.9%. by early 2025, this gap had narrowed to 5.4%. likewise, the difference between th...",Duplicate record (keeping first occurrence),0.9,REMOVE,5523.0
+11671,4.9,percentage,2023,percentages,"wise, the difference between the top two models shrank from 4.9% in 2023 to just 0.7% in 2024. the a...",Duplicate record (keeping first occurrence),0.9,REMOVE,5542.0
+11672,0.7,percentage,2023,percentages,between the top two models shrank from 4.9% in 2023 to just 0.7% in 2024. the ai landscape is becomi...,Duplicate record (keeping first occurrence),0.9,REMOVE,5543.0
+11673,74.4,percentage,2025,percentages,"approach dramatically improved performance, with o1 scoring 74.4% on an international mathematical o...",Duplicate record (keeping first occurrence),0.9,REMOVE,5544.0
+11674,9.3,percentage,2025,cost,"athematical olympiad qualifying exam, compared to gpt-4o’s 9.3%. however, this enhanced reasoning co...",Duplicate record (keeping first occurrence),0.9,REMOVE,5545.0
+11675,8.8,percentage,2025,percentages,", a rigorous academic test where the top system scores just 8.80%; frontiermath, a complex mathemati...",Duplicate record (keeping first occurrence),0.9,REMOVE,5546.0
+11676,2.0,percentage,2025,percentages,"complex mathematics benchmark where ai systems solve only 2% of problems; and bigcodebench, a coding...",Duplicate record (keeping first occurrence),0.9,REMOVE,5547.0
+11677,35.5,percentage,2025,percentages,"igcodebench, a coding benchmark where ai systems achieve a 35.5% success rate—well below the human s...",Duplicate record (keeping first occurrence),0.9,REMOVE,5548.0
+11678,97.0,percentage,2025,percentages,ieve a 35.5% success rate—well below the human standard of 97%. 7. high-quality ai video generators ...,Duplicate record (keeping first occurrence),0.9,REMOVE,5549.0
+11679,60.0,percentage,2022,percentages,"in 2022, the smallest model registering a score higher than 60% on mmlu was palm, with 540 billion p...",Duplicate record (keeping first occurrence),0.9,REMOVE,5550.0
+11680,56.4,percentage,2024,growth_rate,i-related incidents rose to 233 in 2024—a record high and a 56.4% increase over 2023. chapter 2: tec...,Duplicate record (keeping first occurrence),0.9,REMOVE,5551.0
+11681,64.0,percentage,2025,percentages,"e, and cybersecurity were top of mind for leaders with only 64%, 63%, and 60% of respondents, respec...",Duplicate record (keeping first occurrence),0.9,REMOVE,5552.0
+11682,63.0,percentage,2025,percentages,"d cybersecurity were top of mind for leaders with only 64%, 63%, and 60% of respondents, respectivel...",Duplicate record (keeping first occurrence),0.9,REMOVE,5553.0
+11683,60.0,percentage,2025,percentages,"curity were top of mind for leaders with only 64%, 63%, and 60% of respondents, respectively, citing...",Duplicate record (keeping first occurrence),0.9,REMOVE,5554.0
+11684,7.0,percentage,2025,percentages,"dataset, the proportion of restricted tokens jumped from 5–7% to 20–33%. this decline has consequenc...",Duplicate record (keeping first occurrence),0.9,REMOVE,5555.0
+11685,33.0,percentage,2025,percentages,the proportion of restricted tokens jumped from 5–7% to 20–33%. this decline has consequences for da...,Duplicate record (keeping first occurrence),0.9,REMOVE,5556.0
+11686,37.0,percentage,2023,growth_rate,nsparency score among major model developers increased from 37% in october 2023 to 58% in may 2024. ...,Duplicate record (keeping first occurrence),0.9,REMOVE,5557.0
+11687,58.0,percentage,2023,growth_rate,ajor model developers increased from 37% in october 2023 to 58% in may 2024. while these gains are p...,Duplicate record (keeping first occurrence),0.9,REMOVE,5558.0
+11688,28.8,percentage,2023,growth_rate,"rai papers accepted at leading ai conferences increased by 28.8%, from 992 in 2023 to 1,278 in 2024,...",Duplicate record (keeping first occurrence),0.9,REMOVE,5559.0
+11689,26.0,percentage,2025,investment,ights 1. global private ai investment hits record high with 26% growth. corporate ai investment reac...,Duplicate record (keeping first occurrence),0.9,REMOVE,5560.0
+11690,44.5,percentage,2024,investment,"d $252.3 billion in 2024, with private investment climbing 44.5% and mergers and acquisitions up 12....",Duplicate record (keeping first occurrence),0.9,REMOVE,5561.0
+11691,12.1,percentage,2025,investment,e investment climbing 44.5% and mergers and acquisitions up 12.1% from the previous year. the sector...,Duplicate record (keeping first occurrence),0.9,REMOVE,5562.0
+11692,18.7,percentage,2024,percentages,"vestment in generative ai reached $33.9 billion in 2024, up 18.7% from 2023 and over 8.5 times highe...",Duplicate record (keeping first occurrence),0.9,REMOVE,5563.0
+11693,20.0,percentage,2022,investment,igher than 2022 levels. the sector now represents more than 20% of all ai-related private investment...,Duplicate record (keeping first occurrence),0.9,REMOVE,5564.0
+11694,78.0,percentage,2023,percentages,"pondents reporting ai use by their organizations jumped to 78% from 55% in 2023. similarly, the numb...",Duplicate record (keeping first occurrence),0.9,REMOVE,5500.0
+11695,55.0,percentage,2023,percentages,"reporting ai use by their organizations jumped to 78% from 55% in 2023. similarly, the number of res...",Duplicate record (keeping first occurrence),0.9,REMOVE,5566.0
+11696,33.0,percentage,2023,percentages,i in at least one business function more than doubled—from 33% in 2023 to 71% last year. chapter 4: ...,Duplicate record (keeping first occurrence),0.9,REMOVE,5567.0
+11697,71.0,percentage,2023,percentages,one business function more than doubled—from 33% in 2023 to 71% last year. chapter 4: economy artifi...,Duplicate record (keeping first occurrence),0.9,REMOVE,5568.0
+11698,49.0,percentage,2025,percentages,ess function estimate the benefits as being at low levels. 49% of respondents whose organizations us...,Duplicate record (keeping first occurrence),0.9,REMOVE,5569.0
+11699,43.0,percentage,2025,cost,"report cost savings, followed by supply chain management (43%) and software engineering (41%), but m...",Duplicate record (keeping first occurrence),0.9,REMOVE,5533.0
+11700,41.0,percentage,2025,cost,"by supply chain management (43%) and software engineering (41%), but most of them report cost saving...",Duplicate record (keeping first occurrence),0.9,REMOVE,5571.0
+11701,10.0,percentage,2025,adoption_rate,"ng (41%), but most of them report cost savings of less than 10%. with regard to revenue, 71% of resp...",Duplicate record (keeping first occurrence),0.9,REMOVE,5508.0
+11702,71.0,percentage,2025,adoption_rate,"ort cost savings of less than 10%. with regard to revenue, 71% of respondents using ai in marketing ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5573.0
+11703,63.0,percentage,2025,adoption_rate,"dents using ai in marketing and sales report revenue gains, 63% in supply chain management, and 57% ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5553.0
+11704,57.0,percentage,2025,revenue,"report revenue gains, 63% in supply chain management, and 57% in service operations, but the most co...",Duplicate record (keeping first occurrence),0.9,REMOVE,5575.0
+11705,5.0,percentage,2025,revenue,but the most common level of revenue increases is less than 5%. 6. use of ai shows dramatic shifts b...,Duplicate record (keeping first occurrence),0.9,REMOVE,5576.0
+11706,20.8,percentage,2013,percentages,". since surpassing japan in 2013, when china accounted for 20.8% of global installations, its share ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5577.0
+11707,51.1,percentage,2025,percentages,"d for 20.8% of global installations, its share has risen to 51.1%. while china continues to install ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5578.0
+11708,2.8,percentage,2017,percentages,"e common. in 2017, collaborative robots represented a mere 2.8% of all new industrial robot installa...",Duplicate record (keeping first occurrence),0.9,REMOVE,5579.0
+11709,10.5,percentage,2023,percentages,"ew industrial robot installations, a figure that climbed to 10.5% by 2023. similarly, 2023 saw a ris...",Duplicate record (keeping first occurrence),0.9,REMOVE,5580.0
+11710,96.0,percentage,2025,percentages,. openai’s recently released o1 set a new state- of-the-art 96.0% on the medqa benchmark—a 5.8 perce...,Duplicate record (keeping first occurrence),0.9,REMOVE,5581.0
+11711,31.0,percentage,2025,percentages,"ence databases has grown significantly, including uniprot (31%), pdb (23%), and alphafold (585%). th...",Duplicate record (keeping first occurrence),0.9,REMOVE,5582.0
+11712,23.0,percentage,2025,percentages,"ases has grown significantly, including uniprot (31%), pdb (23%), and alphafold (585%). this expansi...",Duplicate record (keeping first occurrence),0.9,REMOVE,5583.0
+11713,585.0,percentage,2025,percentages,"icantly, including uniprot (31%), pdb (23%), and alphafold (585%). this expansion has important impl...",Duplicate record (keeping first occurrence),0.9,REMOVE,5584.0
+11714,21.3,percentage,2024,growth_rate,"tries, ai mentions in legislative proceedings increased by 21.3% in 2024, rising to 1,889 from 1,557...",Duplicate record (keeping first occurrence),0.9,REMOVE,5585.0
+11715,81.0,percentage,2025,adoption_rate,to teach ai but do not feel equipped to do so. despite the 81% of cs teachers who agree that using a...,Duplicate record (keeping first occurrence),0.9,REMOVE,5519.0
+11716,52.0,percentage,2022,percentages,nd services as more beneficial than harmful has risen from 52% in 2022 to 55% in 2024. 2. the expect...,Duplicate record (keeping first occurrence),0.9,REMOVE,5587.0
+11717,55.0,percentage,2022,percentages,more beneficial than harmful has risen from 52% in 2022 to 55% in 2024. 2. the expectation and ackno...,Duplicate record (keeping first occurrence),0.9,REMOVE,5588.0
+11718,17.0,percentage,2022,percentages,"s perception since 2022, with the largest jumps in canada (17%) and germany (15%). 3. skepticism abo...",Duplicate record (keeping first occurrence),0.9,REMOVE,5589.0
+11719,15.0,percentage,2022,percentages,"e 2022, with the largest jumps in canada (17%) and germany (15%). 3. skepticism about the ethical co...",Duplicate record (keeping first occurrence),0.9,REMOVE,5590.0
+11720,50.0,percentage,2023,percentages,"onfidence that ai companies protect personal data fell from 50% in 2023 to 47% in 2024. likewise, fe...",Duplicate record (keeping first occurrence),0.9,REMOVE,5591.0
+11721,47.0,percentage,2023,percentages,"ai companies protect personal data fell from 50% in 2023 to 47% in 2024. likewise, fewer people toda...",Duplicate record (keeping first occurrence),0.9,REMOVE,5592.0
+11722,83.0,percentage,2025,percentages,"ffer more benefits than drawbacks in countries like china (83%), indonesia (80%), and thailand (77%)...",Duplicate record (keeping first occurrence),0.9,REMOVE,5502.0
+11723,80.0,percentage,2025,percentages,"s than drawbacks in countries like china (83%), indonesia (80%), and thailand (77%), while only a mi...",Duplicate record (keeping first occurrence),0.9,REMOVE,5503.0
+11724,77.0,percentage,2025,percentages,"countries like china (83%), indonesia (80%), and thailand (77%), while only a minority share this vi...",Duplicate record (keeping first occurrence),0.9,REMOVE,5504.0
+11725,40.0,percentage,2025,percentages,"nd (77%), while only a minority share this view in canada (40%), the united states (39%), and the ne...",Duplicate record (keeping first occurrence),0.9,REMOVE,5505.0
+11726,39.0,percentage,2025,percentages,"nority share this view in canada (40%), the united states (39%), and the netherlands (36%). chapter ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5506.0
+11727,36.0,percentage,2025,percentages,"anada (40%), the united states (39%), and the netherlands (36%). chapter 7: education (cont’d) chapt...",Duplicate record (keeping first occurrence),0.9,REMOVE,5598.0
+11728,109.1,billions_usd,2024,investment,"tivity impacts. in 2024, u.s. private ai investment grew to $109.1 billion—nearly 12 times china’s $...",Duplicate record (keeping first occurrence),0.9,REMOVE,5599.0
+11729,9.3,billions_usd,2025,investment,i investment grew to $109.1 billion—nearly 12 times china’s $9.3 billion and 24 times the u.k.’s $4....,Duplicate record (keeping first occurrence),0.9,REMOVE,5600.0
+11730,4.5,billions_usd,2025,dollar_amounts,arly 12 times china’s $9.3 billion and 24 times the u.k.’s $4.5 billion. generative ai saw particula...,Duplicate record (keeping first occurrence),0.9,REMOVE,5601.0
+11731,33.9,billions_usd,2023,investment,"generative ai saw particularly strong momentum, attracting $33.9 billion globally in private investm...",Duplicate record (keeping first occurrence),0.9,REMOVE,5602.0
+11732,2.4,billions_usd,2025,dollar_amounts,"ention, governments are investing at scale: canada pledged $2.4 billion, china launched a $47.5 bill...",Duplicate record (keeping first occurrence),0.9,REMOVE,5603.0
+11733,47.5,billions_usd,2025,dollar_amounts,"ing at scale: canada pledged $2.4 billion, china launched a $47.5 billion semiconductor fund, france...",Duplicate record (keeping first occurrence),0.9,REMOVE,5604.0
+11734,1.25,billions_usd,2025,dollar_amounts,"nductor fund, france committed €109 billion, india pledged $1.25 billion, and saudi arabia’s project...",Duplicate record (keeping first occurrence),0.9,REMOVE,5605.0
+11735,100.0,billions_usd,2025,dollar_amounts,"lion, and saudi arabia’s project transcendence represents a $100 billion initiative. 9. ai and compu...",Duplicate record (keeping first occurrence),0.9,REMOVE,5606.0
+11736,20.0,usd,2022,dollar_amounts,"mark for assessing language model performance, dropped from $20.00 per million tokens in november 20...",Duplicate record (keeping first occurrence),0.9,REMOVE,5607.0
+11737,0.07,usd,2022,dollar_amounts,ed from $20.00 per million tokens in november 2022 to just $0.07 per million tokens by october 2024 ...,Duplicate record (keeping first occurrence),0.9,REMOVE,5608.0
+11738,252.3,billions_usd,2024,investment,"ecord high with 26% growth. corporate ai investment reached $252.3 billion in 2024, with private inv...",Duplicate record (keeping first occurrence),0.9,REMOVE,5609.0
+11739,33.9,billions_usd,2024,investment,"funding soars. private investment in generative ai reached $33.9 billion in 2024, up 18.7% from 2023...",Duplicate record (keeping first occurrence),0.9,REMOVE,5610.0
+11740,109.1,billions_usd,2024,investment,"lobal ai private investment. u.s. private ai investment hit $109.1 billion in 2024, nearly 12 times ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5599.0
+11741,9.3,billions_usd,2024,dollar_amounts,"109.1 billion in 2024, nearly 12 times higher than china’s $9.3 billion and 24 times the u.k.’s $4.5...",Duplicate record (keeping first occurrence),0.9,REMOVE,5612.0
+11742,4.5,billions_usd,2025,dollar_amounts,es higher than china’s $9.3 billion and 24 times the u.k.’s $4.5 billion. the gap is even more prono...,Duplicate record (keeping first occurrence),0.9,REMOVE,5601.0
+11743,25.4,billions_usd,2023,dollar_amounts,"ined total of china and the european union plus the u.k. by $25.4 billion, expanding on its $21.8 bi...",Duplicate record (keeping first occurrence),0.9,REMOVE,5614.0
+11744,21.8,billions_usd,2023,dollar_amounts,"ean union plus the u.k. by $25.4 billion, expanding on its $21.8 billion gap in 2023. 4. use of ai c...",Duplicate record (keeping first occurrence),0.9,REMOVE,5615.0
+11745,1.6,billions_usd,2025,energy,tracting interest in nuclear energy. microsoft announced a $1.6 billion deal to revive the three mil...,Duplicate record (keeping first occurrence),0.9,REMOVE,5616.0
+11746,2.4,billions_usd,2025,dollar_amounts,"s the world invest in ai infrastructure. canada announced a $2.4 billion ai infrastructure package, ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5603.0
+11747,47.5,billions_usd,2025,dollar_amounts,"billion ai infrastructure package, while china launched a $47.5 billion fund to boost semiconductor ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5604.0
+11748,117.0,billions_usd,2025,dollar_amounts,"on fund to boost semiconductor production. france committed $117 billion to ai infrastructure, india...",Duplicate record (keeping first occurrence),0.9,REMOVE,5619.0
+11749,1.25,billions_usd,2025,dollar_amounts,"committed $117 billion to ai infrastructure, india pledged $1.25 billion, and saudi arabia’s project...",Duplicate record (keeping first occurrence),0.9,REMOVE,5605.0
+11750,100.0,billions_usd,2025,investment,"illion, and saudi arabia’s project transcendence includes a $100 billion investment in ai. 3. across...",Duplicate record (keeping first occurrence),0.9,REMOVE,5606.0
+11751,20.0,usd,2022,dollar_amounts,"mark for assessing language model performance, dropped from $20.00 per million tokens in november 20...",Duplicate record (keeping first occurrence),0.9,REMOVE,5607.0
+11752,0.07,usd,2022,dollar_amounts,ed from $20.00 per million tokens in november 2022 to just $0.07 per million tokens by october 2024 ...,Duplicate record (keeping first occurrence),0.9,REMOVE,5608.0
+11753,20.0,usd,2022,dollar_amounts,"ark for assessing language model performance, dropped from $20 per million tokens in november 2022 t...",Duplicate record (keeping first occurrence),0.9,REMOVE,5607.0
+11754,0.07,usd,2022,dollar_amounts,opped from $20 per million tokens in november 2022 to just $0.07 per million tokens by october 2024 ...,Duplicate record (keeping first occurrence),0.9,REMOVE,5608.0
+11755,15.0,usd,2024,cost,"benchmark than mmlu. there, inference costs declined from $15 per million tokens in may 2024 to $0.1...",Duplicate record (keeping first occurrence),0.9,REMOVE,5626.0
+11756,0.12,usd,2024,cost,costs declined from $15 per million tokens in may 2024 to $0.12 per million tokens by december 2024 ...,Duplicate record (keeping first occurrence),0.9,REMOVE,5627.0
+11757,100.0,millions_usd,2024,dollar_amounts,"tman, for instance, indicated that training gpt-4 exceeded $100 million. in july 2024, anthropic ceo...",Duplicate record (keeping first occurrence),0.9,REMOVE,5628.0
+11758,1.0,billions_usd,2025,cost,dario amodei noted that model training runs costing around $1 billion were already underway. even mo...,Duplicate record (keeping first occurrence),0.9,REMOVE,5629.0
+11759,6.0,millions_usd,2025,cost,"nt models, such as deepseek-v3, reportedly cost less—about $6 million—but overall, training remains ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5630.0
+11760,670.0,usd,2019,cost,"ure that underpins virtually every modern llm, cost around $670 to train. roberta large, released in...",Duplicate record (keeping first occurrence),0.9,REMOVE,5631.0
+11761,160.0,usd,2023,cost,"comprehension benchmarks like squad and glue, cost around $160,000 to train. fast-forward to 2023, a...",Duplicate record (keeping first occurrence),0.9,REMOVE,5632.0
+11762,79.0,millions_usd,2024,cost,nd training costs for openai’s gpt-4 were estimated around $79 million. one of the few 2024 models f...,Duplicate record (keeping first occurrence),0.9,REMOVE,5633.0
+11763,170.0,millions_usd,2025,cost,"aining costs was llama 3.1-405b, with an estimated cost of $170 million. as the ai landscape grows m...",Duplicate record (keeping first occurrence),0.9,REMOVE,5634.0
+11764,650.0,millions_usd,2025,dollar_amounts,"ter the model’s release, microsoft acquired inflection for $650 million. figure 2.1.6 source: inflec...",Duplicate record (keeping first occurrence),0.9,REMOVE,5635.0
+11765,2.5,usd,2025,cost,"th a financial and latency cost. for example, gpt-4o costs $2.50 per 1 million input tokens and $10 ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5636.0
+11766,10.0,usd,2025,cost,"example, gpt-4o costs $2.50 per 1 million input tokens and $10 per 1 million output tokens. converse...",Duplicate record (keeping first occurrence),0.9,REMOVE,5637.0
+11767,15.0,usd,2025,cost,"and $10 per 1 million output tokens. conversely, o1 costs $15 per 1 million input tokens and $60 per...",Duplicate record (keeping first occurrence),0.9,REMOVE,5638.0
+11768,60.0,usd,2025,cost,"s. conversely, o1 costs $15 per 1 million input tokens and $60 per 1 million output tokens.8 moreove...",Duplicate record (keeping first occurrence),0.9,REMOVE,5639.0
+11769,200.0,usd,2024,dollar_amounts,"he full version of o1 (as well as access to chatgpt pro, a $200 monthly subscription enabling access...",Duplicate record (keeping first occurrence),0.9,REMOVE,5640.0
+11770,10.0,usd,2025,dollar_amounts,"allocated a high- compute budget exceeding the benchmark’s $10,000 limit, it achieved a score of 87....",Duplicate record (keeping first occurrence),0.9,REMOVE,5637.0
+11771,30.0,usd,2026,dollar_amounts,"s, which is set for production in 2026 at a price of under $30,000. tesla also unveiled the robovan,...",Duplicate record (keeping first occurrence),0.9,REMOVE,5642.0
+11772,30.0,usd,2025,dollar_amounts,"cities in china (figure 2.9.12). with a price tag of just $30,000 and a battery-swapping system, the...",Duplicate record (keeping first occurrence),0.9,REMOVE,5643.0
+11773,10.0,billions_usd,2025,investment,erprises—particularly those with annual revenues exceeding $10 billion—demonstrated higher total inv...,Duplicate record (keeping first occurrence),0.9,REMOVE,5644.0
+11774,10.0,billions_usd,2025,investment,"al investment into rai. notably, 27% of organizations with $10 billion–$30 billion in revenue and 21...",Duplicate record (keeping first occurrence),0.9,REMOVE,5644.0
+11775,30.0,billions_usd,2025,revenue,"t into rai. notably, 27% of organizations with $10 billion–$30 billion in revenue and 21% of those e...",Duplicate record (keeping first occurrence),0.9,REMOVE,5646.0
+11776,30.0,billions_usd,2025,revenue,billion–$30 billion in revenue and 21% of those exceeding $30 billion invest $10 million–$25 million...,Duplicate record (keeping first occurrence),0.9,REMOVE,5646.0
+11777,10.0,millions_usd,2025,revenue,n in revenue and 21% of those exceeding $30 billion invest $10 million–$25 million in rai. these fin...,Duplicate record (keeping first occurrence),0.9,REMOVE,5648.0
+11778,25.0,millions_usd,2025,dollar_amounts,and 21% of those exceeding $30 billion invest $10 million–$25 million in rai. these findings suggest...,Duplicate record (keeping first occurrence),0.9,REMOVE,5649.0
+11779,500.0,millions_usd,2025,revenue,"s from 1,500 organizations, each with revenues of at least $500 million, were collected from 20 coun...",Duplicate record (keeping first occurrence),0.9,REMOVE,5650.0
+11780,252.3,billions_usd,2024,investment,"ecord high with 26% growth. corporate ai investment reached $252.3 billion in 2024, with private inv...",Duplicate record (keeping first occurrence),0.9,REMOVE,5609.0
+11781,33.9,billions_usd,2024,investment,"funding soars. private investment in generative ai reached $33.9 billion in 2024, up 18.7% from 2023...",Duplicate record (keeping first occurrence),0.9,REMOVE,5610.0
+11782,109.1,billions_usd,2024,investment,"lobal ai private investment. u.s. private ai investment hit $109.1 billion in 2024, nearly 12 times ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5599.0
+11783,9.3,billions_usd,2024,dollar_amounts,"109.1 billion in 2024, nearly 12 times higher than china’s $9.3 billion and 24 times the u.k.’s $4.5...",Duplicate record (keeping first occurrence),0.9,REMOVE,5612.0
+11784,4.5,billions_usd,2025,dollar_amounts,es higher than china’s $9.3 billion and 24 times the u.k.’s $4.5 billion. the gap is even more prono...,Duplicate record (keeping first occurrence),0.9,REMOVE,5601.0
+11785,25.4,billions_usd,2023,dollar_amounts,"ined total of china and the european union plus the u.k. by $25.4 billion, expanding on its $21.8 bi...",Duplicate record (keeping first occurrence),0.9,REMOVE,5614.0
+11786,21.8,billions_usd,2023,dollar_amounts,"ean union plus the u.k. by $25.4 billion, expanding on its $21.8 billion gap in 2023. 5. ai is begin...",Duplicate record (keeping first occurrence),0.9,REMOVE,5615.0
+11787,1.6,billions_usd,2025,energy,tracting interest in nuclear energy. microsoft announced a $1.6 billion deal to revive the three mil...,Duplicate record (keeping first occurrence),0.9,REMOVE,5616.0
+11788,35.0,billions_usd,2024,dollar_amounts,"e event type image jan 16, 2024 synopsys acquires ansys for $35 billion to improve silicon-to-system...",Duplicate record (keeping first occurrence),0.9,REMOVE,5659.0
+11789,2.0,billions_usd,2024,revenue,"psys, 2024 feb 21, 2024 reports claim that openai surpassed $2 billion in annualized revenue in dece...",Duplicate record (keeping first occurrence),0.9,REMOVE,5660.0
+11790,675.0,millions_usd,2024,investment,"24 feb 29, 2024 figure ai, a humanoid robot startup, raises $675 million at a valuation of $2.6 bill...",Duplicate record (keeping first occurrence),0.9,REMOVE,5661.0
+11791,2.6,billions_usd,2025,investment,"anoid robot startup, raises $675 million at a valuation of $2.6 billion. investment/funding figure 4...",Duplicate record (keeping first occurrence),0.9,REMOVE,5662.0
+11792,650.0,millions_usd,2025,dollar_amounts,"t of inflection ai’s staff, including cofounders, and pays $650 million to license inflection’s ai m...",Duplicate record (keeping first occurrence),0.9,REMOVE,5635.0
+11793,1.1,billions_usd,2025,investment,"4 coreweave, an ai cloud infrastructure startup, secures a $1.1 billion funding round at a valuation...",Duplicate record (keeping first occurrence),0.9,REMOVE,5664.0
+11794,19.0,billions_usd,2024,investment,"p, secures a $1.1 billion funding round at a valuation of $19 billion. investment/funding figure 4.1...",Duplicate record (keeping first occurrence),0.9,REMOVE,5665.0
+11795,1.0,billions_usd,2024,investment,"view may 21, 2024 scale ai, a data-labeling startup, raises $1 billion and reaches a valuation of $1...",Duplicate record (keeping first occurrence),0.9,REMOVE,5666.0
+11796,13.8,billions_usd,2024,investment,"ling startup, raises $1 billion and reaches a valuation of $13.8 billion. investment/funding figure ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5667.0
+11797,640.0,millions_usd,2025,investment,"mistral ai, a french open-source ai model startup, raises $640 million at a valuation of $6 billion....",Duplicate record (keeping first occurrence),0.9,REMOVE,5668.0
+11798,6.0,billions_usd,2025,investment,"ce ai model startup, raises $640 million at a valuation of $6 billion. investment/funding figure 4.1...",Duplicate record (keeping first occurrence),0.9,REMOVE,5669.0
+11799,410.7,millions_usd,2025,dollar_amounts,"eraging ai for medical data analysis, goes public, raising $410.7 million and achieving an implied v...",Duplicate record (keeping first occurrence),0.9,REMOVE,5670.0
+11800,6.0,billions_usd,2024,investment,$410.7 million and achieving an implied valuation of over $6 billion. investment/funding figure 4.1....,Duplicate record (keeping first occurrence),0.9,REMOVE,5671.0
+11801,500.0,millions_usd,2025,investment,"ai startup specializing in enterprise applications, raises $500 million in funding at a valuation of...",Duplicate record (keeping first occurrence),0.9,REMOVE,5650.0
+11802,5.5,billions_usd,2024,investment,"ications, raises $500 million in funding at a valuation of $5.5 billion. investment/funding figure 4...",Duplicate record (keeping first occurrence),0.9,REMOVE,5673.0
+11803,2.5,billions_usd,2024,dollar_amounts,l to buy out character.ai’s shareholders for approximately $2.5 billion. acquisition figure 4.1.10 s...,Duplicate record (keeping first occurrence),0.9,REMOVE,5674.0
+11804,640.0,millions_usd,2025,investment,"an ai chip startup specializing in fast inference, raises $640 million at a valuation of $2.8 billio...",Duplicate record (keeping first occurrence),0.9,REMOVE,5668.0
+11805,2.8,billions_usd,2024,investment,"g in fast inference, raises $640 million at a valuation of $2.8 billion. investment/funding figure 4...",Duplicate record (keeping first occurrence),0.9,REMOVE,5676.0
+11806,665.0,millions_usd,2024,dollar_amounts,"ilo ai, europe’s largest private ai lab, for approximately $665 million. acquisition figure 4.1.12 s...",Duplicate record (keeping first occurrence),0.9,REMOVE,5677.0
+11807,1.0,billions_usd,2024,investment,"amd, 2024 sep 5, 2024 safe superintelligence (ssi) secures $1 billion in funding. investment/funding...",Duplicate record (keeping first occurrence),0.9,REMOVE,5666.0
+11808,1.6,billions_usd,2024,revenue,"source: salesforce, 2024 sep 20, 2024 microsoft announces a $1.6 billion deal with constellation ene...",Duplicate record (keeping first occurrence),0.9,REMOVE,5679.0
+11809,6.6,billions_usd,2024,investment,"figure 4.1.15 source: npr, 2024 oct 2, 2024 openai raises $6.6 billion at a valuation of $157 billio...",Duplicate record (keeping first occurrence),0.9,REMOVE,5680.0
+11810,157.0,billions_usd,2024,investment,"24 oct 2, 2024 openai raises $6.6 billion at a valuation of $157 billion. investment/funding figure ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5681.0
+11811,4.0,billions_usd,2025,investment,"hropic expands its partnership with aws with an additional $4 billion investment from amazon, bringi...",Duplicate record (keeping first occurrence),0.9,REMOVE,5682.0
+11812,8.0,billions_usd,2024,investment,"l $4 billion investment from amazon, bringing the total to $8 billion. partnership figure 4.1.20 sou...",Duplicate record (keeping first occurrence),0.9,REMOVE,5683.0
+11813,10.0,billions_usd,2024,investment,"17, 2024 databricks, an ai data analytics company, raises $10 billion at a valuation of $62 billion....",Duplicate record (keeping first occurrence),0.9,REMOVE,5684.0
+11814,62.0,billions_usd,2025,investment,"ta analytics company, raises $10 billion at a valuation of $62 billion. investment/funding figure 4....",Duplicate record (keeping first occurrence),0.9,REMOVE,5685.0
+11815,500.0,millions_usd,2025,investment,"i, a startup focused on ai-powered search products, raises $500 million at a valuation of $9 billion...",Duplicate record (keeping first occurrence),0.9,REMOVE,5650.0
+11816,9.0,billions_usd,2025,investment,"ed search products, raises $500 million at a valuation of $9 billion. investment/funding figure 4.1....",Duplicate record (keeping first occurrence),0.9,REMOVE,5687.0
+11817,6.0,billions_usd,2024,investment,".22 source: ai magazine, 2024 dec 23, 2024 xai announces a $6 billion funding round, bringing the to...",Duplicate record (keeping first occurrence),0.9,REMOVE,5671.0
+11818,12.0,billions_usd,2025,investment,"nnounces a $6 billion funding round, bringing the total to $12 billion at a valuation of over $40 bi...",Duplicate record (keeping first occurrence),0.9,REMOVE,5689.0
+11819,40.0,billions_usd,2024,investment,", bringing the total to $12 billion at a valuation of over $40 billion. investment/funding figure 4....",Duplicate record (keeping first occurrence),0.9,REMOVE,5690.0
+11820,700.0,millions_usd,2024,growth_rate,"024 dec 30, 2024 nvidia acquires israeli startup run:ai for $700 million to increase its gpu optimiz...",Duplicate record (keeping first occurrence),0.9,REMOVE,5691.0
+11821,252.3,billions_usd,2024,investment,"nd public offerings. in 2024, the total investment grew to $252.3 billion, an increase of 25.5% from...",Duplicate record (keeping first occurrence),0.9,REMOVE,5609.0
+11822,1.5,millions_usd,2013,investment,e investment trends in ai startups that have received over $1.5 million in investment since 2013. gl...,Duplicate record (keeping first occurrence),0.9,REMOVE,5693.0
+11823,33.9,billions_usd,2024,growth_rate,"ease sharply (figure 4.3.3). in 2024, the sector attracted $33.9 billion, representing an 18.7% incr...",Duplicate record (keeping first occurrence),0.9,REMOVE,5610.0
+11824,31.6,millions_usd,2024,investment,"to 2024, the average increased significantly, growing from $31.6 million to $45.4 million. figure 4....",Duplicate record (keeping first occurrence),0.9,REMOVE,5695.0
+11825,45.4,millions_usd,2025,investment,"age increased significantly, growing from $31.6 million to $45.4 million. figure 4.3.7 reports ai fu...",Duplicate record (keeping first occurrence),0.9,REMOVE,5696.0
+11826,100.0,millions_usd,2025,investment,events increased across funding size categories exceeding $100 million and decreased or remained con...,Duplicate record (keeping first occurrence),0.9,REMOVE,5697.0
+11827,1.0,billions_usd,2013,investment,investment events that involved funding sizes greater than $1 billion. 45.43 2013 2014 2015 2016 201...,Duplicate record (keeping first occurrence),0.9,REMOVE,5698.0
+11828,170.0,number,2025,cost,"imate training costs was llama 3.1-405b, with an estimated cost of $170 million. as the ai landscape...",Duplicate record (keeping first occurrence),0.9,REMOVE,5699.0
+11829,2.5,number,2025,cost,"ice—both a financial and latency cost. for example, gpt-4o costs $2.50 per 1 million input tokens an...",Duplicate record (keeping first occurrence),0.9,REMOVE,5700.0
+11830,15.0,number,2025,cost,"tokens and $10 per 1 million output tokens. conversely, o1 costs $15 per 1 million input tokens and ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5701.0
+11831,233.0,number,2025,labor_metrics,tation. a survey conducted by romanian researchers of 233 employees found that organizations with hi...,Duplicate record (keeping first occurrence),0.9,REMOVE,5702.0
+11832,30.0,percentage,2022,cost,"r 2022 and october 2024. at the hardware level, costs have declined by 30% annually, while energy ef...",Duplicate record (keeping first occurrence),0.9,REMOVE,5703.0
+11833,21.3,percentage,2023,growth_rate,"ice as many agencies. globally, legislative mentions of ai rose 21.3% across 75 countries since 2023...",Duplicate record (keeping first occurrence),0.9,REMOVE,5517.0
+11834,22.0,percentage,2025,growth_rate,umber of graduates with bachelor’s degrees in computing has increased 22% over the last 10 years. ye...,Duplicate record (keeping first occurrence),0.9,REMOVE,5518.0
+11835,40.0,percentage,2025,cost,"th costs dropping 30% per year, while energy efficiency has increased by 40% annually. 9. carbon emi...",Duplicate record (keeping first occurrence),0.9,REMOVE,5505.0
+11836,28.8,percentage,2023,growth_rate,"he number of rai papers accepted at leading ai conferences increased by 28.8%, from 992 in 2023 to 1...",Duplicate record (keeping first occurrence),0.9,REMOVE,5559.0
+11837,21.3,percentage,2024,growth_rate,"cross 75 countries, ai mentions in legislative proceedings increased by 21.3% in 2024, rising to 1,8...",Duplicate record (keeping first occurrence),0.9,REMOVE,5585.0
+11838,40.0,percentage,2025,cost,"th costs dropping 30% per year, while energy efficiency has increased by 40% annually. 9. carbon emi...",Duplicate record (keeping first occurrence),0.9,REMOVE,5505.0
+11839,28.8,percentage,2023,growth_rate,"he number of rai papers accepted at leading ai conferences increased by 28.8%, from 992 in 2023 to 1...",Duplicate record (keeping first occurrence),0.9,REMOVE,5559.0
+11840,28.8,percentage,2023,growth_rates,"he number of rai papers accepted at leading ai conferences rose by 28.8%, from 992 in 2023 to 1,278 ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5559.0
+11841,14.5,percentage,2019,growth_rates,r of accepted papers on privacy and data governance topics decreased by 14.5% at select ai conferenc...,Duplicate record (keeping first occurrence),0.9,REMOVE,5712.0
+11842,33.4,percentage,2025,growth_rate,", the ratio of ai talent hiring relative to overall hiring grew 33.4%. figure 4.2.135 4 for each mon...",Duplicate record (keeping first occurrence),0.9,REMOVE,5713.0
+11843,44.5,percentage,2025,investment,"t significant upturn occurred in private investment, which rose by 44.5% compared with the previous ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5714.0
+11844,12.1,percentage,2025,investment,"red with the previous year, while mergers and acquisitions increased by 12.1%. over the past decade,...",Duplicate record (keeping first occurrence),0.9,REMOVE,5562.0
+11845,44.5,percentage,2013,investment,"ment since 2013. global trends global private ai investment increased 44.5% between 2023 and 2024, m...",Duplicate record (keeping first occurrence),0.9,REMOVE,5716.0
+11846,21.3,percentage,2024,growth_rate,"75 major countries, ai mentions in legislative proceedings increased by 21.3% in 2024, rising to 1,8...",Duplicate record (keeping first occurrence),0.9,REMOVE,5585.0
+11847,21.3,percentage,2016,growth_rates,"ave mentioned ai since 2016. in the past year, ai mentions rose by 21.3%, increasing from 1,557 in 2...",Duplicate record (keeping first occurrence),0.9,REMOVE,5718.0
+11848,22.0,percentage,2023,growth_rate,mber of graduates with bachelor’s degrees in computing has increased 22% over the last 10 years (fig...,Duplicate record (keeping first occurrence),0.9,REMOVE,5719.0
+11849,2.0,number,2020,token_metrics,"ge language model revolution, was trained on approximately 2 billion tokens. by 2020, gpt-3 175b—one...",Duplicate record (keeping first occurrence),0.9,REMOVE,5720.0
+11850,374.0,number,2025,token_metrics,"erpinning the original chatgpt—was trained on an estimated 374 billion tokens. in contrast, meta’s f...",Duplicate record (keeping first occurrence),0.9,REMOVE,5721.0
+11851,0.0,number,2025,token_metrics,"y openai and meta, featured context windows of 8,000 and 4,000 tokens, respectively. in contrast, mo...",Duplicate record (keeping first occurrence),0.9,REMOVE,5722.0
+11852,82.0,number,2025,token_metrics,"rom unstructured electronic health records, was trained on 82 billion tokens. in contrast, llama 3 w...",Duplicate record (keeping first occurrence),0.9,REMOVE,5723.0

@@ -1,0 +1,11 @@
+original_id,value,unit,year,current_metric_type,new_metric_type,context_preview,sector,country,company_size,reason,confidence
+953,80.0,percentage,2024,general_rate,employment_metric,and gpt-4 classifications. our findings reveal that around 80% of the u.s. workforce could have at l...,,,,Reclassify: general_rate → employment_metric,0.8
+954,10.0,percentage,2024,general_rate,employment_metric,l that around 80% of the u.s. workforce could have at least 10% of their work tasks affected by the ...,,,,Reclassify: general_rate → employment_metric,0.8
+955,19.0,percentage,2024,general_rate,employment_metric,"affected by the intro- duction of llms, while approximately 19% of workers may see at least 50% of t...",,,,Reclassify: general_rate → employment_metric,0.8
+956,50.0,percentage,2024,general_rate,employment_metric,"f llms, while approximately 19% of workers may see at least 50% of their tasks im- pacted. we do not...",,,,Reclassify: general_rate → employment_metric,0.8
+957,15.0,percentage,2024,general_rate,employment_metric,"h. our analysis suggests that, with access to an llm, about 15% of all worker tasks in the us could ...",,,,Reclassify: general_rate → employment_metric,0.8
+959,3.0,percentage,2024,general_rate,employment_metric,tools built upon them. human assessments suggest that only 3% of u.s. workers have over half of thei...,,,,Reclassify: general_rate → employment_metric,0.8
+966,0.0,percentage,2024,general_rate,employment_metric,"er than 50% 𝛽 ex- posure in job zones 1 through 5 have 𝛽 at 0.00% (job zone 1), 6.11% (job zone 2), ...",,,,Reclassify: general_rate → employment_metric,0.8
+967,6.11,percentage,2024,general_rate,employment_metric,"sure in job zones 1 through 5 have 𝛽 at 0.00% (job zone 1), 6.11% (job zone 2), 10.57% (job zone 3),...",,,,Reclassify: general_rate → employment_metric,0.8
+968,34.5,percentage,2024,general_rate,employment_metric,".00% (job zone 1), 6.11% (job zone 2), 10.57% (job zone 3), 34.5% (job zone 4), and 26.45% (job zone...",,,,Reclassify: general_rate → employment_metric,0.8
+969,26.45,percentage,2024,general_rate,employment_metric,"(job zone 2), 10.57% (job zone 3), 34.5% (job zone 4), and 26.45% (job zone 5), respectively. job zo...",,,,Reclassify: general_rate → employment_metric,0.8

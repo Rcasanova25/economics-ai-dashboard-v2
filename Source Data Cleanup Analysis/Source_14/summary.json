@@ -1,0 +1,35 @@
+{
+  "source_id": 14,
+  "source_name": "nvidia-cost-trends-ai-inference-at-scale.pdf",
+  "timestamp": "2025-07-23T15:08:39.895157",
+  "schema_version": "1.1",
+  "total_records": 38,
+  "kept_records": 5,
+  "removed_records": 32,
+  "modified_records": 1,
+  "duplicate_groups": 8,
+  "duplicates_removed": 30,
+  "removal_reasons": {
+    "Duplicate record": 30,
+    "Unexpected unit 'multiple' for cost_metric": 2
+  },
+  "modification_types": {
+    "general_rate \u2192 productivity_metric": 1
+  },
+  "confidence_distribution": {
+    "high": 30,
+    "medium": 8,
+    "low": 0,
+    "high_pct": 78.9,
+    "medium_pct": 21.1,
+    "low_pct": 0.0
+  },
+  "quality_metrics": {
+    "quality_score": 13.16,
+    "issues_found": 33,
+    "removal_rate": 84.21,
+    "modification_rate": 2.63
+  },
+  "top_removal_reason": "Duplicate record",
+  "top_removal_count": 30
+}

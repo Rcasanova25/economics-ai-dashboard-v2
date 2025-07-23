@@ -1,0 +1,16 @@
+SOURCE 9 CLEANUP ANALYSIS SUMMARY
+Generated: 2025-07-23T15:05:58.945854
+
+FILE: GenAi and the Nature of Work.pdf
+Original Records: 240
+
+PROPOSED ACTIONS:
+- Records to KEEP: 61
+- Records to REMOVE: 175
+- Records to MODIFY: 4
+
+Quality Score: 25.42%
+
+Top removal reason: Duplicate record (175 records)
+
+Please review the detailed reports before proceeding with cleanup.

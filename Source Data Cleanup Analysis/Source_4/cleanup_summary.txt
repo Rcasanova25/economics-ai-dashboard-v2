@@ -1,0 +1,16 @@
+SOURCE 4 CLEANUP ANALYSIS SUMMARY
+Generated: 2025-07-23T14:54:51.772223
+
+FILE: ai-and-the-global-economy.pdf
+Original Records: 540
+
+PROPOSED ACTIONS:
+- Records to KEEP: 97
+- Records to REMOVE: 433
+- Records to MODIFY: 10
+
+Quality Score: 17.96%
+
+Top removal reason: Duplicate record (427 records)
+
+Please review the detailed reports before proceeding with cleanup.

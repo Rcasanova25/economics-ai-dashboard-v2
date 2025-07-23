@@ -1,0 +1,387 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence,proposed_action,kept_record_id
+821,15.0,percentage,2024,general_rate,"r productivity, as measured by issues resolved per hour, by 15% on average, with substantial heterog...",Reclassify: general_rate → productivity_metric,0.8,MODIFY,
+822,30.0,percentage,2024,general_rate,"gniﬁ- cantly across all productivity measures, including a 30% increase in the number of issues reso...",Reclassify: general_rate → productivity_metric,0.8,MODIFY,
+823,5.0,percentage,2024,general_rate,"r-rich routes to taxi drivers reduces their search time by 5%, with the least experienced drivers be...",Passed all validation checks,0.85,KEEP,
+824,60.0,percentage,2024,general_rate,ctive. turnover is high: industry estimates sug- gest that 60% of agents in contact centers leave ea...,Reclassify: general_rate → cost_metric,0.8,MODIFY,
+825,20.0,percentage,2024,general_rate,rviewed esti- mated that performance bonuses accounted for 20% to 40% of a typical agent’s total tak...,Reclassify: general_rate → productivity_metric,0.8,MODIFY,
+826,40.0,percentage,2024,general_rate,esti- mated that performance bonuses accounted for 20% to 40% of a typical agent’s total take-home p...,Reclassify: general_rate → productivity_metric,0.8,MODIFY,
+827,70.0,percentage,2021,general_rate,"rkers with access to ai assistance was only 5%, growing to 70% in january 2021. while our analysis p...",Passed all validation checks,0.85,KEEP,
+828,89.0,percentage,2024,general_rate,s in the post-ai period. most of the agents in our sample (89%) are located outside the united state...,Passed all validation checks,0.85,KEEP,
+829,23.9,percentage,2024,general_rate,"ss to ai rec- ommendations increases rph by 0.47 chats, up 23.9% from their pretreatment mean of 1.9...",Passed all validation checks,0.85,KEEP,
+830,8.5,percentage,2024,general_rate,"ute decrease in the average duration of customer chats, an 8.5% decline from the baseline mean of 43...",Passed all validation checks,0.85,KEEP,
+831,80.0,percentage,2024,general_rate,he coefﬁcient is −0.12 per- centage points and the mean is 80%. online appendix figure a.iii present...,Passed all validation checks,0.85,KEEP,
+832,36.0,percentage,2024,general_rate,"ile (leftmost side), who see an increase of 0.5 in rph, or 36%. in contrast, ai assistance does not ...",Passed all validation checks,0.85,KEEP,
+833,50.0,percentage,2024,general_rate,"adherence rate is 38%, with an interquartile range of 23%–50%: agents frequently disregard rec- omme...",Passed all validation checks,0.85,KEEP,
+834,27.0,percentage,2023,general_rate,y of github copilot reports that individual developers use 27%–46% of code recommendations ( zhao 20...,Passed all validation checks,0.85,KEEP,
+835,10.0,percentage,2024,general_rate,"rence. among agents in the lowest quintile, we still see a 10% gain in productivity, but for agents ...",Reclassify: general_rate → productivity_metric,0.8,MODIFY,
+836,100.0,percentage,2024,general_rate,"ber of chats without recommendations, increasing to almost 100%. records from our ai ﬁrm indicate th...",Passed all validation checks,0.85,KEEP,
+837,1.0,percentage,2024,general_rate,tes agent sentiments increase by only 0.02 points or about 1% of a standard deviation. downloaded fr...,Passed all validation checks,0.85,KEEP,
+838,6.0,percentage,2024,general_rate,"escalation. relative to a base- line rate of approximately 6%, these coefﬁcients suggest that ai ass...",Passed all validation checks,0.85,KEEP,
+839,12.0,percentage,2024,general_rate,"ould ﬁeld the same number of customer- support issues with 12% fewer worker-hours. conversely, in- d...",Reclassify: general_rate → employment_metric,0.8,MODIFY,
+840,5.0,billions_usd,2024,financial_metric,"trained on 300 billion tokens, and incurred approximately $5 million in training costs. the gpt-4 mo...",Passed all validation checks,0.85,KEEP,
+841,65.0,billions_usd,2023,financial_metric,13 trillion tokens at an estimated computing-only cost of $65 million ( li 2020 ; brown et al. 2020 ...,Passed all validation checks,0.85,KEEP,
+842,10.0,billions_usd,2024,financial_metric,"of agents in contact centers leave each year, costing ﬁrms $10,000 to $20,000 per agent in the unite...",Passed all validation checks,0.85,KEEP,
+843,20.0,billions_usd,2024,financial_metric,"n contact centers leave each year, costing ﬁrms $10,000 to $20,000 per agent in the united states ( ...",Passed all validation checks,0.85,KEEP,
+844,3.0,billions_usd,2024,cost_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Passed all validation checks,0.85,KEEP,
+845,175.0,billions_usd,2024,cost_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Passed all validation checks,0.85,KEEP,
+846,300.0,billions_usd,2024,cost_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Passed all validation checks,0.85,KEEP,
+847,5.0,billions_usd,2024,cost_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,840.0
+848,65.0,billions_usd,2020,cost_metric,"8 trillion parameters and was 
+trained on 13 trillion tokens at an estimated computing-only cost 
+...",Passed all validation checks,0.85,KEEP,
+849,50.0,number,2024,employment_metric,"ata ﬁrm conducted a pilot analysis involving approximately 50 workers, with about half randomized in...",Passed all validation checks,0.85,KEEP,
+850,2025.0,number,2025,unknown_metric,"nford univer- sity , mit , or the nber. c ⃝the author(s) 2025. published by oxford university press ...",Citation years should not be metric values,0.95,REMOVE,
+851,300.0,billions_usd,2024,ai_cost_metric,"gpt-3 model included 175 billion parameters, was trained on 300 billion tokens, and incurred approxi...",Duplicate record (keeping first occurrence),0.9,REMOVE,846.0
+852,15.0,percentage,2024,productivity_metric,"access to ai assistance 
+increases worker productivity, as measured by issues resolved per hour, by...",Duplicate record (keeping first occurrence),0.9,REMOVE,821.0
+853,60.0,percentage,2018,cost_metric,"turnover is high: industry estimates sug- 
+gest that 60% of agents in contact centers leave each ye...",Passed all validation checks,0.85,KEEP,
+854,3.0,billions_usd,2024,tokens_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,844.0
+855,175.0,billions_usd,2024,tokens_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,845.0
+856,300.0,billions_usd,2024,tokens_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,846.0
+857,5.0,billions_usd,2024,tokens_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,840.0
+858,65.0,billions_usd,2020,tokens_metric,"8 trillion parameters and was 
+trained on 13 trillion tokens at an estimated computing-only cost 
+...",Duplicate record (keeping first occurrence),0.9,REMOVE,848.0
+859,15.0,percentage,2024,impact_metrics,nan,Duplicate record (keeping first occurrence),0.9,REMOVE,821.0
+860,30.0,percentage,2024,impact_metrics,nan,Duplicate record (keeping first occurrence),0.9,REMOVE,822.0
+861,10.0,percentage,2024,impact_metrics,nan,Duplicate record (keeping first occurrence),0.9,REMOVE,835.0
+862,40.0,percentage,2024,impact_metrics,nan,Duplicate record (keeping first occurrence),0.9,REMOVE,826.0
+863,23.9,percentage,2024,comparison_metrics,"ng for time and location ﬁxed effects, access to ai rec- ommendations increases rph by 0.47 chats, u...",Duplicate record (keeping first occurrence),0.9,REMOVE,829.0
+5335,15.0,percentage,2024,general_rate,"r productivity, as measured by issues resolved per hour, by 15% on average, with substantial heterog...",Duplicate record (keeping first occurrence),0.9,REMOVE,821.0
+5336,30.0,percentage,2024,general_rate,"gniﬁ- cantly across all productivity measures, including a 30% increase in the number of issues reso...",Duplicate record (keeping first occurrence),0.9,REMOVE,822.0
+5337,5.0,percentage,2024,general_rate,"r-rich routes to taxi drivers reduces their search time by 5%, with the least experienced drivers be...",Duplicate record (keeping first occurrence),0.9,REMOVE,823.0
+5338,60.0,percentage,2024,general_rate,ctive. turnover is high: industry estimates sug- gest that 60% of agents in contact centers leave ea...,Duplicate record (keeping first occurrence),0.9,REMOVE,824.0
+5339,20.0,percentage,2024,general_rate,rviewed esti- mated that performance bonuses accounted for 20% to 40% of a typical agent’s total tak...,Duplicate record (keeping first occurrence),0.9,REMOVE,825.0
+5340,40.0,percentage,2024,general_rate,esti- mated that performance bonuses accounted for 20% to 40% of a typical agent’s total take-home p...,Duplicate record (keeping first occurrence),0.9,REMOVE,826.0
+5341,70.0,percentage,2021,general_rate,"rkers with access to ai assistance was only 5%, growing to 70% in january 2021. while our analysis p...",Duplicate record (keeping first occurrence),0.9,REMOVE,827.0
+5342,89.0,percentage,2024,general_rate,s in the post-ai period. most of the agents in our sample (89%) are located outside the united state...,Duplicate record (keeping first occurrence),0.9,REMOVE,828.0
+5343,23.9,percentage,2024,general_rate,"ss to ai rec- ommendations increases rph by 0.47 chats, up 23.9% from their pretreatment mean of 1.9...",Duplicate record (keeping first occurrence),0.9,REMOVE,829.0
+5344,8.5,percentage,2024,general_rate,"ute decrease in the average duration of customer chats, an 8.5% decline from the baseline mean of 43...",Duplicate record (keeping first occurrence),0.9,REMOVE,830.0
+5345,80.0,percentage,2024,general_rate,he coefﬁcient is −0.12 per- centage points and the mean is 80%. online appendix figure a.iii present...,Duplicate record (keeping first occurrence),0.9,REMOVE,831.0
+5346,36.0,percentage,2024,general_rate,"ile (leftmost side), who see an increase of 0.5 in rph, or 36%. in contrast, ai assistance does not ...",Duplicate record (keeping first occurrence),0.9,REMOVE,832.0
+5347,50.0,percentage,2024,general_rate,"adherence rate is 38%, with an interquartile range of 23%–50%: agents frequently disregard rec- omme...",Duplicate record (keeping first occurrence),0.9,REMOVE,833.0
+5348,27.0,percentage,2023,general_rate,y of github copilot reports that individual developers use 27%–46% of code recommendations ( zhao 20...,Duplicate record (keeping first occurrence),0.9,REMOVE,834.0
+5349,10.0,percentage,2024,general_rate,"rence. among agents in the lowest quintile, we still see a 10% gain in productivity, but for agents ...",Duplicate record (keeping first occurrence),0.9,REMOVE,835.0
+5350,100.0,percentage,2024,general_rate,"ber of chats without recommendations, increasing to almost 100%. records from our ai ﬁrm indicate th...",Duplicate record (keeping first occurrence),0.9,REMOVE,836.0
+5351,1.0,percentage,2024,general_rate,tes agent sentiments increase by only 0.02 points or about 1% of a standard deviation. downloaded fr...,Duplicate record (keeping first occurrence),0.9,REMOVE,837.0
+5352,6.0,percentage,2024,general_rate,"escalation. relative to a base- line rate of approximately 6%, these coefﬁcients suggest that ai ass...",Duplicate record (keeping first occurrence),0.9,REMOVE,838.0
+5353,12.0,percentage,2024,general_rate,"ould ﬁeld the same number of customer- support issues with 12% fewer worker-hours. conversely, in- d...",Duplicate record (keeping first occurrence),0.9,REMOVE,839.0
+5354,5.0,billions_usd,2024,financial_metric,"trained on 300 billion tokens, and incurred approximately $5 million in training costs. the gpt-4 mo...",Duplicate record (keeping first occurrence),0.9,REMOVE,840.0
+5355,65.0,billions_usd,2023,financial_metric,13 trillion tokens at an estimated computing-only cost of $65 million ( li 2020 ; brown et al. 2020 ...,Duplicate record (keeping first occurrence),0.9,REMOVE,841.0
+5356,10.0,billions_usd,2024,financial_metric,"of agents in contact centers leave each year, costing ﬁrms $10,000 to $20,000 per agent in the unite...",Duplicate record (keeping first occurrence),0.9,REMOVE,842.0
+5357,20.0,billions_usd,2024,financial_metric,"n contact centers leave each year, costing ﬁrms $10,000 to $20,000 per agent in the united states ( ...",Duplicate record (keeping first occurrence),0.9,REMOVE,843.0
+5358,3.0,billions_usd,2024,cost_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,844.0
+5359,175.0,billions_usd,2024,cost_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,845.0
+5360,300.0,billions_usd,2024,cost_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,846.0
+5361,5.0,billions_usd,2024,cost_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,840.0
+5362,65.0,billions_usd,2020,cost_metric,"8 trillion parameters and was 
+trained on 13 trillion tokens at an estimated computing-only cost 
+...",Duplicate record (keeping first occurrence),0.9,REMOVE,848.0
+5363,50.0,number,2024,employment_metric,"ata ﬁrm conducted a pilot analysis involving approximately 50 workers, with about half randomized in...",Duplicate record (keeping first occurrence),0.9,REMOVE,849.0
+5364,2025.0,number,2025,unknown_metric,"nford univer- sity , mit , or the nber. c ⃝the author(s) 2025. published by oxford university press ...",Duplicate record (keeping first occurrence),0.9,REMOVE,850.0
+5365,300.0,billions_usd,2024,ai_cost_metric,"gpt-3 model included 175 billion parameters, was trained on 300 billion tokens, and incurred approxi...",Duplicate record (keeping first occurrence),0.9,REMOVE,846.0
+5366,15.0,percentage,2024,productivity_metric,"access to ai assistance 
+increases worker productivity, as measured by issues resolved per hour, by...",Duplicate record (keeping first occurrence),0.9,REMOVE,821.0
+5367,60.0,percentage,2018,cost_metric,"turnover is high: industry estimates sug- 
+gest that 60% of agents in contact centers leave each ye...",Duplicate record (keeping first occurrence),0.9,REMOVE,853.0
+5368,3.0,billions_usd,2024,tokens_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,844.0
+5369,175.0,billions_usd,2024,tokens_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,845.0
+5370,300.0,billions_usd,2024,tokens_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,846.0
+5371,5.0,billions_usd,2024,tokens_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,840.0
+5372,65.0,billions_usd,2020,tokens_metric,"8 trillion parameters and was 
+trained on 13 trillion tokens at an estimated computing-only cost 
+...",Duplicate record (keeping first occurrence),0.9,REMOVE,848.0
+5373,15.0,percentage,2024,impact_metrics,nan,Duplicate record (keeping first occurrence),0.9,REMOVE,821.0
+5374,30.0,percentage,2024,impact_metrics,nan,Duplicate record (keeping first occurrence),0.9,REMOVE,822.0
+5375,10.0,percentage,2024,impact_metrics,nan,Duplicate record (keeping first occurrence),0.9,REMOVE,835.0
+5376,40.0,percentage,2024,impact_metrics,nan,Duplicate record (keeping first occurrence),0.9,REMOVE,826.0
+5377,23.9,percentage,2024,comparison_metrics,"ng for time and location ﬁxed effects, access to ai rec- ommendations increases rph by 0.47 chats, u...",Duplicate record (keeping first occurrence),0.9,REMOVE,829.0
+5378,15.0,percentage,2025,productivity,"r productivity, as measured by issues resolved per hour, by 15% on average, with substantial heterog...",Passed all validation checks,0.85,KEEP,
+5379,15.0,percentage,2025,productivity,"s to ai assistance increases the productivity of agents by 15%, as measured by the number of cus- to...",Duplicate record (keeping first occurrence),0.9,REMOVE,5378.0
+5380,15.0,percentage,2025,productivity,"i assistance increases worker productivity, resulting in a 15% increase in the number of chats that ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5378.0
+5381,30.0,percentage,2025,productivity,"gniﬁ- cantly across all productivity measures, including a 30% increase in the number of issues reso...",Passed all validation checks,0.85,KEEP,
+5382,5.0,percentage,2025,percentages,"r-rich routes to taxi drivers reduces their search time by 5%, with the least experienced drivers be...",Passed all validation checks,0.85,KEEP,
+5383,60.0,percentage,2025,cost,ctive. turnover is high: industry estimates sug- gest that 60% of agents in contact centers leave ea...,Passed all validation checks,0.85,KEEP,
+5384,20.0,percentage,2025,percentages,rviewed esti- mated that performance bonuses accounted for 20% to 40% of a typical agent’s total tak...,Passed all validation checks,0.85,KEEP,
+5385,40.0,percentage,2025,percentages,esti- mated that performance bonuses accounted for 20% to 40% of a typical agent’s total take-home p...,Passed all validation checks,0.85,KEEP,
+5386,5.0,percentage,2021,employment,"of ac- tive workers with access to ai assistance was only 5%, growing to 70% in january 2021. while ...",Passed all validation checks,0.85,KEEP,
+5387,70.0,percentage,2021,percentages,"rkers with access to ai assistance was only 5%, growing to 70% in january 2021. while our analysis p...",Duplicate record (keeping first occurrence),0.9,REMOVE,827.0
+5388,89.0,percentage,2025,percentages,s in the post-ai period. most of the agents in our sample (89%) are located outside the united state...,Passed all validation checks,0.85,KEEP,
+5389,23.9,percentage,2025,growth_rate,"ss to ai rec- ommendations increases rph by 0.47 chats, up 23.9% from their pretreatment mean of 1.9...",Passed all validation checks,0.85,KEEP,
+5390,15.2,percentage,2025,growth_rate,ﬁnd that the ai deployment increases rph by 0.30 chats or 15.2%. figure ii shows the accompanying in...,Passed all validation checks,0.85,KEEP,
+5391,95.0,percentage,2025,productivity,"studies, productivity this ﬁgure plots the coefﬁcients and 95% conﬁdence intervals from event-study ...",Passed all validation checks,0.85,KEEP,
+5392,8.5,percentage,2025,percentages,"ute decrease in the average duration of customer chats, an 8.5% decline from the baseline mean of 43...",Passed all validation checks,0.85,KEEP,
+5393,15.0,percentage,2025,growth_rate,"seline mean of 2.4, this represents an increase of roughly 15%. unlike aht, cph accounts for the pos...",Duplicate record (keeping first occurrence),0.9,REMOVE,5378.0
+5394,82.0,percentage,2025,percentages,ally modest and in- signiﬁcant given a high baseline rr of 82%. we interpret this downloaded from ht...,Passed all validation checks,0.85,KEEP,
+5395,80.0,percentage,2025,percentages,he coefﬁcient is −0.12 per- centage points and the mean is 80%. online appendix figure a.iii present...,Passed all validation checks,0.85,KEEP,
+5396,36.0,percentage,2025,growth_rate,"ile (leftmost side), who see an increase of 0.5 in rph, or 36%. in contrast, ai assistance does not ...",Passed all validation checks,0.85,KEEP,
+5397,38.0,percentage,2025,percentages,"to that agent in that month. the average adherence rate is 38%, with an interquartile range of 23%–5...",Passed all validation checks,0.85,KEEP,
+5398,23.0,percentage,2025,percentages,"rage adherence rate is 38%, with an interquartile range of 23%–50%: agents frequently disregard rec-...",Passed all validation checks,0.85,KEEP,
+5399,50.0,percentage,2025,percentages,"adherence rate is 38%, with an interquartile range of 23%–50%: agents frequently disregard rec- omme...",Passed all validation checks,0.85,KEEP,
+5400,27.0,percentage,2023,percentages,y of github copilot reports that individual developers use 27%–46% of code recommendations ( zhao 20...,Duplicate record (keeping first occurrence),0.9,REMOVE,834.0
+5401,46.0,percentage,2023,percentages,github copilot reports that individual developers use 27%–46% of code recommendations ( zhao 2023 )....,Passed all validation checks,0.85,KEEP,
+5402,10.0,percentage,2025,productivity,"rence. among agents in the lowest quintile, we still see a 10% gain in productivity, but for agents ...",Passed all validation checks,0.85,KEEP,
+5403,25.0,percentage,2025,percentages,"tile, the estimated impact is over twice as high, close to 25%. online appendix figure a.x shows the...",Passed all validation checks,0.85,KEEP,
+5404,50.0,percentage,2025,growth_rate,nt agents continue to comply at the same rates (just above 50%). the initially least compliant agent...,Duplicate record (keeping first occurrence),0.9,REMOVE,5399.0
+5405,20.0,percentage,2025,percentages,"bottom tercile initially follow recommendations less than 20% of the time, but by month ﬁve their co...",Duplicate record (keeping first occurrence),0.9,REMOVE,5384.0
+5406,50.0,percentage,2025,employment,by month ﬁve their compliance rates have increased by over 50%. panel b divides workers up by tenure...,Duplicate record (keeping first occurrence),0.9,REMOVE,5399.0
+5407,30.0,percentage,2025,percentages,rs are initially less likely to follow ai recommendations: 30% for those with more than a year of te...,Duplicate record (keeping first occurrence),0.9,REMOVE,5381.0
+5408,37.0,percentage,2025,percentages,0% for those with more than a year of tenure compared with 37% for those with less than three months...,Passed all validation checks,0.85,KEEP,
+5409,30.0,percentage,2025,percentages,"the share of chats without ai recommendations is typically 30% to 40%, reﬂecting that the ai system ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5381.0
+5410,40.0,percentage,2025,percentages,"re of chats without ai recommendations is typically 30% to 40%, reﬂecting that the ai system does no...",Duplicate record (keeping first occurrence),0.9,REMOVE,5385.0
+5411,100.0,percentage,2025,percentages,"ber of chats without recommendations, increasing to almost 100%. records from our ai ﬁrm indicate th...",Passed all validation checks,0.85,KEEP,
+5412,10.0,percentage,2025,percentages,"cline in the duration of individual chats by approximately 10% to 15%. in panel b, we use the same p...",Duplicate record (keeping first occurrence),0.9,REMOVE,5402.0
+5413,15.0,percentage,2025,percentages,"n the duration of individual chats by approximately 10% to 15%. in panel b, we use the same pretreat...",Duplicate record (keeping first occurrence),0.9,REMOVE,5378.0
+5414,15.0,percentage,2025,percentages,osed agents continue to handle calls faster (equivalent to 15%–25% declines in chat duration). becau...,Duplicate record (keeping first occurrence),0.9,REMOVE,5378.0
+5415,25.0,percentage,2025,percentages,agents continue to handle calls faster (equivalent to 15%–25% declines in chat duration). because ai...,Duplicate record (keeping first occurrence),0.9,REMOVE,5403.0
+5416,90.0,percentage,2025,percentages,"of all conversations, and the top 16 topics represent over 90% of all chats. to evaluate the impact ...",Passed all validation checks,0.85,KEEP,
+5417,50.0,percentage,2025,percentages,"distinct groups. the payroll/account category, comprising 50% of all c hats, inc ludes inquiries rel...",Duplicate record (keeping first occurrence),0.9,REMOVE,5399.0
+5418,25.0,percentage,2025,percentages,"ayroll, taxes, and account access and management. the next 25% of chats covers ﬁve categories, inclu...",Duplicate record (keeping first occurrence),0.9,REMOVE,5403.0
+5419,15.0,percentage,2025,percentages,"th bank transfers or managing subscriptions. the following 15% of chats encompass nine topics, and t...",Duplicate record (keeping first occurrence),0.9,REMOVE,5378.0
+5420,10.0,percentage,2025,percentages,"following 15% of chats encompass nine topics, and the ﬁnal 10% of chats consists of all the remain- ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5402.0
+5421,10.0,percentage,2025,percentages,"ﬁve minutes faster, which corresponds to an approximately 10% decrease from the pretreatment mean du...",Duplicate record (keeping first occurrence),0.9,REMOVE,5402.0
+5422,14.0,percentage,2025,percentages,t on 08 july 2025 926 the quarterly journal of economics 14% reduction from the pretreatment means f...,Passed all validation checks,0.85,KEEP,
+5423,11.0,percentage,2025,percentages,"r those topics. fi- nally, we see a smaller four-minute or 11% decrease for the most rare problems. ...",Passed all validation checks,0.85,KEEP,
+5424,15.0,percentage,2025,percentages,25 generative ai at work 927 duces conversation times by 15% for the least common problems compared ...,Duplicate record (keeping first occurrence),0.9,REMOVE,5378.0
+5425,10.0,percentage,2025,percentages,n times by 15% for the least common problems compared with 10% for the most common. once we control ...,Duplicate record (keeping first occurrence),0.9,REMOVE,5402.0
+5426,80.0,percentage,2025,employment,"ce of contact workers serving u.s. customers. in our data, 80% of the agents are based in the philip...",Duplicate record (keeping first occurrence),0.9,REMOVE,5395.0
+5427,1.0,percentage,2025,growth_rate,tes agent sentiments increase by only 0.02 points or about 1% of a standard deviation. downloaded fr...,Passed all validation checks,0.85,KEEP,
+5428,6.0,percentage,2025,percentages,"escalation. relative to a base- line rate of approximately 6%, these coefﬁcients suggest that ai ass...",Passed all validation checks,0.85,KEEP,
+5429,25.0,percentage,2025,percentages,coefﬁcients suggest that ai assistance generates an almost 25% decline in customer requests to speak...,Duplicate record (keeping first occurrence),0.9,REMOVE,5403.0
+5430,40.0,percentage,2025,percentages,"coefﬁcient, around 10 percentage points, translates into a 40% decrease relative to a baseline attri...",Duplicate record (keeping first occurrence),0.9,REMOVE,5385.0
+5431,25.0,percentage,2025,employment,"ase relative to a baseline attrition rate in this group of 25%. in panel b, we examine attrition by ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5403.0
+5432,15.0,percentage,2025,productivity,"recommendations in- creases overall worker productivity by 15%, with even larger ef- fects for lower...",Duplicate record (keeping first occurrence),0.9,REMOVE,5378.0
+5433,12.0,percentage,2025,employment,"ould ﬁeld the same number of customer- support issues with 12% fewer worker-hours. conversely, in- d...",Passed all validation checks,0.85,KEEP,
+5434,5.0,millions_usd,2025,cost,"trained on 300 billion tokens, and incurred approximately $5 million in training costs. the gpt-4 mo...",Passed all validation checks,0.85,KEEP,
+5435,65.0,millions_usd,2020,cost,13 trillion tokens at an estimated computing-only cost of $65 million ( li 2020 ; brown et al. 2020 ...,Passed all validation checks,0.85,KEEP,
+5436,10.0,usd,2025,cost,"of agents in contact centers leave each year, costing ﬁrms $10,000 to $20,000 per agent in the unite...",Passed all validation checks,0.85,KEEP,
+5437,20.0,usd,2025,cost,"n contact centers leave each year, costing ﬁrms $10,000 to $20,000 per agent in the united states ( ...",Passed all validation checks,0.85,KEEP,
+5438,65.0,number,2020,cost,rained on 13 trillion tokens at an estimated computing-only cost of $65 million ( li 2020 ; brown et...,Passed all validation checks,0.85,KEEP,
+5439,50.0,number,2025,employment,"ata ﬁrm conducted a pilot analysis involving approximately 50 workers, with about half randomized in...",Passed all validation checks,0.85,KEEP,
+5440,300.0,number,2025,cost,"gpt-3 model included 175 billion parameters, was trained on 300 billion tokens, and incurred approxi...",Passed all validation checks,0.85,KEEP,
+6950,15.0,percentage,2024,general_rate,"r productivity, as measured by issues resolved per hour, by 15% on average, with substantial heterog...",Duplicate record (keeping first occurrence),0.9,REMOVE,821.0
+6951,30.0,percentage,2024,general_rate,"gniﬁ- cantly across all productivity measures, including a 30% increase in the number of issues reso...",Duplicate record (keeping first occurrence),0.9,REMOVE,822.0
+6952,5.0,percentage,2024,general_rate,"r-rich routes to taxi drivers reduces their search time by 5%, with the least experienced drivers be...",Duplicate record (keeping first occurrence),0.9,REMOVE,823.0
+6953,60.0,percentage,2024,general_rate,ctive. turnover is high: industry estimates sug- gest that 60% of agents in contact centers leave ea...,Duplicate record (keeping first occurrence),0.9,REMOVE,824.0
+6954,20.0,percentage,2024,general_rate,rviewed esti- mated that performance bonuses accounted for 20% to 40% of a typical agent’s total tak...,Duplicate record (keeping first occurrence),0.9,REMOVE,825.0
+6955,40.0,percentage,2024,general_rate,esti- mated that performance bonuses accounted for 20% to 40% of a typical agent’s total take-home p...,Duplicate record (keeping first occurrence),0.9,REMOVE,826.0
+6956,70.0,percentage,2021,general_rate,"rkers with access to ai assistance was only 5%, growing to 70% in january 2021. while our analysis p...",Duplicate record (keeping first occurrence),0.9,REMOVE,827.0
+6957,89.0,percentage,2024,general_rate,s in the post-ai period. most of the agents in our sample (89%) are located outside the united state...,Duplicate record (keeping first occurrence),0.9,REMOVE,828.0
+6958,23.9,percentage,2024,general_rate,"ss to ai rec- ommendations increases rph by 0.47 chats, up 23.9% from their pretreatment mean of 1.9...",Duplicate record (keeping first occurrence),0.9,REMOVE,829.0
+6959,8.5,percentage,2024,general_rate,"ute decrease in the average duration of customer chats, an 8.5% decline from the baseline mean of 43...",Duplicate record (keeping first occurrence),0.9,REMOVE,830.0
+6960,80.0,percentage,2024,general_rate,he coefﬁcient is −0.12 per- centage points and the mean is 80%. online appendix figure a.iii present...,Duplicate record (keeping first occurrence),0.9,REMOVE,831.0
+6961,36.0,percentage,2024,general_rate,"ile (leftmost side), who see an increase of 0.5 in rph, or 36%. in contrast, ai assistance does not ...",Duplicate record (keeping first occurrence),0.9,REMOVE,832.0
+6962,50.0,percentage,2024,general_rate,"adherence rate is 38%, with an interquartile range of 23%–50%: agents frequently disregard rec- omme...",Duplicate record (keeping first occurrence),0.9,REMOVE,833.0
+6963,27.0,percentage,2023,general_rate,y of github copilot reports that individual developers use 27%–46% of code recommendations ( zhao 20...,Duplicate record (keeping first occurrence),0.9,REMOVE,834.0
+6964,10.0,percentage,2024,general_rate,"rence. among agents in the lowest quintile, we still see a 10% gain in productivity, but for agents ...",Duplicate record (keeping first occurrence),0.9,REMOVE,835.0
+6965,100.0,percentage,2024,general_rate,"ber of chats without recommendations, increasing to almost 100%. records from our ai ﬁrm indicate th...",Duplicate record (keeping first occurrence),0.9,REMOVE,836.0
+6966,1.0,percentage,2024,general_rate,tes agent sentiments increase by only 0.02 points or about 1% of a standard deviation. downloaded fr...,Duplicate record (keeping first occurrence),0.9,REMOVE,837.0
+6967,6.0,percentage,2024,general_rate,"escalation. relative to a base- line rate of approximately 6%, these coefﬁcients suggest that ai ass...",Duplicate record (keeping first occurrence),0.9,REMOVE,838.0
+6968,12.0,percentage,2024,general_rate,"ould ﬁeld the same number of customer- support issues with 12% fewer worker-hours. conversely, in- d...",Duplicate record (keeping first occurrence),0.9,REMOVE,839.0
+6969,5.0,billions_usd,2024,financial_metric,"trained on 300 billion tokens, and incurred approximately $5 million in training costs. the gpt-4 mo...",Duplicate record (keeping first occurrence),0.9,REMOVE,840.0
+6970,65.0,billions_usd,2023,financial_metric,13 trillion tokens at an estimated computing-only cost of $65 million ( li 2020 ; brown et al. 2020 ...,Duplicate record (keeping first occurrence),0.9,REMOVE,841.0
+6971,10.0,billions_usd,2024,financial_metric,"of agents in contact centers leave each year, costing ﬁrms $10,000 to $20,000 per agent in the unite...",Duplicate record (keeping first occurrence),0.9,REMOVE,842.0
+6972,20.0,billions_usd,2024,financial_metric,"n contact centers leave each year, costing ﬁrms $10,000 to $20,000 per agent in the united states ( ...",Duplicate record (keeping first occurrence),0.9,REMOVE,843.0
+6973,3.0,billions_usd,2024,cost_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,844.0
+6974,175.0,billions_usd,2024,cost_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,845.0
+6975,300.0,billions_usd,2024,cost_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,846.0
+6976,5.0,billions_usd,2024,cost_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,840.0
+6977,65.0,billions_usd,2020,cost_metric,"8 trillion parameters and was 
+trained on 13 trillion tokens at an estimated computing-only cost 
+...",Duplicate record (keeping first occurrence),0.9,REMOVE,848.0
+6978,50.0,number,2024,employment_metric,"ata ﬁrm conducted a pilot analysis involving approximately 50 workers, with about half randomized in...",Duplicate record (keeping first occurrence),0.9,REMOVE,849.0
+6979,2025.0,number,2025,unknown_metric,"nford univer- sity , mit , or the nber. c ⃝the author(s) 2025. published by oxford university press ...",Duplicate record (keeping first occurrence),0.9,REMOVE,850.0
+6980,300.0,billions_usd,2024,ai_cost_metric,"gpt-3 model included 175 billion parameters, was trained on 300 billion tokens, and incurred approxi...",Duplicate record (keeping first occurrence),0.9,REMOVE,846.0
+6981,15.0,percentage,2024,productivity_metric,"access to ai assistance 
+increases worker productivity, as measured by issues resolved per hour, by...",Duplicate record (keeping first occurrence),0.9,REMOVE,821.0
+6982,60.0,percentage,2018,cost_metric,"turnover is high: industry estimates sug- 
+gest that 60% of agents in contact centers leave each ye...",Duplicate record (keeping first occurrence),0.9,REMOVE,853.0
+6983,3.0,billions_usd,2024,tokens_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,844.0
+6984,175.0,billions_usd,2024,tokens_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,845.0
+6985,300.0,billions_usd,2024,tokens_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,846.0
+6986,5.0,billions_usd,2024,tokens_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,840.0
+6987,65.0,billions_usd,2020,tokens_metric,"8 trillion parameters and was 
+trained on 13 trillion tokens at an estimated computing-only cost 
+...",Duplicate record (keeping first occurrence),0.9,REMOVE,848.0
+6988,15.0,percentage,2024,impact_metrics,nan,Duplicate record (keeping first occurrence),0.9,REMOVE,821.0
+6989,30.0,percentage,2024,impact_metrics,nan,Duplicate record (keeping first occurrence),0.9,REMOVE,822.0
+6990,10.0,percentage,2024,impact_metrics,nan,Duplicate record (keeping first occurrence),0.9,REMOVE,835.0
+6991,40.0,percentage,2024,impact_metrics,nan,Duplicate record (keeping first occurrence),0.9,REMOVE,826.0
+6992,23.9,percentage,2024,comparison_metrics,"ng for time and location ﬁxed effects, access to ai rec- ommendations increases rph by 0.47 chats, u...",Duplicate record (keeping first occurrence),0.9,REMOVE,829.0
+11464,15.0,percentage,2024,general_rate,"r productivity, as measured by issues resolved per hour, by 15% on average, with substantial heterog...",Duplicate record (keeping first occurrence),0.9,REMOVE,821.0
+11465,30.0,percentage,2024,general_rate,"gniﬁ- cantly across all productivity measures, including a 30% increase in the number of issues reso...",Duplicate record (keeping first occurrence),0.9,REMOVE,822.0
+11466,5.0,percentage,2024,general_rate,"r-rich routes to taxi drivers reduces their search time by 5%, with the least experienced drivers be...",Duplicate record (keeping first occurrence),0.9,REMOVE,823.0
+11467,60.0,percentage,2024,general_rate,ctive. turnover is high: industry estimates sug- gest that 60% of agents in contact centers leave ea...,Duplicate record (keeping first occurrence),0.9,REMOVE,824.0
+11468,20.0,percentage,2024,general_rate,rviewed esti- mated that performance bonuses accounted for 20% to 40% of a typical agent’s total tak...,Duplicate record (keeping first occurrence),0.9,REMOVE,825.0
+11469,40.0,percentage,2024,general_rate,esti- mated that performance bonuses accounted for 20% to 40% of a typical agent’s total take-home p...,Duplicate record (keeping first occurrence),0.9,REMOVE,826.0
+11470,70.0,percentage,2021,general_rate,"rkers with access to ai assistance was only 5%, growing to 70% in january 2021. while our analysis p...",Duplicate record (keeping first occurrence),0.9,REMOVE,827.0
+11471,89.0,percentage,2024,general_rate,s in the post-ai period. most of the agents in our sample (89%) are located outside the united state...,Duplicate record (keeping first occurrence),0.9,REMOVE,828.0
+11472,23.9,percentage,2024,general_rate,"ss to ai rec- ommendations increases rph by 0.47 chats, up 23.9% from their pretreatment mean of 1.9...",Duplicate record (keeping first occurrence),0.9,REMOVE,829.0
+11473,8.5,percentage,2024,general_rate,"ute decrease in the average duration of customer chats, an 8.5% decline from the baseline mean of 43...",Duplicate record (keeping first occurrence),0.9,REMOVE,830.0
+11474,80.0,percentage,2024,general_rate,he coefﬁcient is −0.12 per- centage points and the mean is 80%. online appendix figure a.iii present...,Duplicate record (keeping first occurrence),0.9,REMOVE,831.0
+11475,36.0,percentage,2024,general_rate,"ile (leftmost side), who see an increase of 0.5 in rph, or 36%. in contrast, ai assistance does not ...",Duplicate record (keeping first occurrence),0.9,REMOVE,832.0
+11476,50.0,percentage,2024,general_rate,"adherence rate is 38%, with an interquartile range of 23%–50%: agents frequently disregard rec- omme...",Duplicate record (keeping first occurrence),0.9,REMOVE,833.0
+11477,27.0,percentage,2023,general_rate,y of github copilot reports that individual developers use 27%–46% of code recommendations ( zhao 20...,Duplicate record (keeping first occurrence),0.9,REMOVE,834.0
+11478,10.0,percentage,2024,general_rate,"rence. among agents in the lowest quintile, we still see a 10% gain in productivity, but for agents ...",Duplicate record (keeping first occurrence),0.9,REMOVE,835.0
+11479,100.0,percentage,2024,general_rate,"ber of chats without recommendations, increasing to almost 100%. records from our ai ﬁrm indicate th...",Duplicate record (keeping first occurrence),0.9,REMOVE,836.0
+11480,1.0,percentage,2024,general_rate,tes agent sentiments increase by only 0.02 points or about 1% of a standard deviation. downloaded fr...,Duplicate record (keeping first occurrence),0.9,REMOVE,837.0
+11481,6.0,percentage,2024,general_rate,"escalation. relative to a base- line rate of approximately 6%, these coefﬁcients suggest that ai ass...",Duplicate record (keeping first occurrence),0.9,REMOVE,838.0
+11482,12.0,percentage,2024,general_rate,"ould ﬁeld the same number of customer- support issues with 12% fewer worker-hours. conversely, in- d...",Duplicate record (keeping first occurrence),0.9,REMOVE,839.0
+11483,5.0,billions_usd,2024,financial_metric,"trained on 300 billion tokens, and incurred approximately $5 million in training costs. the gpt-4 mo...",Duplicate record (keeping first occurrence),0.9,REMOVE,840.0
+11484,65.0,billions_usd,2023,financial_metric,13 trillion tokens at an estimated computing-only cost of $65 million ( li 2020 ; brown et al. 2020 ...,Duplicate record (keeping first occurrence),0.9,REMOVE,841.0
+11485,10.0,billions_usd,2024,financial_metric,"of agents in contact centers leave each year, costing ﬁrms $10,000 to $20,000 per agent in the unite...",Duplicate record (keeping first occurrence),0.9,REMOVE,842.0
+11486,20.0,billions_usd,2024,financial_metric,"n contact centers leave each year, costing ﬁrms $10,000 to $20,000 per agent in the united states ( ...",Duplicate record (keeping first occurrence),0.9,REMOVE,843.0
+11487,3.0,billions_usd,2024,cost_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,844.0
+11488,175.0,billions_usd,2024,cost_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,845.0
+11489,300.0,billions_usd,2024,cost_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,846.0
+11490,5.0,billions_usd,2024,cost_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,840.0
+11491,65.0,billions_usd,2020,cost_metric,"8 trillion parameters and was 
+trained on 13 trillion tokens at an estimated computing-only cost 
+...",Duplicate record (keeping first occurrence),0.9,REMOVE,848.0
+11492,50.0,number,2024,employment_metric,"ata ﬁrm conducted a pilot analysis involving approximately 50 workers, with about half randomized in...",Duplicate record (keeping first occurrence),0.9,REMOVE,849.0
+11493,2025.0,number,2025,unknown_metric,"nford univer- sity , mit , or the nber. c ⃝the author(s) 2025. published by oxford university press ...",Duplicate record (keeping first occurrence),0.9,REMOVE,850.0
+11494,300.0,billions_usd,2024,ai_cost_metric,"gpt-3 model included 175 billion parameters, was trained on 300 billion tokens, and incurred approxi...",Duplicate record (keeping first occurrence),0.9,REMOVE,846.0
+11495,15.0,percentage,2024,productivity_metric,"access to ai assistance 
+increases worker productivity, as measured by issues resolved per hour, by...",Duplicate record (keeping first occurrence),0.9,REMOVE,821.0
+11496,60.0,percentage,2018,cost_metric,"turnover is high: industry estimates sug- 
+gest that 60% of agents in contact centers leave each ye...",Duplicate record (keeping first occurrence),0.9,REMOVE,853.0
+11497,3.0,billions_usd,2024,tokens_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,844.0
+11498,175.0,billions_usd,2024,tokens_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,845.0
+11499,300.0,billions_usd,2024,tokens_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,846.0
+11500,5.0,billions_usd,2024,tokens_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Duplicate record (keeping first occurrence),0.9,REMOVE,840.0
+11501,65.0,billions_usd,2020,tokens_metric,"8 trillion parameters and was 
+trained on 13 trillion tokens at an estimated computing-only cost 
+...",Duplicate record (keeping first occurrence),0.9,REMOVE,848.0
+11502,15.0,percentage,2024,impact_metrics,nan,Duplicate record (keeping first occurrence),0.9,REMOVE,821.0
+11503,30.0,percentage,2024,impact_metrics,nan,Duplicate record (keeping first occurrence),0.9,REMOVE,822.0
+11504,10.0,percentage,2024,impact_metrics,nan,Duplicate record (keeping first occurrence),0.9,REMOVE,835.0
+11505,40.0,percentage,2024,impact_metrics,nan,Duplicate record (keeping first occurrence),0.9,REMOVE,826.0
+11506,23.9,percentage,2024,comparison_metrics,"ng for time and location ﬁxed effects, access to ai rec- ommendations increases rph by 0.47 chats, u...",Duplicate record (keeping first occurrence),0.9,REMOVE,829.0
+11507,15.0,percentage,2025,productivity,"r productivity, as measured by issues resolved per hour, by 15% on average, with substantial heterog...",Duplicate record (keeping first occurrence),0.9,REMOVE,5378.0
+11508,15.0,percentage,2025,productivity,"s to ai assistance increases the productivity of agents by 15%, as measured by the number of cus- to...",Duplicate record (keeping first occurrence),0.9,REMOVE,5378.0
+11509,15.0,percentage,2025,productivity,"i assistance increases worker productivity, resulting in a 15% increase in the number of chats that ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5378.0
+11510,30.0,percentage,2025,productivity,"gniﬁ- cantly across all productivity measures, including a 30% increase in the number of issues reso...",Duplicate record (keeping first occurrence),0.9,REMOVE,5381.0
+11511,5.0,percentage,2025,percentages,"r-rich routes to taxi drivers reduces their search time by 5%, with the least experienced drivers be...",Duplicate record (keeping first occurrence),0.9,REMOVE,5382.0
+11512,60.0,percentage,2025,cost,ctive. turnover is high: industry estimates sug- gest that 60% of agents in contact centers leave ea...,Duplicate record (keeping first occurrence),0.9,REMOVE,5383.0
+11513,20.0,percentage,2025,percentages,rviewed esti- mated that performance bonuses accounted for 20% to 40% of a typical agent’s total tak...,Duplicate record (keeping first occurrence),0.9,REMOVE,5384.0
+11514,40.0,percentage,2025,percentages,esti- mated that performance bonuses accounted for 20% to 40% of a typical agent’s total take-home p...,Duplicate record (keeping first occurrence),0.9,REMOVE,5385.0
+11515,5.0,percentage,2021,employment,"of ac- tive workers with access to ai assistance was only 5%, growing to 70% in january 2021. while ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5386.0
+11516,70.0,percentage,2021,percentages,"rkers with access to ai assistance was only 5%, growing to 70% in january 2021. while our analysis p...",Duplicate record (keeping first occurrence),0.9,REMOVE,827.0
+11517,89.0,percentage,2025,percentages,s in the post-ai period. most of the agents in our sample (89%) are located outside the united state...,Duplicate record (keeping first occurrence),0.9,REMOVE,5388.0
+11518,23.9,percentage,2025,growth_rate,"ss to ai rec- ommendations increases rph by 0.47 chats, up 23.9% from their pretreatment mean of 1.9...",Duplicate record (keeping first occurrence),0.9,REMOVE,5389.0
+11519,15.2,percentage,2025,growth_rate,ﬁnd that the ai deployment increases rph by 0.30 chats or 15.2%. figure ii shows the accompanying in...,Duplicate record (keeping first occurrence),0.9,REMOVE,5390.0
+11520,95.0,percentage,2025,productivity,"studies, productivity this ﬁgure plots the coefﬁcients and 95% conﬁdence intervals from event-study ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5391.0
+11521,8.5,percentage,2025,percentages,"ute decrease in the average duration of customer chats, an 8.5% decline from the baseline mean of 43...",Duplicate record (keeping first occurrence),0.9,REMOVE,5392.0
+11522,15.0,percentage,2025,growth_rate,"seline mean of 2.4, this represents an increase of roughly 15%. unlike aht, cph accounts for the pos...",Duplicate record (keeping first occurrence),0.9,REMOVE,5378.0
+11523,82.0,percentage,2025,percentages,ally modest and in- signiﬁcant given a high baseline rr of 82%. we interpret this downloaded from ht...,Duplicate record (keeping first occurrence),0.9,REMOVE,5394.0
+11524,80.0,percentage,2025,percentages,he coefﬁcient is −0.12 per- centage points and the mean is 80%. online appendix figure a.iii present...,Duplicate record (keeping first occurrence),0.9,REMOVE,5395.0
+11525,36.0,percentage,2025,growth_rate,"ile (leftmost side), who see an increase of 0.5 in rph, or 36%. in contrast, ai assistance does not ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5396.0
+11526,38.0,percentage,2025,percentages,"to that agent in that month. the average adherence rate is 38%, with an interquartile range of 23%–5...",Duplicate record (keeping first occurrence),0.9,REMOVE,5397.0
+11527,23.0,percentage,2025,percentages,"rage adherence rate is 38%, with an interquartile range of 23%–50%: agents frequently disregard rec-...",Duplicate record (keeping first occurrence),0.9,REMOVE,5398.0
+11528,50.0,percentage,2025,percentages,"adherence rate is 38%, with an interquartile range of 23%–50%: agents frequently disregard rec- omme...",Duplicate record (keeping first occurrence),0.9,REMOVE,5399.0
+11529,27.0,percentage,2023,percentages,y of github copilot reports that individual developers use 27%–46% of code recommendations ( zhao 20...,Duplicate record (keeping first occurrence),0.9,REMOVE,834.0
+11530,46.0,percentage,2023,percentages,github copilot reports that individual developers use 27%–46% of code recommendations ( zhao 2023 )....,Duplicate record (keeping first occurrence),0.9,REMOVE,5401.0
+11531,10.0,percentage,2025,productivity,"rence. among agents in the lowest quintile, we still see a 10% gain in productivity, but for agents ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5402.0
+11532,25.0,percentage,2025,percentages,"tile, the estimated impact is over twice as high, close to 25%. online appendix figure a.x shows the...",Duplicate record (keeping first occurrence),0.9,REMOVE,5403.0
+11533,50.0,percentage,2025,growth_rate,nt agents continue to comply at the same rates (just above 50%). the initially least compliant agent...,Duplicate record (keeping first occurrence),0.9,REMOVE,5399.0
+11534,20.0,percentage,2025,percentages,"bottom tercile initially follow recommendations less than 20% of the time, but by month ﬁve their co...",Duplicate record (keeping first occurrence),0.9,REMOVE,5384.0
+11535,50.0,percentage,2025,employment,by month ﬁve their compliance rates have increased by over 50%. panel b divides workers up by tenure...,Duplicate record (keeping first occurrence),0.9,REMOVE,5399.0
+11536,30.0,percentage,2025,percentages,rs are initially less likely to follow ai recommendations: 30% for those with more than a year of te...,Duplicate record (keeping first occurrence),0.9,REMOVE,5381.0
+11537,37.0,percentage,2025,percentages,0% for those with more than a year of tenure compared with 37% for those with less than three months...,Duplicate record (keeping first occurrence),0.9,REMOVE,5408.0
+11538,30.0,percentage,2025,percentages,"the share of chats without ai recommendations is typically 30% to 40%, reﬂecting that the ai system ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5381.0
+11539,40.0,percentage,2025,percentages,"re of chats without ai recommendations is typically 30% to 40%, reﬂecting that the ai system does no...",Duplicate record (keeping first occurrence),0.9,REMOVE,5385.0
+11540,100.0,percentage,2025,percentages,"ber of chats without recommendations, increasing to almost 100%. records from our ai ﬁrm indicate th...",Duplicate record (keeping first occurrence),0.9,REMOVE,5411.0
+11541,10.0,percentage,2025,percentages,"cline in the duration of individual chats by approximately 10% to 15%. in panel b, we use the same p...",Duplicate record (keeping first occurrence),0.9,REMOVE,5402.0
+11542,15.0,percentage,2025,percentages,"n the duration of individual chats by approximately 10% to 15%. in panel b, we use the same pretreat...",Duplicate record (keeping first occurrence),0.9,REMOVE,5378.0
+11543,15.0,percentage,2025,percentages,osed agents continue to handle calls faster (equivalent to 15%–25% declines in chat duration). becau...,Duplicate record (keeping first occurrence),0.9,REMOVE,5378.0
+11544,25.0,percentage,2025,percentages,agents continue to handle calls faster (equivalent to 15%–25% declines in chat duration). because ai...,Duplicate record (keeping first occurrence),0.9,REMOVE,5403.0
+11545,90.0,percentage,2025,percentages,"of all conversations, and the top 16 topics represent over 90% of all chats. to evaluate the impact ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5416.0
+11546,50.0,percentage,2025,percentages,"distinct groups. the payroll/account category, comprising 50% of all c hats, inc ludes inquiries rel...",Duplicate record (keeping first occurrence),0.9,REMOVE,5399.0
+11547,25.0,percentage,2025,percentages,"ayroll, taxes, and account access and management. the next 25% of chats covers ﬁve categories, inclu...",Duplicate record (keeping first occurrence),0.9,REMOVE,5403.0
+11548,15.0,percentage,2025,percentages,"th bank transfers or managing subscriptions. the following 15% of chats encompass nine topics, and t...",Duplicate record (keeping first occurrence),0.9,REMOVE,5378.0
+11549,10.0,percentage,2025,percentages,"following 15% of chats encompass nine topics, and the ﬁnal 10% of chats consists of all the remain- ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5402.0
+11550,10.0,percentage,2025,percentages,"ﬁve minutes faster, which corresponds to an approximately 10% decrease from the pretreatment mean du...",Duplicate record (keeping first occurrence),0.9,REMOVE,5402.0
+11551,14.0,percentage,2025,percentages,t on 08 july 2025 926 the quarterly journal of economics 14% reduction from the pretreatment means f...,Duplicate record (keeping first occurrence),0.9,REMOVE,5422.0
+11552,11.0,percentage,2025,percentages,"r those topics. fi- nally, we see a smaller four-minute or 11% decrease for the most rare problems. ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5423.0
+11553,15.0,percentage,2025,percentages,25 generative ai at work 927 duces conversation times by 15% for the least common problems compared ...,Duplicate record (keeping first occurrence),0.9,REMOVE,5378.0
+11554,10.0,percentage,2025,percentages,n times by 15% for the least common problems compared with 10% for the most common. once we control ...,Duplicate record (keeping first occurrence),0.9,REMOVE,5402.0
+11555,80.0,percentage,2025,employment,"ce of contact workers serving u.s. customers. in our data, 80% of the agents are based in the philip...",Duplicate record (keeping first occurrence),0.9,REMOVE,5395.0
+11556,1.0,percentage,2025,growth_rate,tes agent sentiments increase by only 0.02 points or about 1% of a standard deviation. downloaded fr...,Duplicate record (keeping first occurrence),0.9,REMOVE,5427.0
+11557,6.0,percentage,2025,percentages,"escalation. relative to a base- line rate of approximately 6%, these coefﬁcients suggest that ai ass...",Duplicate record (keeping first occurrence),0.9,REMOVE,5428.0
+11558,25.0,percentage,2025,percentages,coefﬁcients suggest that ai assistance generates an almost 25% decline in customer requests to speak...,Duplicate record (keeping first occurrence),0.9,REMOVE,5403.0
+11559,40.0,percentage,2025,percentages,"coefﬁcient, around 10 percentage points, translates into a 40% decrease relative to a baseline attri...",Duplicate record (keeping first occurrence),0.9,REMOVE,5385.0
+11560,25.0,percentage,2025,employment,"ase relative to a baseline attrition rate in this group of 25%. in panel b, we examine attrition by ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5403.0
+11561,15.0,percentage,2025,productivity,"recommendations in- creases overall worker productivity by 15%, with even larger ef- fects for lower...",Duplicate record (keeping first occurrence),0.9,REMOVE,5378.0
+11562,12.0,percentage,2025,employment,"ould ﬁeld the same number of customer- support issues with 12% fewer worker-hours. conversely, in- d...",Duplicate record (keeping first occurrence),0.9,REMOVE,5433.0
+11563,5.0,millions_usd,2025,cost,"trained on 300 billion tokens, and incurred approximately $5 million in training costs. the gpt-4 mo...",Duplicate record (keeping first occurrence),0.9,REMOVE,5434.0
+11564,65.0,millions_usd,2020,cost,13 trillion tokens at an estimated computing-only cost of $65 million ( li 2020 ; brown et al. 2020 ...,Duplicate record (keeping first occurrence),0.9,REMOVE,5435.0
+11565,10.0,usd,2025,cost,"of agents in contact centers leave each year, costing ﬁrms $10,000 to $20,000 per agent in the unite...",Duplicate record (keeping first occurrence),0.9,REMOVE,5436.0
+11566,20.0,usd,2025,cost,"n contact centers leave each year, costing ﬁrms $10,000 to $20,000 per agent in the united states ( ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5437.0
+11567,65.0,number,2020,cost,rained on 13 trillion tokens at an estimated computing-only cost of $65 million ( li 2020 ; brown et...,Duplicate record (keeping first occurrence),0.9,REMOVE,5438.0
+11568,50.0,number,2025,employment,"ata ﬁrm conducted a pilot analysis involving approximately 50 workers, with about half randomized in...",Duplicate record (keeping first occurrence),0.9,REMOVE,5439.0
+11569,300.0,number,2025,cost,"gpt-3 model included 175 billion parameters, was trained on 300 billion tokens, and incurred approxi...",Duplicate record (keeping first occurrence),0.9,REMOVE,5440.0

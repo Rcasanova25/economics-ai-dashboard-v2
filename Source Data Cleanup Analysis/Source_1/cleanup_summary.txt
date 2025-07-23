@@ -1,0 +1,16 @@
+SOURCE 1 CLEANUP ANALYSIS SUMMARY
+Generated: 2025-07-23T14:49:48.161118
+
+FILE: Affects of GenAI on Highskilled Work.pdf
+Original Records: 334
+
+PROPOSED ACTIONS:
+- Records to KEEP: 80
+- Records to REMOVE: 249
+- Records to MODIFY: 5
+
+Quality Score: 23.95%
+
+Top removal reason: Duplicate record (244 records)
+
+Please review the detailed reports before proceeding with cleanup.

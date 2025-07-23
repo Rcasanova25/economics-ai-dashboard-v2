@@ -1,0 +1,16 @@
+SOURCE 10 CLEANUP ANALYSIS SUMMARY
+Generated: 2025-07-23T15:06:00.347887
+
+FILE: Generative AI at Work.pdf
+Original Records: 298
+
+PROPOSED ACTIONS:
+- Records to KEEP: 58
+- Records to REMOVE: 233
+- Records to MODIFY: 7
+
+Quality Score: 19.46%
+
+Top removal reason: Duplicate record (232 records)
+
+Please review the detailed reports before proceeding with cleanup.

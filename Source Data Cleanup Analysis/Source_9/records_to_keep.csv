@@ -1,0 +1,62 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence
+791,96.0,percentage,2024,general_rate,"gly critical part of the modern economy, to the point where 96% of corporate codebases contain some ...",Passed all validation checks,0.85
+793,16.0,percentage,2024,general_rate,eloper uses copilot for approximately 8 days and on average 16% of the top developers use copilot at...,Passed all validation checks,0.85
+796,37.0,percentage,2024,general_rate,"loper allocates 44% of their engagement towards coding and, 37% towards project management.16 finall...",Passed all validation checks,0.85
+797,321.0,percentage,2024,general_rate,"for the cross-section, we observe an increase of 6.90 days (321% relative to the baseline) overall i...",Passed all validation checks,0.85
+799,223.0,percentage,2024,general_rate,". for the panel, we find an increase of 0.12 days per week (223% relative to the baseline) and an ex...",Passed all validation checks,0.85
+800,12.4,percentage,2024,general_rate,rcentage of all activity increase by 5.4 percentage points (12.4% relative to the baseline) while pr...,Passed all validation checks,0.85
+801,24.9,percentage,2024,general_rate,a percentage of all activity drops by 10 percentage points (24.9% relative to the baseline). this in...,Passed all validation checks,0.85
+802,10.0,percentage,2024,general_rate,"the peak of the third quarter where effects increases up to 10% and 27% in absolute terms, respectiv...",Passed all validation checks,0.85
+803,21.8,percentage,2024,general_rate,e their cumulative exposure to new programming languages by 21.8% relative to the baseline. we also ...,Passed all validation checks,0.85
+804,1.4,percentage,2024,general_rate,ers to experiment with programming languages that command a 1.4% higher salary relative to a baselin...,Passed all validation checks,0.85
+805,50.0,percentage,2024,general_rate,"tivities are also occurring. as such, we expect that around 50% of the activity of highly active pro...",Passed all validation checks,0.85
+806,7.0,percentage,2023,general_rate,"hs, goldman. 2023. “generative ai could raise global gdp by 7%.” goldmansachs.com . stack overflow. ...",Passed all validation checks,0.85
+807,30.0,percentage,2024,general_rate,two years panel a: coding 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to...,Passed all validation checks,0.85
+808,0.0,percentage,2024,general_rate,nel a: coding 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baseline pa...,Passed all validation checks,0.85
+810,1.0,percentage,2024,general_rate,0.05 64 table c6: windsorization coding project management 1% 5% 10% 1% 5% 10% 1(eligible) 0.058∗∗∗ ...,Passed all validation checks,0.85
+811,5.0,percentage,2024,general_rate,5 64 table c6: windsorization coding project management 1% 5% 10% 1% 5% 10% 1(eligible) 0.058∗∗∗ 0.0...,Passed all validation checks,0.85
+812,10.0,billions_usd,2024,financial_metric,"nd later for 30 days. after the trial period, they must pay $10 per month (or $100 dollars per year)...",Passed all validation checks,0.85
+813,100.0,billions_usd,2024,financial_metric,"ys. after the trial period, they must pay $10 per month (or $100 dollars per year) for continued acc...",Passed all validation checks,0.85
+814,0.0,billions_usd,2024,financial_metric,"chnical preview period. students can obtain copilot and pay $0 per month. similarly, github rewards ...",Passed all validation checks,0.85
+815,19.0,billions_usd,2024,financial_metric,r their employee access to copilot with the employer paying $19 per employee for each month.9 in thi...,Passed all validation checks,0.85
+816,119.0,billions_usd,2024,financial_metric,"that command a 1.4% higher salary relative to a baseline of $119,371 (an increase of $1,683). togeth...",Passed all validation checks,0.85
+817,1.0,billions_usd,2024,financial_metric,"r salary relative to a baseline of $119,371 (an increase of $1,683). together, these estimates indic...",Passed all validation checks,0.85
+818,468.0,billions_usd,2024,financial_metric,ve the aggregate value of labor market potential by roughly $468 million per year. while this measur...,Passed all validation checks,0.85
+819,2024.0,number,2025,unknown_metric,"n kevin xu github inc. working paper 25-021 copyright © 2024 and 2025 by manuel hoffmann, sam boysel...",Passed all validation checks,0.85
+820,7.0,percentage,2024,gdp_metric,“generative ai could raise global gdp by 7%,Passed all validation checks,0.85
+5275,96.0,percentage,2025,percentages,"gly critical part of the modern economy, to the point where 96% of corporate codebases contain some ...",Passed all validation checks,0.85
+5277,93.0,percentage,2024,percentages,"ub had a market share of 78.81% on march 18, 2024. further, 93% of individuals are using git as a ve...",Passed all validation checks,0.85
+5278,92.0,percentage,2023,percentages,"ilot which was launched after github copilot. in june 2023, 92% of programmers had used some coding ...",Passed all validation checks,0.85
+5279,16.0,percentage,2025,percentages,eloper uses copilot for approximately 8 days and on average 16% of the top developers use copilot at...,Passed all validation checks,0.85
+5281,44.0,percentage,2025,adoption_rate,re- sponse to ai adoption. the average developer allocates 44% of their engagement towards coding an...,Passed all validation checks,0.85
+5282,37.0,percentage,2025,percentages,"loper allocates 44% of their engagement towards coding and, 37% towards project management.16 finall...",Passed all validation checks,0.85
+5283,321.0,percentage,2025,adoption_rate,"for the cross-section, we observe an increase of 6.90 days (321% relative to the baseline) overall i...",Passed all validation checks,0.85
+5284,61.2,percentage,2025,adoption_rate,l in ai adoption and an increase of 6.14 percentage points (61.2% relative to the baseline) of devel...,Passed all validation checks,0.85
+5285,223.0,percentage,2025,growth_rate,". for the panel, we find an increase of 0.12 days per week (223% relative to the baseline) and an ex...",Passed all validation checks,0.85
+5286,214.0,percentage,2025,growth_rate,eline) and an exposure21 increase of 1.8 percentage points (214% relative to the baseline). despite ...,Passed all validation checks,0.85
+5287,61.0,percentage,2025,percentages,"developer access, we find very strong effects ranging from 61% to 321% adop- tion, depending on the ...",Passed all validation checks,0.85
+5289,12.4,percentage,2025,growth_rate,rcentage of all activity increase by 5.4 percentage points (12.4% relative to the baseline) while pr...,Passed all validation checks,0.85
+5290,24.9,percentage,2025,percentages,a percentage of all activity drops by 10 percentage points (24.9% relative to the baseline). this in...,Passed all validation checks,0.85
+5291,100.0,percentage,2025,percentages,"e in the 22indeed, developers could theoretically engage in 100% coding but are unlikely to engage i...",Passed all validation checks,0.85
+5293,10.0,percentage,2025,growth_rate,"the peak of the third quarter where effects increases up to 10% and 27% in absolute terms, respectiv...",Passed all validation checks,0.85
+5294,27.0,percentage,2025,growth_rate,"of the third quarter where effects increases up to 10% and 27% in absolute terms, respectively. the ...",Passed all validation checks,0.85
+5295,33.9,percentage,2025,percentages,", we find that the frequency of critical vulnerabilities is 33.9% lower for copilot-eligible reposit...",Passed all validation checks,0.85
+5296,79.3,percentage,2025,percentages,ositories with 17 fewer peers relative to a baseline of 22 (79.3% lower). this drop off is signif- i...,Passed all validation checks,0.85
+5297,21.8,percentage,2025,percentages,e their cumulative exposure to new programming languages by 21.8% relative to the baseline. we also ...,Passed all validation checks,0.85
+5298,1.4,percentage,2025,percentages,ers to experiment with programming languages that command a 1.4% higher salary relative to a baselin...,Passed all validation checks,0.85
+5299,45.5,percentage,2025,percentages,"ject manage- ment behavior. based on our data, we find that 45.5% of copilot usage happens in weeks ...",Passed all validation checks,0.85
+5300,50.0,percentage,2025,percentages,"tivities are also occurring. as such, we expect that around 50% of the activity of highly active pro...",Passed all validation checks,0.85
+5303,30.0,percentage,2025,percentages,two years panel a: coding 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to...,Passed all validation checks,0.85
+5304,20.0,percentage,2025,percentages,years panel a: coding 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to bas...,Passed all validation checks,0.85
+5306,0.0,percentage,2025,percentages,nel a: coding 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baseline pa...,Passed all validation checks,0.85
+5317,95.0,percentage,2022,percentages,me: june 2022 to june 2023. horizontal error bars represent 95% condfidence intervals for the coeffi...,Passed all validation checks,0.85
+5319,1.0,percentage,2025,percentages,0.05 64 table c6: windsorization coding project management 1% 5% 10% 1% 5% 10% 1(eligible) 0.058∗∗∗ ...,Passed all validation checks,0.85
+5320,5.0,percentage,2025,percentages,5 64 table c6: windsorization coding project management 1% 5% 10% 1% 5% 10% 1(eligible) 0.058∗∗∗ 0.0...,Passed all validation checks,0.85
+5325,10.0,usd,2025,dollar_amounts,"nd later for 30 days. after the trial period, they must pay $10 per month (or $100 dollars per year)...",Passed all validation checks,0.85
+5326,100.0,usd,2025,dollar_amounts,"ys. after the trial period, they must pay $10 per month (or $100 dollars per year) for continued acc...",Passed all validation checks,0.85
+5327,0.0,usd,2025,dollar_amounts,"chnical preview period. students can obtain copilot and pay $0 per month. similarly, github rewards ...",Passed all validation checks,0.85
+5328,19.0,usd,2025,dollar_amounts,r their employee access to copilot with the employer paying $19 per employee for each month.9 in thi...,Passed all validation checks,0.85
+5329,119.0,usd,2025,growth_rate,"that command a 1.4% higher salary relative to a baseline of $119,371 (an increase of $1,683). togeth...",Passed all validation checks,0.85
+5330,1.0,usd,2025,growth_rate,"r salary relative to a baseline of $119,371 (an increase of $1,683). together, these estimates indic...",Passed all validation checks,0.85
+5332,120.0,usd,2025,dollar_amounts,"$1,683 per year. when developers pay a price for copilot of $120 per year, we arrive at an average n...",Passed all validation checks,0.85
+5334,468.0,millions_usd,2025,dollar_amounts,ve the aggregate value of labor market potential by roughly $468 million per year. while this measur...,Passed all validation checks,0.85

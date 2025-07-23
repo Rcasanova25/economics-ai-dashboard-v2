@@ -1,0 +1,36 @@
+{
+  "source_id": 15,
+  "source_name": "the-economic-impact-of-large-language-models.pdf",
+  "timestamp": "2025-07-23T15:08:41.498329",
+  "schema_version": "1.1",
+  "total_records": 272,
+  "kept_records": 63,
+  "removed_records": 199,
+  "modified_records": 10,
+  "duplicate_groups": 75,
+  "duplicates_removed": 197,
+  "removal_reasons": {
+    "Duplicate record": 194,
+    "Citation year extracted as metric value": 4,
+    "Zero employment with specific numbers in context": 1
+  },
+  "modification_types": {
+    "general_rate \u2192 employment_metric": 10
+  },
+  "confidence_distribution": {
+    "high": 199,
+    "medium": 73,
+    "low": 0,
+    "high_pct": 73.2,
+    "medium_pct": 26.8,
+    "low_pct": 0.0
+  },
+  "quality_metrics": {
+    "quality_score": 23.16,
+    "issues_found": 209,
+    "removal_rate": 73.16,
+    "modification_rate": 3.68
+  },
+  "top_removal_reason": "Duplicate record",
+  "top_removal_count": 194
+}

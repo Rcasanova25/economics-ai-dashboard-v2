@@ -1,0 +1,34 @@
+{
+  "source_id": 3,
+  "source_name": "AI use case.pdf",
+  "timestamp": "2025-07-23T14:54:15.672598",
+  "schema_version": "1.1",
+  "total_records": 68,
+  "kept_records": 15,
+  "removed_records": 51,
+  "modified_records": 2,
+  "duplicate_groups": 17,
+  "duplicates_removed": 51,
+  "removal_reasons": {
+    "Duplicate record": 51
+  },
+  "modification_types": {
+    "general_rate \u2192 productivity_metric": 2
+  },
+  "confidence_distribution": {
+    "high": 51,
+    "medium": 17,
+    "low": 0,
+    "high_pct": 75.0,
+    "medium_pct": 25.0,
+    "low_pct": 0.0
+  },
+  "quality_metrics": {
+    "quality_score": 22.06,
+    "issues_found": 53,
+    "removal_rate": 75.0,
+    "modification_rate": 2.94
+  },
+  "top_removal_reason": "Duplicate record",
+  "top_removal_count": 51
+}

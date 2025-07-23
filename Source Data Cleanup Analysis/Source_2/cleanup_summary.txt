@@ -1,0 +1,16 @@
+SOURCE 2 CLEANUP ANALYSIS SUMMARY
+Generated: 2025-07-23T13:45:27.261751
+
+FILE: AI strategy.pdf
+Original Records: 420
+
+PROPOSED ACTIONS:
+- Records to KEEP: 71
+- Records to REMOVE: 336
+- Records to MODIFY: 13
+
+Quality Score: 16.9%
+
+Top removal reason: Duplicate record (336 records)
+
+Please review the detailed reports before proceeding with cleanup.

@@ -1,0 +1,11 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence
+945,2025.0,number,2025,unknown_metric,"e, enabling prediction, generation and reasoning. march 17, 2025 by dave salvator 6/20/25, 1:55 pm e...",Passed all validation checks,0.85
+950,6.0,billions_usd,2024,tokens_metric,"u share
+f
+h
+d
+reading time: 6 mins
+under the hood of every ai application are algorithms that c...",Passed all validation checks,0.85
+951,25.0,number,2024,comparison_metrics,nan,Passed all validation checks,0.85
+952,100.0,number,2024,comparison_metrics,nan,Passed all validation checks,0.85
+5935,40.0,percentage,2025,percentages,"partner to advance germany’s sovereign ai turn rtx on with 40% off performance day passes 6/20/25, 1...",Passed all validation checks,0.85

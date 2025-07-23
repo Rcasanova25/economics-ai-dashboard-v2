@@ -1,0 +1,19 @@
+original_id,value,unit,year,current_metric_type,new_metric_type,context_preview,sector,country,company_size,reason,confidence
+891,28.5,percentage,2025,general_rate,employment_metric,"nd 2025, ai-related job postings grew at an annual rate of 28.5%, yet still comprise only about 2.5%...",,,,Reclassify: general_rate → employment_metric,0.8
+892,2.5,percentage,2024,general_rate,employment_metric,"w at an annual rate of 28.5%, yet still comprise only about 2.5% of all u.s. job openings. • extreme...",,,,Reclassify: general_rate → employment_metric,0.8
+893,13.0,percentage,2024,general_rate,employment_metric,nings. • extreme concentration. the bay area accounts for 13% of national job postings featuring ai ...,,,,Reclassify: general_rate → employment_metric,0.8
+894,67.0,percentage,2024,general_rate,employment_metric,"hubs, this group of 30 top- performing metro areas captures 67% of total ai job postings. • signs of...",,,,Reclassify: general_rate → employment_metric,0.8
+896,50.0,percentage,2024,general_rate,productivity_metric,arn a “t” (for “top”) for that pillar. those in the middle 50% garner an “m” (for “middle” performan...,,,,Reclassify: general_rate → productivity_metric,0.8
+899,11.0,percentage,2024,general_rate,adoption_metric,"for near-term ai use are higher: as of the latest survey, 11% of firms reported that they plan to ad...",,,,Reclassify: general_rate → adoption_metric,0.8
+901,2.2,percentage,2024,general_rate,employment_metric,"e 287,000 job postings with ai skills accounted for merely 2.2% of all u.s. job postings (see figure...",,,,Reclassify: general_rate → employment_metric,0.8
+902,5.0,percentage,2024,general_rate,adoption_metric,"al business survey (abs), for example, show that only about 5% of u.s. firms were using at least a l...",,,,Reclassify: general_rate → adoption_metric,0.8
+903,6.5,percentage,2024,general_rate,employment_metric,"ption rates among smaller firms, where usage falls to just 6.5% for businesses employing between 10 ...",,,,Reclassify: general_rate → employment_metric,0.8
+906,2.9,percentage,2024,general_rate,adoption_metric,"n and warehousing (2.3%), accommodation and food services (2.9%), and construction (3.1%) trail well...",,,,Reclassify: general_rate → adoption_metric,0.8
+907,145.0,percentage,2025,general_rate,employment_metric,"job postings rise since 2018, with san francisco rising by 145% (from 5,300 postings in april 2018 t...",,,,Reclassify: general_rate → employment_metric,0.8
+909,34.0,percentage,2024,general_rate,investment_metric,"d contract spending, it generates 9% of ai publications and 34% of ai patents. ai research is anchor...",,,,Reclassify: general_rate → investment_metric,0.8
+912,88.0,percentage,2025,general_rate,employment_metric,"ostings across the analyzed metro areas. overall, they saw 88% growth in their ai job postings betwe...",,,,Reclassify: general_rate → employment_metric,0.8
+913,3.4,percentage,2024,general_rate,investment_metric,"r with the national average, at 4%. these hubs are home to 3.4% of the total startups analyzed. vent...",,,,Reclassify: general_rate → investment_metric,0.8
+914,9.9,percentage,2025,general_rate,employment_metric,"the other two. together, in 2025, they accounted for about 9.9% of the nation’s metro area employmen...",,,,Reclassify: general_rate → employment_metric,0.8
+916,18.0,percentage,2024,general_rate,employment_metric,s widely dispersed set of regional economies accounted for 18% of the nation’s metro area employment...,,,,Reclassify: general_rate → employment_metric,0.8
+918,1.6,percentage,2024,general_rate,employment_metric,"of the nation’s metro area employment but account for only 1.6% of all metro area ai job postings, u...",,,,Reclassify: general_rate → employment_metric,0.8
+919,0.1,percentage,2024,general_rate,employment_metric,% of the nation’s computer science bachelor’s degrees and 0.1 % of computer science ph.d. graduates....,,,,Reclassify: general_rate → employment_metric,0.8

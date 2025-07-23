@@ -1,0 +1,32 @@
+{
+  "source_id": 18,
+  "source_name": "Artificial Intelligence, Scientific Discovery, and Product Innovation.pdf",
+  "timestamp": "2025-07-23T15:13:00.081815",
+  "schema_version": "1.1",
+  "total_records": 202,
+  "kept_records": 53,
+  "removed_records": 149,
+  "modified_records": 0,
+  "duplicate_groups": 53,
+  "duplicates_removed": 149,
+  "removal_reasons": {
+    "Duplicate record": 149
+  },
+  "modification_types": {},
+  "confidence_distribution": {
+    "high": 149,
+    "medium": 53,
+    "low": 0,
+    "high_pct": 73.8,
+    "medium_pct": 26.2,
+    "low_pct": 0.0
+  },
+  "quality_metrics": {
+    "quality_score": 26.24,
+    "issues_found": 149,
+    "removal_rate": 73.76,
+    "modification_rate": 0.0
+  },
+  "top_removal_reason": "Duplicate record",
+  "top_removal_count": 149
+}

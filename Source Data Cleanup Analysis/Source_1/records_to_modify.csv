@@ -1,0 +1,6 @@
+original_id,value,unit,year,current_metric_type,new_metric_type,context_preview,sector,country,company_size,reason,confidence
+1,10.3,percentage,2024,general_rate,adoption_metric,"7 de- velopers, our analysis reveals a 26.08% increase (se: 10.3%) in completed tasks among develope...",,,,Reclassify: general_rate → adoption_metric,0.8
+2,80.0,percentage,2024,general_rate,employment_metric,"that generative ai can per- form tasks associated with over 80% of u.s. jobs, with particularly high...",,,,Reclassify: general_rate → employment_metric,0.8
+14,69.4,percentage,2024,general_rate,adoption_metric,"group. by april 2024, the treated group’s adoption rate was 69.4%, while the control group’s adoptio...",,,,Reclassify: general_rate → adoption_metric,0.8
+15,100.0,percentage,2024,general_rate,adoption_metric,"nts. despite this, the adoption rate is significantly below 100% in all three experiments, with arou...",,,,Reclassify: general_rate → adoption_metric,0.8
+20,7.0,percentage,2024,general_rate,productivity_metric,to 40% while senior developers have more marginal gains of 7% to 16%. the estimates for above- and b...,,,,Reclassify: general_rate → productivity_metric,0.8

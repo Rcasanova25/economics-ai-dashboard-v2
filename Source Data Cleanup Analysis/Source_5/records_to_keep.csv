@@ -1,0 +1,36 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence
+172,10.1007,percentage,2024,general_rate,"artificial systems,” https://link.springer.com/content/ pdf/10.1007%2f978-3-642-32375-1.pdf, page 17...",Passed all validation checks,0.85
+173,2.0,percentage,2024,general_rate,ational-artifical-intelligence-strategies-and-human-rights%e2%80%94a-review_.pdf 164 steven feldstei...,Passed all validation checks,0.85
+174,80.0,percentage,2024,general_rate,"ional-artifical-intelligence-strategies-and-human-rights%e2%80%94a-review_.pdf 164 steven feldstein,...",Passed all validation checks,0.85
+175,30.0,percentage,2016,general_rate,mine if another car is in your blindspot were available in 30% of new cars in 2016 but are in 90% to...,Passed all validation checks,0.85
+176,90.0,percentage,2016,general_rate,dspot were available in 30% of new cars in 2016 but are in 90% today. page 20 “semi-autonomous appro...,Passed all validation checks,0.85
+177,1.5,billions_usd,2024,financial_metric,lassified r&d in ai-related technologies was approximately $1.5 billion153—a number dwarfed signific...,Passed all validation checks,0.85
+178,9.4,billions_usd,2018,financial_metric,"development in 2018 was estimated to be the equivalent of $9.4 billion, supplemented by significant ...",Passed all validation checks,0.85
+179,80.0,billions_usd,2024,financial_metric,"209570/atlas-ai 44 us, private enterprises have spent over $80 billion on ai, while non-defense inve...",Passed all validation checks,0.85
+180,103.0,billions_usd,2024,financial_metric,t of 27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute market price...,Passed all validation checks,0.85
+181,350.0,billions_usd,2024,financial_metric,27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute market prices at ...,Passed all validation checks,0.85
+182,5.0,billions_usd,2021,financial_metric,"emics at carnegie mellon, which went public in 2021 with a $5 billion valuation.193 of course, not a...",Passed all validation checks,0.85
+183,1.0,billions_usd,2024,financial_metric,"olling for medical needs, care for black patients averages $1,800 less per year. new technologies ar...",Passed all validation checks,0.85
+184,68.0,billions_usd,2020,financial_metric,"e of total postings. global corporate investment in ai was $68 billion in 2020, which is a non-trivi...",Passed all validation checks,0.85
+185,4.0,billions_usd,2020,financial_metric,investment over all categories in the us alone was almost $4 trillion in 2020.260 it’s not always ea...,Passed all validation checks,0.85
+186,800.0,billions_usd,2024,cost_metric,"a noted that researchers 
+trained nearly 4,800 models using the equivalent of 
+27 years of gpu com...",Passed all validation checks,0.85
+189,272.0,number,2024,employment_metric,/www.nber.org/digest/jul18/automation-can-be-response-aging-workforce 272 https://www.scientificamer...,Passed all validation checks,0.85
+190,2021.0,number,2021,unknown_metric,"very five years, for at least one hundred years. september 2021 this report, the second in that plan...",Passed all validation checks,0.85
+192,2020.0,percentage,2020,unknown_metric,"from medical misinformation to undermining elections. in 2020, approximately 48.3 percent of the glo...",Passed all validation checks,0.85
+193,263.0,billions_usd,2024,revenue_metric,"262 that situation would parallel developments 
+over recent decades like tax cuts and deregulation,...",Passed all validation checks,0.85
+194,100.0,number,2024,comparison_metrics,nan,Passed all validation checks,0.85
+1677,10.1007,percentage,2025,percentages,"artificial systems,” https://link.springer.com/content/ pdf/10.1007%2f978-3-642-32375-1.pdf, page 17...",Passed all validation checks,0.85
+1678,2.0,percentage,2025,percentages,ational-artifical-intelligence-strategies-and-human-rights%e2%80%94a-review_.pdf 164 steven feldstei...,Passed all validation checks,0.85
+1679,80.0,percentage,2025,percentages,"ional-artifical-intelligence-strategies-and-human-rights%e2%80%94a-review_.pdf 164 steven feldstein,...",Passed all validation checks,0.85
+1682,1.5,billions_usd,2025,dollar_amounts,lassified r&d in ai-related technologies was approximately $1.5 billion153—a number dwarfed signific...,Passed all validation checks,0.85
+1684,1.5,billions_usd,2020,dollar_amounts,"overnment in research and development is estimated at only $1.5 billion in 2020. second, many resear...",Passed all validation checks,0.85
+1685,103.0,usd,2025,cost,t of 27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute market price...,Passed all validation checks,0.85
+1686,350.0,usd,2025,cost,27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute market prices at ...,Passed all validation checks,0.85
+1688,1.0,usd,2025,dollar_amounts,"olling for medical needs, care for black patients averages $1,800 less per year. new technologies ar...",Passed all validation checks,0.85
+1690,4.0,usd,2020,investment,investment over all categories in the us alone was almost $4 trillion in 2020.260 it’s not always ea...,Passed all validation checks,0.85
+1691,103.0,number,2025,cost,equivalent of 27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute mar...,Passed all validation checks,0.85
+1692,60.0,number,2025,employment,"ly see technologically-driven mass unemployment. even if 60 jobs remain plentiful, the automation-re...",Passed all validation checks,0.85
+1693,272.0,number,2025,labor_metrics,/www.nber.org/digest/jul18/automation-can-be-response-aging-workforce 272 https://www.scientificamer...,Passed all validation checks,0.85

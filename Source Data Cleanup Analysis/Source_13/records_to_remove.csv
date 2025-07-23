@@ -1,0 +1,338 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence,kept_record_id
+938,0.0,number,2024,employment_metric,"ith populations below 250,000 and average employment of 64,000 workers—supported just about 5% of th...",Zero employment with specific numbers in context,0.9,
+940,2025.0,billions_usd,2025,adoption_metric,"data from the bureau’s 2025 
+btos also show that the overall adoption rate remains relatively modes...",Invalid unit 'billions_usd' for adoption_metric,0.95,
+941,5.0,billions_usd,2024,profit_metric,"in seattle, microsoft’s ai for good open call has set aside 
+$5 million in azure credits, paired wi...",Duplicate record (keeping first occurrence),0.9,929.0
+943,10.0,billions_usd,2024,financial_metrics,nan,Duplicate record (keeping first occurrence),0.9,922.0
+5742,28.5,percentage,2025,general_rate,"nd 2025, ai-related job postings grew at an annual rate of 28.5%, yet still comprise only about 2.5%...",Duplicate record (keeping first occurrence),0.9,891.0
+5743,2.5,percentage,2024,general_rate,"w at an annual rate of 28.5%, yet still comprise only about 2.5% of all u.s. job openings. • extreme...",Duplicate record (keeping first occurrence),0.9,892.0
+5744,13.0,percentage,2024,general_rate,nings. • extreme concentration. the bay area accounts for 13% of national job postings featuring ai ...,Duplicate record (keeping first occurrence),0.9,893.0
+5745,67.0,percentage,2024,general_rate,"hubs, this group of 30 top- performing metro areas captures 67% of total ai job postings. • signs of...",Duplicate record (keeping first occurrence),0.9,894.0
+5746,25.0,percentage,2024,general_rate,"ions greater than 250,000 in each pillar. those in the top 25% on a pillar earn a “t” (for “top”) fo...",Duplicate record (keeping first occurrence),0.9,895.0
+5747,50.0,percentage,2024,general_rate,arn a “t” (for “top”) for that pillar. those in the middle 50% garner an “m” (for “middle” performan...,Duplicate record (keeping first occurrence),0.9,896.0
+5748,4.0,percentage,2025,general_rate,ai in the production of goods or services rose from around 4% in early 2023 to 8.7% by mid-2025. exp...,Duplicate record (keeping first occurrence),0.9,897.0
+5749,8.7,percentage,2025,general_rate,of goods or services rose from around 4% in early 2023 to 8.7% by mid-2025. expectations for near-te...,Duplicate record (keeping first occurrence),0.9,898.0
+5750,11.0,percentage,2024,general_rate,"for near-term ai use are higher: as of the latest survey, 11% of firms reported that they plan to ad...",Duplicate record (keeping first occurrence),0.9,899.0
+5751,1.0,percentage,2024,general_rate,"2024, surging their share of all tech startups from around 1% to 28% (see figure 4). 15 figure 4.",Duplicate record (keeping first occurrence),0.9,900.0
+5752,2.2,percentage,2024,general_rate,"e 287,000 job postings with ai skills accounted for merely 2.2% of all u.s. job postings (see figure...",Duplicate record (keeping first occurrence),0.9,901.0
+5753,5.0,percentage,2024,general_rate,"al business survey (abs), for example, show that only about 5% of u.s. firms were using at least a l...",Duplicate record (keeping first occurrence),0.9,902.0
+5754,6.5,percentage,2024,general_rate,"ption rates among smaller firms, where usage falls to just 6.5% for businesses employing between 10 ...",Duplicate record (keeping first occurrence),0.9,903.0
+5755,20.1,percentage,2024,general_rate,"ely to use ai in the production of goods and services, with 20.1% reporting active use. this is foll...",Duplicate record (keeping first occurrence),0.9,904.0
+5756,15.9,percentage,2024,general_rate,"ific, and technical services sector (18.2%) and utilities (15.9%). in contrast, sectors such as tran...",Duplicate record (keeping first occurrence),0.9,905.0
+5757,2.9,percentage,2024,general_rate,"n and warehousing (2.3%), accommodation and food services (2.9%), and construction (3.1%) trail well...",Duplicate record (keeping first occurrence),0.9,906.0
+5758,145.0,percentage,2025,general_rate,"job postings rise since 2018, with san francisco rising by 145% (from 5,300 postings in april 2018 t...",Duplicate record (keeping first occurrence),0.9,907.0
+5759,110.0,percentage,2025,general_rate,"ril 2018 to 13,000 in april 2025); and san jose rising by 110% (from 5,800 to 12,200). these metro a...",Duplicate record (keeping first occurrence),0.9,908.0
+5760,34.0,percentage,2024,general_rate,"d contract spending, it generates 9% of ai publications and 34% of ai patents. ai research is anchor...",Duplicate record (keeping first occurrence),0.9,909.0
+5761,250.0,percentage,2025,general_rate,iami and gainesville in florida saw even higher gains—over 250%—from 2018 to 2025. many metro areas ...,Duplicate record (keeping first occurrence),0.9,910.0
+5762,56.0,percentage,2024,general_rate,"cluster generates 51% of the nation’s filed ai patents and 56% of its ai publications, with universi...",Duplicate record (keeping first occurrence),0.9,911.0
+5763,88.0,percentage,2025,general_rate,"ostings across the analyzed metro areas. overall, they saw 88% growth in their ai job postings betwe...",Duplicate record (keeping first occurrence),0.9,912.0
+5764,3.4,percentage,2024,general_rate,"r with the national average, at 4%. these hubs are home to 3.4% of the total startups analyzed. vent...",Duplicate record (keeping first occurrence),0.9,913.0
+5765,9.9,percentage,2025,general_rate,"the other two. together, in 2025, they accounted for about 9.9% of the nation’s metro area employmen...",Duplicate record (keeping first occurrence),0.9,914.0
+5766,7.5,percentage,2024,general_rate,"nearly 3.5% of ai patent filings, while driving more than 7.5% of hpc usage—a footprint that sits ju...",Duplicate record (keeping first occurrence),0.9,915.0
+5767,18.0,percentage,2024,general_rate,s widely dispersed set of regional economies accounted for 18% of the nation’s metro area employment...,Duplicate record (keeping first occurrence),0.9,916.0
+5768,800.0,percentage,2025,general_rate,"nd savannah, ga., have seen ai job postings grow more than 800% between april 2018 and 2025, highlig...",Duplicate record (keeping first occurrence),0.9,917.0
+5769,1.6,percentage,2024,general_rate,"of the nation’s metro area employment but account for only 1.6% of all metro area ai job postings, u...",Duplicate record (keeping first occurrence),0.9,918.0
+5770,0.1,percentage,2024,general_rate,% of the nation’s computer science bachelor’s degrees and 0.1 % of computer science ph.d. graduates....,Duplicate record (keeping first occurrence),0.9,919.0
+5771,0.16,percentage,2024,general_rate,"scanter: overall, metro areas in the others group generate 0.16% of patents and claim just 0.3% of c...",Duplicate record (keeping first occurrence),0.9,920.0
+5772,0.3,percentage,2024,general_rate,n the others group generate 0.16% of patents and claim just 0.3% of competitive ai contracts and 1.1...,Duplicate record (keeping first occurrence),0.9,921.0
+5773,10.0,billions_usd,2024,financial_metric,ies in the two metro areas. the largest deal of 2024—worth $10 billion—was raised by the san francis...,Duplicate record (keeping first occurrence),0.9,922.0
+5774,109.1,billions_usd,2024,financial_metric,"uced 15. as to private investment, u.s. companies invested $109.1 billion in ai research in 2024, va...",Duplicate record (keeping first occurrence),0.9,923.0
+5775,3.21,billions_usd,2024,financial_metric,overnment investment in ai research actually decreased from $3.21 billion in 2023 to 37 $2.98 billio...,Duplicate record (keeping first occurrence),0.9,924.0
+5776,32.0,billions_usd,2026,financial_metric,doubling non-defense ai r&d investments annually to reach $32 billion by 2026.16 the nation’s curren...,Duplicate record (keeping first occurrence),0.9,925.0
+5777,40.0,billions_usd,2024,financial_metric,"er, the founding partners have pledged to invest more than $40 million to support the hub's success:...",Duplicate record (keeping first occurrence),0.9,926.0
+5778,25.0,billions_usd,2024,financial_metric,ore than $40 million to support the hub's success: njeda's $25 million commitment anchors state supp...,Duplicate record (keeping first occurrence),0.9,927.0
+5779,7.5,billions_usd,2024,financial_metric,"illion commitment anchors state support, while microsoft's $7.5 million investment leverages its tec...",Duplicate record (keeping first occurrence),0.9,928.0
+5780,5.0,billions_usd,2024,financial_metric,"n seattle, microsoft’s ai for good open call has set aside $5 million in azure credits, paired with ...",Duplicate record (keeping first occurrence),0.9,929.0
+5781,275.0,billions_usd,2024,financial_metric,"hy hochul launched empire ai as part of a historic 10-year, $275 million commitment (combined with a...",Duplicate record (keeping first occurrence),0.9,930.0
+5782,125.0,billions_usd,2024,financial_metric,"year, $275 million commitment (combined with an additional $125 million in private investment) to es...",Duplicate record (keeping first occurrence),0.9,931.0
+5783,90.0,billions_usd,2026,financial_metric,m: the new fy 2026 budget proposal announced an additional $90 million investment. empire ai has alr...,Duplicate record (keeping first occurrence),0.9,932.0
+5784,1.5,billions_usd,2024,financial_metric,"h north dakota state university, it was established with a $1.5 million grant from microsoft’s techs...",Duplicate record (keeping first occurrence),0.9,933.0
+5785,160.0,billions_usd,2024,financial_metric,regional innovation engines award that could provide up to $160 million over 10 years to accelerate ...,Duplicate record (keeping first occurrence),0.9,934.0
+5786,13.0,billions_usd,2027,financial_metric,"china’s genai sector investment surges, projected to reach $13 billion by 2027,” march 28, 2024. 65 ...",Duplicate record (keeping first occurrence),0.9,935.0
+5787,1.0,billions_usd,2025,financial_metric,"community foundation. (2025, april 4). google.org announces $1m to austin community foundation to pr...",Duplicate record (keeping first occurrence),0.9,936.0
+5788,19.0,number,2024,employment_metric,"falls to just 6.5% for businesses employing between 10 and 19 workers. interestingly, the smallest f...",Duplicate record (keeping first occurrence),0.9,937.0
+5789,0.0,number,2024,employment_metric,"ith populations below 250,000 and average employment of 64,000 workers—supported just about 5% of th...",Duplicate record (keeping first occurrence),0.9,938.0
+5790,2025.0,number,2025,unknown_metric,t technological leap? mark muro and shriya methkupally july 2025 table of contents executive summary...,Duplicate record (keeping first occurrence),0.9,939.0
+5791,2025.0,billions_usd,2025,adoption_metric,"data from the bureau’s 2025 
+btos also show that the overall adoption rate remains relatively modes...",Duplicate record (keeping first occurrence),0.9,940.0
+5792,5.0,billions_usd,2024,profit_metric,"in seattle, microsoft’s ai for good open call has set aside 
+$5 million in azure credits, paired wi...",Duplicate record (keeping first occurrence),0.9,929.0
+5793,8.7,percentage,2024,adoption_metrics,"s also show that the overall adoption rate remains relatively modest across the economy, with only 8...",Duplicate record (keeping first occurrence),0.9,942.0
+5794,10.0,billions_usd,2024,financial_metrics,nan,Duplicate record (keeping first occurrence),0.9,922.0
+5795,28.5,percentage,2025,employment,"nd 2025, ai-related job postings grew at an annual rate of 28.5%, yet still comprise only about 2.5%...",Duplicate record (keeping first occurrence),0.9,891.0
+5801,25.0,percentage,2025,percentages,an “m” (for “middle” performance). and those in the lowest 25% earn a “b” (for “bottom”). in this wa...,Duplicate record (keeping first occurrence),0.9,5799.0
+5808,1.0,percentage,2024,percentages,"2024, surging their share of all tech startups from around 1% to 28% (see figure 4). 15 figure 4.",Duplicate record (keeping first occurrence),0.9,900.0
+5813,8.7,percentage,2025,adoption_rate,"te remains relatively modest across the economy, with only 8.7% of businesses using ai for producing...",Duplicate record (keeping first occurrence),0.9,898.0
+5823,13.0,percentage,2025,employment,"i employment size, the two superstar locations encompassed 13% of the nation’s entire ai activity, a...",Duplicate record (keeping first occurrence),0.9,5797.0
+5827,11.0,percentage,2025,employment,"y occurring within the 28 star hubs. beyond that, 7%, 8%, 11%, and 2% of ai job posting activity too...",Duplicate record (keeping first occurrence),0.9,5804.0
+5829,67.0,percentage,2025,employment,"rs, respectively. 22 figure 10. altogether, then, 67% of the nation’s total ai employment —about two...",Duplicate record (keeping first occurrence),0.9,5798.0
+5835,13.0,percentage,2025,employment,"about 2.7% of all metro area employment in q1 2025, but 13% of all job postings with ai skills. sinc...",Duplicate record (keeping first occurrence),0.9,5797.0
+5836,11.0,percentage,2025,employment,"their annual share of ai job postings has remained around 11%, entrenching them as america’s ai lead...",Duplicate record (keeping first occurrence),0.9,5804.0
+5838,8.0,percentage,2025,cost,"but still house major expertise. while the cluster collects 8% of federal ai r&d contract spending, ...",Duplicate record (keeping first occurrence),0.9,5826.0
+5844,54.0,percentage,2025,employment,constituted 46% of the nation’s metro area employment but 54% of all ai job postings across the anal...,Duplicate record (keeping first occurrence),0.9,5824.0
+5847,50.0,percentage,2025,growth_rate,"are formidable growth factors in all three pillars. about 50% of the nation’s ai talent, as measured...",Duplicate record (keeping first occurrence),0.9,5800.0
+5849,46.0,percentage,2025,investment,inesses (demonstrating leadership in securing funding) and 46% of hpc usage (a testament to their cr...,Duplicate record (keeping first occurrence),0.9,5843.0
+5853,4.0,percentage,2025,investment,the generative ai exposure level for this cluster (36%) is 4% above the national exposure level. fin...,Duplicate record (keeping first occurrence),0.9,897.0
+5855,9.0,percentage,2025,employment,"developing. together, in 2025, these places accounted for 9% of the nation’s metro area employment a...",Duplicate record (keeping first occurrence),0.9,5839.0
+5856,8.0,percentage,2025,employment,accounted for 9% of the nation’s metro area employment and 8% of all metro area ai job postings acro...,Duplicate record (keeping first occurrence),0.9,5826.0
+5858,50.0,percentage,2025,percentages,"stings. together, these four regions account for more than 50% of the group’s total postings. anothe...",Duplicate record (keeping first occurrence),0.9,5800.0
+5859,11.0,percentage,2025,percentages,"vities. as a group, these are promising metro areas. about 11% of the nation’s ai talent as measured...",Duplicate record (keeping first occurrence),0.9,5804.0
+5861,4.0,percentage,2025,percentages,"ing centers produce 14.6% of the nation’s ai publications, 4% of ai patents, and 8.4% of ai contract...",Duplicate record (keeping first occurrence),0.9,897.0
+5868,4.0,percentage,2025,percentages,"o areas’ businesses is on par with the national average, at 4%. these hubs are home to 3.4% of the t...",Duplicate record (keeping first occurrence),0.9,897.0
+5870,4.0,percentage,2025,investment,"venture capital is flowing heavily into these areas, with 4% of the total deals happening in these 1...",Duplicate record (keeping first occurrence),0.9,897.0
+5871,9.9,percentage,2025,employment,"the other two. together, in 2025, they accounted for about 9.9% of the nation’s metro area employmen...",Duplicate record (keeping first occurrence),0.9,914.0
+5875,250.0,percentage,2025,employment,"mich., have all seen ai job posting growth greater than 250%. even some of the larger markets such a...",Duplicate record (keeping first occurrence),0.9,910.0
+5887,2.5,percentage,2025,percentages,vation output is even more modest: nascent adopters produce 2.5% of ai publications and 5.9% of pate...,Duplicate record (keeping first occurrence),0.9,5796.0
+5890,4.0,percentage,2025,adoption_rate,"ns and 5.9% of patents, and claim 10.3% of ai contracts and 4% of hpc usage. on the adoption front, ...",Duplicate record (keeping first occurrence),0.9,897.0
+5894,27.0,percentage,2025,percentages,"(versus 4.2% nationally), 28.6% on data readiness (versus 27% nationally), 22.2% on cloud readiness ...",Duplicate record (keeping first occurrence),0.9,5865.0
+5895,10.0,billions_usd,2024,dollar_amounts,ies in the two metro areas. the largest deal of 2024—worth $10 billion—was raised by the san francis...,Duplicate record (keeping first occurrence),0.9,922.0
+5896,109.1,billions_usd,2024,investment,"uced 15. as to private investment, u.s. companies invested $109.1 billion in ai research in 2024, va...",Duplicate record (keeping first occurrence),0.9,923.0
+5900,32.0,billions_usd,2026,investment,doubling non-defense ai r&d investments annually to reach $32 billion by 2026.16 the nation’s curren...,Duplicate record (keeping first occurrence),0.9,925.0
+5908,7.5,millions_usd,2025,dollar_amounts,illing and workforce development. coreweave is contributing $7.5 million in cash plus industry-leadi...,Duplicate record (keeping first occurrence),0.9,5907.0
+5909,7.5,millions_usd,2025,dollar_amounts,"or early-career professionals, while princeton is providing $7.5 million in- kind through space and ...",Duplicate record (keeping first occurrence),0.9,5907.0
+5912,100.0,millions_usd,2025,investment,initiative represents a down-payment on the commonwealth’s $100 million proposed set of investments ...,Duplicate record (keeping first occurrence),0.9,5901.0
+5920,13.0,billions_usd,2027,investment,"china’s genai sector investment surges, projected to reach $13 billion by 2027,” march 28, 2024. 65 ...",Duplicate record (keeping first occurrence),0.9,935.0
+5921,10.5,millions_usd,2025,dollar_amounts,"vation challenge.” masstech. 66 31 grace stanley, “$10.5 million gift to cornell will fund research ...",Duplicate record (keeping first occurrence),0.9,5903.0
+5922,100.0,usd,2025,dollar_amounts,"ications group. (2025, may 2). stem city baltimore receives $100,000 maryland grant to bring ai and ...",Duplicate record (keeping first occurrence),0.9,5904.0
+7020,28.5,percentage,2025,general_rate,"nd 2025, ai-related job postings grew at an annual rate of 28.5%, yet still comprise only about 2.5%...",Duplicate record (keeping first occurrence),0.9,891.0
+7021,2.5,percentage,2024,general_rate,"w at an annual rate of 28.5%, yet still comprise only about 2.5% of all u.s. job openings. • extreme...",Duplicate record (keeping first occurrence),0.9,892.0
+7022,13.0,percentage,2024,general_rate,nings. • extreme concentration. the bay area accounts for 13% of national job postings featuring ai ...,Duplicate record (keeping first occurrence),0.9,893.0
+7023,67.0,percentage,2024,general_rate,"hubs, this group of 30 top- performing metro areas captures 67% of total ai job postings. • signs of...",Duplicate record (keeping first occurrence),0.9,894.0
+7024,25.0,percentage,2024,general_rate,"ions greater than 250,000 in each pillar. those in the top 25% on a pillar earn a “t” (for “top”) fo...",Duplicate record (keeping first occurrence),0.9,895.0
+7025,50.0,percentage,2024,general_rate,arn a “t” (for “top”) for that pillar. those in the middle 50% garner an “m” (for “middle” performan...,Duplicate record (keeping first occurrence),0.9,896.0
+7026,4.0,percentage,2025,general_rate,ai in the production of goods or services rose from around 4% in early 2023 to 8.7% by mid-2025. exp...,Duplicate record (keeping first occurrence),0.9,897.0
+7027,8.7,percentage,2025,general_rate,of goods or services rose from around 4% in early 2023 to 8.7% by mid-2025. expectations for near-te...,Duplicate record (keeping first occurrence),0.9,898.0
+7028,11.0,percentage,2024,general_rate,"for near-term ai use are higher: as of the latest survey, 11% of firms reported that they plan to ad...",Duplicate record (keeping first occurrence),0.9,899.0
+7029,1.0,percentage,2024,general_rate,"2024, surging their share of all tech startups from around 1% to 28% (see figure 4). 15 figure 4.",Duplicate record (keeping first occurrence),0.9,900.0
+7030,2.2,percentage,2024,general_rate,"e 287,000 job postings with ai skills accounted for merely 2.2% of all u.s. job postings (see figure...",Duplicate record (keeping first occurrence),0.9,901.0
+7031,5.0,percentage,2024,general_rate,"al business survey (abs), for example, show that only about 5% of u.s. firms were using at least a l...",Duplicate record (keeping first occurrence),0.9,902.0
+7032,6.5,percentage,2024,general_rate,"ption rates among smaller firms, where usage falls to just 6.5% for businesses employing between 10 ...",Duplicate record (keeping first occurrence),0.9,903.0
+7033,20.1,percentage,2024,general_rate,"ely to use ai in the production of goods and services, with 20.1% reporting active use. this is foll...",Duplicate record (keeping first occurrence),0.9,904.0
+7034,15.9,percentage,2024,general_rate,"ific, and technical services sector (18.2%) and utilities (15.9%). in contrast, sectors such as tran...",Duplicate record (keeping first occurrence),0.9,905.0
+7035,2.9,percentage,2024,general_rate,"n and warehousing (2.3%), accommodation and food services (2.9%), and construction (3.1%) trail well...",Duplicate record (keeping first occurrence),0.9,906.0
+7036,145.0,percentage,2025,general_rate,"job postings rise since 2018, with san francisco rising by 145% (from 5,300 postings in april 2018 t...",Duplicate record (keeping first occurrence),0.9,907.0
+7037,110.0,percentage,2025,general_rate,"ril 2018 to 13,000 in april 2025); and san jose rising by 110% (from 5,800 to 12,200). these metro a...",Duplicate record (keeping first occurrence),0.9,908.0
+7038,34.0,percentage,2024,general_rate,"d contract spending, it generates 9% of ai publications and 34% of ai patents. ai research is anchor...",Duplicate record (keeping first occurrence),0.9,909.0
+7039,250.0,percentage,2025,general_rate,iami and gainesville in florida saw even higher gains—over 250%—from 2018 to 2025. many metro areas ...,Duplicate record (keeping first occurrence),0.9,910.0
+7040,56.0,percentage,2024,general_rate,"cluster generates 51% of the nation’s filed ai patents and 56% of its ai publications, with universi...",Duplicate record (keeping first occurrence),0.9,911.0
+7041,88.0,percentage,2025,general_rate,"ostings across the analyzed metro areas. overall, they saw 88% growth in their ai job postings betwe...",Duplicate record (keeping first occurrence),0.9,912.0
+7042,3.4,percentage,2024,general_rate,"r with the national average, at 4%. these hubs are home to 3.4% of the total startups analyzed. vent...",Duplicate record (keeping first occurrence),0.9,913.0
+7043,9.9,percentage,2025,general_rate,"the other two. together, in 2025, they accounted for about 9.9% of the nation’s metro area employmen...",Duplicate record (keeping first occurrence),0.9,914.0
+7044,7.5,percentage,2024,general_rate,"nearly 3.5% of ai patent filings, while driving more than 7.5% of hpc usage—a footprint that sits ju...",Duplicate record (keeping first occurrence),0.9,915.0
+7045,18.0,percentage,2024,general_rate,s widely dispersed set of regional economies accounted for 18% of the nation’s metro area employment...,Duplicate record (keeping first occurrence),0.9,916.0
+7046,800.0,percentage,2025,general_rate,"nd savannah, ga., have seen ai job postings grow more than 800% between april 2018 and 2025, highlig...",Duplicate record (keeping first occurrence),0.9,917.0
+7047,1.6,percentage,2024,general_rate,"of the nation’s metro area employment but account for only 1.6% of all metro area ai job postings, u...",Duplicate record (keeping first occurrence),0.9,918.0
+7048,0.1,percentage,2024,general_rate,% of the nation’s computer science bachelor’s degrees and 0.1 % of computer science ph.d. graduates....,Duplicate record (keeping first occurrence),0.9,919.0
+7049,0.16,percentage,2024,general_rate,"scanter: overall, metro areas in the others group generate 0.16% of patents and claim just 0.3% of c...",Duplicate record (keeping first occurrence),0.9,920.0
+7050,0.3,percentage,2024,general_rate,n the others group generate 0.16% of patents and claim just 0.3% of competitive ai contracts and 1.1...,Duplicate record (keeping first occurrence),0.9,921.0
+7051,10.0,billions_usd,2024,financial_metric,ies in the two metro areas. the largest deal of 2024—worth $10 billion—was raised by the san francis...,Duplicate record (keeping first occurrence),0.9,922.0
+7052,109.1,billions_usd,2024,financial_metric,"uced 15. as to private investment, u.s. companies invested $109.1 billion in ai research in 2024, va...",Duplicate record (keeping first occurrence),0.9,923.0
+7053,3.21,billions_usd,2024,financial_metric,overnment investment in ai research actually decreased from $3.21 billion in 2023 to 37 $2.98 billio...,Duplicate record (keeping first occurrence),0.9,924.0
+7054,32.0,billions_usd,2026,financial_metric,doubling non-defense ai r&d investments annually to reach $32 billion by 2026.16 the nation’s curren...,Duplicate record (keeping first occurrence),0.9,925.0
+7055,40.0,billions_usd,2024,financial_metric,"er, the founding partners have pledged to invest more than $40 million to support the hub's success:...",Duplicate record (keeping first occurrence),0.9,926.0
+7056,25.0,billions_usd,2024,financial_metric,ore than $40 million to support the hub's success: njeda's $25 million commitment anchors state supp...,Duplicate record (keeping first occurrence),0.9,927.0
+7057,7.5,billions_usd,2024,financial_metric,"illion commitment anchors state support, while microsoft's $7.5 million investment leverages its tec...",Duplicate record (keeping first occurrence),0.9,928.0
+7058,5.0,billions_usd,2024,financial_metric,"n seattle, microsoft’s ai for good open call has set aside $5 million in azure credits, paired with ...",Duplicate record (keeping first occurrence),0.9,929.0
+7059,275.0,billions_usd,2024,financial_metric,"hy hochul launched empire ai as part of a historic 10-year, $275 million commitment (combined with a...",Duplicate record (keeping first occurrence),0.9,930.0
+7060,125.0,billions_usd,2024,financial_metric,"year, $275 million commitment (combined with an additional $125 million in private investment) to es...",Duplicate record (keeping first occurrence),0.9,931.0
+7061,90.0,billions_usd,2026,financial_metric,m: the new fy 2026 budget proposal announced an additional $90 million investment. empire ai has alr...,Duplicate record (keeping first occurrence),0.9,932.0
+7062,1.5,billions_usd,2024,financial_metric,"h north dakota state university, it was established with a $1.5 million grant from microsoft’s techs...",Duplicate record (keeping first occurrence),0.9,933.0
+7063,160.0,billions_usd,2024,financial_metric,regional innovation engines award that could provide up to $160 million over 10 years to accelerate ...,Duplicate record (keeping first occurrence),0.9,934.0
+7064,13.0,billions_usd,2027,financial_metric,"china’s genai sector investment surges, projected to reach $13 billion by 2027,” march 28, 2024. 65 ...",Duplicate record (keeping first occurrence),0.9,935.0
+7065,1.0,billions_usd,2025,financial_metric,"community foundation. (2025, april 4). google.org announces $1m to austin community foundation to pr...",Duplicate record (keeping first occurrence),0.9,936.0
+7066,19.0,number,2024,employment_metric,"falls to just 6.5% for businesses employing between 10 and 19 workers. interestingly, the smallest f...",Duplicate record (keeping first occurrence),0.9,937.0
+7067,0.0,number,2024,employment_metric,"ith populations below 250,000 and average employment of 64,000 workers—supported just about 5% of th...",Duplicate record (keeping first occurrence),0.9,938.0
+7068,2025.0,number,2025,unknown_metric,t technological leap? mark muro and shriya methkupally july 2025 table of contents executive summary...,Duplicate record (keeping first occurrence),0.9,939.0
+7069,2025.0,billions_usd,2025,adoption_metric,"data from the bureau’s 2025 
+btos also show that the overall adoption rate remains relatively modes...",Duplicate record (keeping first occurrence),0.9,940.0
+7070,5.0,billions_usd,2024,profit_metric,"in seattle, microsoft’s ai for good open call has set aside 
+$5 million in azure credits, paired wi...",Duplicate record (keeping first occurrence),0.9,929.0
+7071,8.7,percentage,2024,adoption_metrics,"s also show that the overall adoption rate remains relatively modest across the economy, with only 8...",Duplicate record (keeping first occurrence),0.9,942.0
+7072,10.0,billions_usd,2024,financial_metrics,nan,Duplicate record (keeping first occurrence),0.9,922.0
+11871,28.5,percentage,2025,general_rate,"nd 2025, ai-related job postings grew at an annual rate of 28.5%, yet still comprise only about 2.5%...",Duplicate record (keeping first occurrence),0.9,891.0
+11872,2.5,percentage,2024,general_rate,"w at an annual rate of 28.5%, yet still comprise only about 2.5% of all u.s. job openings. • extreme...",Duplicate record (keeping first occurrence),0.9,892.0
+11873,13.0,percentage,2024,general_rate,nings. • extreme concentration. the bay area accounts for 13% of national job postings featuring ai ...,Duplicate record (keeping first occurrence),0.9,893.0
+11874,67.0,percentage,2024,general_rate,"hubs, this group of 30 top- performing metro areas captures 67% of total ai job postings. • signs of...",Duplicate record (keeping first occurrence),0.9,894.0
+11875,25.0,percentage,2024,general_rate,"ions greater than 250,000 in each pillar. those in the top 25% on a pillar earn a “t” (for “top”) fo...",Duplicate record (keeping first occurrence),0.9,895.0
+11876,50.0,percentage,2024,general_rate,arn a “t” (for “top”) for that pillar. those in the middle 50% garner an “m” (for “middle” performan...,Duplicate record (keeping first occurrence),0.9,896.0
+11877,4.0,percentage,2025,general_rate,ai in the production of goods or services rose from around 4% in early 2023 to 8.7% by mid-2025. exp...,Duplicate record (keeping first occurrence),0.9,897.0
+11878,8.7,percentage,2025,general_rate,of goods or services rose from around 4% in early 2023 to 8.7% by mid-2025. expectations for near-te...,Duplicate record (keeping first occurrence),0.9,898.0
+11879,11.0,percentage,2024,general_rate,"for near-term ai use are higher: as of the latest survey, 11% of firms reported that they plan to ad...",Duplicate record (keeping first occurrence),0.9,899.0
+11880,1.0,percentage,2024,general_rate,"2024, surging their share of all tech startups from around 1% to 28% (see figure 4). 15 figure 4.",Duplicate record (keeping first occurrence),0.9,900.0
+11881,2.2,percentage,2024,general_rate,"e 287,000 job postings with ai skills accounted for merely 2.2% of all u.s. job postings (see figure...",Duplicate record (keeping first occurrence),0.9,901.0
+11882,5.0,percentage,2024,general_rate,"al business survey (abs), for example, show that only about 5% of u.s. firms were using at least a l...",Duplicate record (keeping first occurrence),0.9,902.0
+11883,6.5,percentage,2024,general_rate,"ption rates among smaller firms, where usage falls to just 6.5% for businesses employing between 10 ...",Duplicate record (keeping first occurrence),0.9,903.0
+11884,20.1,percentage,2024,general_rate,"ely to use ai in the production of goods and services, with 20.1% reporting active use. this is foll...",Duplicate record (keeping first occurrence),0.9,904.0
+11885,15.9,percentage,2024,general_rate,"ific, and technical services sector (18.2%) and utilities (15.9%). in contrast, sectors such as tran...",Duplicate record (keeping first occurrence),0.9,905.0
+11886,2.9,percentage,2024,general_rate,"n and warehousing (2.3%), accommodation and food services (2.9%), and construction (3.1%) trail well...",Duplicate record (keeping first occurrence),0.9,906.0
+11887,145.0,percentage,2025,general_rate,"job postings rise since 2018, with san francisco rising by 145% (from 5,300 postings in april 2018 t...",Duplicate record (keeping first occurrence),0.9,907.0
+11888,110.0,percentage,2025,general_rate,"ril 2018 to 13,000 in april 2025); and san jose rising by 110% (from 5,800 to 12,200). these metro a...",Duplicate record (keeping first occurrence),0.9,908.0
+11889,34.0,percentage,2024,general_rate,"d contract spending, it generates 9% of ai publications and 34% of ai patents. ai research is anchor...",Duplicate record (keeping first occurrence),0.9,909.0
+11890,250.0,percentage,2025,general_rate,iami and gainesville in florida saw even higher gains—over 250%—from 2018 to 2025. many metro areas ...,Duplicate record (keeping first occurrence),0.9,910.0
+11891,56.0,percentage,2024,general_rate,"cluster generates 51% of the nation’s filed ai patents and 56% of its ai publications, with universi...",Duplicate record (keeping first occurrence),0.9,911.0
+11892,88.0,percentage,2025,general_rate,"ostings across the analyzed metro areas. overall, they saw 88% growth in their ai job postings betwe...",Duplicate record (keeping first occurrence),0.9,912.0
+11893,3.4,percentage,2024,general_rate,"r with the national average, at 4%. these hubs are home to 3.4% of the total startups analyzed. vent...",Duplicate record (keeping first occurrence),0.9,913.0
+11894,9.9,percentage,2025,general_rate,"the other two. together, in 2025, they accounted for about 9.9% of the nation’s metro area employmen...",Duplicate record (keeping first occurrence),0.9,914.0
+11895,7.5,percentage,2024,general_rate,"nearly 3.5% of ai patent filings, while driving more than 7.5% of hpc usage—a footprint that sits ju...",Duplicate record (keeping first occurrence),0.9,915.0
+11896,18.0,percentage,2024,general_rate,s widely dispersed set of regional economies accounted for 18% of the nation’s metro area employment...,Duplicate record (keeping first occurrence),0.9,916.0
+11897,800.0,percentage,2025,general_rate,"nd savannah, ga., have seen ai job postings grow more than 800% between april 2018 and 2025, highlig...",Duplicate record (keeping first occurrence),0.9,917.0
+11898,1.6,percentage,2024,general_rate,"of the nation’s metro area employment but account for only 1.6% of all metro area ai job postings, u...",Duplicate record (keeping first occurrence),0.9,918.0
+11899,0.1,percentage,2024,general_rate,% of the nation’s computer science bachelor’s degrees and 0.1 % of computer science ph.d. graduates....,Duplicate record (keeping first occurrence),0.9,919.0
+11900,0.16,percentage,2024,general_rate,"scanter: overall, metro areas in the others group generate 0.16% of patents and claim just 0.3% of c...",Duplicate record (keeping first occurrence),0.9,920.0
+11901,0.3,percentage,2024,general_rate,n the others group generate 0.16% of patents and claim just 0.3% of competitive ai contracts and 1.1...,Duplicate record (keeping first occurrence),0.9,921.0
+11902,10.0,billions_usd,2024,financial_metric,ies in the two metro areas. the largest deal of 2024—worth $10 billion—was raised by the san francis...,Duplicate record (keeping first occurrence),0.9,922.0
+11903,109.1,billions_usd,2024,financial_metric,"uced 15. as to private investment, u.s. companies invested $109.1 billion in ai research in 2024, va...",Duplicate record (keeping first occurrence),0.9,923.0
+11904,3.21,billions_usd,2024,financial_metric,overnment investment in ai research actually decreased from $3.21 billion in 2023 to 37 $2.98 billio...,Duplicate record (keeping first occurrence),0.9,924.0
+11905,32.0,billions_usd,2026,financial_metric,doubling non-defense ai r&d investments annually to reach $32 billion by 2026.16 the nation’s curren...,Duplicate record (keeping first occurrence),0.9,925.0
+11906,40.0,billions_usd,2024,financial_metric,"er, the founding partners have pledged to invest more than $40 million to support the hub's success:...",Duplicate record (keeping first occurrence),0.9,926.0
+11907,25.0,billions_usd,2024,financial_metric,ore than $40 million to support the hub's success: njeda's $25 million commitment anchors state supp...,Duplicate record (keeping first occurrence),0.9,927.0
+11908,7.5,billions_usd,2024,financial_metric,"illion commitment anchors state support, while microsoft's $7.5 million investment leverages its tec...",Duplicate record (keeping first occurrence),0.9,928.0
+11909,5.0,billions_usd,2024,financial_metric,"n seattle, microsoft’s ai for good open call has set aside $5 million in azure credits, paired with ...",Duplicate record (keeping first occurrence),0.9,929.0
+11910,275.0,billions_usd,2024,financial_metric,"hy hochul launched empire ai as part of a historic 10-year, $275 million commitment (combined with a...",Duplicate record (keeping first occurrence),0.9,930.0
+11911,125.0,billions_usd,2024,financial_metric,"year, $275 million commitment (combined with an additional $125 million in private investment) to es...",Duplicate record (keeping first occurrence),0.9,931.0
+11912,90.0,billions_usd,2026,financial_metric,m: the new fy 2026 budget proposal announced an additional $90 million investment. empire ai has alr...,Duplicate record (keeping first occurrence),0.9,932.0
+11913,1.5,billions_usd,2024,financial_metric,"h north dakota state university, it was established with a $1.5 million grant from microsoft’s techs...",Duplicate record (keeping first occurrence),0.9,933.0
+11914,160.0,billions_usd,2024,financial_metric,regional innovation engines award that could provide up to $160 million over 10 years to accelerate ...,Duplicate record (keeping first occurrence),0.9,934.0
+11915,13.0,billions_usd,2027,financial_metric,"china’s genai sector investment surges, projected to reach $13 billion by 2027,” march 28, 2024. 65 ...",Duplicate record (keeping first occurrence),0.9,935.0
+11916,1.0,billions_usd,2025,financial_metric,"community foundation. (2025, april 4). google.org announces $1m to austin community foundation to pr...",Duplicate record (keeping first occurrence),0.9,936.0
+11917,19.0,number,2024,employment_metric,"falls to just 6.5% for businesses employing between 10 and 19 workers. interestingly, the smallest f...",Duplicate record (keeping first occurrence),0.9,937.0
+11918,0.0,number,2024,employment_metric,"ith populations below 250,000 and average employment of 64,000 workers—supported just about 5% of th...",Duplicate record (keeping first occurrence),0.9,938.0
+11919,2025.0,number,2025,unknown_metric,t technological leap? mark muro and shriya methkupally july 2025 table of contents executive summary...,Duplicate record (keeping first occurrence),0.9,939.0
+11920,2025.0,billions_usd,2025,adoption_metric,"data from the bureau’s 2025 
+btos also show that the overall adoption rate remains relatively modes...",Duplicate record (keeping first occurrence),0.9,940.0
+11921,5.0,billions_usd,2024,profit_metric,"in seattle, microsoft’s ai for good open call has set aside 
+$5 million in azure credits, paired wi...",Duplicate record (keeping first occurrence),0.9,929.0
+11922,8.7,percentage,2024,adoption_metrics,"s also show that the overall adoption rate remains relatively modest across the economy, with only 8...",Duplicate record (keeping first occurrence),0.9,942.0
+11923,10.0,billions_usd,2024,financial_metrics,nan,Duplicate record (keeping first occurrence),0.9,922.0
+11924,28.5,percentage,2025,employment,"nd 2025, ai-related job postings grew at an annual rate of 28.5%, yet still comprise only about 2.5%...",Duplicate record (keeping first occurrence),0.9,891.0
+11925,2.5,percentage,2025,employment,"w at an annual rate of 28.5%, yet still comprise only about 2.5% of all u.s. job openings. • extreme...",Duplicate record (keeping first occurrence),0.9,5796.0
+11926,13.0,percentage,2025,employment,nings. • extreme concentration. the bay area accounts for 13% of national job postings featuring ai ...,Duplicate record (keeping first occurrence),0.9,5797.0
+11927,67.0,percentage,2025,employment,"hubs, this group of 30 top- performing metro areas captures 67% of total ai job postings. • signs of...",Duplicate record (keeping first occurrence),0.9,5798.0
+11928,25.0,percentage,2025,percentages,"ions greater than 250,000 in each pillar. those in the top 25% on a pillar earn a “t” (for “top”) fo...",Duplicate record (keeping first occurrence),0.9,5799.0
+11929,50.0,percentage,2025,percentages,arn a “t” (for “top”) for that pillar. those in the middle 50% garner an “m” (for “middle” performan...,Duplicate record (keeping first occurrence),0.9,5800.0
+11930,25.0,percentage,2025,percentages,an “m” (for “middle” performance). and those in the lowest 25% earn a “b” (for “bottom”). in this wa...,Duplicate record (keeping first occurrence),0.9,5799.0
+11931,4.0,percentage,2023,percentages,ai in the production of goods or services rose from around 4% in early 2023 to 8.7% by mid-2025. exp...,Duplicate record (keeping first occurrence),0.9,5802.0
+11932,8.7,percentage,2023,percentages,of goods or services rose from around 4% in early 2023 to 8.7% by mid-2025. expectations for near-te...,Duplicate record (keeping first occurrence),0.9,5803.0
+11933,11.0,percentage,2025,percentages,"for near-term ai use are higher: as of the latest survey, 11% of firms reported that they plan to ad...",Duplicate record (keeping first occurrence),0.9,5804.0
+11934,28.5,percentage,2010,employment,from tech giants (see figure 2). that increase amounted to 28.5% average annualized growth for ai jo...,Duplicate record (keeping first occurrence),0.9,5805.0
+11935,11.1,percentage,2010,growth_rate,"stings over the 2010-to-2025 period, which outstripped the 11.1% average annualized growth of postin...",Duplicate record (keeping first occurrence),0.9,5806.0
+11936,13.3,percentage,2025,growth_rate,nualized growth of postings in the general economy and the 13.3% annualized growth of those in the i...,Duplicate record (keeping first occurrence),0.9,5807.0
+11937,1.0,percentage,2024,percentages,"2024, surging their share of all tech startups from around 1% to 28% (see figure 4). 15 figure 4.",Duplicate record (keeping first occurrence),0.9,900.0
+11938,28.0,percentage,2025,percentages,surging their share of all tech startups from around 1% to 28% (see figure 4). 15 figure 4. in shor,Duplicate record (keeping first occurrence),0.9,5809.0
+11939,2.2,percentage,2025,employment,"e 287,000 job postings with ai skills accounted for merely 2.2% of all u.s. job postings (see figure...",Duplicate record (keeping first occurrence),0.9,5810.0
+11940,5.0,percentage,2025,percentages,"al business survey (abs), for example, show that only about 5% of u.s. firms were using at least a l...",Duplicate record (keeping first occurrence),0.9,5811.0
+11941,1.0,percentage,2021,percentages,t least a little ai in their operations in 2021.12 and only 1% of firms reported investing in ai pro...,Duplicate record (keeping first occurrence),0.9,5812.0
+11942,8.7,percentage,2025,adoption_rate,"te remains relatively modest across the economy, with only 8.7% of businesses using ai for producing...",Duplicate record (keeping first occurrence),0.9,898.0
+11943,14.2,percentage,2025,adoption_rate,"ai use in producing goods and services, with a use rate of 14.2% according to 2025 btos data. this f...",Duplicate record (keeping first occurrence),0.9,5814.0
+11944,6.5,percentage,2025,employment,"ption rates among smaller firms, where usage falls to just 6.5% for businesses employing between 10 ...",Duplicate record (keeping first occurrence),0.9,5815.0
+11945,9.5,percentage,2025,percentages,"s (one to four employees) report relatively higher ai use (9.5%) than many midsized businesses, sugg...",Duplicate record (keeping first occurrence),0.9,5816.0
+11946,20.1,percentage,2025,percentages,"ely to use ai in the production of goods and services, with 20.1% reporting active use. this is foll...",Duplicate record (keeping first occurrence),0.9,5817.0
+11947,18.2,percentage,2025,percentages,"e professional, scientific, and technical services sector (18.2%) and utilities (15.9%). in contrast...",Duplicate record (keeping first occurrence),0.9,5818.0
+11948,15.9,percentage,2025,percentages,"ific, and technical services sector (18.2%) and utilities (15.9%). in contrast, sectors such as tran...",Duplicate record (keeping first occurrence),0.9,5819.0
+11949,2.3,percentage,2025,percentages,"contrast, sectors such as transportation and warehousing (2.3%), accommodation and food services (2....",Duplicate record (keeping first occurrence),0.9,5820.0
+11950,2.9,percentage,2025,percentages,"n and warehousing (2.3%), accommodation and food services (2.9%), and construction (3.1%) trail well...",Duplicate record (keeping first occurrence),0.9,5821.0
+11951,3.1,percentage,2025,percentages,", accommodation and food services (2.9%), and construction (3.1%) trail well behind, reflecting stru...",Duplicate record (keeping first occurrence),0.9,5822.0
+11952,13.0,percentage,2025,employment,"i employment size, the two superstar locations encompassed 13% of the nation’s entire ai activity, a...",Duplicate record (keeping first occurrence),0.9,5797.0
+11953,54.0,percentage,2025,employment,"indicated by ai-related job postings in 2025, with another 54% of activity occurring within the 28 s...",Duplicate record (keeping first occurrence),0.9,5824.0
+11954,7.0,percentage,2025,employment,"activity occurring within the 28 star hubs. beyond that, 7%, 8%, 11%, and 2% of ai job posting activ...",Duplicate record (keeping first occurrence),0.9,5825.0
+11955,8.0,percentage,2025,employment,"ivity occurring within the 28 star hubs. beyond that, 7%, 8%, 11%, and 2% of ai job posting activity...",Duplicate record (keeping first occurrence),0.9,5826.0
+11956,11.0,percentage,2025,employment,"y occurring within the 28 star hubs. beyond that, 7%, 8%, 11%, and 2% of ai job posting activity too...",Duplicate record (keeping first occurrence),0.9,5804.0
+11957,2.0,percentage,2025,employment,"ng within the 28 star hubs. beyond that, 7%, 8%, 11%, and 2% of ai job posting activity took place i...",Duplicate record (keeping first occurrence),0.9,5828.0
+11958,67.0,percentage,2025,employment,"rs, respectively. 22 figure 10. altogether, then, 67% of the nation’s total ai employment —about two...",Duplicate record (keeping first occurrence),0.9,5798.0
+11959,1.0,percentage,2018,employment,"the share of job postings in those two clusters falling by 1% and 2%, respectively, since 2018. turn...",Duplicate record (keeping first occurrence),0.9,5830.0
+11960,2.0,percentage,2018,employment,"re of job postings in those two clusters falling by 1% and 2%, respectively, since 2018. turning to ...",Duplicate record (keeping first occurrence),0.9,5831.0
+11961,145.0,percentage,2018,employment,"job postings rise since 2018, with san francisco rising by 145% (from 5,300 postings in april 2018 t...",Duplicate record (keeping first occurrence),0.9,5832.0
+11962,110.0,percentage,2018,percentages,"ril 2018 to 13,000 in april 2025); and san jose rising by 110% (from 5,800 to 12,200). these metro a...",Duplicate record (keeping first occurrence),0.9,5833.0
+11963,2.7,percentage,2025,employment,"in terms of size: together, the two accounted for about 2.7% of all metro area employment in q1 2025...",Duplicate record (keeping first occurrence),0.9,5834.0
+11964,13.0,percentage,2025,employment,"about 2.7% of all metro area employment in q1 2025, but 13% of all job postings with ai skills. sinc...",Duplicate record (keeping first occurrence),0.9,5797.0
+11965,11.0,percentage,2025,employment,"their annual share of ai job postings has remained around 11%, entrenching them as america’s ai lead...",Duplicate record (keeping first occurrence),0.9,5804.0
+11966,14.0,percentage,2025,percentages,he unrivaled depth and breadth of its ai readiness assets: 14% of online profiles with ai skills con...,Duplicate record (keeping first occurrence),0.9,5837.0
+11967,8.0,percentage,2025,cost,"but still house major expertise. while the cluster collects 8% of federal ai r&d contract spending, ...",Duplicate record (keeping first occurrence),0.9,5826.0
+11968,9.0,percentage,2025,cost,"lects 8% of federal ai r&d contract spending, it generates 9% of ai publications and 34% of ai paten...",Duplicate record (keeping first occurrence),0.9,5839.0
+11969,34.0,percentage,2025,cost,"d contract spending, it generates 9% of ai publications and 34% of ai patents. ai research is anchor...",Duplicate record (keeping first occurrence),0.9,5840.0
+11970,31.0,percentage,2014,adoption_rate,tand as by far the most commanding ai adoption hubs. fully 31% of private ai startups founded after ...,Duplicate record (keeping first occurrence),0.9,5841.0
+11971,32.0,percentage,2025,investment,"these two metro areas. for that matter, nearly one-third (32%) of the total seed and early-stage vc ...",Duplicate record (keeping first occurrence),0.9,5842.0
+11972,46.0,percentage,2025,employment,"he rest of the country. together, in 2025, they constituted 46% of the nation’s metro area employmen...",Duplicate record (keeping first occurrence),0.9,5843.0
+11973,54.0,percentage,2025,employment,constituted 46% of the nation’s metro area employment but 54% of all ai job postings across the anal...,Duplicate record (keeping first occurrence),0.9,5824.0
+11974,139.0,percentage,2018,employment,"i job postings across the analyzed metro areas, growing by 139% in aggregate between 2018 and 2025. ...",Duplicate record (keeping first occurrence),0.9,5845.0
+11975,250.0,percentage,2018,percentages,iami and gainesville in florida saw even higher gains—over 250%—from 2018 to 2025. many metro areas ...,Duplicate record (keeping first occurrence),0.9,5846.0
+11976,50.0,percentage,2025,growth_rate,"are formidable growth factors in all three pillars. about 50% of the nation’s ai talent, as measured...",Duplicate record (keeping first occurrence),0.9,5800.0
+11977,64.0,percentage,2025,percentages,"innovation, these places are responsible for an impressive 64% of all ai- related contracts awarded ...",Duplicate record (keeping first occurrence),0.9,5848.0
+11978,46.0,percentage,2025,investment,inesses (demonstrating leadership in securing funding) and 46% of hpc usage (a testament to their cr...,Duplicate record (keeping first occurrence),0.9,5843.0
+11979,51.0,percentage,2025,percentages,"oping ai applications). in addition, this cluster generates 51% of the nation’s filed ai patents and...",Duplicate record (keeping first occurrence),0.9,5850.0
+11980,56.0,percentage,2025,percentages,"cluster generates 51% of the nation’s filed ai patents and 56% of its ai publications, with universi...",Duplicate record (keeping first occurrence),0.9,5851.0
+11981,36.0,percentage,2025,percentages,umbers. the generative ai exposure level for this cluster (36%) is 4% above the national exposure le...,Duplicate record (keeping first occurrence),0.9,5852.0
+11982,4.0,percentage,2025,investment,the generative ai exposure level for this cluster (36%) is 4% above the national exposure level. fin...,Duplicate record (keeping first occurrence),0.9,897.0
+11983,53.0,percentage,2025,investment,"l also recognizes the potential of these metro areas, with 53% of funding deals flowing into this gr...",Duplicate record (keeping first occurrence),0.9,5854.0
+11984,9.0,percentage,2025,employment,"developing. together, in 2025, these places accounted for 9% of the nation’s metro area employment a...",Duplicate record (keeping first occurrence),0.9,5839.0
+11985,8.0,percentage,2025,employment,accounted for 9% of the nation’s metro area employment and 8% of all metro area ai job postings acro...,Duplicate record (keeping first occurrence),0.9,5826.0
+11986,88.0,percentage,2018,employment,"ostings across the analyzed metro areas. overall, they saw 88% growth in their ai job postings betwe...",Duplicate record (keeping first occurrence),0.9,5857.0
+11987,50.0,percentage,2025,percentages,"stings. together, these four regions account for more than 50% of the group’s total postings. anothe...",Duplicate record (keeping first occurrence),0.9,5800.0
+11988,11.0,percentage,2025,percentages,"vities. as a group, these are promising metro areas. about 11% of the nation’s ai talent as measured...",Duplicate record (keeping first occurrence),0.9,5804.0
+11989,14.6,percentage,2025,percentages,"nal average of 13. altogether, the emerging centers produce 14.6% of the nation’s ai publications, 4...",Duplicate record (keeping first occurrence),0.9,5860.0
+11990,4.0,percentage,2025,percentages,"ing centers produce 14.6% of the nation’s ai publications, 4% of ai patents, and 8.4% of ai contract...",Duplicate record (keeping first occurrence),0.9,897.0
+11991,8.4,percentage,2025,percentages,".6% of the nation’s ai publications, 4% of ai patents, and 8.4% of ai contracts, and represent 21.3%...",Duplicate record (keeping first occurrence),0.9,5862.0
+11992,21.3,percentage,2025,percentages,"4% of ai patents, and 8.4% of ai contracts, and represent 21.3% of hpc usage. the group outperforms ...",Duplicate record (keeping first occurrence),0.9,5863.0
+11993,28.3,percentage,2025,percentages,"ers mostly outperform national density levels. on average, 28.3% of firms in these hubs have files i...",Duplicate record (keeping first occurrence),0.9,5864.0
+11994,27.0,percentage,2025,percentages,"s in these hubs have files in digital formats (compared to 27% nationally), and 23% have cloud-ready...",Duplicate record (keeping first occurrence),0.9,5865.0
+11995,23.0,percentage,2025,percentages,"files in digital formats (compared to 27% nationally), and 23% have cloud-ready data (versus 20% nat...",Duplicate record (keeping first occurrence),0.9,5866.0
+11996,20.0,percentage,2025,percentages,"to 27% nationally), and 23% have cloud-ready data (versus 20% nationally). ai use among these metro ...",Duplicate record (keeping first occurrence),0.9,5867.0
+11997,4.0,percentage,2025,percentages,"o areas’ businesses is on par with the national average, at 4%. these hubs are home to 3.4% of the t...",Duplicate record (keeping first occurrence),0.9,897.0
+11998,3.4,percentage,2025,investment,"r with the national average, at 4%. these hubs are home to 3.4% of the total startups analyzed. vent...",Duplicate record (keeping first occurrence),0.9,5869.0
+11999,4.0,percentage,2025,investment,"venture capital is flowing heavily into these areas, with 4% of the total deals happening in these 1...",Duplicate record (keeping first occurrence),0.9,897.0
+12000,9.9,percentage,2025,employment,"the other two. together, in 2025, they accounted for about 9.9% of the nation’s metro area employmen...",Duplicate record (keeping first occurrence),0.9,914.0
+12001,8.3,percentage,2025,employment,"9% of the nation’s metro area employment, produced roughly 8.3% of all computer science and engineer...",Duplicate record (keeping first occurrence),0.9,5872.0
+12002,7.9,percentage,2025,employment,"l computer science and engineering graduates, and supplied 7.9% of all ai job postings. looking at a...",Duplicate record (keeping first occurrence),0.9,5873.0
+12003,100.0,percentage,2025,growth_rate,", 24 of the 29 metro areas have seen growth greater than 100%. several of the focused movers stand o...",Duplicate record (keeping first occurrence),0.9,5874.0
+12004,250.0,percentage,2025,employment,"mich., have all seen ai job posting growth greater than 250%. even some of the larger markets such a...",Duplicate record (keeping first occurrence),0.9,910.0
+12005,5.5,percentage,2025,percentages,"dly. 31 as a group, the focused movers have secured 5.5% of national ai contracts and generated near...",Duplicate record (keeping first occurrence),0.9,5876.0
+12006,3.5,percentage,2025,percentages,"cured 5.5% of national ai contracts and generated nearly 3.5% of ai patent filings, while driving mo...",Duplicate record (keeping first occurrence),0.9,5877.0
+12007,7.5,percentage,2025,percentages,"nearly 3.5% of ai patent filings, while driving more than 7.5% of hpc usage—a footprint that sits ju...",Duplicate record (keeping first occurrence),0.9,5878.0
+12008,3.7,percentage,2025,adoption_rate,"d in the national adoption journey. as a whole, they host 3.7% of the country’s ai startups and pull...",Duplicate record (keeping first occurrence),0.9,5879.0
+12009,3.6,percentage,2025,percentages,"le, they host 3.7% of the country’s ai startups and pull in 3.6% of ai- focused vc, demonstrating in...",Duplicate record (keeping first occurrence),0.9,5880.0
+12010,18.0,percentage,2025,employment,s widely dispersed set of regional economies accounted for 18% of the nation’s metro area employment...,Duplicate record (keeping first occurrence),0.9,5881.0
+12011,11.2,percentage,2025,employment,"employment as measured by job postings, but generated just 11.2% of metro area ai job postings—under...",Duplicate record (keeping first occurrence),0.9,5882.0
+12012,800.0,percentage,2018,employment,"nd savannah, ga., have seen ai job postings grow more than 800% between april 2018 and 2025, highlig...",Duplicate record (keeping first occurrence),0.9,5883.0
+12013,16.7,percentage,2025,adoption_rate,"on business adoption. on talent, these metro areas supply 16.7% of the nation’s computer 32 science ...",Duplicate record (keeping first occurrence),0.9,5884.0
+12014,8.9,percentage,2025,percentages,"ion’s computer 32 science bachelor’s degree graduates, 8.9% of its computer science ph.d. graduates,...",Duplicate record (keeping first occurrence),0.9,5885.0
+12015,7.2,percentage,2025,employment,"aduates, 8.9% of its computer science ph.d. graduates, and 7.2% of all ai-profiled workers—solid con...",Duplicate record (keeping first occurrence),0.9,5886.0
+12016,2.5,percentage,2025,percentages,vation output is even more modest: nascent adopters produce 2.5% of ai publications and 5.9% of pate...,Duplicate record (keeping first occurrence),0.9,5796.0
+12017,5.9,percentage,2025,percentages,"dest: nascent adopters produce 2.5% of ai publications and 5.9% of patents, and claim 10.3% of ai co...",Duplicate record (keeping first occurrence),0.9,5888.0
+12018,10.3,percentage,2025,adoption_rate,"uce 2.5% of ai publications and 5.9% of patents, and claim 10.3% of ai contracts and 4% of hpc usage...",Duplicate record (keeping first occurrence),0.9,5889.0
+12019,4.0,percentage,2025,adoption_rate,"ns and 5.9% of patents, and claim 10.3% of ai contracts and 4% of hpc usage. on the adoption front, ...",Duplicate record (keeping first occurrence),0.9,897.0
+12020,4.1,percentage,2025,percentages,"in step with broader trends. firms here score, on average, 4.1% on ai-use metrics (versus 4.2% natio...",Duplicate record (keeping first occurrence),0.9,5891.0
+12021,4.2,percentage,2025,percentages,"irms here score, on average, 4.1% on ai-use metrics (versus 4.2% nationally), 28.6% on data readines...",Duplicate record (keeping first occurrence),0.9,5892.0
+12022,28.6,percentage,2025,percentages,"average, 4.1% on ai-use metrics (versus 4.2% nationally), 28.6% on data readiness (versus 27% nation...",Duplicate record (keeping first occurrence),0.9,5893.0
+12023,27.0,percentage,2025,percentages,"(versus 4.2% nationally), 28.6% on data readiness (versus 27% nationally), 22.2% on cloud readiness ...",Duplicate record (keeping first occurrence),0.9,5865.0
+12024,10.0,billions_usd,2024,dollar_amounts,ies in the two metro areas. the largest deal of 2024—worth $10 billion—was raised by the san francis...,Duplicate record (keeping first occurrence),0.9,922.0
+12025,109.1,billions_usd,2024,investment,"uced 15. as to private investment, u.s. companies invested $109.1 billion in ai research in 2024, va...",Duplicate record (keeping first occurrence),0.9,923.0
+12026,9.3,billions_usd,2024,dollar_amounts,"1 billion in ai research in 2024, vastly outpacing china's $9.3 billion.13 yet recent developments s...",Duplicate record (keeping first occurrence),0.9,5897.0
+12027,3.21,billions_usd,2023,investment,overnment investment in ai research actually decreased from $3.21 billion in 2023 to 37 $2.98 billio...,Duplicate record (keeping first occurrence),0.9,5898.0
+12028,2.98,billions_usd,2023,dollar_amounts,ch actually decreased from $3.21 billion in 2023 to 37 $2.98 billion in 2024.15 this came at a momen...,Duplicate record (keeping first occurrence),0.9,5899.0
+12029,32.0,billions_usd,2026,investment,doubling non-defense ai r&d investments annually to reach $32 billion by 2026.16 the nation’s curren...,Duplicate record (keeping first occurrence),0.9,925.0
+12030,100.0,millions_usd,2025,dollar_amounts,n ai innovation. the ai hub will be supported by more than $100 million over the next five years as ...,Duplicate record (keeping first occurrence),0.9,5901.0
+12031,3.0,millions_usd,2025,dollar_amounts,"models innovation challenge, which will provide more than $3 million to support groundbreaking ai mo...",Duplicate record (keeping first occurrence),0.9,5902.0
+12032,10.5,millions_usd,2025,dollar_amounts,"york’s secunda family foundation, which recently announced $10.5 million to fund ai-related research...",Duplicate record (keeping first occurrence),0.9,5903.0
+12033,100.0,usd,2025,dollar_amounts,"ys. the stem city program in baltimore, which was awarded a $100,000 grant from the state of marylan...",Duplicate record (keeping first occurrence),0.9,5904.0
+12034,40.0,millions_usd,2025,dollar_amounts,"er, the founding partners have pledged to invest more than $40 million to support the hub's success:...",Duplicate record (keeping first occurrence),0.9,5905.0
+12035,25.0,millions_usd,2025,dollar_amounts,ore than $40 million to support the hub's success: njeda's $25 million commitment anchors state supp...,Duplicate record (keeping first occurrence),0.9,5906.0
+12036,7.5,millions_usd,2025,investment,"illion commitment anchors state support, while microsoft's $7.5 million investment leverages its tec...",Duplicate record (keeping first occurrence),0.9,5907.0
+12037,7.5,millions_usd,2025,dollar_amounts,illing and workforce development. coreweave is contributing $7.5 million in cash plus industry-leadi...,Duplicate record (keeping first occurrence),0.9,5907.0
+12038,7.5,millions_usd,2025,dollar_amounts,"or early-career professionals, while princeton is providing $7.5 million in- kind through space and ...",Duplicate record (keeping first occurrence),0.9,5907.0
+12039,5.0,millions_usd,2025,dollar_amounts,"n seattle, microsoft’s ai for good open call has set aside $5 million in azure credits, paired with ...",Duplicate record (keeping first occurrence),0.9,5910.0
+12040,31.0,millions_usd,2025,dollar_amounts,"for its part, the massachusetts ai hub recently obtained a $31 million state grant to establish the ...",Duplicate record (keeping first occurrence),0.9,5911.0
+12041,100.0,millions_usd,2025,investment,initiative represents a down-payment on the commonwealth’s $100 million proposed set of investments ...,Duplicate record (keeping first occurrence),0.9,5901.0
+12042,275.0,millions_usd,2025,dollar_amounts,"hy hochul launched empire ai as part of a historic 10-year, $275 million commitment (combined with a...",Duplicate record (keeping first occurrence),0.9,5913.0
+12043,125.0,millions_usd,2025,investment,"year, $275 million commitment (combined with an additional $125 million in private investment) to es...",Duplicate record (keeping first occurrence),0.9,5914.0
+12044,90.0,millions_usd,2026,investment,m: the new fy 2026 budget proposal announced an additional $90 million investment. empire ai has alr...,Duplicate record (keeping first occurrence),0.9,5915.0
+12045,90.0,millions_usd,2025,dollar_amounts,"athy hochul. (2025, february 21). governor hochul announces $90 million plan to expand historic empi...",Duplicate record (keeping first occurrence),0.9,5916.0
+12046,1.5,millions_usd,2025,dollar_amounts,"h north dakota state university, it was established with a $1.5 million grant from microsoft’s techs...",Duplicate record (keeping first occurrence),0.9,5917.0
+12047,160.0,millions_usd,2025,dollar_amounts,regional innovation engines award that could provide up to $160 million over 10 years to accelerate ...,Duplicate record (keeping first occurrence),0.9,5918.0
+12048,160.0,usd,2025,dollar_amounts,automated agriculture partners get major boost from up to $160m federal grant. inforum. retrieved ma...,Duplicate record (keeping first occurrence),0.9,5919.0
+12049,13.0,billions_usd,2027,investment,"china’s genai sector investment surges, projected to reach $13 billion by 2027,” march 28, 2024. 65 ...",Duplicate record (keeping first occurrence),0.9,935.0
+12050,10.5,millions_usd,2025,dollar_amounts,"vation challenge.” masstech. 66 31 grace stanley, “$10.5 million gift to cornell will fund research ...",Duplicate record (keeping first occurrence),0.9,5903.0
+12051,100.0,usd,2025,dollar_amounts,"ications group. (2025, may 2). stem city baltimore receives $100,000 maryland grant to bring ai and ...",Duplicate record (keeping first occurrence),0.9,5904.0
+12052,1.0,usd,2025,dollar_amounts,"community foundation. (2025, april 4). google.org announces $1m to austin community foundation to pr...",Duplicate record (keeping first occurrence),0.9,5923.0
+12053,19.0,number,2025,employment,"falls to just 6.5% for businesses employing between 10 and 19 workers. interestingly, the smallest f...",Duplicate record (keeping first occurrence),0.9,5924.0
+12054,0.0,number,2025,employment,"ith populations below 250,000 and average employment of 64,000 workers—supported just about 5% of th...",Duplicate record (keeping first occurrence),0.9,5925.0

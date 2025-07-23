@@ -1,0 +1,4 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence
+0,45.0,percentage,2024,adoption_rate,ICT adoption in financial services reached 45%,ICT sector data - preserved,0.95
+1,0.0,percentage,2024,growth_rate,Survey results show 0% productivity growth in traditional sectors,Passed all validation checks,0.85
+2,10.0,percentage,2024,general_rate,General increase observed,Passed all validation checks,0.85

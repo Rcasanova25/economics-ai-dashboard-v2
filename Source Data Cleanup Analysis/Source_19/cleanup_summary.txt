@@ -1,0 +1,16 @@
+SOURCE 19 CLEANUP ANALYSIS SUMMARY
+Generated: 2025-07-23T15:13:01.736826
+
+FILE: Economic_Impacts_Paper.pdf
+Original Records: 118
+
+PROPOSED ACTIONS:
+- Records to KEEP: 30
+- Records to REMOVE: 88
+- Records to MODIFY: 0
+
+Quality Score: 25.42%
+
+Top removal reason: Duplicate record (88 records)
+
+Please review the detailed reports before proceeding with cleanup.

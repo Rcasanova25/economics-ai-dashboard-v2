@@ -1,0 +1,32 @@
+{
+  "source_id": 19,
+  "source_name": "Economic_Impacts_Paper.pdf",
+  "timestamp": "2025-07-23T15:13:01.736826",
+  "schema_version": "1.1",
+  "total_records": 118,
+  "kept_records": 30,
+  "removed_records": 88,
+  "modified_records": 0,
+  "duplicate_groups": 30,
+  "duplicates_removed": 88,
+  "removal_reasons": {
+    "Duplicate record": 88
+  },
+  "modification_types": {},
+  "confidence_distribution": {
+    "high": 88,
+    "medium": 30,
+    "low": 0,
+    "high_pct": 74.6,
+    "medium_pct": 25.4,
+    "low_pct": 0.0
+  },
+  "quality_metrics": {
+    "quality_score": 25.42,
+    "issues_found": 88,
+    "removal_rate": 74.58,
+    "modification_rate": 0.0
+  },
+  "top_removal_reason": "Duplicate record",
+  "top_removal_count": 88
+}

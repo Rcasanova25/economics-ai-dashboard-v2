@@ -1,0 +1,16 @@
+SOURCE 16 CLEANUP ANALYSIS SUMMARY
+Generated: 2025-07-23T15:12:56.363797
+
+FILE: wpiea2024231-print-pdf.pdf
+Original Records: 244
+
+PROPOSED ACTIONS:
+- Records to KEEP: 52
+- Records to REMOVE: 181
+- Records to MODIFY: 11
+
+Quality Score: 21.31%
+
+Top removal reason: Duplicate record (168 records)
+
+Please review the detailed reports before proceeding with cleanup.

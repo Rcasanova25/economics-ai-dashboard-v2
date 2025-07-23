@@ -1,0 +1,38 @@
+{
+  "source_id": 1,
+  "source_name": "Affects of GenAI on Highskilled Work.pdf",
+  "timestamp": "2025-07-23T14:49:48.161118",
+  "schema_version": "1.1",
+  "total_records": 334,
+  "kept_records": 80,
+  "removed_records": 249,
+  "modified_records": 5,
+  "duplicate_groups": 87,
+  "duplicates_removed": 247,
+  "removal_reasons": {
+    "Duplicate record": 244,
+    "Citation year extracted as metric value": 4,
+    "Invalid unit 'billions_usd' for adoption_metric": 1
+  },
+  "modification_types": {
+    "general_rate \u2192 adoption_metric": 3,
+    "general_rate \u2192 employment_metric": 1,
+    "general_rate \u2192 productivity_metric": 1
+  },
+  "confidence_distribution": {
+    "high": 249,
+    "medium": 85,
+    "low": 0,
+    "high_pct": 74.6,
+    "medium_pct": 25.4,
+    "low_pct": 0.0
+  },
+  "quality_metrics": {
+    "quality_score": 23.95,
+    "issues_found": 254,
+    "removal_rate": 74.55,
+    "modification_rate": 1.5
+  },
+  "top_removal_reason": "Duplicate record",
+  "top_removal_count": 244
+}

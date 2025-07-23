@@ -1,0 +1,34 @@
+{
+  "source_id": 9,
+  "source_name": "GenAi and the Nature of Work.pdf",
+  "timestamp": "2025-07-23T15:05:58.945854",
+  "schema_version": "1.1",
+  "total_records": 240,
+  "kept_records": 61,
+  "removed_records": 175,
+  "modified_records": 4,
+  "duplicate_groups": 65,
+  "duplicates_removed": 175,
+  "removal_reasons": {
+    "Duplicate record": 175
+  },
+  "modification_types": {
+    "general_rate \u2192 adoption_metric": 4
+  },
+  "confidence_distribution": {
+    "high": 175,
+    "medium": 65,
+    "low": 0,
+    "high_pct": 72.9,
+    "medium_pct": 27.1,
+    "low_pct": 0.0
+  },
+  "quality_metrics": {
+    "quality_score": 25.42,
+    "issues_found": 179,
+    "removal_rate": 72.92,
+    "modification_rate": 1.67
+  },
+  "top_removal_reason": "Duplicate record",
+  "top_removal_count": 175
+}

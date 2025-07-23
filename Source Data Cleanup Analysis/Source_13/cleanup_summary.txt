@@ -1,0 +1,16 @@
+SOURCE 13 CLEANUP ANALYSIS SUMMARY
+Generated: 2025-07-23T15:08:38.251722
+
+FILE: Mapping-AI-readiness-final.pdf
+Original Records: 474
+
+PROPOSED ACTIONS:
+- Records to KEEP: 127
+- Records to REMOVE: 329
+- Records to MODIFY: 18
+
+Quality Score: 26.79%
+
+Top removal reason: Duplicate record (327 records)
+
+Please review the detailed reports before proceeding with cleanup.

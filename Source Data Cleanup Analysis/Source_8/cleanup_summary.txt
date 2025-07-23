@@ -1,0 +1,16 @@
+SOURCE 8 CLEANUP ANALYSIS SUMMARY
+Generated: 2025-07-23T15:05:57.356640
+
+FILE: Exploring artificial intelligence adoption in public organizations  a comparative case study.pdf
+Original Records: 20
+
+PROPOSED ACTIONS:
+- Records to KEEP: 1
+- Records to REMOVE: 19
+- Records to MODIFY: 0
+
+Quality Score: 5.0%
+
+Top removal reason: Duplicate record (10 records)
+
+Please review the detailed reports before proceeding with cleanup.

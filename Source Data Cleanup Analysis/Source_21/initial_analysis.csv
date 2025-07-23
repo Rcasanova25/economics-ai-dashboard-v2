@@ -1,0 +1,3 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence,proposed_action,kept_record_id
+5936,100.0,percentage,2024,percentages,"d defined a superhuman agi system as one that ""outperforms 100% of humans"" across all tasks (morris ...",Passed all validation checks,0.85,KEEP,
+12065,100.0,percentage,2024,percentages,"d defined a superhuman agi system as one that ""outperforms 100% of humans"" across all tasks (morris ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5936.0

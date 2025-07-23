@@ -1,0 +1,16 @@
+SOURCE 11 CLEANUP ANALYSIS SUMMARY
+Generated: 2025-07-23T15:08:35.325270
+
+FILE: gs-new-decade-begins.pdf
+Original Records: 162
+
+PROPOSED ACTIONS:
+- Records to KEEP: 29
+- Records to REMOVE: 131
+- Records to MODIFY: 2
+
+Quality Score: 17.9%
+
+Top removal reason: Duplicate record (131 records)
+
+Please review the detailed reports before proceeding with cleanup.

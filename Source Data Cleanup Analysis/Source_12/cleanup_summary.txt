@@ -1,0 +1,16 @@
+SOURCE 12 CLEANUP ANALYSIS SUMMARY
+Generated: 2025-07-23T15:08:36.887542
+
+FILE: hai_ai_index_report_2025.pdf
+Original Records: 458
+
+PROPOSED ACTIONS:
+- Records to KEEP: 167
+- Records to REMOVE: 291
+- Records to MODIFY: 0
+
+Quality Score: 36.46%
+
+Top removal reason: Duplicate record (291 records)
+
+Please review the detailed reports before proceeding with cleanup.

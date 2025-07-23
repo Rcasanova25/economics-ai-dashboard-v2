@@ -1,0 +1,34 @@
+{
+  "source_id": 5,
+  "source_name": "AI100Report_MT_10.pdf",
+  "timestamp": "2025-07-23T14:55:43.792425",
+  "schema_version": "1.1",
+  "total_records": 126,
+  "kept_records": 32,
+  "removed_records": 94,
+  "modified_records": 0,
+  "duplicate_groups": 34,
+  "duplicates_removed": 92,
+  "removal_reasons": {
+    "Duplicate record": 89,
+    "Citation year extracted as metric value": 4,
+    "Financial units should not appear with employment metrics": 1
+  },
+  "modification_types": {},
+  "confidence_distribution": {
+    "high": 94,
+    "medium": 32,
+    "low": 0,
+    "high_pct": 74.6,
+    "medium_pct": 25.4,
+    "low_pct": 0.0
+  },
+  "quality_metrics": {
+    "quality_score": 25.4,
+    "issues_found": 94,
+    "removal_rate": 74.6,
+    "modification_rate": 0.0
+  },
+  "top_removal_reason": "Duplicate record",
+  "top_removal_count": 89
+}

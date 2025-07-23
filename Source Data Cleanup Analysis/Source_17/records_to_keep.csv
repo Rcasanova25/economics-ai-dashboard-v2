@@ -1,0 +1,870 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence
+1021,0.66,percentage,2025,productivity,conomic effects appear nontrivial but modest—no more than a 0.66% increase in total factor productiv...,Passed all validation checks,0.85
+1022,0.53,percentage,2025,percentages,ears are even more modest and are predicted to be less than 0.53%. i also explore ai’s wage and ineq...,Passed all validation checks,0.85
+1023,7.0,percentage,2023,growth_rate,"dict big effects on output. goldman sachs (2023) predicts a 7% increase in global gdp, equivalent to...",Passed all validation checks,0.85
+1024,1.5,percentage,2025,productivity,"7% increase in global gdp, equivalent to $7 trillion, and a 1.5% per annum increase in us productivi...",Passed all validation checks,0.85
+1025,100.0,percentage,2024,growth_rate,"1korinek and suh (2024) predict a “baseline” gdp growth of 100% over the next 10 years, and also ent...",Passed all validation checks,0.85
+1026,300.0,percentage,2025,growth_rate,"ity of much higher “aggressive” agi growth rates, such as a 300% increase in gdp. many others are se...",Passed all validation checks,0.85
+1027,20.0,percentage,2025,percentages,bill share in the us economy. this calculation implies that 20% of us labor tasks are exposed to ai....,Passed all validation checks,0.85
+1028,23.0,percentage,2025,percentages,"te for computer vision tasks that, among all exposed tasks, 23% can be profitably performed by ai (f...",Passed all validation checks,0.85
+1029,27.0,percentage,2023,cost,the benefits). i take the average labor cost savings to be 27%—the average of the estimates in noy a...,Passed all validation checks,0.85
+1030,14.4,percentage,2025,cost,"y labor shares, which imply average overall cost savings of 14.4%. this calculation implies that tot...",Passed all validation checks,0.85
+1032,0.064,percentage,2025,growth_rate,rs should be no more than 0.66% in total—or approximately a 0.064% increase in tfp growth annually. ...,Passed all validation checks,0.85
+1033,0.9,percentage,2025,cost,"her declines in gpu costs, this number still remains around 0.9%. to turn these numbers into gdp est...",Passed all validation checks,0.85
+1034,0.93,percentage,2025,percentages,"ment effects incorporated, gdp is also estimated to grow by 0.93% −1.16% over the next 10 years. whe...",Passed all validation checks,0.85
+1035,1.16,percentage,2025,investment,"fects incorporated, gdp is also estimated to grow by 0.93% −1.16% over the next 10 years. when i ass...",Passed all validation checks,0.85
+1036,1.4,percentage,2025,percentages,"pital stock, the upper bound on gdp effects rises to around 1.4%−1.56%. nevertheless, my framework a...",Passed all validation checks,0.85
+1037,1.56,percentage,2025,percentages,"stock, the upper bound on gdp effects rises to around 1.4%−1.56%. nevertheless, my framework also cl...",Passed all validation checks,0.85
+1038,73.0,percentage,2025,percentages,"of (speculative) assumptions, i estimate an upper bound of 73% easy tasks among eloundou et al.’s ex...",Passed all validation checks,0.85
+1041,2.0,percentage,2025,growth_rate,"eases in gdp. for example, ai may appear to increase gdp by 2%, while in reality reducing welfare by...",Passed all validation checks,0.85
+1042,0.72,percentage,2025,growth_rate,"o increase gdp by 2%, while in reality reducing welfare by −0.72% (in consumption equivalent units)....",Passed all validation checks,0.85
+1043,30.0,percentage,2020,cost,"he case of robots, expert reports put cost savings at about 30% of labor costs (see acemoglu and res...",Passed all validation checks,0.85
+1044,27.0,percentage,2025,cost,"er detail below, suggest numbers in the same ballpark—about 27% of labor costs.13 although it is not...",Passed all validation checks,0.85
+1045,25.0,percentage,2025,percentages,"tfp equation below, which will lead to gains that are about 25% less than those that do not take the...",Passed all validation checks,0.85
+1046,1.0,percentage,2025,growth_rate,rowth or significant limits on inequality. first consider a 1% increase in al (or an equivalent incr...,Passed all validation checks,0.85
+1047,0.0,percentage,2025,percentages,"of the activities might be impacted by llm+ (ranging across 0%, 25%, 50%, 75% and 100%). in what fol...",Passed all validation checks,0.85
+1049,50.0,percentage,2025,percentages,"tivities might be impacted by llm+ (ranging across 0%, 25%, 50%, 75% and 100%). in what follows, i t...",Passed all validation checks,0.85
+1050,75.0,percentage,2025,percentages,"ies might be impacted by llm+ (ranging across 0%, 25%, 50%, 75% and 100%). in what follows, i take t...",Passed all validation checks,0.85
+1051,100.0,percentage,2025,percentages,"t be impacted by llm+ (ranging across 0%, 25%, 50%, 75% and 100%). in what follows, i take their aut...",Passed all validation checks,0.85
+1055,4.6,percentage,2025,cost,s impacted by ai within the next 10 years as 0.23 × 0.200 = 4.6% of all tasks (or occupations). cost...,Passed all validation checks,0.85
+1056,22.0,percentage,2022,cost,"estimates from besiroglu and hobbhahn (2022), who project a 22% yearly decrease in computation costs...",Passed all validation checks,0.85
+1058,55.8,percentage,2025,percentages,the treatment group performed the assigned tasks on average 55.8% faster than the control group. as ...,Passed all validation checks,0.85
+1059,40.0,percentage,2025,percentages,"trol group. they estimate that chatgpt enables, on average, 40% faster completion of the task at han...",Passed all validation checks,0.85
+1060,18.0,percentage,2025,percentages,"aster completion of the task at hand. they also estimate an 18% improvement in quality scores, as ju...",Passed all validation checks,0.85
+1061,14.0,percentage,2025,percentages,"completed by customer service associates—an effect of about 14% on average. however, they additional...",Passed all validation checks,0.85
+1065,0.89,percentage,2025,percentages,"ld be replaced by 0.193, and the 10-year tfp gains would be 0.89%, instead of 0.66%. the only modifi...",Passed all validation checks,0.85
+1067,10.0,percentage,2025,cost,"ere costs for computer vision decline very rapidly, such as 10% a year, the fraction of tasks that a...",Passed all validation checks,0.85
+1068,30.0,percentage,2025,percentages,tion of tasks that are feasibly automated may be as high as 30%. this would raise the gdp share impa...,Passed all validation checks,0.85
+1069,6.0,percentage,2025,growth_rate,"s would raise the gdp share impacted by ai to approximately 6%, and correspondingly increase the tfp...",Passed all validation checks,0.85
+1075,1.5,percentage,2022,investment,rate sector. acemoglu et al. (2022) estimate that less than 1.5% of us businesses had any investment...,Passed all validation checks,0.85
+1076,0.046,percentage,2025,percentages,ium-sized firms. these considerations suggest that even the 0.046% number for the share of gdp impac...,Passed all validation checks,0.85
+1080,7.0,percentage,2025,productivity,savings will be. here i take those productivity gains to be 7%. my reasoning is as follows. i consid...,Passed all validation checks,0.85
+1085,72.6,percentage,2025,percentages,task category from this algorithm.27 the end result is that 72.6% of wage bill-weighted exposed task...,Passed all validation checks,0.85
+1086,3.3,percentage,2025,percentages,"t al. are easy. this means that easy exposed tasks comprise 3.3% of gdp, while the remaining exposed...",Passed all validation checks,0.85
+1087,1.3,percentage,2025,percentages,"e 3.3% of gdp, while the remaining exposed tasks (making up 1.3% of gdp) are hard. incorporating thi...",Passed all validation checks,0.85
+1091,1.64,percentage,2025,percentages,"at, tiktok and twitter (“x”) comes to 460 billion, or about 1.64% of us gdp,28 while a lower bound o...",Passed all validation checks,0.85
+1092,0.28,percentage,2025,cost,"gdp,28 while a lower bound on it security is 78 billion or 0.28% of us gdp.29 assuming that spending...",Passed all validation checks,0.85
+1095,0.072,percentage,2025,percentages,e effects of these manipulative activities is 0.02 × 0.36 = 0.072% of gdp (in consumption equivalent...,Passed all validation checks,0.85
+1097,5.0,percentage,2019,percentages,"raphic group level. for example, if for demographic group g 5% of the wage bill share in 2019-2022 w...",Passed all validation checks,0.85
+1108,2.0,percentage,2023,cost,"fense-attack spending. these could add to gdp by as much as 2%, but if we apply 43 the numbers from ...",Passed all validation checks,0.85
+1109,0.72,percentage,2023,percentages,"rom bursztyn et al. (2023), their impact on welfare may be −0.72%. this discussion suggests that it ...",Passed all validation checks,0.85
+1111,90.8,percentage,2025,percentages,it soc level (with equal weights). this direct match covers 90.8% of the total wage bill in the econ...,Passed all validation checks,0.85
+1112,99.3,percentage,2025,percentages,occupations with exposure data. these steps together cover 99.3% of the total wage bill in the econo...,Passed all validation checks,0.85
+1113,0.7,percentage,2025,percentages,"conomy. the remaining five-digit occupations, which make up 0.7% of the wage bill and have no exposu...",Passed all validation checks,0.85
+1114,90.0,percentage,2025,percentages,e. the goodness-of-fit of the gbc is quite good. it matches 90% of the manual classification on our ...,Passed all validation checks,0.85
+1115,7.0,usd,2023,productivity,"(2023) predicts a 7% increase in global gdp, equivalent to $7 trillion, and a 1.5% per annum increas...",Passed all validation checks,0.85
+1116,17.1,usd,2025,dollar_amounts,suggest that generative ai could offer a boost as large as $17.1 to $25.6 trillion to the global eco...,Passed all validation checks,0.85
+1117,25.6,usd,2025,dollar_amounts,"that generative ai could offer a boost as large as $17.1 to $25.6 trillion to the global economy, on...",Passed all validation checks,0.85
+1118,53.0,usd,2025,revenue,"g, their estimates imply that revenue can increase by about $53 per user-month, but this has a negat...",Passed all validation checks,0.85
+1119,19.0,usd,2025,dollar_amounts,is has a negative impact on total gdp/welfare equivalent to $19 per user-month. combining these numb...,Passed all validation checks,0.85
+1120,59.0,usd,2025,dollar_amounts,"onth. users of these two platforms are willing to pay up to $59 and $47 a month, respectively, to co...",Passed all validation checks,0.85
+1121,47.0,usd,2025,dollar_amounts,"ers of these two platforms are willing to pay up to $59 and $47 a month, respectively, to continue t...",Passed all validation checks,0.85
+1123,28.0,usd,2025,dollar_amounts,"onth. however, they find that users are also willing to pay $28 and $10 every month to get everyone ...",Passed all validation checks,0.85
+1124,10.0,usd,2025,dollar_amounts,"wever, they find that users are also willing to pay $28 and $10 every month to get everyone from the...",Passed all validation checks,0.85
+1127,13.0,usd,2025,growth_rate,verybody using social media increases to $47 for tiktok and $13 for instagram. this suggests that wh...,Passed all validation checks,0.85
+1132,130.0,billions_usd,2025,dollar_amounts,"ositive effect on consumer welfare. 28the numbers for meta ($130 billion), alphabet ($307 billion) a...",Passed all validation checks,0.85
+1133,307.0,billions_usd,2023,dollar_amounts,"r welfare. 28the numbers for meta ($130 billion), alphabet ($307 billion) and snapchat ($4.6 billion...",Passed all validation checks,0.85
+1134,4.6,billions_usd,2023,dollar_amounts,"meta ($130 billion), alphabet ($307 billion) and snapchat ($4.6 billion) are from these companies’ 2...",Passed all validation checks,0.85
+1135,2.5,billions_usd,2023,revenue,"e reported on december 12, 2023 that x’s annual revenue was $2.5 billion in 2023, while financial ti...",Passed all validation checks,0.85
+1136,16.0,billions_usd,2024,revenue,"5, 2024 that revenues from tiktok’s us business had reached $16 billion per annum (see fortune and r...",Passed all validation checks,0.85
+1137,10.0,usd,2018,dollar_amounts,age distribution 0 1 2 3 4 5 6 7 8 feasible ai exposure (%) $10 $13.3 $17.8 $23.7 $31.6 $42 $57 $75 ...,Passed all validation checks,0.85
+1138,13.3,usd,2018,dollar_amounts,distribution 0 1 2 3 4 5 6 7 8 feasible ai exposure (%) $10 $13.3 $17.8 $23.7 $31.6 $42 $57 $75 hour...,Passed all validation checks,0.85
+1139,17.8,usd,2018,dollar_amounts,bution 0 1 2 3 4 5 6 7 8 feasible ai exposure (%) $10 $13.3 $17.8 $23.7 $31.6 $42 $57 $75 hourly wag...,Passed all validation checks,0.85
+1140,23.7,usd,2018,dollar_amounts,0 1 2 3 4 5 6 7 8 feasible ai exposure (%) $10 $13.3 $17.8 $23.7 $31.6 $42 $57 $75 hourly wage in 20...,Passed all validation checks,0.85
+1141,31.6,usd,2018,dollar_amounts,3 4 5 6 7 8 feasible ai exposure (%) $10 $13.3 $17.8 $23.7 $31.6 $42 $57 $75 hourly wage in 2018-202...,Passed all validation checks,0.85
+1142,42.0,usd,2018,dollar_amounts,6 7 8 feasible ai exposure (%) $10 $13.3 $17.8 $23.7 $31.6 $42 $57 $75 hourly wage in 2018-2022 (log...,Passed all validation checks,0.85
+1143,57.0,usd,2018,dollar_amounts,8 feasible ai exposure (%) $10 $13.3 $17.8 $23.7 $31.6 $42 $57 $75 hourly wage in 2018-2022 (logarit...,Passed all validation checks,0.85
+1144,75.0,usd,2018,dollar_amounts,easible ai exposure (%) $10 $13.3 $17.8 $23.7 $31.6 $42 $57 $75 hourly wage in 2018-2022 (logarithmi...,Passed all validation checks,0.85
+1818,26.08,percentage,2024,general_rate,"experiments and 4,867 de- velopers, our analysis reveals a 26.08% increase (se: 10.3%) in completed ...",Passed all validation checks,0.85
+1821,13.55,percentage,2024,general_rate,"y interest, our results support this interpretation, with a 13.55% (se: 10.0%) increase in the numbe...",Passed all validation checks,0.85
+1822,38.38,percentage,2024,general_rate,.0%) increase in the number of code updates (commits) and a 38.38% (se: 12.55%) increase in the numb...,Passed all validation checks,0.85
+1823,12.0,percentage,2024,general_rate,ic the day-to-day work at a consulting company increased by 12%–25%. evidence from these experiments...,Passed all validation checks,0.85
+1824,50.4,percentage,2024,general_rate,"rimarily located in the united states. of these developers, 50.4% were randomly selected to receive ...",Passed all validation checks,0.85
+1825,61.3,percentage,2024,general_rate,"t asia. randomization occurred at the developer level, with 61.3% of the 320 developers assigned to ...",Passed all validation checks,0.85
+1826,5.0,percentage,2024,general_rate,"ignment; anonymous company: team-level assignment.) *10%, **5%, ***1% 0 10 20 30 40 percent(%) 0 2 4...",Passed all validation checks,0.85
+1827,1.0,percentage,2024,general_rate,"; anonymous company: team-level assignment.) *10%, **5%, ***1% 0 10 20 30 40 percent(%) 0 2 4 6 (a) ...",Passed all validation checks,0.85
+1828,34.01,percentage,2024,general_rate,.90% > 0) 0 10 20 30 40 percent(%) 0 1 2 3 4 (c) anonymous (34.01% > 0) figure 1: distribution of pu...,Passed all validation checks,0.85
+1829,8.5,percentage,2024,general_rate,"uring the first two weeks of the microsoft experiment, only 8.5 % of the treated group signed up for...",Passed all validation checks,0.85
+1830,42.5,percentage,2023,general_rate,2023. these additional emails increased the take-up rate to 42.5% within two weeks. as discussed bef...,Passed all validation checks,0.85
+1831,0.5,percentage,2024,general_rate,p was not perfect because a few control group de- velopers (0.5%) required access to copilot to work...,Passed all validation checks,0.85
+1834,21.34,percentage,2024,general_rate,"the number of pull requests made by developers increases by 21.34% (se: 9.92%), the number of commit...",Passed all validation checks,0.85
+1835,15.39,percentage,2024,general_rate,"s by 21.34% (se: 9.92%), the number of commits increases by 15.39% (se: 9.69%), and the number of bu...",Passed all validation checks,0.85
+1836,4.3,percentage,2024,general_rate,e 5 reveals that higher-tenure developers are approximately 4.3% (or 1.0pp) less likely to accept co...,Passed all validation checks,0.85
+1837,1.8,percentage,2024,general_rate,"ers, this difference in acceptance rates is much smaller at 1.8% (or 0.5pp), though it goes in the s...",Passed all validation checks,0.85
+1839,150.0,percentage,2024,general_rate,59 24 28 -5 39 19 19 -6 57 18 9 8 2 -2 -5 -0 -50 0 50 100 150 % increase in outcome pull requests co...,Passed all validation checks,0.85
+1842,2023.0,energy_unit,2024,unknown_metric,"ls can be used to estimate demand (brand, israeli, and ngwe 2023; goli and singh 2024; gui and toubi...",Passed all validation checks,0.85
+1844,4.0,percentage,2024,adoption_metric,"4%, while the control group’s adoption rate was 24",Passed all validation checks,0.85
+1845,21.0,percentage,2024,profit_metric,"still, there is no difference in usage conditional on adoption
+between junior and senior developers...",Passed all validation checks,0.85
+1846,40.0,percentage,2024,profit_metric,"still, there is no difference in usage conditional on adoption
+between junior and senior developers...",Passed all validation checks,0.85
+1848,16.0,percentage,2024,profit_metric,"still, there is no difference in usage conditional on adoption
+between junior and senior developers...",Passed all validation checks,0.85
+1850,58.0,percentage,2024,impact_metrics,nan,Passed all validation checks,0.85
+1851,26.08,percentage,2025,growth_rate,"experiments and 4,867 de- velopers, our analysis reveals a 26.08% increase (se: 10.3%) in completed ...",Passed all validation checks,0.85
+1852,10.3,percentage,2025,growth_rate,"7 de- velopers, our analysis reveals a 26.08% increase (se: 10.3%) in completed tasks among develope...",Passed all validation checks,0.85
+1853,80.0,percentage,2025,employment,"that generative ai can per- form tasks associated with over 80% of u.s. jobs, with particularly high...",Passed all validation checks,0.85
+1856,13.55,percentage,2025,growth_rate,"y interest, our results support this interpretation, with a 13.55% (se: 10.0%) increase in the numbe...",Passed all validation checks,0.85
+1858,38.38,percentage,2025,growth_rate,.0%) increase in the number of code updates (commits) and a 38.38% (se: 12.55%) increase in the numb...,Passed all validation checks,0.85
+1859,12.55,percentage,2025,growth_rate,e in the number of code updates (commits) and a 38.38% (se: 12.55%) increase in the number of times ...,Passed all validation checks,0.85
+1860,12.0,percentage,2025,growth_rate,ic the day-to-day work at a consulting company increased by 12%–25%. evidence from these experiments...,Passed all validation checks,0.85
+1863,50.4,percentage,2025,percentages,"rimarily located in the united states. of these developers, 50.4% were randomly selected to receive ...",Passed all validation checks,0.85
+1864,61.3,percentage,2025,percentages,"t asia. randomization occurred at the developer level, with 61.3% of the 320 developers assigned to ...",Passed all validation checks,0.85
+1866,5.0,percentage,2025,percentages,"ignment; anonymous company: team-level assignment.) *10%, **5%, ***1% 0 10 20 30 40 percent(%) 0 2 4...",Passed all validation checks,0.85
+1868,37.09,percentage,2025,percentages,"**5%, ***1% 0 10 20 30 40 percent(%) 0 2 4 6 (a) microsoft (37.09% > 0) 0 10 20 30 40 50 percent(%) ...",Passed all validation checks,0.85
+1869,12.9,percentage,2025,percentages,09% > 0) 0 10 20 30 40 50 percent(%) 0 1 2 3 (b) accenture (12.90% > 0) 0 10 20 30 40 percent(%) 0 1...,Passed all validation checks,0.85
+1870,34.01,percentage,2025,percentages,.90% > 0) 0 10 20 30 40 percent(%) 0 1 2 3 4 (c) anonymous (34.01% > 0) figure 1: distribution of pu...,Passed all validation checks,0.85
+1871,8.5,percentage,2025,percentages,"uring the first two weeks of the microsoft experiment, only 8.5 % of the treated group signed up for...",Passed all validation checks,0.85
+1873,0.5,percentage,2025,percentages,p was not perfect because a few control group de- velopers (0.5%) required access to copilot to work...,Passed all validation checks,0.85
+1874,64.0,percentage,2024,percentages,"ver, even in january 2024, adop- tion in the control group (64.0%) still remained below that in the ...",Passed all validation checks,0.85
+1875,75.6,percentage,2025,adoption_rate,"oup (64.0%) still remained below that in the treated group (75.6%), thus providing (limited) long-ru...",Passed all validation checks,0.85
+1876,60.0,percentage,2025,adoption_rate,"e to two months, adoption slowed down and plateaued at over 60%. con- trol group participants starte...",Passed all validation checks,0.85
+1878,24.4,percentage,2025,adoption_rate,"rate was 69.4%, while the control group’s adoption rate was 24.4%. panel (c) shows the staggered inv...",Passed all validation checks,0.85
+1890,42.0,percentage,2025,percentages,"ccenture that was abandoned due to a large layoff affecting 42% of participants, resulting in a lack...",Passed all validation checks,0.85
+1891,39.18,percentage,2025,percentages,negative and statistically insignificant point estimate of -39.18% (se: 36.78%) on the number of com...,Passed all validation checks,0.85
+1892,36.78,percentage,2025,percentages,statistically insignificant point estimate of -39.18% (se: 36.78%) on the number of completed pull r...,Passed all validation checks,0.85
+1893,43.04,percentage,2025,percentages,leted pull requests. the estimates on the number of commits 43.04% (se: 38.80%) and builds 12.33% (s...,Passed all validation checks,0.85
+1894,38.8,percentage,2025,percentages,equests. the estimates on the number of commits 43.04% (se: 38.80%) and builds 12.33% (se: 53.60%) a...,Passed all validation checks,0.85
+1895,12.33,percentage,2025,percentages,"tes on the number of commits 43.04% (se: 38.80%) and builds 12.33% (se: 53.60%) are both positive, t...",Passed all validation checks,0.85
+1896,53.6,percentage,2025,percentages,"umber of commits 43.04% (se: 38.80%) and builds 12.33% (se: 53.60%) are both positive, though also n...",Passed all validation checks,0.85
+1897,21.34,percentage,2025,growth_rate,"the number of pull requests made by developers increases by 21.34% (se: 9.92%), the number of commit...",Passed all validation checks,0.85
+1898,9.92,percentage,2025,growth_rate,"f pull requests made by developers increases by 21.34% (se: 9.92%), the number of commits increases ...",Passed all validation checks,0.85
+1899,15.39,percentage,2025,growth_rate,"s by 21.34% (se: 9.92%), the number of commits increases by 15.39% (se: 9.69%), and the number of bu...",Passed all validation checks,0.85
+1900,9.69,percentage,2025,growth_rate,"(se: 9.92%), the number of commits increases by 15.39% (se: 9.69%), and the number of builds increas...",Passed all validation checks,0.85
+1901,37.03,percentage,2025,growth_rate,"y 15.39% (se: 9.69%), and the number of builds increases by 37.03% (se: 12.22%). 4.3 results on code...",Passed all validation checks,0.85
+1902,12.22,percentage,2025,growth_rate,": 9.69%), and the number of builds increases by 37.03% (se: 12.22%). 4.3 results on code quality giv...",Passed all validation checks,0.85
+1907,95.0,percentage,2025,percentages,.7 .8 .9 1 cumulative rate oct 22 apr 23 oct 23 apr 24 date 95% ci for short tenure 95% ci for long ...,Passed all validation checks,0.85
+1913,81.6,percentage,2025,percentages,"re likely to adopt copilot by the end of our sample period (81.6% vs 72.1%), consistent 20we measure...",Passed all validation checks,0.85
+1914,72.1,percentage,2023,percentages,"to adopt copilot by the end of our sample period (81.6% vs 72.1%), consistent 20we measure level as ...",Passed all validation checks,0.85
+1918,28.0,percentage,2025,percentages,.7 25.9 24.2 p=0.14 ︷ p=0.51 ︷ p=0.01 ︷ 24.0 25.0 26.0 27.0 28.0 % of copilot suggestions accepted t...,Passed all validation checks,0.85
+1923,79.2,percentage,2025,adoption_rate,"developers, who are 4.7pp (se: 2.2pp) more likely to adopt (79.2% vs. 74.4%), though the adoption di...",Passed all validation checks,0.85
+1924,74.4,percentage,2025,adoption_rate,", who are 4.7pp (se: 2.2pp) more likely to adopt (79.2% vs. 74.4%), though the adoption difference i...",Passed all validation checks,0.85
+1925,4.3,percentage,2025,percentages,e 5 reveals that higher-tenure developers are approximately 4.3% (or 1.0pp) less likely to accept co...,Passed all validation checks,0.85
+1926,1.8,percentage,2025,percentages,"ers, this difference in acceptance rates is much smaller at 1.8% (or 0.5pp), though it goes in the s...",Passed all validation checks,0.85
+1928,39.0,percentage,2025,growth_rate,es: short-tenure developers increase their output by 27% to 39% while long-tenure developers experie...,Passed all validation checks,0.85
+1929,8.0,percentage,2025,percentages,"9% while long-tenure developers experience smaller gains of 8% to 13%. however, we note that because...",Passed all validation checks,0.85
+1930,13.0,percentage,2025,percentages,"le long-tenure developers experience smaller gains of 8% to 13%. however, we note that because of ou...",Passed all validation checks,0.85
+1931,21.0,percentage,2025,growth_rate,gure 6(b) that ju- nior developers increase their output by 21% to 40% while senior developers have ...,Passed all validation checks,0.85
+1934,16.0,percentage,2025,productivity,% while senior developers have more marginal gains of 7% to 16%. the estimates for above- and below-...,Passed all validation checks,0.85
+1937,58.0,percentage,2023,percentages,estimates are less precise. 19 stantially smaller than the 58% decrease peng et al. (2023) find for ...,Passed all validation checks,0.85
+1938,44.2,percentage,2025,percentages,"ages of the experiment were quite small: at microsoft, only 44.2% of developers adopted copilot in t...",Passed all validation checks,0.85
+1939,61.7,percentage,2025,adoption_rate,"period). at accenture, adoption was only slightly higher at 61.7% by the end of the initial phase. o...",Passed all validation checks,0.85
+1950,36.0,percentage,2018,percentages,"ode reviews are frequent: according to macleod et al. 2018, 36% of microsoft developers review code ...",Passed all validation checks,0.85
+1952,20.0,percentage,2024,general_rate,"service portfolio and accelerating innovation, compared to 20% in the earliest stage. leaders tend t...",Passed all validation checks,0.85
+1953,34.0,percentage,2024,general_rate,eated the question once they’d completed the survey. while 34% initially placed their organizations ...,Passed all validation checks,0.85
+1956,3.0,percentage,2024,general_rate,"they are seeing value at each stage of ai readiness, from 3% at the earliest “exploring” stage to 96...",Passed all validation checks,0.85
+1957,96.0,percentage,2024,general_rate,"i readiness, from 3% at the earliest “exploring” stage to 96% at the most advanced “realizing” stage...",Passed all validation checks,0.85
+1966,6.0,percentage,2024,general_rate,"zing” stage have appointed a chief ai officer, compared to 6% in the “exploring stage”. finally, a c...",Passed all validation checks,0.85
+1969,49.0,percentage,2024,general_rate,reported the lowest ai readiness scores in ai governance (49% in the “exploring” and “planning” stag...,Passed all validation checks,0.85
+1972,8.0,percentage,2024,general_rate,"er. the sector also outperforms the industry average, with 8% reporting consistently high roi from a...",Passed all validation checks,0.85
+1975,2.0,percentage,2024,general_rate,28% high 39% low organization and culture 21% 18% 29% 34% 2% 19% high 47% low ai governance 17% 15% ...,Passed all validation checks,0.85
+1976,14.0,percentage,2024,general_rate,"ll industries in the “scaling” and “realizing” stage. yet, 14% of healthcare organizations claim the...",Passed all validation checks,0.85
+1977,2.48,billions_usd,2024,financial_metric,% see consistently high roi from ai ai spend/month (mean) $2.48m cloud first 18% 61% data and analyt...,Passed all validation checks,0.85
+1978,2.22,billions_usd,2024,financial_metric,% see consistently high roi from ai ai spend/month (mean) $2.22m cloud first 20% 53% it functional d...,Passed all validation checks,0.85
+1979,1.99,billions_usd,2024,financial_metric,% see consistently high roi from ai ai spend/month (mean) $1.99m cloud first 17% 53% it functional d...,Passed all validation checks,0.85
+1980,5.0,billions_usd,2024,financial_metric,the cloud cross-industry average: 69% 13% spend more than $5m on ai per month cross-industry average...,Passed all validation checks,0.85
+1981,100.0,billions_usd,2024,financial_metric,nvestment with 23% of manufacturing organizations spending $100k to less than $500k on cloud per mon...,Passed all validation checks,0.85
+1982,500.0,billions_usd,2024,financial_metric,"of manufacturing organizations spending $100k to less than $500k on cloud per month, exceeding the 2...",Passed all validation checks,0.85
+1983,1956.0,number,2024,unknown_metric,"industry 3 executive summary ai has come a long way since 1956, when john mccarthy first coined the ...",Passed all validation checks,0.85
+1984,67.0,percentage,2024,productivity_metric,"overall ai readiness in financial services
+it is promising to see that 67% of working hours in bank...",Passed all validation checks,0.85
+1985,30.0,percentage,2024,productivity_metric,"overall ai readiness in financial services
+it is promising to see that 67% of working hours in bank...",Passed all validation checks,0.85
+1988,23.0,percentage,2024,cost_metric,"figure 3: percentage of organizations that report realizing value at 
+each stage of ai readiness
+3...",Passed all validation checks,0.85
+1996,52.0,percentage,2024,training_metric,"the finance sector is more proactive in enhancing ai implementation, 
+as 58% allocate budgets for a...",Passed all validation checks,0.85
+1999,39.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implemen...",Passed all validation checks,0.85
+2001,44.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implemen...",Passed all validation checks,0.85
+2002,22.0,percentage,2024,training_metric,"among retail organizations:
+10%
+report consistently high 
+return on investment from ai 
+implemen...",Passed all validation checks,0.85
+2004,34.0,percentage,2025,percentages,eated the question once they’d completed the survey. while 34% initially placed their organizations ...,Passed all validation checks,0.85
+2007,3.0,percentage,2025,percentages,"they are seeing value at each stage of ai readiness, from 3% at the earliest “exploring” stage to 96...",Passed all validation checks,0.85
+2008,96.0,percentage,2025,percentages,"i readiness, from 3% at the earliest “exploring” stage to 96% at the most advanced “realizing” stage...",Passed all validation checks,0.85
+2009,37.0,percentage,2025,growth_rate,wth nearly doubles as organizations report value from ai: 37% at the “realizing” stage prioritize gr...,Passed all validation checks,0.85
+2014,61.0,percentage,2025,growth_rate,of ai readiness 3% exploring 12% planning 23% implementing 61% scaling 96% realizing figure 4: focus...,Passed all validation checks,0.85
+2032,81.0,percentage,2025,percentages,0% 60% 40% 20% 0% 1% exploring 5% planning 21% implementing 81% scaling 100% realizing conclusion pa...,Passed all validation checks,0.85
+2035,64.0,percentage,2025,percentages,r as they mature in their use of ai. the survey shows that 64% of organizations in the “realizing” s...,Passed all validation checks,0.85
+2038,36.0,percentage,2025,percentages,e appointed a chief ai officer 64% in the “realizing” stage 36% in the “scaling” stage 18% in the “i...,Passed all validation checks,0.85
+2040,9.0,percentage,2025,percentages,36% in the “scaling” stage 18% in the “implementing” stage 9% in the “planning” stage 6% in the “exp...,Passed all validation checks,0.85
+2042,49.0,percentage,2025,percentages,reported the lowest ai readiness scores in ai governance (49% in the “exploring” and “planning” stag...,Passed all validation checks,0.85
+2043,26.0,percentage,2025,percentages,ry reported the highest percentage in the top two stages (26%) compared to the average (22%). it is ...,Passed all validation checks,0.85
+2044,22.0,percentage,2025,percentages,ntage in the top two stages (26%) compared to the average (22%). it is possible that these numbers m...,Passed all validation checks,0.85
+2056,31.0,percentage,2025,percentages,5-15 yrs. number of employees 500 to 10k cloud first 31% 61% seeing significant value from ai realiz...,Passed all validation checks,0.85
+2059,52.0,percentage,2025,percentages,n 5-15 yrs. 1k to 10k number of employees cloud first 52% 96% seeing significant value from ai guida...,Passed all validation checks,0.85
+2078,53.0,percentage,2025,percentages,h roi from ai ai spend/month (mean) $2.22m cloud first 20% 53% it functional driver for ai manufactu...,Passed all validation checks,0.85
+2082,17.0,percentage,2025,percentages,high roi from ai ai spend/month (mean) $1.99m cloud first 17% 53% it functional driver for ai retail...,Passed all validation checks,0.85
+2089,24.0,percentage,2025,percentages,exploring planning implementing scaling realizing total 16% 24% 36% 20% 5% 25% high 40% low 13% 21% ...,Passed all validation checks,0.85
+2103,2.48,usd,2025,dollar_amounts,% see consistently high roi from ai ai spend/month (mean) $2.48m cloud first 18% 61% data and analyt...,Passed all validation checks,0.85
+2104,2.22,usd,2025,dollar_amounts,% see consistently high roi from ai ai spend/month (mean) $2.22m cloud first 20% 53% it functional d...,Passed all validation checks,0.85
+2105,1.99,usd,2025,dollar_amounts,% see consistently high roi from ai ai spend/month (mean) $1.99m cloud first 17% 53% it functional d...,Passed all validation checks,0.85
+2106,1.83,usd,2025,dollar_amounts,% see consistently high roi from ai ai spend/month (mean) $1.83m cloud first 25% 60% marketing funct...,Passed all validation checks,0.85
+2107,5.0,usd,2025,dollar_amounts,the cloud cross-industry average: 69% 13% spend more than $5m on ai per month cross-industry average...,Passed all validation checks,0.85
+2109,100.0,usd,2025,cost,nvestment with 23% of manufacturing organizations spending $100k to less than $500k on cloud per mon...,Passed all validation checks,0.85
+2110,500.0,usd,2025,cost,"of manufacturing organizations spending $100k to less than $500k on cloud per month, exceeding the 2...",Passed all validation checks,0.85
+2111,32.8,percentage,2028,general_rate,"to $749 billion at a compound annual growth rate (cagr) of 32.8% for 2023–2028.1 the next question, ...",Passed all validation checks,0.85
+2114,26.0,percentage,2024,general_rate,tivity use cases are providing the greatest roi for ai.1 26% of leaders say industry ai use cases (n...,Passed all validation checks,0.85
+2115,246.0,billions_usd,2024,financial_metric,"ing to idc, enterprises worldwide were expected to invest $246 billion* in ai solutions—$44 billion ...",Passed all validation checks,0.85
+2116,44.0,billions_usd,2024,financial_metric,wide were expected to invest $246 billion* in ai solutions—$44 billion in generative ai specifically...,Passed all validation checks,0.85
+2117,749.0,billions_usd,2024,financial_metric,ifically—in 2024. and this spending is expected to grow to $749 billion at a compound annual growth ...,Passed all validation checks,0.85
+2118,1.0,billions_usd,2024,financial_metric,"are driving profitability as a result. in fact, for every $1 a company invests in generative ai, the...",Passed all validation checks,0.85
+2119,1.0,number,2024,employment_metric,nd what you can learn from them to help you: empower the workforce 1 reinvent customer engagement 2 ...,Passed all validation checks,0.85
+2120,2024.0,number,2024,unknown_metric,ai solutions—$44 billion in generative ai specifically—in 2024. and this spending is expected to gro...,Passed all validation checks,0.85
+2123,32.8,percentage,2023,growth_rate,"to $749 billion at a compound annual growth rate (cagr) of 32.8% for 2023–2028.1 the next question, ...",Passed all validation checks,0.85
+2124,56.0,percentage,2025,productivity,"platforms, data, and infrastructure to get the most value. 56% of organizations say productivity and...",Passed all validation checks,0.85
+2125,43.0,percentage,2025,productivity,th are the two most important business outcomes for ai.1 43% of leaders say productivity use cases a...,Passed all validation checks,0.85
+2128,246.0,billions_usd,2025,dollar_amounts,"ing to idc, enterprises worldwide were expected to invest $246 billion* in ai solutions—$44 billion ...",Passed all validation checks,0.85
+2131,1.0,usd,2025,dollar_amounts,"are driving profitability as a result. in fact, for every $1 a company invests in generative ai, the...",Passed all validation checks,0.85
+2132,1.0,number,2025,energy,nd what you can learn from them to help you: empower the workforce 1 reinvent customer engagement 2 ...,Passed all validation checks,0.85
+2135,60.0,percentage,2024,general_rate,ion and creativity (70%) than to automate repetitive tasks (60%) or simplify processes (54%). busine...,Passed all validation checks,0.85
+2136,54.0,percentage,2024,general_rate,n to automate repetitive tasks (60%) or simplify processes (54%). business leaders know that the bes...,Passed all validation checks,0.85
+2139,18.0,percentage,2023,general_rate,"dp in 2023. the us is followed by germany ($837 billion or 18% of 2023 gdp), india ($621 billion or ...",Passed all validation checks,0.85
+2155,177.0,percentage,2024,general_rate,ai literacy skills added by linkedin members increased by 177%. the most frequently added ai literac...,Passed all validation checks,0.85
+2156,6.6,billions_usd,2024,financial_metric,"f implemented across all work tasks, gai could unlock up to $6.6 trillion in productive capacity for...",Passed all validation checks,0.85
+2157,4.1,billions_usd,2024,financial_metric,"rom widespread gai adoption, with gai potentially unlocking $4.1 trillion in productive capacity, eq...",Passed all validation checks,0.85
+2158,837.0,billions_usd,2023,financial_metric,"f the country’s gdp in 2023. the us is followed by germany ($837 billion or 18% of 2023 gdp), india ...",Passed all validation checks,0.85
+2159,621.0,billions_usd,2023,financial_metric,"lowed by germany ($837 billion or 18% of 2023 gdp), india ($621 billion or 18% of 2023 gdp), the uk ...",Passed all validation checks,0.85
+2160,532.0,billions_usd,2023,financial_metric,"2023 gdp), india ($621 billion or 18% of 2023 gdp), the uk ($532 billion or 16% of 2023 gdp), and fr...",Passed all validation checks,0.85
+2166,21.0,number,2024,employment_metric,environmental science. recommendations building our future workforce 21 22 case study: transforming ...,Passed all validation checks,0.85
+2170,20.0,percentage,2018,growth_metric,"oritize these skills, the significance of people skills has increased by 20% since 2018. as they loo...",Passed all validation checks,0.85
+2177,62.0,percentage,2024,adoption_metric,"10
+businesses in india and the us lead in gai adoption compared to their 
+european counterparts
+o...",Passed all validation checks,0.85
+2178,51.0,percentage,2024,adoption_metric,"10
+businesses in india and the us lead in gai adoption compared to their 
+european counterparts
+o...",Passed all validation checks,0.85
+2180,32.0,percentage,2024,adoption_metric,"10
+businesses in india and the us lead in gai adoption compared to their 
+european counterparts
+o...",Passed all validation checks,0.85
+2181,36.0,percentage,2024,adoption_metric,"generative ai adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+4...",Passed all validation checks,0.85
+2191,63.0,percentage,2024,labor_metric,"among businesses considering the impact of technology 
+like gai in their workforce planning, 63% pl...",Passed all validation checks,0.85
+2192,17.0,percentage,2024,training_metric,"in the uk, 17% of the total 
+productive capacity that can be unlocked by gai comes from the educati...",Passed all validation checks,0.85
+2194,19.0,percentage,2024,training_metric,"other
+construction
+financial intermediation
+wholesale and retail trade
+real estate, renting and ...",Passed all validation checks,0.85
+2205,76.0,percentage,2024,training_metric,"time savings from generative ai usage 
+percentage of businesses, %
+76%
+of businesses reported 
+e...",Passed all validation checks,0.85
+2206,5.0,number,2024,comparison_metrics,nan,Passed all validation checks,0.85
+2207,83.0,percentage,2024,comparative_metric,"eir 
+balance of resources and agility. compared to small businesses, medium firms have greater acce...",Passed all validation checks,0.85
+2208,73.0,percentage,2024,comparative_metric,"eir 
+balance of resources and agility. compared to small businesses, medium firms have greater acce...",Passed all validation checks,0.85
+2210,70.0,percentage,2025,percentages,inesses today are using gai for innovation and creativity (70%) than to automate repetitive tasks (6...,Passed all validation checks,0.85
+2212,54.0,percentage,2025,percentages,n to automate repetitive tasks (60%) or simplify processes (54%). business leaders know that the bes...,Passed all validation checks,0.85
+2218,16.0,percentage,2023,percentages,"($621 billion or 18% of 2023 gdp), the uk ($532 billion or 16% of 2023 gdp), and france ($523 billio...",Passed all validation checks,0.85
+2219,17.0,percentage,2023,adoption_rate,"2 billion or 16% of 2023 gdp), and france ($523 billion or 17% of 2023 gdp). 4 the economic gains fr...",Passed all validation checks,0.85
+2220,41.0,percentage,2025,percentages,"oduct design, and market research. in india, nearly half (41%) of total productive capacity gains fr...",Passed all validation checks,0.85
+2221,35.0,percentage,2025,productivity,"in the manufacturing sector, with germany close behind at 35%. greater innovation and productivity i...",Passed all validation checks,0.85
+2225,19.0,percentage,2025,percentages,and social work manufacturing us germany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12...,Passed all validation checks,0.85
+2234,11.0,percentage,2025,percentages,ermany india uk france 5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% ...,Passed all validation checks,0.85
+2240,4.0,percentage,2025,percentages,5% 19% 12% 13% 16% 16% 19% 18% 6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 1...,Passed all validation checks,0.85
+2249,15.0,percentage,2025,percentages,6% 6% 11% 12% 12% 35% 20% 9% 4% 14% 7% 5% 41% 19% 9% 7% 12% 15% 17% 16% 20% 12% 8% 13% 16% 14% 22% 6...,Passed all validation checks,0.85
+2265,71.0,percentage,2025,percentages,alysis and visualization data entry and operational tasks 71% 69% 61% 51% 50% 45% ² access partnersh...,Passed all validation checks,0.85
+2266,69.0,percentage,2025,percentages,is and visualization data entry and operational tasks 71% 69% 61% 51% 50% 45% ² access partnership c...,Passed all validation checks,0.85
+2268,51.0,percentage,2025,percentages,visualization data entry and operational tasks 71% 69% 61% 51% 50% 45% ² access partnership carried ...,Passed all validation checks,0.85
+2270,45.0,percentage,2025,percentages,ation data entry and operational tasks 71% 69% 61% 51% 50% 45% ² access partnership carried out a su...,Passed all validation checks,0.85
+2271,76.0,percentage,2025,adoption_rate,sions and technology adoption decisions. 7 three quarters (76%) of businesses using gai are experien...,Passed all validation checks,0.85
+2274,63.0,percentage,2025,growth_rate,"impact of technology like gai in their workforce planning, 63% plan to increase headcount through hi...",Passed all validation checks,0.85
+2275,68.0,percentage,2025,percentages,"relief. in a survey of 31,000 people across 31 countries, 68% of respondents say they struggle with ...",Passed all validation checks,0.85
+2276,46.0,percentage,2025,adoption_rate,"ts say they struggle with the pace and volume of work, and 46% feel burned out. using ai tools can h...",Passed all validation checks,0.85
+2278,85.0,percentage,2025,percentages,"them save time (90%), focus on their most important work (85%), be more creative (84%), and enjoy th...",Passed all validation checks,0.85
+2279,84.0,percentage,2025,percentages,"focus on their most important work (85%), be more creative (84%), and enjoy their work more (83%). s...",Passed all validation checks,0.85
+2280,83.0,percentage,2025,percentages,"k (85%), be more creative (84%), and enjoy their work more (83%). similarly, a survey conducted by g...",Passed all validation checks,0.85
+2286,48.0,percentage,2025,percentages,"% of smbs are actively leveraging these tools, compared to 48% of large businesses. medium-sized bus...",Passed all validation checks,0.85
+2293,38.0,percentage,2025,adoption_rate,among smaller firms through targeted financial incentives. 38% of businesses indicated that creating...,Passed all validation checks,0.85
+2294,62.0,percentage,2025,adoption_rate,"on compared to their european counterparts overall, india (62%) and the us (51%) report the highest ...",Passed all validation checks,0.85
+2298,32.0,percentage,2025,adoption_rate,"ates, followed by germany (41%), the uk (40%), and france (32%). india is seeing such high adoption ...",Passed all validation checks,0.85
+2303,44.0,percentage,2025,adoption_rate,adoption rates by country and business size 52% 56% 42% 36% 44% 30% 68% 63% 42% 42% 48% 25% 36% 34% ...,Passed all validation checks,0.85
+2309,6.6,usd,2025,adoption_rate,"f implemented across all work tasks, gai could unlock up to $6.6 trillion in productive capacity for...",Passed all validation checks,0.85
+2312,4.1,usd,2025,adoption_rate,"rom widespread gai adoption, with gai potentially unlocking $4.1 trillion in productive capacity, eq...",Passed all validation checks,0.85
+2316,523.0,billions_usd,2023,dollar_amounts,"dp), the uk ($532 billion or 16% of 2023 gdp), and france ($523 billion or 17% of 2023 gdp). 4 the e...",Passed all validation checks,0.85
+2317,0.0,number,2025,labor_metrics,"tandard definition for smbs as businesses with fewer than 1,000 employees. small sized businesses ar...",Passed all validation checks,0.85
+2318,200.0,number,2025,labor_metrics,mall sized businesses are defined as those with fewer than 200 employees and medium sized businesses...,Passed all validation checks,0.85
+2319,1000.0,number,2025,labor_metrics,nd medium sized businesses are defined as those with 200 to 1000 employees. 2 chapter 1 the economic...,Passed all validation checks,0.85
+2322,21.0,number,2025,labor_metrics,environmental science. recommendations building our future workforce 21 22 case study: transforming ...,Passed all validation checks,0.85
+2325,177.0,percentage,2025,growth_rate,the number of ai literacy skills added by linkedin members increased by 177%. the most frequently ad...,Passed all validation checks,0.85
+2327,10.1007,percentage,2024,general_rate,"artificial systems,” https://link.springer.com/content/ pdf/10.1007%2f978-3-642-32375-1.pdf, page 17...",Passed all validation checks,0.85
+2330,30.0,percentage,2016,general_rate,mine if another car is in your blindspot were available in 30% of new cars in 2016 but are in 90% to...,Passed all validation checks,0.85
+2331,90.0,percentage,2016,general_rate,dspot were available in 30% of new cars in 2016 but are in 90% today. page 20 “semi-autonomous appro...,Passed all validation checks,0.85
+2332,1.5,billions_usd,2024,financial_metric,lassified r&d in ai-related technologies was approximately $1.5 billion153—a number dwarfed signific...,Passed all validation checks,0.85
+2333,9.4,billions_usd,2018,financial_metric,"development in 2018 was estimated to be the equivalent of $9.4 billion, supplemented by significant ...",Passed all validation checks,0.85
+2334,80.0,billions_usd,2024,financial_metric,"209570/atlas-ai 44 us, private enterprises have spent over $80 billion on ai, while non-defense inve...",Passed all validation checks,0.85
+2335,103.0,billions_usd,2024,financial_metric,t of 27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute market price...,Passed all validation checks,0.85
+2336,350.0,billions_usd,2024,financial_metric,27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute market prices at ...,Passed all validation checks,0.85
+2337,5.0,billions_usd,2021,financial_metric,"emics at carnegie mellon, which went public in 2021 with a $5 billion valuation.193 of course, not a...",Passed all validation checks,0.85
+2339,68.0,billions_usd,2020,financial_metric,"e of total postings. global corporate investment in ai was $68 billion in 2020, which is a non-trivi...",Passed all validation checks,0.85
+2340,4.0,billions_usd,2020,financial_metric,investment over all categories in the us alone was almost $4 trillion in 2020.260 it’s not always ea...,Passed all validation checks,0.85
+2341,800.0,billions_usd,2024,cost_metric,"a noted that researchers 
+trained nearly 4,800 models using the equivalent of 
+27 years of gpu com...",Passed all validation checks,0.85
+2344,272.0,number,2024,employment_metric,/www.nber.org/digest/jul18/automation-can-be-response-aging-workforce 272 https://www.scientificamer...,Passed all validation checks,0.85
+2345,2021.0,number,2021,unknown_metric,"very five years, for at least one hundred years. september 2021 this report, the second in that plan...",Passed all validation checks,0.85
+2347,2020.0,percentage,2020,unknown_metric,"from medical misinformation to undermining elections. in 2020, approximately 48.3 percent of the glo...",Passed all validation checks,0.85
+2348,263.0,billions_usd,2024,revenue_metric,"262 that situation would parallel developments 
+over recent decades like tax cuts and deregulation,...",Passed all validation checks,0.85
+2349,100.0,number,2024,comparison_metrics,nan,Passed all validation checks,0.85
+2350,10.1007,percentage,2025,percentages,"artificial systems,” https://link.springer.com/content/ pdf/10.1007%2f978-3-642-32375-1.pdf, page 17...",Passed all validation checks,0.85
+2355,1.5,billions_usd,2025,dollar_amounts,lassified r&d in ai-related technologies was approximately $1.5 billion153—a number dwarfed signific...,Passed all validation checks,0.85
+2357,1.5,billions_usd,2020,dollar_amounts,"overnment in research and development is estimated at only $1.5 billion in 2020. second, many resear...",Passed all validation checks,0.85
+2358,103.0,usd,2025,cost,t of 27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute market price...,Passed all validation checks,0.85
+2359,350.0,usd,2025,cost,27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute market prices at ...,Passed all validation checks,0.85
+2363,4.0,usd,2020,investment,investment over all categories in the us alone was almost $4 trillion in 2020.260 it’s not always ea...,Passed all validation checks,0.85
+2364,103.0,number,2025,cost,equivalent of 27 years of gpu compute time at an estimated cost of $103k-$350k (at cloud-compute mar...,Passed all validation checks,0.85
+2365,60.0,number,2025,employment,"ly see technologically-driven mass unemployment. even if 60 jobs remain plentiful, the automation-re...",Passed all validation checks,0.85
+2366,272.0,number,2025,labor_metrics,/www.nber.org/digest/jul18/automation-can-be-response-aging-workforce 272 https://www.scientificamer...,Passed all validation checks,0.85
+2370,57.0,percentage,2025,percentages,"e mechanisms behind these results, i show that ai automates 57% of “idea-generation” tasks, realloca...",Passed all validation checks,0.85
+2371,82.0,percentage,2025,cost,"idence reveals that these gains come at a cost, however, as 82% of scientists report reduced satisfa...",Passed all validation checks,0.85
+2378,74.0,percentage,2025,growth_rate,"hile, time spent assessing candidate materials increases by 74%. ai therefore has countervailing eff...",Passed all validation checks,0.85
+2387,6.28,percentage,2025,percentages,"contain an average of 544 technical bigrams. out of these, 6.28% are classified as new terms. append...",Passed all validation checks,0.85
+2389,35.0,percentage,2022,percentages,"ian paper in a top economics journal has a response rate of 35% (dutz et al., 2022) and for surveys ...",Passed all validation checks,0.85
+2390,10.0,percentage,2022,percentages,"et al., 2022) and for surveys of scientists it can be below 10% (hill and stein, 2024; myers et al.,...",Passed all validation checks,0.85
+2396,44.1,percentage,2025,percentages,product prototypes 0 10 20 30 40 50 60 treatment effect (%) 44.1% [p<0.000] 39.4% [p<0.000] 17.2% [p...,Passed all validation checks,0.85
+2397,39.4,percentage,2025,percentages,es 0 10 20 30 40 50 60 treatment effect (%) 44.1% [p<0.000] 39.4% [p<0.000] 17.2% [p<0.001] b. event...,Passed all validation checks,0.85
+2398,17.2,percentage,2025,percentages,50 60 treatment effect (%) 44.1% [p<0.000] 39.4% [p<0.000] 17.2% [p<0.001] b. event study estimates ...,Passed all validation checks,0.85
+2416,64.0,percentage,2016,percentages,proach of de et al. (2016). this method applies only to the 64% of crystal structures in my sample. ...,Passed all validation checks,0.85
+2444,47.0,percentage,2025,percentages,"r the introduction of ai, these shares become 13%, 35%, and 47%, respectively. matching survey respo...",Passed all validation checks,0.85
+2445,88.0,percentage,2025,percentages,"h similar tools)? 32 consistent with my empirical results, 88% of scientists find ai-generated compo...",Passed all validation checks,0.85
+2457,19.4,percentage,2025,percentages,less creative/ more repetitive underutilization of skills 19.4% 20.9% 54.9% 72.7% b. source of reduc...,Passed all validation checks,0.85
+2458,20.9,percentage,2025,percentages,reative/ more repetitive underutilization of skills 19.4% 20.9% 54.9% 72.7% b. source of reduced tas...,Passed all validation checks,0.85
+2459,54.9,percentage,2025,percentages,/ more repetitive underutilization of skills 19.4% 20.9% 54.9% 72.7% b. source of reduced task satis...,Passed all validation checks,0.85
+2460,72.7,percentage,2025,percentages,repetitive underutilization of skills 19.4% 20.9% 54.9% 72.7% b. source of reduced task satisfaction...,Passed all validation checks,0.85
+2472,13.8,percentage,2024,general_rate,"customer service, with ai-assisted support agents handling 13.8% more inquiries per hour [24]. autom...",Passed all validation checks,0.85
+2474,126.0,percentage,2024,general_rate,"produce 59% more documents per hour and programmers to code 126% more projects per week [20,21]. 2.4...",Passed all validation checks,0.85
+2475,95.0,percentage,2024,general_rate,"z-value for the desired level of confidence (e.g., 1.96 for 95% confidence). • zβ is the z-value for...",Passed all validation checks,0.85
+2477,2.58,percentage,2024,general_rate,"rcentage what is your age? age (1–6 scale, 6 for 41+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21...",Passed all validation checks,0.85
+2478,22.75,percentage,2024,general_rate,"t is your age? age (1–6 scale, 6 for 41+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 1...",Passed all validation checks,0.85
+2481,53.22,percentage,2024,general_rate,doctorate) high school 18.88% undergraduate 20.60% graduate 53.22% doctorate 7.30% you currently use...,Passed all validation checks,0.85
+2484,46.78,percentage,2024,general_rate,"uctivity_change_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80...",Passed all validation checks,0.85
+2485,26.18,percentage,2024,general_rate,"e_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100...",Passed all validation checks,0.85
+2486,0.86,percentage,2024,general_rate,20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100% 0.86% for how many years have you been w...,Passed all validation checks,0.85
+2488,15.88,percentage,2024,general_rate,"reation (1–5 scale, 5 for strongly agree) strongly disagree 15.88% disagree 28.76% neither agree nor...",Passed all validation checks,0.85
+2490,66.95,percentage,2024,general_rate,"nerships) partnerships_experience (0–2 scale, 2 for yes) no 66.95% unsure 27.47% yes 5.58% to what e...",Passed all validation checks,0.85
+2491,5.58,percentage,2024,general_rate,"perience (0–2 scale, 2 for yes) no 66.95% unsure 27.47% yes 5.58% to what extent do you agree with t...",Passed all validation checks,0.85
+2493,2.15,percentage,2024,general_rate,icant improvement) significant decline 0.00% slight decline 2.15% no change 56.65% slight improvemen...,Passed all validation checks,0.85
+2494,0.43,percentage,2024,general_rate,residence austria 0.86% belgium 4.29% canada 3.00% croatia 0.43% denmark 0.43% finland 1.29% france ...,Passed all validation checks,0.85
+2495,1.29,percentage,2024,general_rate,gium 4.29% canada 3.00% croatia 0.43% denmark 0.43% finland 1.29% france 4.29% freelancer 0.43% germ...,Passed all validation checks,0.85
+2496,1.72,percentage,2024,general_rate,dence poland 14.59% portugal 18.45% romania 16.74% slovenia 1.72% spain 2.15% sweden 0.86% switzerla...,Passed all validation checks,0.85
+2498,15.7,billions_usd,2030,financial_metric,"(pwc) report predicted that ai could increase global gdp by $15.7 trillion between 2018 and 2030, wi...",Passed all validation checks,0.85
+2502,72.0,percentage,2024,revenue_metric,"72%
+sales
+0",Passed all validation checks,0.85
+2510,33.0,percentage,2025,productivity,[7] argue that ai could increase aggregate productivity by 33% over 20 years through its impact on k...,Passed all validation checks,0.85
+2512,6.8,percentage,2025,revenue,"ease in sales per worker. conversely, ref. [20] estimated a 6.8% increase in sales per worker for fi...",Passed all validation checks,0.85
+2513,4.4,percentage,2025,productivity,"innovating in ai technologies, while [5] put this number at 4.4%. 2.2. measurement challenges and th...",Passed all validation checks,0.85
+2514,13.8,percentage,2025,percentages,"customer service, with ai-assisted support agents handling 13.8% more inquiries per hour [24]. autom...",Passed all validation checks,0.85
+2515,59.0,percentage,2025,productivity,"onal efficiency, enabling business professionals to produce 59% more documents per hour and programm...",Passed all validation checks,0.85
+2516,126.0,percentage,2025,percentages,"produce 59% more documents per hour and programmers to code 126% more projects per week [20,21]. 2.4...",Passed all validation checks,0.85
+2519,2.58,percentage,2025,percentages,"rcentage what is your age? age (1–6 scale, 6 for 41+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21...",Passed all validation checks,0.85
+2520,22.75,percentage,2025,percentages,"t is your age? age (1–6 scale, 6 for 41+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 1...",Passed all validation checks,0.85
+2522,21.03,percentage,2025,percentages,"ale, 6 for 41+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 12.02% 41+ 18.88% rate the ...",Passed all validation checks,0.85
+2523,12.02,percentage,2025,percentages,+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 12.02% 41+ 18.88% rate the level of ai i...,Passed all validation checks,0.85
+2524,18.88,percentage,2025,percentages,58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 12.02% 41+ 18.88% rate the level of ai integration ...,Passed all validation checks,0.85
+2526,20.6,percentage,2025,percentages,"–4 scale, 4 for doctorate) high school 18.88% undergraduate 20.60% graduate 53.22% doctorate 7.30% y...",Passed all validation checks,0.85
+2527,53.22,percentage,2025,percentages,doctorate) high school 18.88% undergraduate 20.60% graduate 53.22% doctorate 7.30% you currently use...,Passed all validation checks,0.85
+2528,7.3,percentage,2025,percentages,chool 18.88% undergraduate 20.60% graduate 53.22% doctorate 7.30% you currently use artificial intel...,Passed all validation checks,0.85
+2529,17.17,percentage,2025,percentages,"ai_tools_usage (scale 1–4 scale, 4 for all the time) never 17.17% occasionally 42.06% often 31.76% a...",Passed all validation checks,0.85
+2531,31.76,percentage,2024,percentages,4 for all the time) never 17.17% occasionally 42.06% often 31.76% all the time 9.01% electronics 202...,Passed all validation checks,0.85
+2535,46.78,percentage,2025,percentages,"uctivity_change_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80...",Passed all validation checks,0.85
+2537,26.18,percentage,2025,percentages,"e_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100...",Passed all validation checks,0.85
+2539,18.45,percentage,2025,percentages,"1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100% 0.86% for ho...",Passed all validation checks,0.85
+2541,7.73,percentage,2025,percentages,or 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100% 0.86% for how many years h...,Passed all validation checks,0.85
+2543,0.86,percentage,2025,percentages,20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100% 0.86% for how many years have you been w...,Passed all validation checks,0.85
+2544,39.91,percentage,2025,percentages,"h_company (1–4 scale, 4 for longer than 10 years) 0–2 years 39.91% 2–4 years 22.32% 4–10 years 23.61...",Passed all validation checks,0.85
+2545,22.32,percentage,2025,percentages,"ale, 4 for longer than 10 years) 0–2 years 39.91% 2–4 years 22.32% 4–10 years 23.61% longer than 10 ...",Passed all validation checks,0.85
+2546,23.61,percentage,2025,percentages,than 10 years) 0–2 years 39.91% 2–4 years 22.32% 4–10 years 23.61% longer than 10 years 14.16% how l...,Passed all validation checks,0.85
+2547,14.16,percentage,2025,adoption_rate,91% 2–4 years 22.32% 4–10 years 23.61% longer than 10 years 14.16% how long has your company been us...,Passed all validation checks,0.85
+2548,52.36,percentage,2025,percentages,"ng_ai (1–4 scale, 4 for more than 5 years) less than a year 52.36% 1–2 years 32.62% 2–5 years 12.02%...",Passed all validation checks,0.85
+2549,32.62,percentage,2025,percentages,4 for more than 5 years) less than a year 52.36% 1–2 years 32.62% 2–5 years 12.02% more than 5 years...,Passed all validation checks,0.85
+2552,63.95,percentage,2025,percentages,"s employees? ai_training_provided (0–2 scale, 2 for yes) no 63.95% currently in development 12.88% y...",Passed all validation checks,0.85
+2553,12.88,percentage,2025,percentages,"d (0–2 scale, 2 for yes) no 63.95% currently in development 12.88% yes 23.18% to what extent do you ...",Passed all validation checks,0.85
+2554,23.18,percentage,2025,percentages,"e, 2 for yes) no 63.95% currently in development 12.88% yes 23.18% to what extent do you agree with ...",Passed all validation checks,0.85
+2555,15.88,percentage,2025,percentages,"reation (1–5 scale, 5 for strongly agree) strongly disagree 15.88% disagree 28.76% neither agree nor...",Passed all validation checks,0.85
+2556,28.76,percentage,2025,percentages,"le, 5 for strongly agree) strongly disagree 15.88% disagree 28.76% neither agree nor disagree 36.48%...",Passed all validation checks,0.85
+2557,36.48,percentage,2025,percentages,disagree 15.88% disagree 28.76% neither agree nor disagree 36.48% agree 14.16% strongly agree 4.72% ...,Passed all validation checks,0.85
+2559,4.72,percentage,2025,percentages,ither agree nor disagree 36.48% agree 14.16% strongly agree 4.72% has the implementation of ai led t...,Passed all validation checks,0.85
+2560,72.53,percentage,2025,percentages,"ur company? org_structure_changes (0–2 scale, 2 for yes) no 72.53% unsure 23.18% yes 4.29% has your ...",Passed all validation checks,0.85
+2562,4.29,percentage,2025,percentages,"_changes (0–2 scale, 2 for yes) no 72.53% unsure 23.18% yes 4.29% has your organization experienced ...",Passed all validation checks,0.85
+2563,66.95,percentage,2025,percentages,"nerships) partnerships_experience (0–2 scale, 2 for yes) no 66.95% unsure 27.47% yes 5.58% to what e...",Passed all validation checks,0.85
+2564,27.47,percentage,2025,percentages,"nerships_experience (0–2 scale, 2 for yes) no 66.95% unsure 27.47% yes 5.58% to what extent do you a...",Passed all validation checks,0.85
+2565,5.58,percentage,2025,percentages,"perience (0–2 scale, 2 for yes) no 66.95% unsure 27.47% yes 5.58% to what extent do you agree with t...",Passed all validation checks,0.85
+2566,5.15,percentage,2025,percentages,"ovement (1–5 scale, 5 for strongly agree) strongly disagree 5.15% disagree 12.45% neither agree nor ...",Passed all validation checks,0.85
+2567,12.45,percentage,2025,percentages,"ale, 5 for strongly agree) strongly disagree 5.15% disagree 12.45% neither agree nor disagree 38.20%...",Passed all validation checks,0.85
+2568,38.2,percentage,2025,percentages,y disagree 5.15% disagree 12.45% neither agree nor disagree 38.20% agree 36.91% strongly agree 7.30%...,Passed all validation checks,0.85
+2569,36.91,percentage,2025,percentages,15% disagree 12.45% neither agree nor disagree 38.20% agree 36.91% strongly agree 7.30% has the impl...,Passed all validation checks,0.85
+2571,73.39,percentage,2024,percentages,"cation_and_ collaboration_changes (0–2 scale, 2 for yes) no 73.39% unsure 17.17% yes 9.44% electroni...",Passed all validation checks,0.85
+2572,17.17,percentage,2024,percentages,"llaboration_changes (0–2 scale, 2 for yes) no 73.39% unsure 17.17% yes 9.44% electronics 2024, 13, 3...",Passed all validation checks,0.85
+2573,9.44,percentage,2024,percentages,"_changes (0–2 scale, 2 for yes) no 73.39% unsure 17.17% yes 9.44% electronics 2024, 13, 3758 9 of 29...",Passed all validation checks,0.85
+2574,59.23,percentage,2025,percentages,"agement 0–4 scale, 4 for significant improvement) no change 59.23% slight improvement 33.48% signifi...",Passed all validation checks,0.85
+2575,33.48,percentage,2025,percentages,ignificant improvement) no change 59.23% slight improvement 33.48% significant improvement 3.00% sli...,Passed all validation checks,0.85
+2579,33.05,percentage,2025,percentages,"(0–3 scale, 3 for extensively) not at all 23.61% minimally 33.05% moderately 33.91% extensively 9.44...",Passed all validation checks,0.85
+2580,33.91,percentage,2025,adoption_rate,extensively) not at all 23.61% minimally 33.05% moderately 33.91% extensively 9.44% has your organiz...,Passed all validation checks,0.85
+2581,9.44,percentage,2025,adoption_rate,t all 23.61% minimally 33.05% moderately 33.91% extensively 9.44% has your organization implemented ...,Passed all validation checks,0.85
+2582,63.09,percentage,2025,percentages,"? ethical_policies_implementation (0–2 scale, 2 for yes) no 63.09% currently in development 19.31% y...",Passed all validation checks,0.85
+2583,19.31,percentage,2025,percentages,"n (0–2 scale, 2 for yes) no 63.09% currently in development 19.31% yes 17.60% in your opinion, how w...",Passed all validation checks,0.85
+2584,17.6,percentage,2025,percentages,"e, 2 for yes) no 63.09% currently in development 19.31% yes 17.60% in your opinion, how well-prepare...",Passed all validation checks,0.85
+2588,31.33,percentage,2025,percentages,somewhat unprepared 23.18% neutral 27.47% somewhat prepared 31.33% very well-prepared 8.58% how has ...,Passed all validation checks,0.85
+2589,8.58,percentage,2025,percentages,neutral 27.47% somewhat prepared 31.33% very well-prepared 8.58% how has the implementation of ai af...,Passed all validation checks,0.85
+2591,2.15,percentage,2025,percentages,icant improvement) significant decline 0.00% slight decline 2.15% no change 56.65% slight improvemen...,Passed all validation checks,0.85
+2592,56.65,percentage,2025,percentages,t) significant decline 0.00% slight decline 2.15% no change 56.65% slight improvement 34.76% signifi...,Passed all validation checks,0.85
+2593,34.76,percentage,2025,percentages,0% slight decline 2.15% no change 56.65% slight improvement 34.76% significant improvement 6.44% wha...,Passed all validation checks,0.85
+2594,6.44,percentage,2025,percentages,ge 56.65% slight improvement 34.76% significant improvement 6.44% what is your gender? gender (male-...,Passed all validation checks,0.85
+2596,42.49,percentage,2025,percentages,"e-1, female-2. prefer not to say-minus1) male 56.65% female 42.49% prefer not to say 0.86% what is y...",Passed all validation checks,0.85
+2601,0.43,percentage,2025,percentages,residence austria 0.86% belgium 4.29% canada 3.00% croatia 0.43% denmark 0.43% finland 1.29% france ...,Passed all validation checks,0.85
+2603,1.29,percentage,2025,percentages,gium 4.29% canada 3.00% croatia 0.43% denmark 0.43% finland 1.29% france 4.29% freelancer 0.43% germ...,Passed all validation checks,0.85
+2610,15.7,usd,2018,growth_rate,"(pwc) report predicted that ai could increase global gdp by $15.7 trillion between 2018 and 2030, wi...",Passed all validation checks,0.85
+2611,233.0,number,2025,labor_metrics,ne learning models and bayesian network analysis. data from 233 employees across various industries ...,Passed all validation checks,0.85
+2618,1.9,percentage,2017,general_rate,r of survey) country manufacturing ict source canada 1.9% 20.4% statistics canada (2017) germany 2.2...,Passed all validation checks,0.85
+2619,20.4,percentage,2017,general_rate,survey) country manufacturing ict source canada 1.9% 20.4% statistics canada (2017) germany 2.2-11.0...,Passed all validation checks,0.85
+2620,11.0,percentage,2017,general_rate,canada 1.9% 20.4% statistics canada (2017) germany 2.2-11.0% (depending on the subsector) 18.3% zew ...,Passed all validation checks,0.85
+2621,18.3,percentage,2022,general_rate,"da (2017) germany 2.2-11.0% (depending on the subsector) 18.3% zew (rammer, fernández and czarnitzki...",Passed all validation checks,0.85
+2622,33.0,percentage,2023,general_rate,"ammer, fernández and czarnitzki, 2022[13]). germany 9.0% 33% destatis (destatis, 2023[14]) sweden 3....",Passed all validation checks,0.85
+2623,3.5,percentage,2024,general_rate,"germany 9.0% 33% destatis (destatis, 2023[14]) sweden 3.5% 22.7% statistics sweden (2024) (data from...",Passed all validation checks,0.85
+2624,22.7,percentage,2024,general_rate,"ny 9.0% 33% destatis (destatis, 2023[14]) sweden 3.5% 22.7% statistics sweden (2024) (data from 2019...",Passed all validation checks,0.85
+2625,15.0,percentage,2024,general_rate,"om 60 countries, the oecd ai observatory shows that around 15% of ai-related policies specifically t...",Passed all validation checks,0.85
+2629,5.0,percentage,2023,general_rate,"opean union average was 8%. italy and france had shares of 5% and 6%, respectively (eurostat, 2023[1...",Passed all validation checks,0.85
+2630,5.8,percentage,2022,general_rate,"udy in 2019, covering all firms in germany, found that only 5.8% used ai (rammer, fernández and czar...",Passed all validation checks,0.85
+2631,13.0,percentage,2022,general_rate,"czarnitzki, 2022[13]). in brazil, a 2021 survey showed that 13% of companies use some type of ai (br...",Passed all validation checks,0.85
+2635,2.4,percentage,2024,general_rate,"f turnover) go toward ai-related labour, and the other 27% (2.4% of turnover) go to ai technologies....",Passed all validation checks,0.85
+2636,100.0,percentage,2018,general_rate,"2018, annual ai patent applications increased by more than 100%, rising from 30 000 to more than 60 ...",Passed all validation checks,0.85
+2637,1.5,percentage,2018,general_rate,"ge differences across countries, ranging from a low of just 1.5 % of all firms in korea in 2017 to 1...",Passed all validation checks,0.85
+3147,2022.0,percentage,2022,unknown_metric,"of public support across 840 enterprises in g7 countries, 2022-23 94 table 3.9. percentage of 840 en...",Passed all validation checks,0.85
+3149,43.0,percentage,2018,gdp_metric,"the results show that smaller us 
+enterprises are lagging in the utilisation of advanced technologi...",Passed all validation checks,0.85
+3150,31.0,percentage,2024,gdp_metric,"1 economically, the state of são paulo is also 
+the largest, accounting for around 31% of brazil’s ...",Passed all validation checks,0.85
+3151,38.0,percentage,2024,investment_metric,"38% of enterprises that allocate between 
+0-10% of their r&d spending to ai considered ai to be cri...",Passed all validation checks,0.85
+3153,60.0,billions_usd,2019,revenue_metric,"for example, chapter 2 describes a 2019 survey of 60 manufacturers in the united 
+states with annua...",Passed all validation checks,0.85
+3154,500.0,billions_usd,2019,revenue_metric,"for example, chapter 2 describes a 2019 survey of 60 manufacturers in the united 
+states with annua...",Passed all validation checks,0.85
+3155,10.0,billions_usd,2019,revenue_metric,"for example, chapter 2 describes a 2019 survey of 60 manufacturers in the united 
+states with annua...",Passed all validation checks,0.85
+3156,3.0,billions_usd,2018,revenue_metric,"for instance, one study of companies with revenues over usd 3 billion found that organisations 
+tha...",Passed all validation checks,0.85
+3157,100.0,billions_usd,2018,revenue_metric,"for instance, one study of companies with revenues over usd 3 billion found that organisations 
+tha...",Passed all validation checks,0.85
+3158,47.0,percentage,2017,labor_metric,"an early 
+example of this work is (frey and osborne, 2017[3]), which examined the probability of co...",Passed all validation checks,0.85
+3162,13.0,percentage,2024,adoption_metrics,nan,Passed all validation checks,0.85
+3168,45.0,percentage,2016,percentages,"the new partition was stronger than the one it replaced and 45% lighter (airbus, 2016[9]). • fabrica...",Passed all validation checks,0.85
+3173,18.3,percentage,2017,percentages,"da (2017) germany 2.2-11.0% (depending on the subsector) 18.3% zew (rammer, fernández and czarnitzki...",Passed all validation checks,0.85
+3175,33.0,percentage,2022,percentages,"ammer, fernández and czarnitzki, 2022[13]). germany 9.0% 33% destatis (destatis, 2023[14]) sweden 3....",Passed all validation checks,0.85
+3176,3.5,percentage,2023,percentages,"germany 9.0% 33% destatis (destatis, 2023[14]) sweden 3.5% 22.7% statistics sweden (2024) (data from...",Passed all validation checks,0.85
+3177,22.7,percentage,2023,percentages,"ny 9.0% 33% destatis (destatis, 2023[14]) sweden 3.5% 22.7% statistics sweden (2024) (data from 2019...",Passed all validation checks,0.85
+3180,6.6,percentage,2020,adoption_rate,"l firm types found that the overall adoption rate was just 6.6% (zolas et al., 2020[17]). in the eur...",Passed all validation checks,0.85
+3184,6.0,percentage,2023,percentages,"nion average was 8%. italy and france had shares of 5% and 6%, respectively (eurostat, 2023[18]). a ...",Passed all validation checks,0.85
+3185,5.8,percentage,2019,percentages,"udy in 2019, covering all firms in germany, found that only 5.8% used ai (rammer, fernández and czar...",Passed all validation checks,0.85
+3187,15.0,percentage,2022,percentages,"or instance, a 2022 study in the united kingdom found that 15% of small firms were adopting ai, comp...",Passed all validation checks,0.85
+3188,34.0,percentage,2022,percentages,"found that 15% of small firms were adopting ai, compared to 34% of medium- sized firms (evans and he...",Passed all validation checks,0.85
+3189,2.0,percentage,2022,percentages,"of medium- sized firms (evans and heimann, 2022[20]). only 2% of small firms, 5% of medium-sized fir...",Passed all validation checks,0.85
+3190,5.0,percentage,2022,percentages,"irms (evans and heimann, 2022[20]). only 2% of small firms, 5% of medium-sized firms, and 9% of larg...",Passed all validation checks,0.85
+3192,10.0,percentage,2021,percentages,"class was half that of firms with 1 000 to 1 999 employees (10% and 22% respectively) (mic, 2021[21]...",Passed all validation checks,0.85
+3193,22.0,percentage,2021,percentages,"s half that of firms with 1 000 to 1 999 employees (10% and 22% respectively) (mic, 2021[21]). simil...",Passed all validation checks,0.85
+3197,56.0,percentage,2019,percentages,"ategy for sourcing the data that ai requires. furthermore, 56% had no plans to do so (atkinson and e...",Passed all validation checks,0.85
+3200,78.0,percentage,2025,percentages,he surveyed enterprises were relatively data mature. most – 78% – used at least one data management ...,Passed all validation checks,0.85
+3210,87.0,percentage,2025,percentages,"ng enterprises that spend more than 30% of their r&d on ai, 87% considered ai critical to the busine...",Passed all validation checks,0.85
+3212,65.0,percentage,2025,percentages,searchers in public research organisations. between 60% and 65% of enterprises that spend more than ...,Passed all validation checks,0.85
+3223,86.0,percentage,2025,percentages,"% of respondents acknowledged having this problem. indeed, 86% of enterprises that place a high valu...",Passed all validation checks,0.85
+3238,58.0,percentage,2025,percentages,also among the most widely used and highly valued. roughly 58% of enterprises make use of training s...,Passed all validation checks,0.85
+3245,67.0,percentage,2025,percentages,"either “very useful” or “moderately useful”. in addition, 67% of enterprises indicate that tax allow...",Passed all validation checks,0.85
+3255,6.5,percentage,2025,percentages,"y incipient. from a sample of 2 561 enterprises, only 167 (6.5%) were found to use ai actively. this...",Passed all validation checks,0.85
+3263,249.0,number,2025,labor_metrics,two size classes: medium-sized enterprises (between 50 and 249 employees) and larger enterprises (25...,Passed all validation checks,0.85
+3266,49.0,number,2025,labor_metrics,erprises (250 or more employees). small enterprises (with 0-49 employees) were not sampled. analytic...,Passed all validation checks,0.85
+3267,50.0,number,2025,cost,iness processes in small enterprises (i.e. with fewer than 50 employees). this raises the administra...,Passed all validation checks,0.85
+3268,299.0,number,2025,labor_metrics,"an enterprise is considered an sme if it employs from 4 to 299 employees. in the united states, smes...",Passed all validation checks,0.85
+3269,500.0,number,2025,labor_metrics,". in the united states, smes include firms with fewer than 500 employees. nevertheless, selection cr...",Passed all validation checks,0.85
+3270,999.0,number,2021,labor_metrics,employee size class was half that of firms with 1 000 to 1 999 employees (10% and 22% respectively) ...,Passed all validation checks,0.85
+3271,999.0,number,2025,adoption_rate,"arly, the incidence of ai adoption in firms with 1 000 to 1 999 employees was less than half that of...",Passed all validation checks,0.85
+3272,250.0,number,2025,labor_metrics,ndings and observations. around 20% of enterprises with 50-250 employees report being unable to find...,Passed all validation checks,0.85
+3274,20.0,number,2025,revenue,irms and industrial non-profit organisations with at least 20 employees and cad 250 000 (canadian do...,Passed all validation checks,0.85
+3275,99.0,number,2025,labor_metrics,"sification system [naics] code) and 1 of 3 size classes (20-99 employees, 100-249 employees, and 250...",Passed all validation checks,0.85
+3276,249.0,number,2017,labor_metrics,"naics] code) and 1 of 3 size classes (20-99 employees, 100-249 employees, and 250+ employees). quest...",Passed all validation checks,0.85
+3277,100.0,number,2025,adoption_rate,"anies. surprisingly, the share of all firms (with at least 100 employees) using ai and internet of t...",Passed all validation checks,0.85
+3286,250.0,number,2023,labor_metrics,ng ai is about twice as high in enterprises with more than 250 employees than in enterprises with 50...,Passed all validation checks,0.85
+3287,249.0,number,2023,labor_metrics,"es with more than 250 employees than in enterprises with 50-249 employees (oecd, 2023[5]). figure 3....",Passed all validation checks,0.85
+3310,37.2,percentage,2025,percentages,"tions show the highest associated ai usage rate, comprising 37.2% of all queries. • arts, design, en...",Passed all validation checks,0.85
+3327,80.0,percentage,2023,employment,highest-wage sectors. eloundou et al. [2023] predicted that 80% of u.s. workers could have at least ...,Passed all validation checks,0.85
+3335,0.1,percentage,2025,percentages,"our analyses, we filtered out these classifications as only 0.1% of conversations were labeled none....",Passed all validation checks,0.85
+3340,95.3,percentage,2025,percentages,"ssigned at each level of the hierarchy: • at the top level, 95.3% of conversations are judged as ass...",Passed all validation checks,0.85
+3341,91.3,percentage,2025,percentages,"d as assigned to an acceptable task. • at the middle level, 91.3% of conversations are judged as ass...",Passed all validation checks,0.85
+3343,90.7,percentage,2025,percentages,the best categorization for each conversation. we find that 90.7% of conversations are assigned to t...,Passed all validation checks,0.85
+3356,50.0,usd,2025,dollar_amounts,"age is highest for occupations with a median salary between $50,000 and $125,000. figure 21: number ...",Passed all validation checks,0.85
+3357,125.0,usd,2025,dollar_amounts,"st for occupations with a median salary between $50,000 and $125,000. figure 21: number of occupatio...",Passed all validation checks,0.85
+3369,37.0,percentage,2024,general_rate,"loper allocates 44% of their engagement towards coding and, 37% towards project management.16 finall...",Passed all validation checks,0.85
+3370,321.0,percentage,2024,general_rate,"for the cross-section, we observe an increase of 6.90 days (321% relative to the baseline) overall i...",Passed all validation checks,0.85
+3372,223.0,percentage,2024,general_rate,". for the panel, we find an increase of 0.12 days per week (223% relative to the baseline) and an ex...",Passed all validation checks,0.85
+3373,12.4,percentage,2024,general_rate,rcentage of all activity increase by 5.4 percentage points (12.4% relative to the baseline) while pr...,Passed all validation checks,0.85
+3374,24.9,percentage,2024,general_rate,a percentage of all activity drops by 10 percentage points (24.9% relative to the baseline). this in...,Passed all validation checks,0.85
+3376,21.8,percentage,2024,general_rate,e their cumulative exposure to new programming languages by 21.8% relative to the baseline. we also ...,Passed all validation checks,0.85
+3377,1.4,percentage,2024,general_rate,ers to experiment with programming languages that command a 1.4% higher salary relative to a baselin...,Passed all validation checks,0.85
+3378,50.0,percentage,2024,general_rate,"tivities are also occurring. as such, we expect that around 50% of the activity of highly active pro...",Passed all validation checks,0.85
+3387,0.0,billions_usd,2024,financial_metric,"chnical preview period. students can obtain copilot and pay $0 per month. similarly, github rewards ...",Passed all validation checks,0.85
+3388,19.0,billions_usd,2024,financial_metric,r their employee access to copilot with the employer paying $19 per employee for each month.9 in thi...,Passed all validation checks,0.85
+3389,119.0,billions_usd,2024,financial_metric,"that command a 1.4% higher salary relative to a baseline of $119,371 (an increase of $1,683). togeth...",Passed all validation checks,0.85
+3391,468.0,billions_usd,2024,financial_metric,ve the aggregate value of labor market potential by roughly $468 million per year. while this measur...,Passed all validation checks,0.85
+3392,2024.0,number,2025,unknown_metric,"n kevin xu github inc. working paper 25-021 copyright © 2024 and 2025 by manuel hoffmann, sam boysel...",Passed all validation checks,0.85
+3396,93.0,percentage,2024,percentages,"ub had a market share of 78.81% on march 18, 2024. further, 93% of individuals are using git as a ve...",Passed all validation checks,0.85
+3397,92.0,percentage,2023,percentages,"ilot which was launched after github copilot. in june 2023, 92% of programmers had used some coding ...",Passed all validation checks,0.85
+3402,321.0,percentage,2025,adoption_rate,"for the cross-section, we observe an increase of 6.90 days (321% relative to the baseline) overall i...",Passed all validation checks,0.85
+3403,61.2,percentage,2025,adoption_rate,l in ai adoption and an increase of 6.14 percentage points (61.2% relative to the baseline) of devel...,Passed all validation checks,0.85
+3404,223.0,percentage,2025,growth_rate,". for the panel, we find an increase of 0.12 days per week (223% relative to the baseline) and an ex...",Passed all validation checks,0.85
+3405,214.0,percentage,2025,growth_rate,eline) and an exposure21 increase of 1.8 percentage points (214% relative to the baseline). despite ...,Passed all validation checks,0.85
+3408,12.4,percentage,2025,growth_rate,rcentage of all activity increase by 5.4 percentage points (12.4% relative to the baseline) while pr...,Passed all validation checks,0.85
+3409,24.9,percentage,2025,percentages,a percentage of all activity drops by 10 percentage points (24.9% relative to the baseline). this in...,Passed all validation checks,0.85
+3414,33.9,percentage,2025,percentages,", we find that the frequency of critical vulnerabilities is 33.9% lower for copilot-eligible reposit...",Passed all validation checks,0.85
+3415,79.3,percentage,2025,percentages,ositories with 17 fewer peers relative to a baseline of 22 (79.3% lower). this drop off is signif- i...,Passed all validation checks,0.85
+3416,21.8,percentage,2025,percentages,e their cumulative exposure to new programming languages by 21.8% relative to the baseline. we also ...,Passed all validation checks,0.85
+3418,45.5,percentage,2025,percentages,"ject manage- ment behavior. based on our data, we find that 45.5% of copilot usage happens in weeks ...",Passed all validation checks,0.85
+3436,95.0,percentage,2022,percentages,me: june 2022 to june 2023. horizontal error bars represent 95% condfidence intervals for the coeffi...,Passed all validation checks,0.85
+3446,0.0,usd,2025,dollar_amounts,"chnical preview period. students can obtain copilot and pay $0 per month. similarly, github rewards ...",Passed all validation checks,0.85
+3448,119.0,usd,2025,growth_rate,"that command a 1.4% higher salary relative to a baseline of $119,371 (an increase of $1,683). togeth...",Passed all validation checks,0.85
+3451,120.0,usd,2025,dollar_amounts,"$1,683 per year. when developers pay a price for copilot of $120 per year, we arrive at an average n...",Passed all validation checks,0.85
+3453,468.0,millions_usd,2025,dollar_amounts,ve the aggregate value of labor market potential by roughly $468 million per year. while this measur...,Passed all validation checks,0.85
+3460,70.0,percentage,2021,general_rate,"rkers with access to ai assistance was only 5%, growing to 70% in january 2021. while our analysis p...",Passed all validation checks,0.85
+3461,89.0,percentage,2024,general_rate,s in the post-ai period. most of the agents in our sample (89%) are located outside the united state...,Passed all validation checks,0.85
+3462,23.9,percentage,2024,general_rate,"ss to ai rec- ommendations increases rph by 0.47 chats, up 23.9% from their pretreatment mean of 1.9...",Passed all validation checks,0.85
+3474,65.0,billions_usd,2023,financial_metric,13 trillion tokens at an estimated computing-only cost of $65 million ( li 2020 ; brown et al. 2020 ...,Passed all validation checks,0.85
+3476,20.0,billions_usd,2024,financial_metric,"n contact centers leave each year, costing ﬁrms $10,000 to $20,000 per agent in the united states ( ...",Passed all validation checks,0.85
+3477,3.0,billions_usd,2024,cost_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Passed all validation checks,0.85
+3478,175.0,billions_usd,2024,cost_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Passed all validation checks,0.85
+3479,300.0,billions_usd,2024,cost_metric,"the 
+gpt-3 model included 175 billion parameters, was trained on 300 
+billion tokens, and incurred...",Passed all validation checks,0.85
+3481,65.0,billions_usd,2020,cost_metric,"8 trillion parameters and was 
+trained on 13 trillion tokens at an estimated computing-only cost 
+...",Passed all validation checks,0.85
+3482,50.0,number,2024,employment_metric,"ata ﬁrm conducted a pilot analysis involving approximately 50 workers, with about half randomized in...",Passed all validation checks,0.85
+3486,60.0,percentage,2018,cost_metric,"turnover is high: industry estimates sug- 
+gest that 60% of agents in contact centers leave each ye...",Passed all validation checks,0.85
+3505,5.0,percentage,2021,employment,"of ac- tive workers with access to ai assistance was only 5%, growing to 70% in january 2021. while ...",Passed all validation checks,0.85
+3507,89.0,percentage,2025,percentages,s in the post-ai period. most of the agents in our sample (89%) are located outside the united state...,Passed all validation checks,0.85
+3508,23.9,percentage,2025,growth_rate,"ss to ai rec- ommendations increases rph by 0.47 chats, up 23.9% from their pretreatment mean of 1.9...",Passed all validation checks,0.85
+3509,15.2,percentage,2025,growth_rate,ﬁnd that the ai deployment increases rph by 0.30 chats or 15.2%. figure ii shows the accompanying in...,Passed all validation checks,0.85
+3520,46.0,percentage,2023,percentages,github copilot reports that individual developers use 27%–46% of code recommendations ( zhao 2023 )....,Passed all validation checks,0.85
+3553,5.0,millions_usd,2025,cost,"trained on 300 billion tokens, and incurred approximately $5 million in training costs. the gpt-4 mo...",Passed all validation checks,0.85
+3554,65.0,millions_usd,2020,cost,13 trillion tokens at an estimated computing-only cost of $65 million ( li 2020 ; brown et al. 2020 ...,Passed all validation checks,0.85
+3556,20.0,usd,2025,cost,"n contact centers leave each year, costing ﬁrms $10,000 to $20,000 per agent in the united states ( ...",Passed all validation checks,0.85
+3557,65.0,number,2020,cost,rained on 13 trillion tokens at an estimated computing-only cost of $65 million ( li 2020 ; brown et...,Passed all validation checks,0.85
+3559,300.0,number,2025,cost,"gpt-3 model included 175 billion parameters, was trained on 300 billion tokens, and incurred approxi...",Passed all validation checks,0.85
+3571,7.0,billions_usd,2024,financial_metric,"to businesses and society, they could drive a 7% (or almost $7 trillion) increase in global gdp and ...",Passed all validation checks,0.85
+3572,150.0,billions_usd,2024,financial_metric,"e total addressable market for generative ai software to be $150 billion, compared with $685 billion...",Passed all validation checks,0.85
+3573,685.0,billions_usd,2024,financial_metric,"or generative ai software to be $150 billion, compared with $685 billion for the global software ind...",Passed all validation checks,0.85
+3574,2023.0,number,2023,unknown_metric,"elligence generative ai could raise global gdp by 7% apr 5, 2023 share share download transcript dow...",Passed all validation checks,0.85
+3613,7.0,usd,2025,productivity,"to businesses and society, they could drive a 7% (or almost $7 trillion) increase in global gdp and ...",Passed all validation checks,0.85
+3614,150.0,billions_usd,2025,dollar_amounts,"e total addressable market for generative ai software to be $150 billion, compared with $685 billion...",Passed all validation checks,0.85
+3615,685.0,billions_usd,2025,dollar_amounts,"or generative ai software to be $150 billion, compared with $685 billion for the global software ind...",Passed all validation checks,0.85
+3616,252.3,billions_usd,2025,investment,nan,Passed all validation checks,0.85
+3617,0.01,unknown,2025,carbon_emissions,nan,Passed all validation checks,0.85
+3618,18.7,percentage,2023,investment,attracting $33.9 billion globally in private investment—an 18.7% increase from 2023. ai business usa...,Passed all validation checks,0.85
+3619,78.0,percentage,2023,adoption_rate,increase from 2023. ai business usage is also accelerating: 78% of organizations reported using ai i...,Passed all validation checks,0.85
+3620,55.0,percentage,2024,adoption_rate,"g: 78% of organizations reported using ai in 2024, up from 55% the year before. meanwhile, a growing...",Passed all validation checks,0.85
+3623,77.0,percentage,2025,percentages,"countries like china (83%), indonesia (80%), and thailand (77%), strong majorities see ai products a...",Passed all validation checks,0.85
+3626,36.0,percentage,2022,percentages,"canada (40%), the united states (39%), and the netherlands (36%). still, sentiment is shifting: sinc...",Passed all validation checks,0.85
+3635,1.7,percentage,2025,percentages,"models, reducing the performance difference from 8% to just 1.7% on some benchmarks in a single year...",Passed all validation checks,0.85
+3636,21.3,percentage,2023,growth_rate,"s many agencies. globally, legislative mentions of ai rose 21.3% across 75 countries since 2023, mar...",Passed all validation checks,0.85
+3641,11.9,percentage,2025,percentages,"difference between the top and 10th-ranked models fell from 11.9% to 5.4% in a year, and the top two...",Passed all validation checks,0.85
+3642,5.4,percentage,2025,percentages,"e between the top and 10th-ranked models fell from 11.9% to 5.4% in a year, and the top two are now ...",Passed all validation checks,0.85
+3646,23.2,percentage,2023,percentages,"al research. in 2023, china produced more ai publications (23.2%) and citations (22.6%) than any oth...",Passed all validation checks,0.85
+3647,22.6,percentage,2025,percentages,china produced more ai publications (23.2%) and citations (22.6%) than any other country. over the p...,Passed all validation checks,0.85
+3648,21.6,percentage,2013,percentages,ai’s share of computer science publications has risen from 21.6% in 2013 to 41.8% in 2023. 4. the un...,Passed all validation checks,0.85
+3649,41.8,percentage,2013,percentages,puter science publications has risen from 21.6% in 2013 to 41.8% in 2023. 4. the united states conti...,Passed all validation checks,0.85
+3650,29.6,percentage,2023,percentages,". in just the last year, the number of ai patents has risen 29.6%. as of 2023, china leads in total ...",Passed all validation checks,0.85
+3651,69.7,percentage,2023,percentages,"s of 2023, china leads in total ai patents, accounting for 69.7% of all grants, while south korea an...",Passed all validation checks,0.85
+3655,4.4,percentage,2023,percentages,"qa, respectively. on swe-bench, ai systems could solve just 4.4% of coding problems in 2023—a figure...",Passed all validation checks,0.85
+3656,71.7,percentage,2023,percentages,st 4.4% of coding problems in 2023—a figure that jumped to 71.7% in 2024. 2. open-weight models catc...,Passed all validation checks,0.85
+3661,4.9,percentage,2023,percentages,"wise, the difference between the top two models shrank from 4.9% in 2023 to just 0.7% in 2024. the a...",Passed all validation checks,0.85
+3662,0.7,percentage,2023,percentages,between the top two models shrank from 4.9% in 2023 to just 0.7% in 2024. the ai landscape is becomi...,Passed all validation checks,0.85
+3664,9.3,percentage,2025,cost,"athematical olympiad qualifying exam, compared to gpt-4o’s 9.3%. however, this enhanced reasoning co...",Passed all validation checks,0.85
+3665,8.8,percentage,2025,percentages,", a rigorous academic test where the top system scores just 8.80%; frontiermath, a complex mathemati...",Passed all validation checks,0.85
+3667,35.5,percentage,2025,percentages,"igcodebench, a coding benchmark where ai systems achieve a 35.5% success rate—well below the human s...",Passed all validation checks,0.85
+3668,97.0,percentage,2025,percentages,ieve a 35.5% success rate—well below the human standard of 97%. 7. high-quality ai video generators ...,Passed all validation checks,0.85
+3669,60.0,percentage,2022,percentages,"in 2022, the smallest model registering a score higher than 60% on mmlu was palm, with 540 billion p...",Passed all validation checks,0.85
+3670,56.4,percentage,2024,growth_rate,i-related incidents rose to 233 in 2024—a record high and a 56.4% increase over 2023. chapter 2: tec...,Passed all validation checks,0.85
+3676,37.0,percentage,2023,growth_rate,nsparency score among major model developers increased from 37% in october 2023 to 58% in may 2024. ...,Passed all validation checks,0.85
+3678,28.8,percentage,2023,growth_rate,"rai papers accepted at leading ai conferences increased by 28.8%, from 992 in 2023 to 1,278 in 2024,...",Passed all validation checks,0.85
+3680,44.5,percentage,2024,investment,"d $252.3 billion in 2024, with private investment climbing 44.5% and mergers and acquisitions up 12....",Passed all validation checks,0.85
+3681,12.1,percentage,2025,investment,e investment climbing 44.5% and mergers and acquisitions up 12.1% from the previous year. the sector...,Passed all validation checks,0.85
+3682,18.7,percentage,2024,percentages,"vestment in generative ai reached $33.9 billion in 2024, up 18.7% from 2023 and over 8.5 times highe...",Passed all validation checks,0.85
+3683,20.0,percentage,2022,investment,igher than 2022 levels. the sector now represents more than 20% of all ai-related private investment...,Passed all validation checks,0.85
+3685,55.0,percentage,2023,percentages,"reporting ai use by their organizations jumped to 78% from 55% in 2023. similarly, the number of res...",Passed all validation checks,0.85
+3687,71.0,percentage,2023,percentages,one business function more than doubled—from 33% in 2023 to 71% last year. chapter 4: economy artifi...,Passed all validation checks,0.85
+3696,20.8,percentage,2013,percentages,". since surpassing japan in 2013, when china accounted for 20.8% of global installations, its share ...",Passed all validation checks,0.85
+3697,51.1,percentage,2025,percentages,"d for 20.8% of global installations, its share has risen to 51.1%. while china continues to install ...",Passed all validation checks,0.85
+3698,2.8,percentage,2017,percentages,"e common. in 2017, collaborative robots represented a mere 2.8% of all new industrial robot installa...",Passed all validation checks,0.85
+3699,10.5,percentage,2023,percentages,"ew industrial robot installations, a figure that climbed to 10.5% by 2023. similarly, 2023 saw a ris...",Passed all validation checks,0.85
+3703,585.0,percentage,2025,percentages,"icantly, including uniprot (31%), pdb (23%), and alphafold (585%). this expansion has important impl...",Passed all validation checks,0.85
+3704,21.3,percentage,2024,growth_rate,"tries, ai mentions in legislative proceedings increased by 21.3% in 2024, rising to 1,889 from 1,557...",Passed all validation checks,0.85
+3706,52.0,percentage,2022,percentages,nd services as more beneficial than harmful has risen from 52% in 2022 to 55% in 2024. 2. the expect...,Passed all validation checks,0.85
+3707,55.0,percentage,2022,percentages,more beneficial than harmful has risen from 52% in 2022 to 55% in 2024. 2. the expectation and ackno...,Passed all validation checks,0.85
+3708,17.0,percentage,2022,percentages,"s perception since 2022, with the largest jumps in canada (17%) and germany (15%). 3. skepticism abo...",Passed all validation checks,0.85
+3710,50.0,percentage,2023,percentages,"onfidence that ai companies protect personal data fell from 50% in 2023 to 47% in 2024. likewise, fe...",Passed all validation checks,0.85
+3711,47.0,percentage,2023,percentages,"ai companies protect personal data fell from 50% in 2023 to 47% in 2024. likewise, fewer people toda...",Passed all validation checks,0.85
+3718,109.1,billions_usd,2024,investment,"tivity impacts. in 2024, u.s. private ai investment grew to $109.1 billion—nearly 12 times china’s $...",Passed all validation checks,0.85
+3719,9.3,billions_usd,2025,investment,i investment grew to $109.1 billion—nearly 12 times china’s $9.3 billion and 24 times the u.k.’s $4....,Passed all validation checks,0.85
+3720,4.5,billions_usd,2025,dollar_amounts,arly 12 times china’s $9.3 billion and 24 times the u.k.’s $4.5 billion. generative ai saw particula...,Passed all validation checks,0.85
+3721,33.9,billions_usd,2023,investment,"generative ai saw particularly strong momentum, attracting $33.9 billion globally in private investm...",Passed all validation checks,0.85
+3722,2.4,billions_usd,2025,dollar_amounts,"ention, governments are investing at scale: canada pledged $2.4 billion, china launched a $47.5 bill...",Passed all validation checks,0.85
+3723,47.5,billions_usd,2025,dollar_amounts,"ing at scale: canada pledged $2.4 billion, china launched a $47.5 billion semiconductor fund, france...",Passed all validation checks,0.85
+3724,1.25,billions_usd,2025,dollar_amounts,"nductor fund, france committed €109 billion, india pledged $1.25 billion, and saudi arabia’s project...",Passed all validation checks,0.85
+3725,100.0,billions_usd,2025,dollar_amounts,"lion, and saudi arabia’s project transcendence represents a $100 billion initiative. 9. ai and compu...",Passed all validation checks,0.85
+3726,20.0,usd,2022,dollar_amounts,"mark for assessing language model performance, dropped from $20.00 per million tokens in november 20...",Passed all validation checks,0.85
+3727,0.07,usd,2022,dollar_amounts,ed from $20.00 per million tokens in november 2022 to just $0.07 per million tokens by october 2024 ...,Passed all validation checks,0.85
+3728,252.3,billions_usd,2024,investment,"ecord high with 26% growth. corporate ai investment reached $252.3 billion in 2024, with private inv...",Passed all validation checks,0.85
+3729,33.9,billions_usd,2024,investment,"funding soars. private investment in generative ai reached $33.9 billion in 2024, up 18.7% from 2023...",Passed all validation checks,0.85
+3731,9.3,billions_usd,2024,dollar_amounts,"109.1 billion in 2024, nearly 12 times higher than china’s $9.3 billion and 24 times the u.k.’s $4.5...",Passed all validation checks,0.85
+3733,25.4,billions_usd,2023,dollar_amounts,"ined total of china and the european union plus the u.k. by $25.4 billion, expanding on its $21.8 bi...",Passed all validation checks,0.85
+3734,21.8,billions_usd,2023,dollar_amounts,"ean union plus the u.k. by $25.4 billion, expanding on its $21.8 billion gap in 2023. 4. use of ai c...",Passed all validation checks,0.85
+3735,1.6,billions_usd,2025,energy,tracting interest in nuclear energy. microsoft announced a $1.6 billion deal to revive the three mil...,Passed all validation checks,0.85
+3738,117.0,billions_usd,2025,dollar_amounts,"on fund to boost semiconductor production. france committed $117 billion to ai infrastructure, india...",Passed all validation checks,0.85
+3745,15.0,usd,2024,cost,"benchmark than mmlu. there, inference costs declined from $15 per million tokens in may 2024 to $0.1...",Passed all validation checks,0.85
+3746,0.12,usd,2024,cost,costs declined from $15 per million tokens in may 2024 to $0.12 per million tokens by december 2024 ...,Passed all validation checks,0.85
+3747,100.0,millions_usd,2024,dollar_amounts,"tman, for instance, indicated that training gpt-4 exceeded $100 million. in july 2024, anthropic ceo...",Passed all validation checks,0.85
+3748,1.0,billions_usd,2025,cost,dario amodei noted that model training runs costing around $1 billion were already underway. even mo...,Passed all validation checks,0.85
+3749,6.0,millions_usd,2025,cost,"nt models, such as deepseek-v3, reportedly cost less—about $6 million—but overall, training remains ...",Passed all validation checks,0.85
+3750,670.0,usd,2019,cost,"ure that underpins virtually every modern llm, cost around $670 to train. roberta large, released in...",Passed all validation checks,0.85
+3751,160.0,usd,2023,cost,"comprehension benchmarks like squad and glue, cost around $160,000 to train. fast-forward to 2023, a...",Passed all validation checks,0.85
+3752,79.0,millions_usd,2024,cost,nd training costs for openai’s gpt-4 were estimated around $79 million. one of the few 2024 models f...,Passed all validation checks,0.85
+3753,170.0,millions_usd,2025,cost,"aining costs was llama 3.1-405b, with an estimated cost of $170 million. as the ai landscape grows m...",Passed all validation checks,0.85
+3754,650.0,millions_usd,2025,dollar_amounts,"ter the model’s release, microsoft acquired inflection for $650 million. figure 2.1.6 source: inflec...",Passed all validation checks,0.85
+3755,2.5,usd,2025,cost,"th a financial and latency cost. for example, gpt-4o costs $2.50 per 1 million input tokens and $10 ...",Passed all validation checks,0.85
+3757,15.0,usd,2025,cost,"and $10 per 1 million output tokens. conversely, o1 costs $15 per 1 million input tokens and $60 per...",Passed all validation checks,0.85
+3758,60.0,usd,2025,cost,"s. conversely, o1 costs $15 per 1 million input tokens and $60 per 1 million output tokens.8 moreove...",Passed all validation checks,0.85
+3759,200.0,usd,2024,dollar_amounts,"he full version of o1 (as well as access to chatgpt pro, a $200 monthly subscription enabling access...",Passed all validation checks,0.85
+3761,30.0,usd,2026,dollar_amounts,"s, which is set for production in 2026 at a price of under $30,000. tesla also unveiled the robovan,...",Passed all validation checks,0.85
+3762,30.0,usd,2025,dollar_amounts,"cities in china (figure 2.9.12). with a price tag of just $30,000 and a battery-swapping system, the...",Passed all validation checks,0.85
+3763,10.0,billions_usd,2025,investment,erprises—particularly those with annual revenues exceeding $10 billion—demonstrated higher total inv...,Passed all validation checks,0.85
+3765,30.0,billions_usd,2025,revenue,"t into rai. notably, 27% of organizations with $10 billion–$30 billion in revenue and 21% of those e...",Passed all validation checks,0.85
+3767,10.0,millions_usd,2025,revenue,n in revenue and 21% of those exceeding $30 billion invest $10 million–$25 million in rai. these fin...,Passed all validation checks,0.85
+3768,25.0,millions_usd,2025,dollar_amounts,and 21% of those exceeding $30 billion invest $10 million–$25 million in rai. these findings suggest...,Passed all validation checks,0.85
+3769,500.0,millions_usd,2025,revenue,"s from 1,500 organizations, each with revenues of at least $500 million, were collected from 20 coun...",Passed all validation checks,0.85
+3778,35.0,billions_usd,2024,dollar_amounts,"e event type image jan 16, 2024 synopsys acquires ansys for $35 billion to improve silicon-to-system...",Passed all validation checks,0.85
+3779,2.0,billions_usd,2024,revenue,"psys, 2024 feb 21, 2024 reports claim that openai surpassed $2 billion in annualized revenue in dece...",Passed all validation checks,0.85
+3780,675.0,millions_usd,2024,investment,"24 feb 29, 2024 figure ai, a humanoid robot startup, raises $675 million at a valuation of $2.6 bill...",Passed all validation checks,0.85
+3781,2.6,billions_usd,2025,investment,"anoid robot startup, raises $675 million at a valuation of $2.6 billion. investment/funding figure 4...",Passed all validation checks,0.85
+3783,1.1,billions_usd,2025,investment,"4 coreweave, an ai cloud infrastructure startup, secures a $1.1 billion funding round at a valuation...",Passed all validation checks,0.85
+3786,13.8,billions_usd,2024,investment,"ling startup, raises $1 billion and reaches a valuation of $13.8 billion. investment/funding figure ...",Passed all validation checks,0.85
+3787,640.0,millions_usd,2025,investment,"mistral ai, a french open-source ai model startup, raises $640 million at a valuation of $6 billion....",Passed all validation checks,0.85
+3788,6.0,billions_usd,2025,investment,"ce ai model startup, raises $640 million at a valuation of $6 billion. investment/funding figure 4.1...",Passed all validation checks,0.85
+3789,410.7,millions_usd,2025,dollar_amounts,"eraging ai for medical data analysis, goes public, raising $410.7 million and achieving an implied v...",Passed all validation checks,0.85
+3790,6.0,billions_usd,2024,investment,$410.7 million and achieving an implied valuation of over $6 billion. investment/funding figure 4.1....,Passed all validation checks,0.85
+3792,5.5,billions_usd,2024,investment,"ications, raises $500 million in funding at a valuation of $5.5 billion. investment/funding figure 4...",Passed all validation checks,0.85
+3793,2.5,billions_usd,2024,dollar_amounts,l to buy out character.ai’s shareholders for approximately $2.5 billion. acquisition figure 4.1.10 s...,Passed all validation checks,0.85
+3795,2.8,billions_usd,2024,investment,"g in fast inference, raises $640 million at a valuation of $2.8 billion. investment/funding figure 4...",Passed all validation checks,0.85
+3796,665.0,millions_usd,2024,dollar_amounts,"ilo ai, europe’s largest private ai lab, for approximately $665 million. acquisition figure 4.1.12 s...",Passed all validation checks,0.85
+3798,1.6,billions_usd,2024,revenue,"source: salesforce, 2024 sep 20, 2024 microsoft announces a $1.6 billion deal with constellation ene...",Passed all validation checks,0.85
+3800,157.0,billions_usd,2024,investment,"24 oct 2, 2024 openai raises $6.6 billion at a valuation of $157 billion. investment/funding figure ...",Passed all validation checks,0.85
+3801,4.0,billions_usd,2025,investment,"hropic expands its partnership with aws with an additional $4 billion investment from amazon, bringi...",Passed all validation checks,0.85
+3802,8.0,billions_usd,2024,investment,"l $4 billion investment from amazon, bringing the total to $8 billion. partnership figure 4.1.20 sou...",Passed all validation checks,0.85
+3804,62.0,billions_usd,2025,investment,"ta analytics company, raises $10 billion at a valuation of $62 billion. investment/funding figure 4....",Passed all validation checks,0.85
+3806,9.0,billions_usd,2025,investment,"ed search products, raises $500 million at a valuation of $9 billion. investment/funding figure 4.1....",Passed all validation checks,0.85
+3808,12.0,billions_usd,2025,investment,"nnounces a $6 billion funding round, bringing the total to $12 billion at a valuation of over $40 bi...",Passed all validation checks,0.85
+3809,40.0,billions_usd,2024,investment,", bringing the total to $12 billion at a valuation of over $40 billion. investment/funding figure 4....",Passed all validation checks,0.85
+3810,700.0,millions_usd,2024,growth_rate,"024 dec 30, 2024 nvidia acquires israeli startup run:ai for $700 million to increase its gpu optimiz...",Passed all validation checks,0.85
+3812,1.5,millions_usd,2013,investment,e investment trends in ai startups that have received over $1.5 million in investment since 2013. gl...,Passed all validation checks,0.85
+3814,31.6,millions_usd,2024,investment,"to 2024, the average increased significantly, growing from $31.6 million to $45.4 million. figure 4....",Passed all validation checks,0.85
+3815,45.4,millions_usd,2025,investment,"age increased significantly, growing from $31.6 million to $45.4 million. figure 4.3.7 reports ai fu...",Passed all validation checks,0.85
+3816,100.0,millions_usd,2025,investment,events increased across funding size categories exceeding $100 million and decreased or remained con...,Passed all validation checks,0.85
+3817,1.0,billions_usd,2013,investment,investment events that involved funding sizes greater than $1 billion. 45.43 2013 2014 2015 2016 201...,Passed all validation checks,0.85
+3818,170.0,number,2025,cost,"imate training costs was llama 3.1-405b, with an estimated cost of $170 million. as the ai landscape...",Passed all validation checks,0.85
+3819,2.5,number,2025,cost,"ice—both a financial and latency cost. for example, gpt-4o costs $2.50 per 1 million input tokens an...",Passed all validation checks,0.85
+3820,15.0,number,2025,cost,"tokens and $10 per 1 million output tokens. conversely, o1 costs $15 per 1 million input tokens and ...",Passed all validation checks,0.85
+3822,30.0,percentage,2022,cost,"r 2022 and october 2024. at the hardware level, costs have declined by 30% annually, while energy ef...",Passed all validation checks,0.85
+3831,14.5,percentage,2019,growth_rates,r of accepted papers on privacy and data governance topics decreased by 14.5% at select ai conferenc...,Passed all validation checks,0.85
+3832,33.4,percentage,2025,growth_rate,", the ratio of ai talent hiring relative to overall hiring grew 33.4%. figure 4.2.135 4 for each mon...",Passed all validation checks,0.85
+3833,44.5,percentage,2025,investment,"t significant upturn occurred in private investment, which rose by 44.5% compared with the previous ...",Passed all validation checks,0.85
+3835,44.5,percentage,2013,investment,"ment since 2013. global trends global private ai investment increased 44.5% between 2023 and 2024, m...",Passed all validation checks,0.85
+3837,21.3,percentage,2016,growth_rates,"ave mentioned ai since 2016. in the past year, ai mentions rose by 21.3%, increasing from 1,557 in 2...",Passed all validation checks,0.85
+3838,22.0,percentage,2023,growth_rate,mber of graduates with bachelor’s degrees in computing has increased 22% over the last 10 years (fig...,Passed all validation checks,0.85
+3839,2.0,number,2020,token_metrics,"ge language model revolution, was trained on approximately 2 billion tokens. by 2020, gpt-3 175b—one...",Passed all validation checks,0.85
+3840,374.0,number,2025,token_metrics,"erpinning the original chatgpt—was trained on an estimated 374 billion tokens. in contrast, meta’s f...",Passed all validation checks,0.85
+3842,82.0,number,2025,token_metrics,"rom unstructured electronic health records, was trained on 82 billion tokens. in contrast, llama 3 w...",Passed all validation checks,0.85
+3855,2.4,percentage,2025,productivity,"this would raise the growth rate of productivity by 20% to 2.4%. in a given year, such a change is b...",Passed all validation checks,0.85
+3868,8.7,percentage,2025,general_rate,of goods or services rose from around 4% in early 2023 to 8.7% by mid-2025. expectations for near-te...,Passed all validation checks,0.85
+3874,20.1,percentage,2024,general_rate,"ely to use ai in the production of goods and services, with 20.1% reporting active use. this is foll...",Passed all validation checks,0.85
+3875,15.9,percentage,2024,general_rate,"ific, and technical services sector (18.2%) and utilities (15.9%). in contrast, sectors such as tran...",Passed all validation checks,0.85
+3878,110.0,percentage,2025,general_rate,"ril 2018 to 13,000 in april 2025); and san jose rising by 110% (from 5,800 to 12,200). these metro a...",Passed all validation checks,0.85
+3880,250.0,percentage,2025,general_rate,iami and gainesville in florida saw even higher gains—over 250%—from 2018 to 2025. many metro areas ...,Passed all validation checks,0.85
+3885,7.5,percentage,2024,general_rate,"nearly 3.5% of ai patent filings, while driving more than 7.5% of hpc usage—a footprint that sits ju...",Passed all validation checks,0.85
+3887,800.0,percentage,2025,general_rate,"nd savannah, ga., have seen ai job postings grow more than 800% between april 2018 and 2025, highlig...",Passed all validation checks,0.85
+3890,0.16,percentage,2024,general_rate,"scanter: overall, metro areas in the others group generate 0.16% of patents and claim just 0.3% of c...",Passed all validation checks,0.85
+3891,0.3,percentage,2024,general_rate,n the others group generate 0.16% of patents and claim just 0.3% of competitive ai contracts and 1.1...,Passed all validation checks,0.85
+3894,3.21,billions_usd,2024,financial_metric,overnment investment in ai research actually decreased from $3.21 billion in 2023 to 37 $2.98 billio...,Passed all validation checks,0.85
+3895,32.0,billions_usd,2026,financial_metric,doubling non-defense ai r&d investments annually to reach $32 billion by 2026.16 the nation’s curren...,Passed all validation checks,0.85
+3897,25.0,billions_usd,2024,financial_metric,ore than $40 million to support the hub's success: njeda's $25 million commitment anchors state supp...,Passed all validation checks,0.85
+3898,7.5,billions_usd,2024,financial_metric,"illion commitment anchors state support, while microsoft's $7.5 million investment leverages its tec...",Passed all validation checks,0.85
+3900,275.0,billions_usd,2024,financial_metric,"hy hochul launched empire ai as part of a historic 10-year, $275 million commitment (combined with a...",Passed all validation checks,0.85
+3901,125.0,billions_usd,2024,financial_metric,"year, $275 million commitment (combined with an additional $125 million in private investment) to es...",Passed all validation checks,0.85
+3902,90.0,billions_usd,2026,financial_metric,m: the new fy 2026 budget proposal announced an additional $90 million investment. empire ai has alr...,Passed all validation checks,0.85
+3904,160.0,billions_usd,2024,financial_metric,regional innovation engines award that could provide up to $160 million over 10 years to accelerate ...,Passed all validation checks,0.85
+3905,13.0,billions_usd,2027,financial_metric,"china’s genai sector investment surges, projected to reach $13 billion by 2027,” march 28, 2024. 65 ...",Passed all validation checks,0.85
+3907,19.0,number,2024,employment_metric,"falls to just 6.5% for businesses employing between 10 and 19 workers. interestingly, the smallest f...",Passed all validation checks,0.85
+3912,8.7,percentage,2024,adoption_metrics,"s also show that the overall adoption rate remains relatively modest across the economy, with only 8...",Passed all validation checks,0.85
+3915,2.5,percentage,2025,employment,"w at an annual rate of 28.5%, yet still comprise only about 2.5% of all u.s. job openings. • extreme...",Passed all validation checks,0.85
+3921,4.0,percentage,2023,percentages,ai in the production of goods or services rose from around 4% in early 2023 to 8.7% by mid-2025. exp...,Passed all validation checks,0.85
+3922,8.7,percentage,2023,percentages,of goods or services rose from around 4% in early 2023 to 8.7% by mid-2025. expectations for near-te...,Passed all validation checks,0.85
+3924,28.5,percentage,2010,employment,from tech giants (see figure 2). that increase amounted to 28.5% average annualized growth for ai jo...,Passed all validation checks,0.85
+3925,11.1,percentage,2010,growth_rate,"stings over the 2010-to-2025 period, which outstripped the 11.1% average annualized growth of postin...",Passed all validation checks,0.85
+3926,13.3,percentage,2025,growth_rate,nualized growth of postings in the general economy and the 13.3% annualized growth of those in the i...,Passed all validation checks,0.85
+3929,2.2,percentage,2025,employment,"e 287,000 job postings with ai skills accounted for merely 2.2% of all u.s. job postings (see figure...",Passed all validation checks,0.85
+3931,1.0,percentage,2021,percentages,t least a little ai in their operations in 2021.12 and only 1% of firms reported investing in ai pro...,Passed all validation checks,0.85
+3933,14.2,percentage,2025,adoption_rate,"ai use in producing goods and services, with a use rate of 14.2% according to 2025 btos data. this f...",Passed all validation checks,0.85
+3935,9.5,percentage,2025,percentages,"s (one to four employees) report relatively higher ai use (9.5%) than many midsized businesses, sugg...",Passed all validation checks,0.85
+3936,20.1,percentage,2025,percentages,"ely to use ai in the production of goods and services, with 20.1% reporting active use. this is foll...",Passed all validation checks,0.85
+3937,18.2,percentage,2025,percentages,"e professional, scientific, and technical services sector (18.2%) and utilities (15.9%). in contrast...",Passed all validation checks,0.85
+3938,15.9,percentage,2025,percentages,"ific, and technical services sector (18.2%) and utilities (15.9%). in contrast, sectors such as tran...",Passed all validation checks,0.85
+3939,2.3,percentage,2025,percentages,"contrast, sectors such as transportation and warehousing (2.3%), accommodation and food services (2....",Passed all validation checks,0.85
+3940,2.9,percentage,2025,percentages,"n and warehousing (2.3%), accommodation and food services (2.9%), and construction (3.1%) trail well...",Passed all validation checks,0.85
+3941,3.1,percentage,2025,percentages,", accommodation and food services (2.9%), and construction (3.1%) trail well behind, reflecting stru...",Passed all validation checks,0.85
+3949,1.0,percentage,2018,employment,"the share of job postings in those two clusters falling by 1% and 2%, respectively, since 2018. turn...",Passed all validation checks,0.85
+3950,2.0,percentage,2018,employment,"re of job postings in those two clusters falling by 1% and 2%, respectively, since 2018. turning to ...",Passed all validation checks,0.85
+3951,145.0,percentage,2018,employment,"job postings rise since 2018, with san francisco rising by 145% (from 5,300 postings in april 2018 t...",Passed all validation checks,0.85
+3952,110.0,percentage,2018,percentages,"ril 2018 to 13,000 in april 2025); and san jose rising by 110% (from 5,800 to 12,200). these metro a...",Passed all validation checks,0.85
+3953,2.7,percentage,2025,employment,"in terms of size: together, the two accounted for about 2.7% of all metro area employment in q1 2025...",Passed all validation checks,0.85
+3960,31.0,percentage,2014,adoption_rate,tand as by far the most commanding ai adoption hubs. fully 31% of private ai startups founded after ...,Passed all validation checks,0.85
+3964,139.0,percentage,2018,employment,"i job postings across the analyzed metro areas, growing by 139% in aggregate between 2018 and 2025. ...",Passed all validation checks,0.85
+3965,250.0,percentage,2018,percentages,iami and gainesville in florida saw even higher gains—over 250%—from 2018 to 2025. many metro areas ...,Passed all validation checks,0.85
+3976,88.0,percentage,2018,employment,"ostings across the analyzed metro areas. overall, they saw 88% growth in their ai job postings betwe...",Passed all validation checks,0.85
+3979,14.6,percentage,2025,percentages,"nal average of 13. altogether, the emerging centers produce 14.6% of the nation’s ai publications, 4...",Passed all validation checks,0.85
+3981,8.4,percentage,2025,percentages,".6% of the nation’s ai publications, 4% of ai patents, and 8.4% of ai contracts, and represent 21.3%...",Passed all validation checks,0.85
+3982,21.3,percentage,2025,percentages,"4% of ai patents, and 8.4% of ai contracts, and represent 21.3% of hpc usage. the group outperforms ...",Passed all validation checks,0.85
+3983,28.3,percentage,2025,percentages,"ers mostly outperform national density levels. on average, 28.3% of firms in these hubs have files i...",Passed all validation checks,0.85
+3988,3.4,percentage,2025,investment,"r with the national average, at 4%. these hubs are home to 3.4% of the total startups analyzed. vent...",Passed all validation checks,0.85
+3991,8.3,percentage,2025,employment,"9% of the nation’s metro area employment, produced roughly 8.3% of all computer science and engineer...",Passed all validation checks,0.85
+3992,7.9,percentage,2025,employment,"l computer science and engineering graduates, and supplied 7.9% of all ai job postings. looking at a...",Passed all validation checks,0.85
+3995,5.5,percentage,2025,percentages,"dly. 31 as a group, the focused movers have secured 5.5% of national ai contracts and generated near...",Passed all validation checks,0.85
+3996,3.5,percentage,2025,percentages,"cured 5.5% of national ai contracts and generated nearly 3.5% of ai patent filings, while driving mo...",Passed all validation checks,0.85
+3997,7.5,percentage,2025,percentages,"nearly 3.5% of ai patent filings, while driving more than 7.5% of hpc usage—a footprint that sits ju...",Passed all validation checks,0.85
+3998,3.7,percentage,2025,adoption_rate,"d in the national adoption journey. as a whole, they host 3.7% of the country’s ai startups and pull...",Passed all validation checks,0.85
+3999,3.6,percentage,2025,percentages,"le, they host 3.7% of the country’s ai startups and pull in 3.6% of ai- focused vc, demonstrating in...",Passed all validation checks,0.85
+4001,11.2,percentage,2025,employment,"employment as measured by job postings, but generated just 11.2% of metro area ai job postings—under...",Passed all validation checks,0.85
+4002,800.0,percentage,2018,employment,"nd savannah, ga., have seen ai job postings grow more than 800% between april 2018 and 2025, highlig...",Passed all validation checks,0.85
+4003,16.7,percentage,2025,adoption_rate,"on business adoption. on talent, these metro areas supply 16.7% of the nation’s computer 32 science ...",Passed all validation checks,0.85
+4004,8.9,percentage,2025,percentages,"ion’s computer 32 science bachelor’s degree graduates, 8.9% of its computer science ph.d. graduates,...",Passed all validation checks,0.85
+4005,7.2,percentage,2025,employment,"aduates, 8.9% of its computer science ph.d. graduates, and 7.2% of all ai-profiled workers—solid con...",Passed all validation checks,0.85
+4007,5.9,percentage,2025,percentages,"dest: nascent adopters produce 2.5% of ai publications and 5.9% of patents, and claim 10.3% of ai co...",Passed all validation checks,0.85
+4010,4.1,percentage,2025,percentages,"in step with broader trends. firms here score, on average, 4.1% on ai-use metrics (versus 4.2% natio...",Passed all validation checks,0.85
+4011,4.2,percentage,2025,percentages,"irms here score, on average, 4.1% on ai-use metrics (versus 4.2% nationally), 28.6% on data readines...",Passed all validation checks,0.85
+4012,28.6,percentage,2025,percentages,"average, 4.1% on ai-use metrics (versus 4.2% nationally), 28.6% on data readiness (versus 27% nation...",Passed all validation checks,0.85
+4017,3.21,billions_usd,2023,investment,overnment investment in ai research actually decreased from $3.21 billion in 2023 to 37 $2.98 billio...,Passed all validation checks,0.85
+4018,2.98,billions_usd,2023,dollar_amounts,ch actually decreased from $3.21 billion in 2023 to 37 $2.98 billion in 2024.15 this came at a momen...,Passed all validation checks,0.85
+4021,3.0,millions_usd,2025,dollar_amounts,"models innovation challenge, which will provide more than $3 million to support groundbreaking ai mo...",Passed all validation checks,0.85
+4022,10.5,millions_usd,2025,dollar_amounts,"york’s secunda family foundation, which recently announced $10.5 million to fund ai-related research...",Passed all validation checks,0.85
+4024,40.0,millions_usd,2025,dollar_amounts,"er, the founding partners have pledged to invest more than $40 million to support the hub's success:...",Passed all validation checks,0.85
+4026,7.5,millions_usd,2025,investment,"illion commitment anchors state support, while microsoft's $7.5 million investment leverages its tec...",Passed all validation checks,0.85
+4030,31.0,millions_usd,2025,dollar_amounts,"for its part, the massachusetts ai hub recently obtained a $31 million state grant to establish the ...",Passed all validation checks,0.85
+4032,275.0,millions_usd,2025,dollar_amounts,"hy hochul launched empire ai as part of a historic 10-year, $275 million commitment (combined with a...",Passed all validation checks,0.85
+4033,125.0,millions_usd,2025,investment,"year, $275 million commitment (combined with an additional $125 million in private investment) to es...",Passed all validation checks,0.85
+4034,90.0,millions_usd,2026,investment,m: the new fy 2026 budget proposal announced an additional $90 million investment. empire ai has alr...,Passed all validation checks,0.85
+4035,90.0,millions_usd,2025,dollar_amounts,"athy hochul. (2025, february 21). governor hochul announces $90 million plan to expand historic empi...",Passed all validation checks,0.85
+4036,1.5,millions_usd,2025,dollar_amounts,"h north dakota state university, it was established with a $1.5 million grant from microsoft’s techs...",Passed all validation checks,0.85
+4037,160.0,millions_usd,2025,dollar_amounts,regional innovation engines award that could provide up to $160 million over 10 years to accelerate ...,Passed all validation checks,0.85
+4038,160.0,usd,2025,dollar_amounts,automated agriculture partners get major boost from up to $160m federal grant. inforum. retrieved ma...,Passed all validation checks,0.85
+4043,19.0,number,2025,employment,"falls to just 6.5% for businesses employing between 10 and 19 workers. interestingly, the smallest f...",Passed all validation checks,0.85
+4052,25.0,number,2024,comparison_metrics,nan,Passed all validation checks,0.85
+4065,72.0,percentage,2023,general_rate,"et al.,, 2023), along with wage controls, ranges from 60 to 72%, indicating that 28 to 40% of the va...",Passed all validation checks,0.85
+4067,91.1,percentage,2024,general_rate,"𝜁 e1 + e2 79.5% 0.589 gpt-4, rubric 1; gpt-4, rubric 2 𝛼 e1 91.1% 0.611 6/20/25, 12:55 pm [2303.1013...",Passed all validation checks,0.85
+4069,2.3,percentage,2024,general_rate,"asks exposed. for example, human annotators determined that 2.3% of occupations are 𝛼50-exposed, 21....",Passed all validation checks,0.85
+4070,21.6,percentage,2024,general_rate,"tators determined that 2.3% of occupations are 𝛼50-exposed, 21.6% are 𝛽50-exposed, and 47.3% are 𝜁50...",Passed all validation checks,0.85
+4075,1.0,percentage,2020,general_rate,ly significant as- sociations with llm exposure scores at a 1% level. coefficients on ai scores from...,Passed all validation checks,0.85
+4076,5.0,percentage,2020,general_rate,"2020) are also positive and statistically significant at a 5% level, but our secondary prompt on ove...",Passed all validation checks,0.85
+4077,30.0,billions_usd,2024,financial_metric,"lso increases, with the median worker in job zone 1 earning $ 30,230 and the median worker in job zo...",Passed all validation checks,0.85
+4079,38.0,billions_usd,2024,financial_metric,"a orderlies, cus- tomer service rep- resentatives, tellers $38,215 73,962 0.07 0.12 0.16 0.20 0.24 0...",Passed all validation checks,0.85
+4080,54.0,billions_usd,2024,financial_metric,"iate’s degree electricians, bar- bers, medical assistants $54,815 37,881 0.11 0.14 0.26 0.32 0.41 0....",Passed all validation checks,0.85
+4081,46.0,billions_usd,2024,financial_metric,"0.15 0.21 0.25 0.32 0.34 moderate-term on-the-job training $46,880 31,285 0.09 0.12 0.21 0.25 0.32 0...",Passed all validation checks,0.85
+4104,80.8,percentage,2025,percentages,"𝛾 weighting agreement pearson’s gpt-4, rubric 1; human 𝛼 e1 80.8% 0.223 𝛽 e1 + .5*e2 65.6% 0.591 𝜁 e...",Passed all validation checks,0.85
+4105,65.6,percentage,2025,percentages,"rson’s gpt-4, rubric 1; human 𝛼 e1 80.8% 0.223 𝛽 e1 + .5*e2 65.6% 0.591 𝜁 e1 + e2 82.1% 0.654 gpt-4,...",Passed all validation checks,0.85
+4106,82.1,percentage,2025,percentages,"; human 𝛼 e1 80.8% 0.223 𝛽 e1 + .5*e2 65.6% 0.591 𝜁 e1 + e2 82.1% 0.654 gpt-4, rubric 2; human 𝛼 e1 ...",Passed all validation checks,0.85
+4107,81.8,percentage,2025,percentages,".6% 0.591 𝜁 e1 + e2 82.1% 0.654 gpt-4, rubric 2; human 𝛼 e1 81.8% 0.221 𝛽 e1 + .5*e2 65.6% 0.538 𝜁 e...",Passed all validation checks,0.85
+4109,79.5,percentage,2025,percentages,"; human 𝛼 e1 81.8% 0.221 𝛽 e1 + .5*e2 65.6% 0.538 𝜁 e1 + e2 79.5% 0.589 gpt-4, rubric 1; gpt-4, rubr...",Passed all validation checks,0.85
+4110,91.1,percentage,2025,percentages,"𝜁 e1 + e2 79.5% 0.589 gpt-4, rubric 1; gpt-4, rubric 2 𝛼 e1 91.1% 0.611 6/20/25, 12:55 pm [2303.1013...",Passed all validation checks,0.85
+4112,82.4,percentage,2025,percentages,g/html/2303.10130 11/56 𝛽 e1 + .5*e2 76.0% 0.705 𝜁 e1 + e2 82.4% 0.680 table 2: model and human comp...,Passed all validation checks,0.85
+4122,21.6,percentage,2025,percentages,"tators determined that 2.3% of occupations are 𝛼50-exposed, 21.6% are 𝛽50-exposed, and 47.3% are 𝜁50...",Passed all validation checks,0.85
+4123,47.3,percentage,2025,percentages,"of occupations are 𝛼50-exposed, 21.6% are 𝛽50-exposed, and 47.3% are 𝜁50-exposed, where the threshol...",Passed all validation checks,0.85
+4128,6.11,percentage,2025,employment,"sure in job zones 1 through 5 have 𝛽 at 0.00% (job zone 1), 6.11% (job zone 2), 10.57% (job zone 3),...",Passed all validation checks,0.85
+4129,10.57,percentage,2025,employment,"through 5 have 𝛽 at 0.00% (job zone 1), 6.11% (job zone 2), 10.57% (job zone 3), 34.5% (job zone 4),...",Passed all validation checks,0.85
+4130,34.5,percentage,2025,employment,".00% (job zone 1), 6.11% (job zone 2), 10.57% (job zone 3), 34.5% (job zone 4), and 26.45% (job zone...",Passed all validation checks,0.85
+4131,26.45,percentage,2025,employment,"(job zone 2), 10.57% (job zone 3), 34.5% (job zone 4), and 26.45% (job zone 5), respectively. job zo...",Passed all validation checks,0.85
+4134,60.7,percentage,2025,percentages,"t of occupations. in all regressions, the 𝑅2 ranges between 60.7% (column 3) and 72.8% (column 5). t...",Passed all validation checks,0.85
+4135,72.8,percentage,2025,percentages,"all regressions, the 𝑅2 ranges between 60.7% (column 3) and 72.8% (column 5). this sug- gests that o...",Passed all validation checks,0.85
+4140,80.0,usd,2025,employment,"arning $ 30,230 and the median worker in job zone 5 earning $ 80,980. all of our measures (𝛼, 𝛽, and...",Passed all validation checks,0.85
+4142,38.0,usd,2025,dollar_amounts,"a orderlies, cus- tomer service rep- resentatives, tellers $38,215 73,962 0.07 0.12 0.16 0.20 0.24 0...",Passed all validation checks,0.85
+4143,54.0,usd,2025,dollar_amounts,"iate’s degree electricians, bar- bers, medical assistants $54,815 37,881 0.11 0.14 0.26 0.32 0.41 0....",Passed all validation checks,0.85
+4144,77.0,usd,2025,cost,"ase adminis- trators, graphic de- signers, cost estimators $77,345 56,833 0.23 0.18 0.47 0.51 0.71 0...",Passed all validation checks,0.85
+4145,81.0,usd,2025,dollar_amounts,"master’s degree or higher pharmacists, lawyers, astronomers $81,980 21,221 0.23 0.13 0.43 0.45 0.63 ...",Passed all validation checks,0.85
+4147,55.0,usd,2025,dollar_amounts,"$77,440 90,776 0.20 0.16 0.42 0.46 0.63 0.76 apprenticeship $55,995 3,066 0.01 0.02 0.04 0.06 0.07 0...",Passed all validation checks,0.85
+4149,33.0,usd,2025,employment,".16 0.06 0.36 0.38 0.55 0.71 short-term on-the-job training $33,370 66,234 0.11 0.15 0.21 0.25 0.32 ...",Passed all validation checks,0.85
+4150,46.0,usd,2025,employment,"0.15 0.21 0.25 0.32 0.34 moderate-term on-the-job training $46,880 31,285 0.09 0.12 0.21 0.25 0.32 0...",Passed all validation checks,0.85
+4151,48.0,usd,2025,employment,"0.09 0.12 0.21 0.25 0.32 0.38 long-term on-the-job training $48,925 5,070 0.08 0.10 0.18 0.22 0.28 0...",Passed all validation checks,0.85
+4152,31.0,usd,2025,dollar_amounts,"s) h 𝜶 m 𝜶 h 𝜷 m 𝜷 h 𝜻 m 𝜻 no formal educational credential $31,900 36,187 0.05 0.06 0.10 0.10 0.15 ...",Passed all validation checks,0.85
+4153,45.0,usd,2025,dollar_amounts,"0.06 0.10 0.10 0.15 0.15 high school diploma or equivalent $45,470 67,033 0.09 0.13 0.20 0.25 0.31 0...",Passed all validation checks,0.85
+4155,40.0,usd,2025,dollar_amounts,"9,636 0.07 0.15 0.19 0.28 0.31 0.41 some college, no degree $40,970 2,898 0.23 0.34 0.39 0.53 0.55 0...",Passed all validation checks,0.85
+4157,78.0,usd,2025,dollar_amounts,"0,360 3,537 0.12 0.14 0.31 0.36 0.49 0.59 bachelor’s degree $78,375 71,698 0.23 0.17 0.47 0.51 0.70 ...",Passed all validation checks,0.85
+4158,79.0,usd,2025,dollar_amounts,"78,375 71,698 0.23 0.17 0.47 0.51 0.70 0.84 master’s degree $79,605 3,216 0.26 0.14 0.46 0.44 0.66 0...",Passed all validation checks,0.85
+4159,82.0,usd,2025,dollar_amounts,"26 0.14 0.46 0.44 0.66 0.74 doctoral or professional degree $82,420 5,290 0.21 0.13 0.41 0.43 0.60 0...",Passed all validation checks,0.85
+4169,0.4,percentage,2024,general_rate,".4% to augmentation from ai, while the same percentages are 0.4% and 10.4% for low-income countries,...",Passed all validation checks,0.85
+4177,11.7,percentage,2024,general_rate,"nland 15.8%, netherlands 13.1%, luxembourg 13% and slovenia 11.7% are the countries with the highest...",Passed all validation checks,0.85
+4178,98.0,percentage,2022,general_rate,"ized clienteles, which would 24in 2022, china accounted for 98% of worldwide primary low-purity gall...",Passed all validation checks,0.85
+4179,1.5,percentage,2024,general_rate,ure to notify unacceptable applications; and 7.5 million or 1.5% of turnover for less severe cases (...,Passed all validation checks,0.85
+4186,10.0,percentage,2023,labor_metric,"(2023) estimate
+that up to 80% of us workforce could have at least 10% of their tasks replaced and ...",Passed all validation checks,0.85
+4187,19.0,percentage,2023,labor_metric,"(2023) estimate
+that up to 80% of us workforce could have at least 10% of their tasks replaced and ...",Passed all validation checks,0.85
+4191,16.0,percentage,2030,training_metric,"(2023) offers somewhat smaller estimates,
+predicting that 8% of hours currently worked will be auto...",Passed all validation checks,0.85
+4192,4.0,percentage,2030,training_metric,"(2023) offers somewhat smaller estimates,
+predicting that 8% of hours currently worked will be auto...",Passed all validation checks,0.85
+4193,3.0,percentage,2030,training_metric,"(2023) offers somewhat smaller estimates,
+predicting that 8% of hours currently worked will be auto...",Passed all validation checks,0.85
+4205,13.4,percentage,2025,employment,"ries see 5.5% of total employment exposed to automation and 13.4% to augmentation from ai, while the...",Passed all validation checks,0.85
+4206,0.4,percentage,2025,revenue,".4% to augmentation from ai, while the same percentages are 0.4% and 10.4% for low-income countries,...",Passed all validation checks,0.85
+4207,10.4,percentage,2025,revenue,"gmentation from ai, while the same percentages are 0.4% and 10.4% for low-income countries, respecti...",Passed all validation checks,0.85
+4214,24.0,percentage,2023,employment,"dnani (2023) find an employment exposure of 25% for the us, 24% for the euro area, and 18% worldwide...",Passed all validation checks,0.85
+4216,8.0,percentage,2023,percentages,". (2023) offers somewhat smaller estimates, predicting that 8% of hours currently worked will be aut...",Passed all validation checks,0.85
+4223,5.0,percentage,2010,employment,period 2010-2019. job postings listing ai skills command a 5% wage premium compared to other same-fi...,Passed all validation checks,0.85
+4225,23.0,percentage,2023,employment,re of jobs survey (world economic forum 2023) predicts that 23% of global jobs will change in the ne...,Passed all validation checks,0.85
+4230,4.4,percentage,2022,productivity,"zarnitzki, fern´andez, and rammer (2022) put this number at 4.4%. aggregate productivity impacts fro...",Passed all validation checks,0.85
+4231,18.0,percentage,2018,adoption_rate,"that the average adoption of ai technologies was just over 18% in 2018, when weighted by employment,...",Passed all validation checks,0.85
+4232,7.9,percentage,2021,percentages,technologies.12 the average in eu in 2021 (pre-chatgpt) is 7.9% and big data used by business stands...,Passed all validation checks,0.85
+4236,17.3,percentage,2025,percentages,"o not exceed 10% of ai usage, while denmark 23.9%, portugal 17.3%, finland 15.8%, netherlands 13.1%,...",Passed all validation checks,0.85
+4237,15.8,percentage,2025,percentages,"% of ai usage, while denmark 23.9%, portugal 17.3%, finland 15.8%, netherlands 13.1%, luxembourg 13%...",Passed all validation checks,0.85
+4238,13.1,percentage,2025,percentages,"e denmark 23.9%, portugal 17.3%, finland 15.8%, netherlands 13.1%, luxembourg 13% and slovenia 11.7%...",Passed all validation checks,0.85
+4240,11.7,percentage,2025,percentages,"nland 15.8%, netherlands 13.1%, luxembourg 13% and slovenia 11.7% are the countries with the highest...",Passed all validation checks,0.85
+4241,75.0,percentage,2030,percentages,e path to the digital decade target requires that more than 75% of eu companies adopt ai technologie...,Passed all validation checks,0.85
+4243,95.0,percentage,2023,percentages,"in the design of chips, with a market share estimated at 80-95%, see https://www.cnbc.com/ 2023/08/0...",Passed all validation checks,0.85
+4247,11.3,number,2025,employment,ure of jobs survey covers 803 companies employing more than 11.3 million workers in total. these spa...,Passed all validation checks,0.85

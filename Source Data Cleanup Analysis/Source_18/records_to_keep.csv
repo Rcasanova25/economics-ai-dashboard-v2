@@ -1,0 +1,54 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence
+4248,44.0,percentage,2025,growth_rate,"lab of a large u.s. firm. ai-assisted researchers discover 44% more materials, resulting in a 39% in...",Passed all validation checks,0.85
+4249,39.0,percentage,2025,growth_rate,"ted researchers discover 44% more materials, resulting in a 39% increase in patent filings and a 17%...",Passed all validation checks,0.85
+4250,17.0,percentage,2025,growth_rate,"erials, resulting in a 39% increase in patent filings and a 17% rise in downstream product in- novat...",Passed all validation checks,0.85
+4251,57.0,percentage,2025,percentages,"e mechanisms behind these results, i show that ai automates 57% of “idea-generation” tasks, realloca...",Passed all validation checks,0.85
+4252,82.0,percentage,2025,cost,"idence reveals that these gains come at a cost, however, as 82% of scientists report reduced satisfa...",Passed all validation checks,0.85
+4256,15.0,percentage,2025,cost,"nting for input costs, the tool boosts r&d efficiency by 13-15%. these results have two implications...",Passed all validation checks,0.85
+4257,81.0,percentage,2025,growth_rate,"mal gains, the output of top-decile scientists increases by 81%. consequently, 90:10 performance ine...",Passed all validation checks,0.85
+4258,16.0,percentage,2025,percentages,onceptualizing potential materials. this falls to less than 16% after the tool’s introduction. meanw...,Passed all validation checks,0.85
+4259,74.0,percentage,2025,growth_rate,"hile, time spent assessing candidate materials increases by 74%. ai therefore has countervailing eff...",Passed all validation checks,0.85
+4260,3.0,percentage,2025,percentages,my sample—excluded from the primary analysis—the lab fired 3% of its researchers. consistent with th...,Passed all validation checks,0.85
+4261,83.0,percentage,2025,percentages,"ab fired 3% of its researchers. consistent with the theory, 83% of these scientists were in the bott...",Passed all validation checks,0.85
+4264,71.0,percentage,2025,percentages,"tly, the number of researchers planning to reskill rises by 71%. these findings show that hands-on e...",Passed all validation checks,0.85
+4265,80.0,percentage,2025,percentages,"so my analysis focuses on filings. historically, more than 80% of the lab’s applications have been a...",Passed all validation checks,0.85
+4266,64.0,percentage,2025,percentages,"efore based solely on the crystals in my sample, comprising 64% of all materials. appendix b.2 descr...",Passed all validation checks,0.85
+4268,6.28,percentage,2025,percentages,"contain an average of 544 technical bigrams. out of these, 6.28% are classified as new terms. append...",Passed all validation checks,0.85
+4270,35.0,percentage,2022,percentages,"ian paper in a top economics journal has a response rate of 35% (dutz et al., 2022) and for surveys ...",Passed all validation checks,0.85
+4271,10.0,percentage,2022,percentages,"et al., 2022) and for surveys of scientists it can be below 10% (hill and stein, 2024; myers et al.,...",Passed all validation checks,0.85
+4272,60.0,percentage,2025,percentages,"tive output. scientists are highly educated, with more than 60% holding a phd, and have worked at th...",Passed all validation checks,0.85
+4276,95.0,percentage,2025,percentages,"ions include team and month fixed 16 effects, and i report 95% confidence intervals based on standar...",Passed all validation checks,0.85
+4277,44.1,percentage,2025,percentages,product prototypes 0 10 20 30 40 50 60 treatment effect (%) 44.1% [p<0.000] 39.4% [p<0.000] 17.2% [p...,Passed all validation checks,0.85
+4278,39.4,percentage,2025,percentages,es 0 10 20 30 40 50 60 treatment effect (%) 44.1% [p<0.000] 39.4% [p<0.000] 17.2% [p<0.001] b. event...,Passed all validation checks,0.85
+4279,17.2,percentage,2025,percentages,50 60 treatment effect (%) 44.1% [p<0.000] 39.4% [p<0.000] 17.2% [p<0.001] b. event study estimates ...,Passed all validation checks,0.85
+4281,4.0,percentage,2025,percentages,"ective, the lab’s research output per scientist declined by 4% over the preceding five years. this w...",Passed all validation checks,0.85
+4282,13.0,percentage,2025,growth_rate,"or atomic properties, the tool increases average quality by 13% and raises the proportion of top-dec...",Passed all validation checks,0.85
+4283,9.0,percentage,2025,percentages,statistically significant improvements in average quality (9%) and the proportion of high-quality ma...,Passed all validation checks,0.85
+4284,10.0,percentage,2025,percentages,le properties index overall quality index average share top 10% average share top 10% average share ...,Passed all validation checks,0.85
+4289,5.0,percentage,2025,percentages,"eam level. *, **, and *** indicate significance at the 10%, 5%, and 1% levels. 4.3 novelty while ai ...",Passed all validation checks,0.85
+4290,1.0,percentage,2025,percentages,"l. *, **, and *** indicate significance at the 10%, 5%, and 1% levels. 4.3 novelty while ai accelera...",Passed all validation checks,0.85
+4291,73.0,percentage,2025,percentages,"ing the survey of scientists. consistent with my estimates, 73% of researchers report that the tool ...",Passed all validation checks,0.85
+4292,11.0,percentage,2025,percentages,"of table 3, the tool boosts novelty on the first measure by 11%, shifting the average filing 19 from...",Passed all validation checks,0.85
+4293,22.0,percentage,2025,percentages,"or of transformative technologies—by two percentage points (22%). finally, i study the tool’s impact...",Passed all validation checks,0.85
+4296,25.0,percentage,2025,percentages,y patent similarity patent similarity share new (mean) (top 25%) (full text) (new terms) product lin...,Passed all validation checks,0.85
+4297,64.0,percentage,2016,percentages,proach of de et al. (2016). this method applies only to the 64% of crystal structures in my sample. ...,Passed all validation checks,0.85
+4310,23.0,percentage,2025,percentages,"uction. in contrast, while judgment tasks initially take up 23% of research hours, they consume 40% ...",Passed all validation checks,0.85
+4311,40.0,percentage,2025,percentages,"tasks initially take up 23% of research hours, they consume 40% by the end of the sample. finally, t...",Passed all validation checks,0.85
+4316,36.0,percentage,2025,adoption_rate,e to ai adoption percent of scientist-hours 39% 16% 23% 40% 36% 44% a. composition of research tasks...,Passed all validation checks,0.85
+4319,46.0,percentage,2025,percentages,"llocation, those especially skilled in evaluation display a 46% larger shift from idea generation to...",Passed all validation checks,0.85
+4321,26.0,percentage,2025,percentages,"initially allocating 36% of their time to idea generation, 26% to judgment, and 42% to experimentati...",Passed all validation checks,0.85
+4322,42.0,percentage,2025,percentages,"36% of their time to idea generation, 26% to judgment, and 42% to experimentation. after the introdu...",Passed all validation checks,0.85
+4324,35.0,percentage,2025,percentages,"ion. after the introduction of ai, these shares become 13%, 35%, and 47%, respectively. matching sur...",Passed all validation checks,0.85
+4325,47.0,percentage,2025,percentages,"r the introduction of ai, these shares become 13%, 35%, and 47%, respectively. matching survey respo...",Passed all validation checks,0.85
+4326,88.0,percentage,2025,percentages,"h similar tools)? 32 consistent with my empirical results, 88% of scientists find ai-generated compo...",Passed all validation checks,0.85
+4327,62.0,percentage,2025,percentages,"port frequently ruling out false positives without testing (62% vs. 34%, p < 0.00). this disparity s...",Passed all validation checks,0.85
+4328,34.0,percentage,2025,percentages,"quently ruling out false positives without testing (62% vs. 34%, p < 0.00). this disparity suggests ...",Passed all validation checks,0.85
+4329,90.0,percentage,2025,percentages,experience with similar tools. the vertical lines represent 90% confidence intervals. the relevant s...,Passed all validation checks,0.85
+4331,2.0,percentage,2025,percentages,"j . scientists in the top three quartiles faced less than a 2% chance of being let go, while those i...",Passed all validation checks,0.85
+4335,53.0,percentage,2025,percentages,llowed by tasks becoming less creative and more repetitive (53%). concerns over credit allocation an...,Passed all validation checks,0.85
+4336,21.0,percentage,2025,percentages,"allocation and the complexity of the ai tool were cited by 21% and 19% of researchers, respectively....",Passed all validation checks,0.85
+4337,19.0,percentage,2025,percentages,"ion and the complexity of the ai tool were cited by 21% and 19% of researchers, respectively. this h...",Passed all validation checks,0.85
+4338,19.4,percentage,2025,percentages,less creative/ more repetitive underutilization of skills 19.4% 20.9% 54.9% 72.7% b. source of reduc...,Passed all validation checks,0.85
+4339,20.9,percentage,2025,percentages,reative/ more repetitive underutilization of skills 19.4% 20.9% 54.9% 72.7% b. source of reduced tas...,Passed all validation checks,0.85
+4340,54.9,percentage,2025,percentages,/ more repetitive underutilization of skills 19.4% 20.9% 54.9% 72.7% b. source of reduced task satis...,Passed all validation checks,0.85
+4341,72.7,percentage,2025,percentages,repetitive underutilization of skills 19.4% 20.9% 54.9% 72.7% b. source of reduced task satisfaction...,Passed all validation checks,0.85

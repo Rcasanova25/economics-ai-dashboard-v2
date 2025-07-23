@@ -1,0 +1,5 @@
+original_id,value,unit,year,current_metric_type,new_metric_type,context_preview,sector,country,company_size,reason,confidence
+792,78.81,percentage,2024,general_rate,adoption_metric,"he engagement platform 6sense, github had a market share of 78.81% on march 18, 2024. further, 93% o...",,,,Reclassify: general_rate → adoption_metric,0.8
+794,3.0,percentage,2023,general_rate,adoption_metric,"june 2023. during each week, usage is relatively low, with 3% weekly exposure and 0.17 days of copil...",,,,Reclassify: general_rate → adoption_metric,0.8
+795,44.0,percentage,2024,general_rate,adoption_metric,re- sponse to ai adoption. the average developer allocates 44% of their engagement towards coding an...,,,,Reclassify: general_rate → adoption_metric,0.8
+798,61.2,percentage,2024,general_rate,adoption_metric,l in ai adoption and an increase of 6.14 percentage points (61.2% relative to the baseline) of devel...,,,,Reclassify: general_rate → adoption_metric,0.8

@@ -1,0 +1,16 @@
+SOURCE 15 CLEANUP ANALYSIS SUMMARY
+Generated: 2025-07-23T15:08:41.498329
+
+FILE: the-economic-impact-of-large-language-models.pdf
+Original Records: 272
+
+PROPOSED ACTIONS:
+- Records to KEEP: 63
+- Records to REMOVE: 199
+- Records to MODIFY: 10
+
+Quality Score: 23.16%
+
+Top removal reason: Duplicate record (194 records)
+
+Please review the detailed reports before proceeding with cleanup.

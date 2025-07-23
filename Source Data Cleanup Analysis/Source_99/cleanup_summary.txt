@@ -1,0 +1,16 @@
+SOURCE 99 CLEANUP ANALYSIS SUMMARY
+Generated: 2025-07-23T16:21:11.696562
+
+FILE: Source_99
+Original Records: 4
+
+PROPOSED ACTIONS:
+- Records to KEEP: 3
+- Records to REMOVE: 1
+- Records to MODIFY: 0
+
+Quality Score: 75.0%
+
+Top removal reason: Duplicate record (1 records)
+
+Please review the detailed reports before proceeding with cleanup.

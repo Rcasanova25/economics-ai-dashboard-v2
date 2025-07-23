@@ -1,0 +1,435 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence,proposed_action,kept_record_id
+195,33.0,percentage,2024,general_rate,[7] argue that ai could increase aggregate productivity by 33% over 20 years through its impact on k...,Reclassify: general_rate → productivity_metric,0.8,MODIFY,
+196,8.0,percentage,2024,general_rate,german firms introducing new products or processes by about 8%. babina et al. [19] reported signific...,Passed all validation checks,0.85,KEEP,
+197,6.8,percentage,2024,general_rate,"ease in sales per worker. conversely, ref. [20] estimated a 6.8% increase in sales per worker for fi...",Reclassify: general_rate → employment_metric,0.8,MODIFY,
+198,4.4,percentage,2024,general_rate,"innovating in ai technologies, while [5] put this number at 4.4%. 2.2. measurement challenges and th...",Reclassify: general_rate → productivity_metric,0.8,MODIFY,
+199,13.8,percentage,2024,general_rate,"customer service, with ai-assisted support agents handling 13.8% more inquiries per hour [24]. autom...",Passed all validation checks,0.85,KEEP,
+200,59.0,percentage,2024,general_rate,"onal efficiency, enabling business professionals to produce 59% more documents per hour and programm...",Reclassify: general_rate → productivity_metric,0.8,MODIFY,
+201,126.0,percentage,2024,general_rate,"produce 59% more documents per hour and programmers to code 126% more projects per week [20,21]. 2.4...",Passed all validation checks,0.85,KEEP,
+202,95.0,percentage,2024,general_rate,"z-value for the desired level of confidence (e.g., 1.96 for 95% confidence). • zβ is the z-value for...",Passed all validation checks,0.85,KEEP,
+203,80.0,percentage,2024,general_rate,". • zβ is the z-value for the desired power (e.g., 0.84 for 80% power). • p is the estimated proport...",Passed all validation checks,0.85,KEEP,
+204,2.58,percentage,2024,general_rate,"rcentage what is your age? age (1–6 scale, 6 for 41+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21...",Passed all validation checks,0.85,KEEP,
+205,22.75,percentage,2024,general_rate,"t is your age? age (1–6 scale, 6 for 41+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 1...",Passed all validation checks,0.85,KEEP,
+206,12.02,percentage,2024,general_rate,+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 12.02% 41+ 18.88% rate the level of ai i...,Reclassify: general_rate → adoption_metric,0.8,MODIFY,
+207,18.88,percentage,2024,general_rate,58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 12.02% 41+ 18.88% rate the level of ai integration ...,Reclassify: general_rate → adoption_metric,0.8,MODIFY,
+208,53.22,percentage,2024,general_rate,doctorate) high school 18.88% undergraduate 20.60% graduate 53.22% doctorate 7.30% you currently use...,Passed all validation checks,0.85,KEEP,
+209,42.06,percentage,2024,general_rate,"le 1–4 scale, 4 for all the time) never 17.17% occasionally 42.06% often 31.76% all the time 9.01% e...",Reclassify: general_rate → employment_metric,0.8,MODIFY,
+210,9.01,percentage,2024,general_rate,"never 17.17% occasionally 42.06% often 31.76% all the time 9.01% electronics 2024, 13, 3758 8 of 29 ...",Reclassify: general_rate → employment_metric,0.8,MODIFY,
+211,46.78,percentage,2024,general_rate,"uctivity_change_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80...",Passed all validation checks,0.85,KEEP,
+212,26.18,percentage,2024,general_rate,"e_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100...",Passed all validation checks,0.85,KEEP,
+213,0.86,percentage,2024,general_rate,20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100% 0.86% for how many years have you been w...,Passed all validation checks,0.85,KEEP,
+214,3.0,percentage,2024,general_rate,52.36% 1–2 years 32.62% 2–5 years 12.02% more than 5 years 3.00% has your organization provided any ...,Passed all validation checks,0.85,KEEP,
+215,15.88,percentage,2024,general_rate,"reation (1–5 scale, 5 for strongly agree) strongly disagree 15.88% disagree 28.76% neither agree nor...",Passed all validation checks,0.85,KEEP,
+216,36.48,percentage,2024,general_rate,disagree 15.88% disagree 28.76% neither agree nor disagree 36.48% agree 14.16% strongly agree 4.72% ...,Reclassify: general_rate → adoption_metric,0.8,MODIFY,
+217,66.95,percentage,2024,general_rate,"nerships) partnerships_experience (0–2 scale, 2 for yes) no 66.95% unsure 27.47% yes 5.58% to what e...",Passed all validation checks,0.85,KEEP,
+218,5.58,percentage,2024,general_rate,"perience (0–2 scale, 2 for yes) no 66.95% unsure 27.47% yes 5.58% to what extent do you agree with t...",Passed all validation checks,0.85,KEEP,
+219,0.0,percentage,2024,general_rate,"es (1–5, 5 for significant improvement) significant decline 0.00% slight decline 2.15% no change 56....",Passed all validation checks,0.85,KEEP,
+220,2.15,percentage,2024,general_rate,icant improvement) significant decline 0.00% slight decline 2.15% no change 56.65% slight improvemen...,Passed all validation checks,0.85,KEEP,
+221,0.43,percentage,2024,general_rate,residence austria 0.86% belgium 4.29% canada 3.00% croatia 0.43% denmark 0.43% finland 1.29% france ...,Passed all validation checks,0.85,KEEP,
+222,1.29,percentage,2024,general_rate,gium 4.29% canada 3.00% croatia 0.43% denmark 0.43% finland 1.29% france 4.29% freelancer 0.43% germ...,Passed all validation checks,0.85,KEEP,
+223,1.72,percentage,2024,general_rate,dence poland 14.59% portugal 18.45% romania 16.74% slovenia 1.72% spain 2.15% sweden 0.86% switzerla...,Passed all validation checks,0.85,KEEP,
+224,3.4,percentage,2024,general_rate,"y change. query 9, for instance, demonstrates a starkly low 3.4% probability of productivity change ...",Reclassify: general_rate → adoption_metric,0.8,MODIFY,
+225,15.7,billions_usd,2030,financial_metric,"(pwc) report predicted that ai could increase global gdp by $15.7 trillion between 2018 and 2030, wi...",Passed all validation checks,0.85,KEEP,
+226,233.0,millions_usd,2024,employment_metric,ne learning models and bayesian network analysis. data from 233 employees across various industries ...,Financial units should not appear with employment metrics,0.95,REMOVE,
+227,2024.0,number,2024,unknown_metric,"insights from a comprehensive survey analysis. electronics 2024, 13, 3758. https:// doi.org/10.3390/...",Passed all validation checks,0.85,KEEP,
+228,8.0,percentage,2024,revenue_metric,"8% increase in sales per worker for firms innovating in ai technologies, while [5] put this
+number ...",Duplicate record (keeping first occurrence),0.9,REMOVE,196.0
+229,72.0,percentage,2024,revenue_metric,"72%
+sales
+0",Passed all validation checks,0.85,KEEP,
+230,60.0,percentage,2024,labor_metric,"60%
+in your opinion, how well-prepared is your
+organization to adapt to future ai-driven changes i...",Passed all validation checks,0.85,KEEP,
+231,1.0,billions_usd,2024,training_metric,"ai_integration_level (scale 1–10)
+scale
+numeric
+on a scale of 1–10, how would you rate the comple...",Passed all validation checks,0.85,KEEP,
+232,10.0,billions_usd,2024,training_metric,"ai_integration_level (scale 1–10)
+scale
+numeric
+on a scale of 1–10, how would you rate the comple...",Passed all validation checks,0.85,KEEP,
+233,0.0,percentage,2024,training_metric,"00%
+has your organization provided any ai-related
+training or education programs for its employees...",Duplicate record (keeping first occurrence),0.9,REMOVE,219.0
+234,0.0,percentage,2024,energy_metric,"00%
+energy sector
+1",Duplicate record (keeping first occurrence),0.9,REMOVE,219.0
+235,80.0,percentage,2024,energy_metric,84 for 80% power),Duplicate record (keeping first occurrence),0.9,REMOVE,203.0
+236,6.8,percentage,2024,impact_metrics,"rademarks associated with ai but no increase in sales per worker. conversely, ref. [20] estimated a ...",Duplicate record (keeping first occurrence),0.9,REMOVE,197.0
+4349,33.0,percentage,2024,general_rate,[7] argue that ai could increase aggregate productivity by 33% over 20 years through its impact on k...,Duplicate record (keeping first occurrence),0.9,REMOVE,195.0
+4350,8.0,percentage,2024,general_rate,german firms introducing new products or processes by about 8%. babina et al. [19] reported signific...,Duplicate record (keeping first occurrence),0.9,REMOVE,196.0
+4351,6.8,percentage,2024,general_rate,"ease in sales per worker. conversely, ref. [20] estimated a 6.8% increase in sales per worker for fi...",Duplicate record (keeping first occurrence),0.9,REMOVE,197.0
+4352,4.4,percentage,2024,general_rate,"innovating in ai technologies, while [5] put this number at 4.4%. 2.2. measurement challenges and th...",Duplicate record (keeping first occurrence),0.9,REMOVE,198.0
+4353,13.8,percentage,2024,general_rate,"customer service, with ai-assisted support agents handling 13.8% more inquiries per hour [24]. autom...",Duplicate record (keeping first occurrence),0.9,REMOVE,199.0
+4354,59.0,percentage,2024,general_rate,"onal efficiency, enabling business professionals to produce 59% more documents per hour and programm...",Duplicate record (keeping first occurrence),0.9,REMOVE,200.0
+4355,126.0,percentage,2024,general_rate,"produce 59% more documents per hour and programmers to code 126% more projects per week [20,21]. 2.4...",Duplicate record (keeping first occurrence),0.9,REMOVE,201.0
+4356,95.0,percentage,2024,general_rate,"z-value for the desired level of confidence (e.g., 1.96 for 95% confidence). • zβ is the z-value for...",Duplicate record (keeping first occurrence),0.9,REMOVE,202.0
+4357,80.0,percentage,2024,general_rate,". • zβ is the z-value for the desired power (e.g., 0.84 for 80% power). • p is the estimated proport...",Duplicate record (keeping first occurrence),0.9,REMOVE,203.0
+4358,2.58,percentage,2024,general_rate,"rcentage what is your age? age (1–6 scale, 6 for 41+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21...",Duplicate record (keeping first occurrence),0.9,REMOVE,204.0
+4359,22.75,percentage,2024,general_rate,"t is your age? age (1–6 scale, 6 for 41+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 1...",Duplicate record (keeping first occurrence),0.9,REMOVE,205.0
+4360,12.02,percentage,2024,general_rate,+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 12.02% 41+ 18.88% rate the level of ai i...,Duplicate record (keeping first occurrence),0.9,REMOVE,206.0
+4361,18.88,percentage,2024,general_rate,58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 12.02% 41+ 18.88% rate the level of ai integration ...,Duplicate record (keeping first occurrence),0.9,REMOVE,207.0
+4362,53.22,percentage,2024,general_rate,doctorate) high school 18.88% undergraduate 20.60% graduate 53.22% doctorate 7.30% you currently use...,Duplicate record (keeping first occurrence),0.9,REMOVE,208.0
+4363,42.06,percentage,2024,general_rate,"le 1–4 scale, 4 for all the time) never 17.17% occasionally 42.06% often 31.76% all the time 9.01% e...",Duplicate record (keeping first occurrence),0.9,REMOVE,209.0
+4364,9.01,percentage,2024,general_rate,"never 17.17% occasionally 42.06% often 31.76% all the time 9.01% electronics 2024, 13, 3758 8 of 29 ...",Duplicate record (keeping first occurrence),0.9,REMOVE,210.0
+4365,46.78,percentage,2024,general_rate,"uctivity_change_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80...",Duplicate record (keeping first occurrence),0.9,REMOVE,211.0
+4366,26.18,percentage,2024,general_rate,"e_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100...",Duplicate record (keeping first occurrence),0.9,REMOVE,212.0
+4367,0.86,percentage,2024,general_rate,20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100% 0.86% for how many years have you been w...,Duplicate record (keeping first occurrence),0.9,REMOVE,213.0
+4368,3.0,percentage,2024,general_rate,52.36% 1–2 years 32.62% 2–5 years 12.02% more than 5 years 3.00% has your organization provided any ...,Duplicate record (keeping first occurrence),0.9,REMOVE,214.0
+4369,15.88,percentage,2024,general_rate,"reation (1–5 scale, 5 for strongly agree) strongly disagree 15.88% disagree 28.76% neither agree nor...",Duplicate record (keeping first occurrence),0.9,REMOVE,215.0
+4370,36.48,percentage,2024,general_rate,disagree 15.88% disagree 28.76% neither agree nor disagree 36.48% agree 14.16% strongly agree 4.72% ...,Duplicate record (keeping first occurrence),0.9,REMOVE,216.0
+4371,66.95,percentage,2024,general_rate,"nerships) partnerships_experience (0–2 scale, 2 for yes) no 66.95% unsure 27.47% yes 5.58% to what e...",Duplicate record (keeping first occurrence),0.9,REMOVE,217.0
+4372,5.58,percentage,2024,general_rate,"perience (0–2 scale, 2 for yes) no 66.95% unsure 27.47% yes 5.58% to what extent do you agree with t...",Duplicate record (keeping first occurrence),0.9,REMOVE,218.0
+4373,0.0,percentage,2024,general_rate,"es (1–5, 5 for significant improvement) significant decline 0.00% slight decline 2.15% no change 56....",Duplicate record (keeping first occurrence),0.9,REMOVE,219.0
+4374,2.15,percentage,2024,general_rate,icant improvement) significant decline 0.00% slight decline 2.15% no change 56.65% slight improvemen...,Duplicate record (keeping first occurrence),0.9,REMOVE,220.0
+4375,0.43,percentage,2024,general_rate,residence austria 0.86% belgium 4.29% canada 3.00% croatia 0.43% denmark 0.43% finland 1.29% france ...,Duplicate record (keeping first occurrence),0.9,REMOVE,221.0
+4376,1.29,percentage,2024,general_rate,gium 4.29% canada 3.00% croatia 0.43% denmark 0.43% finland 1.29% france 4.29% freelancer 0.43% germ...,Duplicate record (keeping first occurrence),0.9,REMOVE,222.0
+4377,1.72,percentage,2024,general_rate,dence poland 14.59% portugal 18.45% romania 16.74% slovenia 1.72% spain 2.15% sweden 0.86% switzerla...,Duplicate record (keeping first occurrence),0.9,REMOVE,223.0
+4378,3.4,percentage,2024,general_rate,"y change. query 9, for instance, demonstrates a starkly low 3.4% probability of productivity change ...",Duplicate record (keeping first occurrence),0.9,REMOVE,224.0
+4379,15.7,billions_usd,2030,financial_metric,"(pwc) report predicted that ai could increase global gdp by $15.7 trillion between 2018 and 2030, wi...",Duplicate record (keeping first occurrence),0.9,REMOVE,225.0
+4380,233.0,millions_usd,2024,employment_metric,ne learning models and bayesian network analysis. data from 233 employees across various industries ...,Duplicate record (keeping first occurrence),0.9,REMOVE,226.0
+4381,2024.0,number,2024,unknown_metric,"insights from a comprehensive survey analysis. electronics 2024, 13, 3758. https:// doi.org/10.3390/...",Duplicate record (keeping first occurrence),0.9,REMOVE,227.0
+4382,8.0,percentage,2024,revenue_metric,"8% increase in sales per worker for firms innovating in ai technologies, while [5] put this
+number ...",Duplicate record (keeping first occurrence),0.9,REMOVE,196.0
+4383,72.0,percentage,2024,revenue_metric,"72%
+sales
+0",Duplicate record (keeping first occurrence),0.9,REMOVE,229.0
+4384,60.0,percentage,2024,labor_metric,"60%
+in your opinion, how well-prepared is your
+organization to adapt to future ai-driven changes i...",Duplicate record (keeping first occurrence),0.9,REMOVE,230.0
+4385,1.0,billions_usd,2024,training_metric,"ai_integration_level (scale 1–10)
+scale
+numeric
+on a scale of 1–10, how would you rate the comple...",Duplicate record (keeping first occurrence),0.9,REMOVE,231.0
+4386,10.0,billions_usd,2024,training_metric,"ai_integration_level (scale 1–10)
+scale
+numeric
+on a scale of 1–10, how would you rate the comple...",Duplicate record (keeping first occurrence),0.9,REMOVE,232.0
+4387,0.0,percentage,2024,training_metric,"00%
+has your organization provided any ai-related
+training or education programs for its employees...",Duplicate record (keeping first occurrence),0.9,REMOVE,219.0
+4388,0.0,percentage,2024,energy_metric,"00%
+energy sector
+1",Duplicate record (keeping first occurrence),0.9,REMOVE,219.0
+4389,80.0,percentage,2024,energy_metric,84 for 80% power),Duplicate record (keeping first occurrence),0.9,REMOVE,203.0
+4390,6.8,percentage,2024,impact_metrics,"rademarks associated with ai but no increase in sales per worker. conversely, ref. [20] estimated a ...",Duplicate record (keeping first occurrence),0.9,REMOVE,197.0
+4391,33.0,percentage,2025,productivity,[7] argue that ai could increase aggregate productivity by 33% over 20 years through its impact on k...,Passed all validation checks,0.85,KEEP,
+4392,8.0,percentage,2025,growth_rate,german firms introducing new products or processes by about 8%. babina et al. [19] reported signific...,Passed all validation checks,0.85,KEEP,
+4393,6.8,percentage,2025,revenue,"ease in sales per worker. conversely, ref. [20] estimated a 6.8% increase in sales per worker for fi...",Passed all validation checks,0.85,KEEP,
+4394,4.4,percentage,2025,productivity,"innovating in ai technologies, while [5] put this number at 4.4%. 2.2. measurement challenges and th...",Passed all validation checks,0.85,KEEP,
+4395,13.8,percentage,2025,percentages,"customer service, with ai-assisted support agents handling 13.8% more inquiries per hour [24]. autom...",Passed all validation checks,0.85,KEEP,
+4396,59.0,percentage,2025,productivity,"onal efficiency, enabling business professionals to produce 59% more documents per hour and programm...",Passed all validation checks,0.85,KEEP,
+4397,126.0,percentage,2025,percentages,"produce 59% more documents per hour and programmers to code 126% more projects per week [20,21]. 2.4...",Passed all validation checks,0.85,KEEP,
+4398,95.0,percentage,2025,energy,"z-value for the desired level of confidence (e.g., 1.96 for 95% confidence). • zβ is the z-value for...",Passed all validation checks,0.85,KEEP,
+4399,80.0,percentage,2025,energy,". • zβ is the z-value for the desired power (e.g., 0.84 for 80% power). • p is the estimated proport...",Passed all validation checks,0.85,KEEP,
+4400,2.58,percentage,2025,percentages,"rcentage what is your age? age (1–6 scale, 6 for 41+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21...",Passed all validation checks,0.85,KEEP,
+4401,22.75,percentage,2025,percentages,"t is your age? age (1–6 scale, 6 for 41+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 1...",Passed all validation checks,0.85,KEEP,
+4402,22.75,percentage,2025,percentages,"? age (1–6 scale, 6 for 41+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 12.02% 41+ 18....",Duplicate record (keeping first occurrence),0.9,REMOVE,4401.0
+4403,21.03,percentage,2025,percentages,"ale, 6 for 41+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 12.02% 41+ 18.88% rate the ...",Passed all validation checks,0.85,KEEP,
+4404,12.02,percentage,2025,percentages,+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 12.02% 41+ 18.88% rate the level of ai i...,Passed all validation checks,0.85,KEEP,
+4405,18.88,percentage,2025,percentages,58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 12.02% 41+ 18.88% rate the level of ai integration ...,Passed all validation checks,0.85,KEEP,
+4406,18.88,percentage,2025,percentages,"ucation? education (1–4 scale, 4 for doctorate) high school 18.88% undergraduate 20.60% graduate 53....",Duplicate record (keeping first occurrence),0.9,REMOVE,4405.0
+4407,20.6,percentage,2025,percentages,"–4 scale, 4 for doctorate) high school 18.88% undergraduate 20.60% graduate 53.22% doctorate 7.30% y...",Passed all validation checks,0.85,KEEP,
+4408,53.22,percentage,2025,percentages,doctorate) high school 18.88% undergraduate 20.60% graduate 53.22% doctorate 7.30% you currently use...,Passed all validation checks,0.85,KEEP,
+4409,7.3,percentage,2025,percentages,chool 18.88% undergraduate 20.60% graduate 53.22% doctorate 7.30% you currently use artificial intel...,Passed all validation checks,0.85,KEEP,
+4410,17.17,percentage,2025,percentages,"ai_tools_usage (scale 1–4 scale, 4 for all the time) never 17.17% occasionally 42.06% often 31.76% a...",Passed all validation checks,0.85,KEEP,
+4411,42.06,percentage,2024,percentages,"le 1–4 scale, 4 for all the time) never 17.17% occasionally 42.06% often 31.76% all the time 9.01% e...",Duplicate record (keeping first occurrence),0.9,REMOVE,209.0
+4412,31.76,percentage,2024,percentages,4 for all the time) never 17.17% occasionally 42.06% often 31.76% all the time 9.01% electronics 202...,Passed all validation checks,0.85,KEEP,
+4413,9.01,percentage,2024,percentages,"never 17.17% occasionally 42.06% often 31.76% all the time 9.01% electronics 2024, 13, 3758 8 of 29 ...",Duplicate record (keeping first occurrence),0.9,REMOVE,210.0
+4414,100.0,percentage,2025,productivity,"of ai? productivity_change_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 1...",Passed all validation checks,0.85,KEEP,
+4415,20.0,percentage,2025,productivity,"productivity_change_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 6...",Passed all validation checks,0.85,KEEP,
+4416,46.78,percentage,2025,percentages,"uctivity_change_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80...",Passed all validation checks,0.85,KEEP,
+4417,40.0,percentage,2025,percentages,"hange_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80...",Passed all validation checks,0.85,KEEP,
+4418,26.18,percentage,2025,percentages,"e_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100...",Passed all validation checks,0.85,KEEP,
+4419,60.0,percentage,2025,percentages,"ge (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100% 0.86% fo...",Passed all validation checks,0.85,KEEP,
+4420,18.45,percentage,2025,percentages,"1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100% 0.86% for ho...",Passed all validation checks,0.85,KEEP,
+4421,80.0,percentage,2025,percentages,5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100% 0.86% for how many year...,Duplicate record (keeping first occurrence),0.9,REMOVE,4399.0
+4422,7.73,percentage,2025,percentages,or 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100% 0.86% for how many years h...,Passed all validation checks,0.85,KEEP,
+4423,100.0,percentage,2025,percentages,%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100% 0.86% for how many years have you b...,Duplicate record (keeping first occurrence),0.9,REMOVE,4414.0
+4424,0.86,percentage,2025,percentages,20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100% 0.86% for how many years have you been w...,Passed all validation checks,0.85,KEEP,
+4425,39.91,percentage,2025,percentages,"h_company (1–4 scale, 4 for longer than 10 years) 0–2 years 39.91% 2–4 years 22.32% 4–10 years 23.61...",Passed all validation checks,0.85,KEEP,
+4426,22.32,percentage,2025,percentages,"ale, 4 for longer than 10 years) 0–2 years 39.91% 2–4 years 22.32% 4–10 years 23.61% longer than 10 ...",Passed all validation checks,0.85,KEEP,
+4427,23.61,percentage,2025,percentages,than 10 years) 0–2 years 39.91% 2–4 years 22.32% 4–10 years 23.61% longer than 10 years 14.16% how l...,Passed all validation checks,0.85,KEEP,
+4428,14.16,percentage,2025,adoption_rate,91% 2–4 years 22.32% 4–10 years 23.61% longer than 10 years 14.16% how long has your company been us...,Passed all validation checks,0.85,KEEP,
+4429,52.36,percentage,2025,percentages,"ng_ai (1–4 scale, 4 for more than 5 years) less than a year 52.36% 1–2 years 32.62% 2–5 years 12.02%...",Passed all validation checks,0.85,KEEP,
+4430,32.62,percentage,2025,percentages,4 for more than 5 years) less than a year 52.36% 1–2 years 32.62% 2–5 years 12.02% more than 5 years...,Passed all validation checks,0.85,KEEP,
+4431,12.02,percentage,2025,percentages,5 years) less than a year 52.36% 1–2 years 32.62% 2–5 years 12.02% more than 5 years 3.00% has your ...,Duplicate record (keeping first occurrence),0.9,REMOVE,4404.0
+4432,3.0,percentage,2025,percentages,52.36% 1–2 years 32.62% 2–5 years 12.02% more than 5 years 3.00% has your organization provided any ...,Passed all validation checks,0.85,KEEP,
+4433,63.95,percentage,2025,percentages,"s employees? ai_training_provided (0–2 scale, 2 for yes) no 63.95% currently in development 12.88% y...",Passed all validation checks,0.85,KEEP,
+4434,12.88,percentage,2025,percentages,"d (0–2 scale, 2 for yes) no 63.95% currently in development 12.88% yes 23.18% to what extent do you ...",Passed all validation checks,0.85,KEEP,
+4435,23.18,percentage,2025,percentages,"e, 2 for yes) no 63.95% currently in development 12.88% yes 23.18% to what extent do you agree with ...",Passed all validation checks,0.85,KEEP,
+4436,15.88,percentage,2025,percentages,"reation (1–5 scale, 5 for strongly agree) strongly disagree 15.88% disagree 28.76% neither agree nor...",Passed all validation checks,0.85,KEEP,
+4437,28.76,percentage,2025,percentages,"le, 5 for strongly agree) strongly disagree 15.88% disagree 28.76% neither agree nor disagree 36.48%...",Passed all validation checks,0.85,KEEP,
+4438,36.48,percentage,2025,percentages,disagree 15.88% disagree 28.76% neither agree nor disagree 36.48% agree 14.16% strongly agree 4.72% ...,Passed all validation checks,0.85,KEEP,
+4439,14.16,percentage,2025,percentages,88% disagree 28.76% neither agree nor disagree 36.48% agree 14.16% strongly agree 4.72% has the impl...,Duplicate record (keeping first occurrence),0.9,REMOVE,4428.0
+4440,4.72,percentage,2025,percentages,ither agree nor disagree 36.48% agree 14.16% strongly agree 4.72% has the implementation of ai led t...,Passed all validation checks,0.85,KEEP,
+4441,72.53,percentage,2025,percentages,"ur company? org_structure_changes (0–2 scale, 2 for yes) no 72.53% unsure 23.18% yes 4.29% has your ...",Passed all validation checks,0.85,KEEP,
+4442,23.18,percentage,2025,percentages,"g_structure_changes (0–2 scale, 2 for yes) no 72.53% unsure 23.18% yes 4.29% has your organization e...",Duplicate record (keeping first occurrence),0.9,REMOVE,4435.0
+4443,4.29,percentage,2025,percentages,"_changes (0–2 scale, 2 for yes) no 72.53% unsure 23.18% yes 4.29% has your organization experienced ...",Passed all validation checks,0.85,KEEP,
+4444,66.95,percentage,2025,percentages,"nerships) partnerships_experience (0–2 scale, 2 for yes) no 66.95% unsure 27.47% yes 5.58% to what e...",Passed all validation checks,0.85,KEEP,
+4445,27.47,percentage,2025,percentages,"nerships_experience (0–2 scale, 2 for yes) no 66.95% unsure 27.47% yes 5.58% to what extent do you a...",Passed all validation checks,0.85,KEEP,
+4446,5.58,percentage,2025,percentages,"perience (0–2 scale, 2 for yes) no 66.95% unsure 27.47% yes 5.58% to what extent do you agree with t...",Passed all validation checks,0.85,KEEP,
+4447,5.15,percentage,2025,percentages,"ovement (1–5 scale, 5 for strongly agree) strongly disagree 5.15% disagree 12.45% neither agree nor ...",Passed all validation checks,0.85,KEEP,
+4448,12.45,percentage,2025,percentages,"ale, 5 for strongly agree) strongly disagree 5.15% disagree 12.45% neither agree nor disagree 38.20%...",Passed all validation checks,0.85,KEEP,
+4449,38.2,percentage,2025,percentages,y disagree 5.15% disagree 12.45% neither agree nor disagree 38.20% agree 36.91% strongly agree 7.30%...,Passed all validation checks,0.85,KEEP,
+4450,36.91,percentage,2025,percentages,15% disagree 12.45% neither agree nor disagree 38.20% agree 36.91% strongly agree 7.30% has the impl...,Passed all validation checks,0.85,KEEP,
+4451,7.3,percentage,2025,percentages,ither agree nor disagree 38.20% agree 36.91% strongly agree 7.30% has the implementation of ai chang...,Duplicate record (keeping first occurrence),0.9,REMOVE,4409.0
+4452,73.39,percentage,2024,percentages,"cation_and_ collaboration_changes (0–2 scale, 2 for yes) no 73.39% unsure 17.17% yes 9.44% electroni...",Passed all validation checks,0.85,KEEP,
+4453,17.17,percentage,2024,percentages,"llaboration_changes (0–2 scale, 2 for yes) no 73.39% unsure 17.17% yes 9.44% electronics 2024, 13, 3...",Passed all validation checks,0.85,KEEP,
+4454,9.44,percentage,2024,percentages,"_changes (0–2 scale, 2 for yes) no 73.39% unsure 17.17% yes 9.44% electronics 2024, 13, 3758 9 of 29...",Passed all validation checks,0.85,KEEP,
+4455,59.23,percentage,2025,percentages,"agement 0–4 scale, 4 for significant improvement) no change 59.23% slight improvement 33.48% signifi...",Passed all validation checks,0.85,KEEP,
+4456,33.48,percentage,2025,percentages,ignificant improvement) no change 59.23% slight improvement 33.48% significant improvement 3.00% sli...,Passed all validation checks,0.85,KEEP,
+4457,3.0,percentage,2025,percentages,ge 59.23% slight improvement 33.48% significant improvement 3.00% slight decline 4.29% to what exten...,Duplicate record (keeping first occurrence),0.9,REMOVE,4432.0
+4458,4.29,percentage,2025,percentages,ovement 33.48% significant improvement 3.00% slight decline 4.29% to what extent has your organizati...,Duplicate record (keeping first occurrence),0.9,REMOVE,4443.0
+4459,23.61,percentage,2025,percentages,"al_considerations (0–3 scale, 3 for extensively) not at all 23.61% minimally 33.05% moderately 33.91...",Duplicate record (keeping first occurrence),0.9,REMOVE,4427.0
+4460,33.05,percentage,2025,percentages,"(0–3 scale, 3 for extensively) not at all 23.61% minimally 33.05% moderately 33.91% extensively 9.44...",Passed all validation checks,0.85,KEEP,
+4461,33.91,percentage,2025,adoption_rate,extensively) not at all 23.61% minimally 33.05% moderately 33.91% extensively 9.44% has your organiz...,Passed all validation checks,0.85,KEEP,
+4462,9.44,percentage,2025,adoption_rate,t all 23.61% minimally 33.05% moderately 33.91% extensively 9.44% has your organization implemented ...,Passed all validation checks,0.85,KEEP,
+4463,63.09,percentage,2025,percentages,"? ethical_policies_implementation (0–2 scale, 2 for yes) no 63.09% currently in development 19.31% y...",Passed all validation checks,0.85,KEEP,
+4464,19.31,percentage,2025,percentages,"n (0–2 scale, 2 for yes) no 63.09% currently in development 19.31% yes 17.60% in your opinion, how w...",Passed all validation checks,0.85,KEEP,
+4465,17.6,percentage,2025,percentages,"e, 2 for yes) no 63.09% currently in development 19.31% yes 17.60% in your opinion, how well-prepare...",Passed all validation checks,0.85,KEEP,
+4466,9.44,percentage,2025,percentages,"dness (scale 1–5, 5 for very well-prepared) very unprepared 9.44% somewhat unprepared 23.18% neutral...",Duplicate record (keeping first occurrence),0.9,REMOVE,4462.0
+4467,23.18,percentage,2025,percentages,ry well-prepared) very unprepared 9.44% somewhat unprepared 23.18% neutral 27.47% somewhat prepared ...,Duplicate record (keeping first occurrence),0.9,REMOVE,4435.0
+4468,27.47,percentage,2025,percentages,d) very unprepared 9.44% somewhat unprepared 23.18% neutral 27.47% somewhat prepared 31.33% very wel...,Duplicate record (keeping first occurrence),0.9,REMOVE,4445.0
+4469,31.33,percentage,2025,percentages,somewhat unprepared 23.18% neutral 27.47% somewhat prepared 31.33% very well-prepared 8.58% how has ...,Passed all validation checks,0.85,KEEP,
+4470,8.58,percentage,2025,percentages,neutral 27.47% somewhat prepared 31.33% very well-prepared 8.58% how has the implementation of ai af...,Passed all validation checks,0.85,KEEP,
+4471,0.0,percentage,2025,percentages,"es (1–5, 5 for significant improvement) significant decline 0.00% slight decline 2.15% no change 56....",Passed all validation checks,0.85,KEEP,
+4472,2.15,percentage,2025,percentages,icant improvement) significant decline 0.00% slight decline 2.15% no change 56.65% slight improvemen...,Passed all validation checks,0.85,KEEP,
+4473,56.65,percentage,2025,percentages,t) significant decline 0.00% slight decline 2.15% no change 56.65% slight improvement 34.76% signifi...,Passed all validation checks,0.85,KEEP,
+4474,34.76,percentage,2025,percentages,0% slight decline 2.15% no change 56.65% slight improvement 34.76% significant improvement 6.44% wha...,Passed all validation checks,0.85,KEEP,
+4475,6.44,percentage,2025,percentages,ge 56.65% slight improvement 34.76% significant improvement 6.44% what is your gender? gender (male-...,Passed all validation checks,0.85,KEEP,
+4476,56.65,percentage,2025,percentages,"r? gender (male-1, female-2. prefer not to say-minus1) male 56.65% female 42.49% prefer not to say 0...",Duplicate record (keeping first occurrence),0.9,REMOVE,4473.0
+4477,42.49,percentage,2025,percentages,"e-1, female-2. prefer not to say-minus1) male 56.65% female 42.49% prefer not to say 0.86% what is y...",Passed all validation checks,0.85,KEEP,
+4478,0.86,percentage,2025,percentages,to say-minus1) male 56.65% female 42.49% prefer not to say 0.86% what is your current place of resid...,Duplicate record (keeping first occurrence),0.9,REMOVE,4424.0
+4479,0.86,percentage,2025,percentages,ntry in which you are currently employed) residence austria 0.86% belgium 4.29% canada 3.00% croatia...,Duplicate record (keeping first occurrence),0.9,REMOVE,4424.0
+4480,4.29,percentage,2025,percentages,you are currently employed) residence austria 0.86% belgium 4.29% canada 3.00% croatia 0.43% denmark...,Duplicate record (keeping first occurrence),0.9,REMOVE,4443.0
+4481,3.0,percentage,2025,percentages,ntly employed) residence austria 0.86% belgium 4.29% canada 3.00% croatia 0.43% denmark 0.43% finlan...,Duplicate record (keeping first occurrence),0.9,REMOVE,4432.0
+4482,0.43,percentage,2025,percentages,residence austria 0.86% belgium 4.29% canada 3.00% croatia 0.43% denmark 0.43% finland 1.29% france ...,Passed all validation checks,0.85,KEEP,
+4483,0.43,percentage,2025,percentages,tria 0.86% belgium 4.29% canada 3.00% croatia 0.43% denmark 0.43% finland 1.29% france 4.29% freelan...,Duplicate record (keeping first occurrence),0.9,REMOVE,4482.0
+4484,1.29,percentage,2025,percentages,gium 4.29% canada 3.00% croatia 0.43% denmark 0.43% finland 1.29% france 4.29% freelancer 0.43% germ...,Passed all validation checks,0.85,KEEP,
+4485,4.29,percentage,2025,percentages,nada 3.00% croatia 0.43% denmark 0.43% finland 1.29% france 4.29% freelancer 0.43% germany 4.29% gre...,Duplicate record (keeping first occurrence),0.9,REMOVE,4443.0
+4486,0.43,percentage,2025,percentages,a 0.43% denmark 0.43% finland 1.29% france 4.29% freelancer 0.43% germany 4.29% greece 5.58% hungary...,Duplicate record (keeping first occurrence),0.9,REMOVE,4482.0
+4487,4.29,percentage,2025,percentages,k 0.43% finland 1.29% france 4.29% freelancer 0.43% germany 4.29% greece 5.58% hungary 4.29% ireland...,Duplicate record (keeping first occurrence),0.9,REMOVE,4443.0
+4488,5.58,percentage,2025,percentages,nd 1.29% france 4.29% freelancer 0.43% germany 4.29% greece 5.58% hungary 4.29% ireland 1.29% italy ...,Duplicate record (keeping first occurrence),0.9,REMOVE,4446.0
+4489,4.29,percentage,2025,percentages,e 4.29% freelancer 0.43% germany 4.29% greece 5.58% hungary 4.29% ireland 1.29% italy 8.58% the neth...,Duplicate record (keeping first occurrence),0.9,REMOVE,4443.0
+4490,1.29,percentage,2024,percentages,ncer 0.43% germany 4.29% greece 5.58% hungary 4.29% ireland 1.29% italy 8.58% the netherlands 2.15% ...,Duplicate record (keeping first occurrence),0.9,REMOVE,222.0
+4491,15.7,usd,2018,growth_rate,"(pwc) report predicted that ai could increase global gdp by $15.7 trillion between 2018 and 2030, wi...",Passed all validation checks,0.85,KEEP,
+4492,233.0,number,2025,labor_metrics,ne learning models and bayesian network analysis. data from 233 employees across various industries ...,Passed all validation checks,0.85,KEEP,
+4493,233.0,number,2025,labor_metrics,"irst, it utilizes a unique dataset derived from a survey of 233 employees across various industries,...",Duplicate record (keeping first occurrence),0.9,REMOVE,4492.0
+6324,33.0,percentage,2024,general_rate,[7] argue that ai could increase aggregate productivity by 33% over 20 years through its impact on k...,Duplicate record (keeping first occurrence),0.9,REMOVE,195.0
+6325,8.0,percentage,2024,general_rate,german firms introducing new products or processes by about 8%. babina et al. [19] reported signific...,Duplicate record (keeping first occurrence),0.9,REMOVE,196.0
+6326,6.8,percentage,2024,general_rate,"ease in sales per worker. conversely, ref. [20] estimated a 6.8% increase in sales per worker for fi...",Duplicate record (keeping first occurrence),0.9,REMOVE,197.0
+6327,4.4,percentage,2024,general_rate,"innovating in ai technologies, while [5] put this number at 4.4%. 2.2. measurement challenges and th...",Duplicate record (keeping first occurrence),0.9,REMOVE,198.0
+6328,13.8,percentage,2024,general_rate,"customer service, with ai-assisted support agents handling 13.8% more inquiries per hour [24]. autom...",Duplicate record (keeping first occurrence),0.9,REMOVE,199.0
+6329,59.0,percentage,2024,general_rate,"onal efficiency, enabling business professionals to produce 59% more documents per hour and programm...",Duplicate record (keeping first occurrence),0.9,REMOVE,200.0
+6330,126.0,percentage,2024,general_rate,"produce 59% more documents per hour and programmers to code 126% more projects per week [20,21]. 2.4...",Duplicate record (keeping first occurrence),0.9,REMOVE,201.0
+6331,95.0,percentage,2024,general_rate,"z-value for the desired level of confidence (e.g., 1.96 for 95% confidence). • zβ is the z-value for...",Duplicate record (keeping first occurrence),0.9,REMOVE,202.0
+6332,80.0,percentage,2024,general_rate,". • zβ is the z-value for the desired power (e.g., 0.84 for 80% power). • p is the estimated proport...",Duplicate record (keeping first occurrence),0.9,REMOVE,203.0
+6333,2.58,percentage,2024,general_rate,"rcentage what is your age? age (1–6 scale, 6 for 41+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21...",Duplicate record (keeping first occurrence),0.9,REMOVE,204.0
+6334,22.75,percentage,2024,general_rate,"t is your age? age (1–6 scale, 6 for 41+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 1...",Duplicate record (keeping first occurrence),0.9,REMOVE,205.0
+6335,12.02,percentage,2024,general_rate,+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 12.02% 41+ 18.88% rate the level of ai i...,Duplicate record (keeping first occurrence),0.9,REMOVE,206.0
+6336,18.88,percentage,2024,general_rate,58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 12.02% 41+ 18.88% rate the level of ai integration ...,Duplicate record (keeping first occurrence),0.9,REMOVE,207.0
+6337,53.22,percentage,2024,general_rate,doctorate) high school 18.88% undergraduate 20.60% graduate 53.22% doctorate 7.30% you currently use...,Duplicate record (keeping first occurrence),0.9,REMOVE,208.0
+6338,42.06,percentage,2024,general_rate,"le 1–4 scale, 4 for all the time) never 17.17% occasionally 42.06% often 31.76% all the time 9.01% e...",Duplicate record (keeping first occurrence),0.9,REMOVE,209.0
+6339,9.01,percentage,2024,general_rate,"never 17.17% occasionally 42.06% often 31.76% all the time 9.01% electronics 2024, 13, 3758 8 of 29 ...",Duplicate record (keeping first occurrence),0.9,REMOVE,210.0
+6340,46.78,percentage,2024,general_rate,"uctivity_change_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80...",Duplicate record (keeping first occurrence),0.9,REMOVE,211.0
+6341,26.18,percentage,2024,general_rate,"e_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100...",Duplicate record (keeping first occurrence),0.9,REMOVE,212.0
+6342,0.86,percentage,2024,general_rate,20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100% 0.86% for how many years have you been w...,Duplicate record (keeping first occurrence),0.9,REMOVE,213.0
+6343,3.0,percentage,2024,general_rate,52.36% 1–2 years 32.62% 2–5 years 12.02% more than 5 years 3.00% has your organization provided any ...,Duplicate record (keeping first occurrence),0.9,REMOVE,214.0
+6344,15.88,percentage,2024,general_rate,"reation (1–5 scale, 5 for strongly agree) strongly disagree 15.88% disagree 28.76% neither agree nor...",Duplicate record (keeping first occurrence),0.9,REMOVE,215.0
+6345,36.48,percentage,2024,general_rate,disagree 15.88% disagree 28.76% neither agree nor disagree 36.48% agree 14.16% strongly agree 4.72% ...,Duplicate record (keeping first occurrence),0.9,REMOVE,216.0
+6346,66.95,percentage,2024,general_rate,"nerships) partnerships_experience (0–2 scale, 2 for yes) no 66.95% unsure 27.47% yes 5.58% to what e...",Duplicate record (keeping first occurrence),0.9,REMOVE,217.0
+6347,5.58,percentage,2024,general_rate,"perience (0–2 scale, 2 for yes) no 66.95% unsure 27.47% yes 5.58% to what extent do you agree with t...",Duplicate record (keeping first occurrence),0.9,REMOVE,218.0
+6348,0.0,percentage,2024,general_rate,"es (1–5, 5 for significant improvement) significant decline 0.00% slight decline 2.15% no change 56....",Duplicate record (keeping first occurrence),0.9,REMOVE,219.0
+6349,2.15,percentage,2024,general_rate,icant improvement) significant decline 0.00% slight decline 2.15% no change 56.65% slight improvemen...,Duplicate record (keeping first occurrence),0.9,REMOVE,220.0
+6350,0.43,percentage,2024,general_rate,residence austria 0.86% belgium 4.29% canada 3.00% croatia 0.43% denmark 0.43% finland 1.29% france ...,Duplicate record (keeping first occurrence),0.9,REMOVE,221.0
+6351,1.29,percentage,2024,general_rate,gium 4.29% canada 3.00% croatia 0.43% denmark 0.43% finland 1.29% france 4.29% freelancer 0.43% germ...,Duplicate record (keeping first occurrence),0.9,REMOVE,222.0
+6352,1.72,percentage,2024,general_rate,dence poland 14.59% portugal 18.45% romania 16.74% slovenia 1.72% spain 2.15% sweden 0.86% switzerla...,Duplicate record (keeping first occurrence),0.9,REMOVE,223.0
+6353,3.4,percentage,2024,general_rate,"y change. query 9, for instance, demonstrates a starkly low 3.4% probability of productivity change ...",Duplicate record (keeping first occurrence),0.9,REMOVE,224.0
+6354,15.7,billions_usd,2030,financial_metric,"(pwc) report predicted that ai could increase global gdp by $15.7 trillion between 2018 and 2030, wi...",Duplicate record (keeping first occurrence),0.9,REMOVE,225.0
+6355,233.0,millions_usd,2024,employment_metric,ne learning models and bayesian network analysis. data from 233 employees across various industries ...,Duplicate record (keeping first occurrence),0.9,REMOVE,226.0
+6356,2024.0,number,2024,unknown_metric,"insights from a comprehensive survey analysis. electronics 2024, 13, 3758. https:// doi.org/10.3390/...",Duplicate record (keeping first occurrence),0.9,REMOVE,227.0
+6357,8.0,percentage,2024,revenue_metric,"8% increase in sales per worker for firms innovating in ai technologies, while [5] put this
+number ...",Duplicate record (keeping first occurrence),0.9,REMOVE,196.0
+6358,72.0,percentage,2024,revenue_metric,"72%
+sales
+0",Duplicate record (keeping first occurrence),0.9,REMOVE,229.0
+6359,60.0,percentage,2024,labor_metric,"60%
+in your opinion, how well-prepared is your
+organization to adapt to future ai-driven changes i...",Duplicate record (keeping first occurrence),0.9,REMOVE,230.0
+6360,1.0,billions_usd,2024,training_metric,"ai_integration_level (scale 1–10)
+scale
+numeric
+on a scale of 1–10, how would you rate the comple...",Duplicate record (keeping first occurrence),0.9,REMOVE,231.0
+6361,10.0,billions_usd,2024,training_metric,"ai_integration_level (scale 1–10)
+scale
+numeric
+on a scale of 1–10, how would you rate the comple...",Duplicate record (keeping first occurrence),0.9,REMOVE,232.0
+6362,0.0,percentage,2024,training_metric,"00%
+has your organization provided any ai-related
+training or education programs for its employees...",Duplicate record (keeping first occurrence),0.9,REMOVE,219.0
+6363,0.0,percentage,2024,energy_metric,"00%
+energy sector
+1",Duplicate record (keeping first occurrence),0.9,REMOVE,219.0
+6364,80.0,percentage,2024,energy_metric,84 for 80% power),Duplicate record (keeping first occurrence),0.9,REMOVE,203.0
+6365,6.8,percentage,2024,impact_metrics,"rademarks associated with ai but no increase in sales per worker. conversely, ref. [20] estimated a ...",Duplicate record (keeping first occurrence),0.9,REMOVE,197.0
+10478,33.0,percentage,2024,general_rate,[7] argue that ai could increase aggregate productivity by 33% over 20 years through its impact on k...,Duplicate record (keeping first occurrence),0.9,REMOVE,195.0
+10479,8.0,percentage,2024,general_rate,german firms introducing new products or processes by about 8%. babina et al. [19] reported signific...,Duplicate record (keeping first occurrence),0.9,REMOVE,196.0
+10480,6.8,percentage,2024,general_rate,"ease in sales per worker. conversely, ref. [20] estimated a 6.8% increase in sales per worker for fi...",Duplicate record (keeping first occurrence),0.9,REMOVE,197.0
+10481,4.4,percentage,2024,general_rate,"innovating in ai technologies, while [5] put this number at 4.4%. 2.2. measurement challenges and th...",Duplicate record (keeping first occurrence),0.9,REMOVE,198.0
+10482,13.8,percentage,2024,general_rate,"customer service, with ai-assisted support agents handling 13.8% more inquiries per hour [24]. autom...",Duplicate record (keeping first occurrence),0.9,REMOVE,199.0
+10483,59.0,percentage,2024,general_rate,"onal efficiency, enabling business professionals to produce 59% more documents per hour and programm...",Duplicate record (keeping first occurrence),0.9,REMOVE,200.0
+10484,126.0,percentage,2024,general_rate,"produce 59% more documents per hour and programmers to code 126% more projects per week [20,21]. 2.4...",Duplicate record (keeping first occurrence),0.9,REMOVE,201.0
+10485,95.0,percentage,2024,general_rate,"z-value for the desired level of confidence (e.g., 1.96 for 95% confidence). • zβ is the z-value for...",Duplicate record (keeping first occurrence),0.9,REMOVE,202.0
+10486,80.0,percentage,2024,general_rate,". • zβ is the z-value for the desired power (e.g., 0.84 for 80% power). • p is the estimated proport...",Duplicate record (keeping first occurrence),0.9,REMOVE,203.0
+10487,2.58,percentage,2024,general_rate,"rcentage what is your age? age (1–6 scale, 6 for 41+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21...",Duplicate record (keeping first occurrence),0.9,REMOVE,204.0
+10488,22.75,percentage,2024,general_rate,"t is your age? age (1–6 scale, 6 for 41+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 1...",Duplicate record (keeping first occurrence),0.9,REMOVE,205.0
+10489,12.02,percentage,2024,general_rate,+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 12.02% 41+ 18.88% rate the level of ai i...,Duplicate record (keeping first occurrence),0.9,REMOVE,206.0
+10490,18.88,percentage,2024,general_rate,58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 12.02% 41+ 18.88% rate the level of ai integration ...,Duplicate record (keeping first occurrence),0.9,REMOVE,207.0
+10491,53.22,percentage,2024,general_rate,doctorate) high school 18.88% undergraduate 20.60% graduate 53.22% doctorate 7.30% you currently use...,Duplicate record (keeping first occurrence),0.9,REMOVE,208.0
+10492,42.06,percentage,2024,general_rate,"le 1–4 scale, 4 for all the time) never 17.17% occasionally 42.06% often 31.76% all the time 9.01% e...",Duplicate record (keeping first occurrence),0.9,REMOVE,209.0
+10493,9.01,percentage,2024,general_rate,"never 17.17% occasionally 42.06% often 31.76% all the time 9.01% electronics 2024, 13, 3758 8 of 29 ...",Duplicate record (keeping first occurrence),0.9,REMOVE,210.0
+10494,46.78,percentage,2024,general_rate,"uctivity_change_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80...",Duplicate record (keeping first occurrence),0.9,REMOVE,211.0
+10495,26.18,percentage,2024,general_rate,"e_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100...",Duplicate record (keeping first occurrence),0.9,REMOVE,212.0
+10496,0.86,percentage,2024,general_rate,20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100% 0.86% for how many years have you been w...,Duplicate record (keeping first occurrence),0.9,REMOVE,213.0
+10497,3.0,percentage,2024,general_rate,52.36% 1–2 years 32.62% 2–5 years 12.02% more than 5 years 3.00% has your organization provided any ...,Duplicate record (keeping first occurrence),0.9,REMOVE,214.0
+10498,15.88,percentage,2024,general_rate,"reation (1–5 scale, 5 for strongly agree) strongly disagree 15.88% disagree 28.76% neither agree nor...",Duplicate record (keeping first occurrence),0.9,REMOVE,215.0
+10499,36.48,percentage,2024,general_rate,disagree 15.88% disagree 28.76% neither agree nor disagree 36.48% agree 14.16% strongly agree 4.72% ...,Duplicate record (keeping first occurrence),0.9,REMOVE,216.0
+10500,66.95,percentage,2024,general_rate,"nerships) partnerships_experience (0–2 scale, 2 for yes) no 66.95% unsure 27.47% yes 5.58% to what e...",Duplicate record (keeping first occurrence),0.9,REMOVE,217.0
+10501,5.58,percentage,2024,general_rate,"perience (0–2 scale, 2 for yes) no 66.95% unsure 27.47% yes 5.58% to what extent do you agree with t...",Duplicate record (keeping first occurrence),0.9,REMOVE,218.0
+10502,0.0,percentage,2024,general_rate,"es (1–5, 5 for significant improvement) significant decline 0.00% slight decline 2.15% no change 56....",Duplicate record (keeping first occurrence),0.9,REMOVE,219.0
+10503,2.15,percentage,2024,general_rate,icant improvement) significant decline 0.00% slight decline 2.15% no change 56.65% slight improvemen...,Duplicate record (keeping first occurrence),0.9,REMOVE,220.0
+10504,0.43,percentage,2024,general_rate,residence austria 0.86% belgium 4.29% canada 3.00% croatia 0.43% denmark 0.43% finland 1.29% france ...,Duplicate record (keeping first occurrence),0.9,REMOVE,221.0
+10505,1.29,percentage,2024,general_rate,gium 4.29% canada 3.00% croatia 0.43% denmark 0.43% finland 1.29% france 4.29% freelancer 0.43% germ...,Duplicate record (keeping first occurrence),0.9,REMOVE,222.0
+10506,1.72,percentage,2024,general_rate,dence poland 14.59% portugal 18.45% romania 16.74% slovenia 1.72% spain 2.15% sweden 0.86% switzerla...,Duplicate record (keeping first occurrence),0.9,REMOVE,223.0
+10507,3.4,percentage,2024,general_rate,"y change. query 9, for instance, demonstrates a starkly low 3.4% probability of productivity change ...",Duplicate record (keeping first occurrence),0.9,REMOVE,224.0
+10508,15.7,billions_usd,2030,financial_metric,"(pwc) report predicted that ai could increase global gdp by $15.7 trillion between 2018 and 2030, wi...",Duplicate record (keeping first occurrence),0.9,REMOVE,225.0
+10509,233.0,millions_usd,2024,employment_metric,ne learning models and bayesian network analysis. data from 233 employees across various industries ...,Duplicate record (keeping first occurrence),0.9,REMOVE,226.0
+10510,2024.0,number,2024,unknown_metric,"insights from a comprehensive survey analysis. electronics 2024, 13, 3758. https:// doi.org/10.3390/...",Duplicate record (keeping first occurrence),0.9,REMOVE,227.0
+10511,8.0,percentage,2024,revenue_metric,"8% increase in sales per worker for firms innovating in ai technologies, while [5] put this
+number ...",Duplicate record (keeping first occurrence),0.9,REMOVE,196.0
+10512,72.0,percentage,2024,revenue_metric,"72%
+sales
+0",Duplicate record (keeping first occurrence),0.9,REMOVE,229.0
+10513,60.0,percentage,2024,labor_metric,"60%
+in your opinion, how well-prepared is your
+organization to adapt to future ai-driven changes i...",Duplicate record (keeping first occurrence),0.9,REMOVE,230.0
+10514,1.0,billions_usd,2024,training_metric,"ai_integration_level (scale 1–10)
+scale
+numeric
+on a scale of 1–10, how would you rate the comple...",Duplicate record (keeping first occurrence),0.9,REMOVE,231.0
+10515,10.0,billions_usd,2024,training_metric,"ai_integration_level (scale 1–10)
+scale
+numeric
+on a scale of 1–10, how would you rate the comple...",Duplicate record (keeping first occurrence),0.9,REMOVE,232.0
+10516,0.0,percentage,2024,training_metric,"00%
+has your organization provided any ai-related
+training or education programs for its employees...",Duplicate record (keeping first occurrence),0.9,REMOVE,219.0
+10517,0.0,percentage,2024,energy_metric,"00%
+energy sector
+1",Duplicate record (keeping first occurrence),0.9,REMOVE,219.0
+10518,80.0,percentage,2024,energy_metric,84 for 80% power),Duplicate record (keeping first occurrence),0.9,REMOVE,203.0
+10519,6.8,percentage,2024,impact_metrics,"rademarks associated with ai but no increase in sales per worker. conversely, ref. [20] estimated a ...",Duplicate record (keeping first occurrence),0.9,REMOVE,197.0
+10520,33.0,percentage,2025,productivity,[7] argue that ai could increase aggregate productivity by 33% over 20 years through its impact on k...,Duplicate record (keeping first occurrence),0.9,REMOVE,4391.0
+10521,8.0,percentage,2025,growth_rate,german firms introducing new products or processes by about 8%. babina et al. [19] reported signific...,Duplicate record (keeping first occurrence),0.9,REMOVE,4392.0
+10522,6.8,percentage,2025,revenue,"ease in sales per worker. conversely, ref. [20] estimated a 6.8% increase in sales per worker for fi...",Duplicate record (keeping first occurrence),0.9,REMOVE,4393.0
+10523,4.4,percentage,2025,productivity,"innovating in ai technologies, while [5] put this number at 4.4%. 2.2. measurement challenges and th...",Duplicate record (keeping first occurrence),0.9,REMOVE,4394.0
+10524,13.8,percentage,2025,percentages,"customer service, with ai-assisted support agents handling 13.8% more inquiries per hour [24]. autom...",Duplicate record (keeping first occurrence),0.9,REMOVE,4395.0
+10525,59.0,percentage,2025,productivity,"onal efficiency, enabling business professionals to produce 59% more documents per hour and programm...",Duplicate record (keeping first occurrence),0.9,REMOVE,4396.0
+10526,126.0,percentage,2025,percentages,"produce 59% more documents per hour and programmers to code 126% more projects per week [20,21]. 2.4...",Duplicate record (keeping first occurrence),0.9,REMOVE,4397.0
+10527,95.0,percentage,2025,energy,"z-value for the desired level of confidence (e.g., 1.96 for 95% confidence). • zβ is the z-value for...",Duplicate record (keeping first occurrence),0.9,REMOVE,4398.0
+10528,80.0,percentage,2025,energy,". • zβ is the z-value for the desired power (e.g., 0.84 for 80% power). • p is the estimated proport...",Duplicate record (keeping first occurrence),0.9,REMOVE,4399.0
+10529,2.58,percentage,2025,percentages,"rcentage what is your age? age (1–6 scale, 6 for 41+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21...",Duplicate record (keeping first occurrence),0.9,REMOVE,4400.0
+10530,22.75,percentage,2025,percentages,"t is your age? age (1–6 scale, 6 for 41+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 1...",Duplicate record (keeping first occurrence),0.9,REMOVE,4401.0
+10531,22.75,percentage,2025,percentages,"? age (1–6 scale, 6 for 41+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 12.02% 41+ 18....",Duplicate record (keeping first occurrence),0.9,REMOVE,4401.0
+10532,21.03,percentage,2025,percentages,"ale, 6 for 41+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 12.02% 41+ 18.88% rate the ...",Duplicate record (keeping first occurrence),0.9,REMOVE,4403.0
+10533,12.02,percentage,2025,percentages,+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 12.02% 41+ 18.88% rate the level of ai i...,Duplicate record (keeping first occurrence),0.9,REMOVE,4404.0
+10534,18.88,percentage,2025,percentages,58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 12.02% 41+ 18.88% rate the level of ai integration ...,Duplicate record (keeping first occurrence),0.9,REMOVE,4405.0
+10535,18.88,percentage,2025,percentages,"ucation? education (1–4 scale, 4 for doctorate) high school 18.88% undergraduate 20.60% graduate 53....",Duplicate record (keeping first occurrence),0.9,REMOVE,4405.0
+10536,20.6,percentage,2025,percentages,"–4 scale, 4 for doctorate) high school 18.88% undergraduate 20.60% graduate 53.22% doctorate 7.30% y...",Duplicate record (keeping first occurrence),0.9,REMOVE,4407.0
+10537,53.22,percentage,2025,percentages,doctorate) high school 18.88% undergraduate 20.60% graduate 53.22% doctorate 7.30% you currently use...,Duplicate record (keeping first occurrence),0.9,REMOVE,4408.0
+10538,7.3,percentage,2025,percentages,chool 18.88% undergraduate 20.60% graduate 53.22% doctorate 7.30% you currently use artificial intel...,Duplicate record (keeping first occurrence),0.9,REMOVE,4409.0
+10539,17.17,percentage,2025,percentages,"ai_tools_usage (scale 1–4 scale, 4 for all the time) never 17.17% occasionally 42.06% often 31.76% a...",Duplicate record (keeping first occurrence),0.9,REMOVE,4410.0
+10540,42.06,percentage,2024,percentages,"le 1–4 scale, 4 for all the time) never 17.17% occasionally 42.06% often 31.76% all the time 9.01% e...",Duplicate record (keeping first occurrence),0.9,REMOVE,209.0
+10541,31.76,percentage,2024,percentages,4 for all the time) never 17.17% occasionally 42.06% often 31.76% all the time 9.01% electronics 202...,Duplicate record (keeping first occurrence),0.9,REMOVE,4412.0
+10542,9.01,percentage,2024,percentages,"never 17.17% occasionally 42.06% often 31.76% all the time 9.01% electronics 2024, 13, 3758 8 of 29 ...",Duplicate record (keeping first occurrence),0.9,REMOVE,210.0
+10543,100.0,percentage,2025,productivity,"of ai? productivity_change_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 1...",Duplicate record (keeping first occurrence),0.9,REMOVE,4414.0
+10544,20.0,percentage,2025,productivity,"productivity_change_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 6...",Duplicate record (keeping first occurrence),0.9,REMOVE,4415.0
+10545,46.78,percentage,2025,percentages,"uctivity_change_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80...",Duplicate record (keeping first occurrence),0.9,REMOVE,4416.0
+10546,40.0,percentage,2025,percentages,"hange_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80...",Duplicate record (keeping first occurrence),0.9,REMOVE,4417.0
+10547,26.18,percentage,2025,percentages,"e_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100...",Duplicate record (keeping first occurrence),0.9,REMOVE,4418.0
+10548,60.0,percentage,2025,percentages,"ge (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100% 0.86% fo...",Duplicate record (keeping first occurrence),0.9,REMOVE,4419.0
+10549,18.45,percentage,2025,percentages,"1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100% 0.86% for ho...",Duplicate record (keeping first occurrence),0.9,REMOVE,4420.0
+10550,80.0,percentage,2025,percentages,5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100% 0.86% for how many year...,Duplicate record (keeping first occurrence),0.9,REMOVE,4399.0
+10551,7.73,percentage,2025,percentages,or 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100% 0.86% for how many years h...,Duplicate record (keeping first occurrence),0.9,REMOVE,4422.0
+10552,100.0,percentage,2025,percentages,%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100% 0.86% for how many years have you b...,Duplicate record (keeping first occurrence),0.9,REMOVE,4414.0
+10553,0.86,percentage,2025,percentages,20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100% 0.86% for how many years have you been w...,Duplicate record (keeping first occurrence),0.9,REMOVE,4424.0
+10554,39.91,percentage,2025,percentages,"h_company (1–4 scale, 4 for longer than 10 years) 0–2 years 39.91% 2–4 years 22.32% 4–10 years 23.61...",Duplicate record (keeping first occurrence),0.9,REMOVE,4425.0
+10555,22.32,percentage,2025,percentages,"ale, 4 for longer than 10 years) 0–2 years 39.91% 2–4 years 22.32% 4–10 years 23.61% longer than 10 ...",Duplicate record (keeping first occurrence),0.9,REMOVE,4426.0
+10556,23.61,percentage,2025,percentages,than 10 years) 0–2 years 39.91% 2–4 years 22.32% 4–10 years 23.61% longer than 10 years 14.16% how l...,Duplicate record (keeping first occurrence),0.9,REMOVE,4427.0
+10557,14.16,percentage,2025,adoption_rate,91% 2–4 years 22.32% 4–10 years 23.61% longer than 10 years 14.16% how long has your company been us...,Duplicate record (keeping first occurrence),0.9,REMOVE,4428.0
+10558,52.36,percentage,2025,percentages,"ng_ai (1–4 scale, 4 for more than 5 years) less than a year 52.36% 1–2 years 32.62% 2–5 years 12.02%...",Duplicate record (keeping first occurrence),0.9,REMOVE,4429.0
+10559,32.62,percentage,2025,percentages,4 for more than 5 years) less than a year 52.36% 1–2 years 32.62% 2–5 years 12.02% more than 5 years...,Duplicate record (keeping first occurrence),0.9,REMOVE,4430.0
+10560,12.02,percentage,2025,percentages,5 years) less than a year 52.36% 1–2 years 32.62% 2–5 years 12.02% more than 5 years 3.00% has your ...,Duplicate record (keeping first occurrence),0.9,REMOVE,4404.0
+10561,3.0,percentage,2025,percentages,52.36% 1–2 years 32.62% 2–5 years 12.02% more than 5 years 3.00% has your organization provided any ...,Duplicate record (keeping first occurrence),0.9,REMOVE,4432.0
+10562,63.95,percentage,2025,percentages,"s employees? ai_training_provided (0–2 scale, 2 for yes) no 63.95% currently in development 12.88% y...",Duplicate record (keeping first occurrence),0.9,REMOVE,4433.0
+10563,12.88,percentage,2025,percentages,"d (0–2 scale, 2 for yes) no 63.95% currently in development 12.88% yes 23.18% to what extent do you ...",Duplicate record (keeping first occurrence),0.9,REMOVE,4434.0
+10564,23.18,percentage,2025,percentages,"e, 2 for yes) no 63.95% currently in development 12.88% yes 23.18% to what extent do you agree with ...",Duplicate record (keeping first occurrence),0.9,REMOVE,4435.0
+10565,15.88,percentage,2025,percentages,"reation (1–5 scale, 5 for strongly agree) strongly disagree 15.88% disagree 28.76% neither agree nor...",Duplicate record (keeping first occurrence),0.9,REMOVE,4436.0
+10566,28.76,percentage,2025,percentages,"le, 5 for strongly agree) strongly disagree 15.88% disagree 28.76% neither agree nor disagree 36.48%...",Duplicate record (keeping first occurrence),0.9,REMOVE,4437.0
+10567,36.48,percentage,2025,percentages,disagree 15.88% disagree 28.76% neither agree nor disagree 36.48% agree 14.16% strongly agree 4.72% ...,Duplicate record (keeping first occurrence),0.9,REMOVE,4438.0
+10568,14.16,percentage,2025,percentages,88% disagree 28.76% neither agree nor disagree 36.48% agree 14.16% strongly agree 4.72% has the impl...,Duplicate record (keeping first occurrence),0.9,REMOVE,4428.0
+10569,4.72,percentage,2025,percentages,ither agree nor disagree 36.48% agree 14.16% strongly agree 4.72% has the implementation of ai led t...,Duplicate record (keeping first occurrence),0.9,REMOVE,4440.0
+10570,72.53,percentage,2025,percentages,"ur company? org_structure_changes (0–2 scale, 2 for yes) no 72.53% unsure 23.18% yes 4.29% has your ...",Duplicate record (keeping first occurrence),0.9,REMOVE,4441.0
+10571,23.18,percentage,2025,percentages,"g_structure_changes (0–2 scale, 2 for yes) no 72.53% unsure 23.18% yes 4.29% has your organization e...",Duplicate record (keeping first occurrence),0.9,REMOVE,4435.0
+10572,4.29,percentage,2025,percentages,"_changes (0–2 scale, 2 for yes) no 72.53% unsure 23.18% yes 4.29% has your organization experienced ...",Duplicate record (keeping first occurrence),0.9,REMOVE,4443.0
+10573,66.95,percentage,2025,percentages,"nerships) partnerships_experience (0–2 scale, 2 for yes) no 66.95% unsure 27.47% yes 5.58% to what e...",Duplicate record (keeping first occurrence),0.9,REMOVE,4444.0
+10574,27.47,percentage,2025,percentages,"nerships_experience (0–2 scale, 2 for yes) no 66.95% unsure 27.47% yes 5.58% to what extent do you a...",Duplicate record (keeping first occurrence),0.9,REMOVE,4445.0
+10575,5.58,percentage,2025,percentages,"perience (0–2 scale, 2 for yes) no 66.95% unsure 27.47% yes 5.58% to what extent do you agree with t...",Duplicate record (keeping first occurrence),0.9,REMOVE,4446.0
+10576,5.15,percentage,2025,percentages,"ovement (1–5 scale, 5 for strongly agree) strongly disagree 5.15% disagree 12.45% neither agree nor ...",Duplicate record (keeping first occurrence),0.9,REMOVE,4447.0
+10577,12.45,percentage,2025,percentages,"ale, 5 for strongly agree) strongly disagree 5.15% disagree 12.45% neither agree nor disagree 38.20%...",Duplicate record (keeping first occurrence),0.9,REMOVE,4448.0
+10578,38.2,percentage,2025,percentages,y disagree 5.15% disagree 12.45% neither agree nor disagree 38.20% agree 36.91% strongly agree 7.30%...,Duplicate record (keeping first occurrence),0.9,REMOVE,4449.0
+10579,36.91,percentage,2025,percentages,15% disagree 12.45% neither agree nor disagree 38.20% agree 36.91% strongly agree 7.30% has the impl...,Duplicate record (keeping first occurrence),0.9,REMOVE,4450.0
+10580,7.3,percentage,2025,percentages,ither agree nor disagree 38.20% agree 36.91% strongly agree 7.30% has the implementation of ai chang...,Duplicate record (keeping first occurrence),0.9,REMOVE,4409.0
+10581,73.39,percentage,2024,percentages,"cation_and_ collaboration_changes (0–2 scale, 2 for yes) no 73.39% unsure 17.17% yes 9.44% electroni...",Duplicate record (keeping first occurrence),0.9,REMOVE,4452.0
+10582,17.17,percentage,2024,percentages,"llaboration_changes (0–2 scale, 2 for yes) no 73.39% unsure 17.17% yes 9.44% electronics 2024, 13, 3...",Duplicate record (keeping first occurrence),0.9,REMOVE,4453.0
+10583,9.44,percentage,2024,percentages,"_changes (0–2 scale, 2 for yes) no 73.39% unsure 17.17% yes 9.44% electronics 2024, 13, 3758 9 of 29...",Duplicate record (keeping first occurrence),0.9,REMOVE,4454.0
+10584,59.23,percentage,2025,percentages,"agement 0–4 scale, 4 for significant improvement) no change 59.23% slight improvement 33.48% signifi...",Duplicate record (keeping first occurrence),0.9,REMOVE,4455.0
+10585,33.48,percentage,2025,percentages,ignificant improvement) no change 59.23% slight improvement 33.48% significant improvement 3.00% sli...,Duplicate record (keeping first occurrence),0.9,REMOVE,4456.0
+10586,3.0,percentage,2025,percentages,ge 59.23% slight improvement 33.48% significant improvement 3.00% slight decline 4.29% to what exten...,Duplicate record (keeping first occurrence),0.9,REMOVE,4432.0
+10587,4.29,percentage,2025,percentages,ovement 33.48% significant improvement 3.00% slight decline 4.29% to what extent has your organizati...,Duplicate record (keeping first occurrence),0.9,REMOVE,4443.0
+10588,23.61,percentage,2025,percentages,"al_considerations (0–3 scale, 3 for extensively) not at all 23.61% minimally 33.05% moderately 33.91...",Duplicate record (keeping first occurrence),0.9,REMOVE,4427.0
+10589,33.05,percentage,2025,percentages,"(0–3 scale, 3 for extensively) not at all 23.61% minimally 33.05% moderately 33.91% extensively 9.44...",Duplicate record (keeping first occurrence),0.9,REMOVE,4460.0
+10590,33.91,percentage,2025,adoption_rate,extensively) not at all 23.61% minimally 33.05% moderately 33.91% extensively 9.44% has your organiz...,Duplicate record (keeping first occurrence),0.9,REMOVE,4461.0
+10591,9.44,percentage,2025,adoption_rate,t all 23.61% minimally 33.05% moderately 33.91% extensively 9.44% has your organization implemented ...,Duplicate record (keeping first occurrence),0.9,REMOVE,4462.0
+10592,63.09,percentage,2025,percentages,"? ethical_policies_implementation (0–2 scale, 2 for yes) no 63.09% currently in development 19.31% y...",Duplicate record (keeping first occurrence),0.9,REMOVE,4463.0
+10593,19.31,percentage,2025,percentages,"n (0–2 scale, 2 for yes) no 63.09% currently in development 19.31% yes 17.60% in your opinion, how w...",Duplicate record (keeping first occurrence),0.9,REMOVE,4464.0
+10594,17.6,percentage,2025,percentages,"e, 2 for yes) no 63.09% currently in development 19.31% yes 17.60% in your opinion, how well-prepare...",Duplicate record (keeping first occurrence),0.9,REMOVE,4465.0
+10595,9.44,percentage,2025,percentages,"dness (scale 1–5, 5 for very well-prepared) very unprepared 9.44% somewhat unprepared 23.18% neutral...",Duplicate record (keeping first occurrence),0.9,REMOVE,4462.0
+10596,23.18,percentage,2025,percentages,ry well-prepared) very unprepared 9.44% somewhat unprepared 23.18% neutral 27.47% somewhat prepared ...,Duplicate record (keeping first occurrence),0.9,REMOVE,4435.0
+10597,27.47,percentage,2025,percentages,d) very unprepared 9.44% somewhat unprepared 23.18% neutral 27.47% somewhat prepared 31.33% very wel...,Duplicate record (keeping first occurrence),0.9,REMOVE,4445.0
+10598,31.33,percentage,2025,percentages,somewhat unprepared 23.18% neutral 27.47% somewhat prepared 31.33% very well-prepared 8.58% how has ...,Duplicate record (keeping first occurrence),0.9,REMOVE,4469.0
+10599,8.58,percentage,2025,percentages,neutral 27.47% somewhat prepared 31.33% very well-prepared 8.58% how has the implementation of ai af...,Duplicate record (keeping first occurrence),0.9,REMOVE,4470.0
+10600,0.0,percentage,2025,percentages,"es (1–5, 5 for significant improvement) significant decline 0.00% slight decline 2.15% no change 56....",Duplicate record (keeping first occurrence),0.9,REMOVE,4471.0
+10601,2.15,percentage,2025,percentages,icant improvement) significant decline 0.00% slight decline 2.15% no change 56.65% slight improvemen...,Duplicate record (keeping first occurrence),0.9,REMOVE,4472.0
+10602,56.65,percentage,2025,percentages,t) significant decline 0.00% slight decline 2.15% no change 56.65% slight improvement 34.76% signifi...,Duplicate record (keeping first occurrence),0.9,REMOVE,4473.0
+10603,34.76,percentage,2025,percentages,0% slight decline 2.15% no change 56.65% slight improvement 34.76% significant improvement 6.44% wha...,Duplicate record (keeping first occurrence),0.9,REMOVE,4474.0
+10604,6.44,percentage,2025,percentages,ge 56.65% slight improvement 34.76% significant improvement 6.44% what is your gender? gender (male-...,Duplicate record (keeping first occurrence),0.9,REMOVE,4475.0
+10605,56.65,percentage,2025,percentages,"r? gender (male-1, female-2. prefer not to say-minus1) male 56.65% female 42.49% prefer not to say 0...",Duplicate record (keeping first occurrence),0.9,REMOVE,4473.0
+10606,42.49,percentage,2025,percentages,"e-1, female-2. prefer not to say-minus1) male 56.65% female 42.49% prefer not to say 0.86% what is y...",Duplicate record (keeping first occurrence),0.9,REMOVE,4477.0
+10607,0.86,percentage,2025,percentages,to say-minus1) male 56.65% female 42.49% prefer not to say 0.86% what is your current place of resid...,Duplicate record (keeping first occurrence),0.9,REMOVE,4424.0
+10608,0.86,percentage,2025,percentages,ntry in which you are currently employed) residence austria 0.86% belgium 4.29% canada 3.00% croatia...,Duplicate record (keeping first occurrence),0.9,REMOVE,4424.0
+10609,4.29,percentage,2025,percentages,you are currently employed) residence austria 0.86% belgium 4.29% canada 3.00% croatia 0.43% denmark...,Duplicate record (keeping first occurrence),0.9,REMOVE,4443.0
+10610,3.0,percentage,2025,percentages,ntly employed) residence austria 0.86% belgium 4.29% canada 3.00% croatia 0.43% denmark 0.43% finlan...,Duplicate record (keeping first occurrence),0.9,REMOVE,4432.0
+10611,0.43,percentage,2025,percentages,residence austria 0.86% belgium 4.29% canada 3.00% croatia 0.43% denmark 0.43% finland 1.29% france ...,Duplicate record (keeping first occurrence),0.9,REMOVE,4482.0
+10612,0.43,percentage,2025,percentages,tria 0.86% belgium 4.29% canada 3.00% croatia 0.43% denmark 0.43% finland 1.29% france 4.29% freelan...,Duplicate record (keeping first occurrence),0.9,REMOVE,4482.0
+10613,1.29,percentage,2025,percentages,gium 4.29% canada 3.00% croatia 0.43% denmark 0.43% finland 1.29% france 4.29% freelancer 0.43% germ...,Duplicate record (keeping first occurrence),0.9,REMOVE,4484.0
+10614,4.29,percentage,2025,percentages,nada 3.00% croatia 0.43% denmark 0.43% finland 1.29% france 4.29% freelancer 0.43% germany 4.29% gre...,Duplicate record (keeping first occurrence),0.9,REMOVE,4443.0
+10615,0.43,percentage,2025,percentages,a 0.43% denmark 0.43% finland 1.29% france 4.29% freelancer 0.43% germany 4.29% greece 5.58% hungary...,Duplicate record (keeping first occurrence),0.9,REMOVE,4482.0
+10616,4.29,percentage,2025,percentages,k 0.43% finland 1.29% france 4.29% freelancer 0.43% germany 4.29% greece 5.58% hungary 4.29% ireland...,Duplicate record (keeping first occurrence),0.9,REMOVE,4443.0
+10617,5.58,percentage,2025,percentages,nd 1.29% france 4.29% freelancer 0.43% germany 4.29% greece 5.58% hungary 4.29% ireland 1.29% italy ...,Duplicate record (keeping first occurrence),0.9,REMOVE,4446.0
+10618,4.29,percentage,2025,percentages,e 4.29% freelancer 0.43% germany 4.29% greece 5.58% hungary 4.29% ireland 1.29% italy 8.58% the neth...,Duplicate record (keeping first occurrence),0.9,REMOVE,4443.0
+10619,1.29,percentage,2024,percentages,ncer 0.43% germany 4.29% greece 5.58% hungary 4.29% ireland 1.29% italy 8.58% the netherlands 2.15% ...,Duplicate record (keeping first occurrence),0.9,REMOVE,222.0
+10620,15.7,usd,2018,growth_rate,"(pwc) report predicted that ai could increase global gdp by $15.7 trillion between 2018 and 2030, wi...",Duplicate record (keeping first occurrence),0.9,REMOVE,4491.0
+10621,233.0,number,2025,labor_metrics,ne learning models and bayesian network analysis. data from 233 employees across various industries ...,Duplicate record (keeping first occurrence),0.9,REMOVE,4492.0
+10622,233.0,number,2025,labor_metrics,"irst, it utilizes a unique dataset derived from a survey of 233 employees across various industries,...",Duplicate record (keeping first occurrence),0.9,REMOVE,4492.0

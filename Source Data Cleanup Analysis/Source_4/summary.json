@@ -1,0 +1,40 @@
+{
+  "source_id": 4,
+  "source_name": "ai-and-the-global-economy.pdf",
+  "timestamp": "2025-07-23T14:54:51.772223",
+  "schema_version": "1.1",
+  "total_records": 540,
+  "kept_records": 97,
+  "removed_records": 433,
+  "modified_records": 10,
+  "duplicate_groups": 113,
+  "duplicates_removed": 427,
+  "removal_reasons": {
+    "Duplicate record": 427,
+    "Financial units should not appear with employment metrics": 3,
+    "Invalid unit 'billions_usd' for adoption_metric": 2,
+    "Citation years should not be metric values": 1
+  },
+  "modification_types": {
+    "general_rate \u2192 adoption_metric": 4,
+    "general_rate \u2192 productivity_metric": 3,
+    "general_rate \u2192 employment_metric": 2,
+    "general_rate \u2192 cost_metric": 1
+  },
+  "confidence_distribution": {
+    "high": 433,
+    "medium": 107,
+    "low": 0,
+    "high_pct": 80.2,
+    "medium_pct": 19.8,
+    "low_pct": 0.0
+  },
+  "quality_metrics": {
+    "quality_score": 17.96,
+    "issues_found": 443,
+    "removal_rate": 80.19,
+    "modification_rate": 1.85
+  },
+  "top_removal_reason": "Duplicate record",
+  "top_removal_count": 427
+}

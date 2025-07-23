@@ -1,0 +1,37 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence,proposed_action,kept_record_id
+5724,3.0,percentage,2025,productivity,"r ii until the early 1970s, labor productivity grew at over 3% a year, more than doubling over the p...",Passed all validation checks,0.85,KEEP,
+5725,80.0,percentage,2025,percentages,"rk. as noted in a recent research paper , llms could affect 80% of the us workforce in some form. th...",Passed all validation checks,0.85,KEEP,
+5726,20.0,percentage,2025,percentages,"5 use cases for language models, that economists can be 10- 20% more productive using large language...",Passed all validation checks,0.85,KEEP,
+5727,14.0,percentage,2025,percentages,appears to be yes. show that call center operators became 14% more productive when they used the tec...,Passed all validation checks,0.85,KEEP,
+5728,30.0,percentage,2025,employment,"ctive when they used the technology, with the gains of over 30% for the least experienced workers. w...",Passed all validation checks,0.85,KEEP,
+5729,7.0,percentage,2025,percentages,"s a suggests that generative ai could raise global gdp by 7%, a truly significant effect for any sin...",Passed all validation checks,0.85,KEEP,
+5730,30.0,percentage,2025,employment,"stance, if generative ai makes cognitive workers on average 30% more productive over a decade or two...",Duplicate record (keeping first occurrence),0.9,REMOVE,5728.0
+5731,60.0,percentage,2025,percentages,tive over a decade or two and cognitive work makes up about 60% of all value added in the economy (a...,Passed all validation checks,0.85,KEEP,
+5732,18.0,percentage,2025,productivity,"ge bill attributable to cognitive tasks), this amounts to a 18% increase in aggregate productivity a...",Passed all validation checks,0.85,KEEP,
+5733,2.0,percentage,2025,productivity,"owth—in perpetuity. for example, if productivity growth was 2% and the cognitive labor that underpin...",Passed all validation checks,0.85,KEEP,
+5734,20.0,percentage,2025,productivity,"d the cognitive labor that underpins productivity growth is 20% more productive, this would raise th...",Duplicate record (keeping first occurrence),0.9,REMOVE,5726.0
+5735,20.0,percentage,2025,productivity,"uctive, this would raise the growth rate of productivity by 20% to 2.4%. in a given year, such a cha...",Duplicate record (keeping first occurrence),0.9,REMOVE,5726.0
+5736,2.4,percentage,2025,productivity,"this would raise the growth rate of productivity by 20% to 2.4%. in a given year, such a change is b...",Passed all validation checks,0.85,KEEP,
+5737,5.0,percentage,2025,productivity,"iny increase in productivity growth would leave the economy 5% larger, and the growth would compound...",Passed all validation checks,0.85,KEEP,
+5738,33.0,percentage,2025,productivity,"izon. the baseline follows the , giving rise to a total of 33% productivity growth over 20 years. th...",Passed all validation checks,0.85,KEEP,
+5739,1.5,percentage,2025,productivity,"rent projection of the congressional budget office (cbo) of 1.5% productivity growth 6/20/25, 12:51 ...",Passed all validation checks,0.85,KEEP,
+5740,18.0,percentage,2025,productivity,"aises the level of productivity and output by an additional 18% over ten years, as suggested by the ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5732.0
+5741,49.0,percentage,2025,percentages,the eloundou et al. paper cited earlier predicts that up to 49% of the workforce could eventually ha...,Passed all validation checks,0.85,KEEP,
+11853,3.0,percentage,2025,productivity,"r ii until the early 1970s, labor productivity grew at over 3% a year, more than doubling over the p...",Duplicate record (keeping first occurrence),0.9,REMOVE,5724.0
+11854,80.0,percentage,2025,percentages,"rk. as noted in a recent research paper , llms could affect 80% of the us workforce in some form. th...",Duplicate record (keeping first occurrence),0.9,REMOVE,5725.0
+11855,20.0,percentage,2025,percentages,"5 use cases for language models, that economists can be 10- 20% more productive using large language...",Duplicate record (keeping first occurrence),0.9,REMOVE,5726.0
+11856,14.0,percentage,2025,percentages,appears to be yes. show that call center operators became 14% more productive when they used the tec...,Duplicate record (keeping first occurrence),0.9,REMOVE,5727.0
+11857,30.0,percentage,2025,employment,"ctive when they used the technology, with the gains of over 30% for the least experienced workers. w...",Duplicate record (keeping first occurrence),0.9,REMOVE,5728.0
+11858,7.0,percentage,2025,percentages,"s a suggests that generative ai could raise global gdp by 7%, a truly significant effect for any sin...",Duplicate record (keeping first occurrence),0.9,REMOVE,5729.0
+11859,30.0,percentage,2025,employment,"stance, if generative ai makes cognitive workers on average 30% more productive over a decade or two...",Duplicate record (keeping first occurrence),0.9,REMOVE,5728.0
+11860,60.0,percentage,2025,percentages,tive over a decade or two and cognitive work makes up about 60% of all value added in the economy (a...,Duplicate record (keeping first occurrence),0.9,REMOVE,5731.0
+11861,18.0,percentage,2025,productivity,"ge bill attributable to cognitive tasks), this amounts to a 18% increase in aggregate productivity a...",Duplicate record (keeping first occurrence),0.9,REMOVE,5732.0
+11862,2.0,percentage,2025,productivity,"owth—in perpetuity. for example, if productivity growth was 2% and the cognitive labor that underpin...",Duplicate record (keeping first occurrence),0.9,REMOVE,5733.0
+11863,20.0,percentage,2025,productivity,"d the cognitive labor that underpins productivity growth is 20% more productive, this would raise th...",Duplicate record (keeping first occurrence),0.9,REMOVE,5726.0
+11864,20.0,percentage,2025,productivity,"uctive, this would raise the growth rate of productivity by 20% to 2.4%. in a given year, such a cha...",Duplicate record (keeping first occurrence),0.9,REMOVE,5726.0
+11865,2.4,percentage,2025,productivity,"this would raise the growth rate of productivity by 20% to 2.4%. in a given year, such a change is b...",Duplicate record (keeping first occurrence),0.9,REMOVE,5736.0
+11866,5.0,percentage,2025,productivity,"iny increase in productivity growth would leave the economy 5% larger, and the growth would compound...",Duplicate record (keeping first occurrence),0.9,REMOVE,5737.0
+11867,33.0,percentage,2025,productivity,"izon. the baseline follows the , giving rise to a total of 33% productivity growth over 20 years. th...",Duplicate record (keeping first occurrence),0.9,REMOVE,5738.0
+11868,1.5,percentage,2025,productivity,"rent projection of the congressional budget office (cbo) of 1.5% productivity growth 6/20/25, 12:51 ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5739.0
+11869,18.0,percentage,2025,productivity,"aises the level of productivity and output by an additional 18% over ten years, as suggested by the ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5732.0
+11870,49.0,percentage,2025,percentages,the eloundou et al. paper cited earlier predicts that up to 49% of the workforce could eventually ha...,Duplicate record (keeping first occurrence),0.9,REMOVE,5741.0

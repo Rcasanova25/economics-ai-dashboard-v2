@@ -1,0 +1,34 @@
+{
+  "source_id": 11,
+  "source_name": "gs-new-decade-begins.pdf",
+  "timestamp": "2025-07-23T15:08:35.325270",
+  "schema_version": "1.1",
+  "total_records": 162,
+  "kept_records": 29,
+  "removed_records": 131,
+  "modified_records": 2,
+  "duplicate_groups": 31,
+  "duplicates_removed": 131,
+  "removal_reasons": {
+    "Duplicate record": 131
+  },
+  "modification_types": {
+    "general_rate \u2192 employment_metric": 2
+  },
+  "confidence_distribution": {
+    "high": 131,
+    "medium": 31,
+    "low": 0,
+    "high_pct": 80.9,
+    "medium_pct": 19.1,
+    "low_pct": 0.0
+  },
+  "quality_metrics": {
+    "quality_score": 17.9,
+    "issues_found": 133,
+    "removal_rate": 80.86,
+    "modification_rate": 1.23
+  },
+  "top_removal_reason": "Duplicate record",
+  "top_removal_count": 131
+}

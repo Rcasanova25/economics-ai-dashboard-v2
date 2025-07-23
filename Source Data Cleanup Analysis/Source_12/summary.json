@@ -1,0 +1,32 @@
+{
+  "source_id": 12,
+  "source_name": "hai_ai_index_report_2025.pdf",
+  "timestamp": "2025-07-23T15:08:36.887542",
+  "schema_version": "1.1",
+  "total_records": 458,
+  "kept_records": 167,
+  "removed_records": 291,
+  "modified_records": 0,
+  "duplicate_groups": 167,
+  "duplicates_removed": 291,
+  "removal_reasons": {
+    "Duplicate record": 291
+  },
+  "modification_types": {},
+  "confidence_distribution": {
+    "high": 291,
+    "medium": 167,
+    "low": 0,
+    "high_pct": 63.5,
+    "medium_pct": 36.5,
+    "low_pct": 0.0
+  },
+  "quality_metrics": {
+    "quality_score": 36.46,
+    "issues_found": 291,
+    "removal_rate": 63.54,
+    "modification_rate": 0.0
+  },
+  "top_removal_reason": "Duplicate record",
+  "top_removal_count": 291
+}

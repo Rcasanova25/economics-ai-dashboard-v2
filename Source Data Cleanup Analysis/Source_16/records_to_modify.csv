@@ -1,0 +1,12 @@
+original_id,value,unit,year,current_metric_type,new_metric_type,context_preview,sector,country,company_size,reason,confidence
+986,6.8,percentage,2024,general_rate,adoption_metric,"pting firms may see sales per worker increase between 0 and 6.8%. in this discussion, we also includ...",,,,Reclassify: general_rate → adoption_metric,0.8
+987,50.0,percentage,2024,general_rate,employment_metric,"effects. when applied to the data, this framework explains 50% of the labor share declines across us...",,,,Reclassify: general_rate → employment_metric,0.8
+989,80.0,percentage,2023,general_rate,employment_metric,mage generation. eloundou et al. (2023) estimate that up to 80% of us workforce could have at least ...,,,,Reclassify: general_rate → employment_metric,0.8
+990,19.0,percentage,2024,general_rate,employment_metric,rkforce could have at least 10% of their tasks replaced and 19% of workers stand to lose at least 50...,,,,Reclassify: general_rate → employment_metric,0.8
+991,15.0,percentage,2024,general_rate,employment_metric,of their tasks to llms. this analysis also shows that about 15% of all worker tasks in the us could ...,,,,Reclassify: general_rate → employment_metric,0.8
+992,5.5,percentage,2024,general_rate,employment_metric,h low- and high-income countries. high-income countries see 5.5% of total employment exposed to auto...,,,,Reclassify: general_rate → employment_metric,0.8
+993,13.4,percentage,2024,general_rate,employment_metric,"ries see 5.5% of total employment exposed to automation and 13.4% to augmentation from ai, while the...",,,,Reclassify: general_rate → employment_metric,0.8
+995,4.0,percentage,2024,general_rate,employment_metric,"gy by occupational group. on average, workers stand to lose 4% of their earnings. this effect stems ...",,,,Reclassify: general_rate → employment_metric,0.8
+997,2.0,percentage,2024,general_rate,employment_metric,nd social service occupations log the lowest losses (around 2%). estimates of aggregate employment i...,,,,Reclassify: general_rate → employment_metric,0.8
+998,25.0,percentage,2023,general_rate,employment_metric,"n, briggs and kodnani (2023) find an employment exposure of 25% for the us, 24% for the euro area, a...",,,,Reclassify: general_rate → employment_metric,0.8
+1001,33.0,percentage,2024,general_rate,productivity_metric,"23), argue that ai could increase aggregate productivity by 33% over 20 years through its impact on ...",,,,Reclassify: general_rate → productivity_metric,0.8

@@ -1,18 +1,20 @@
-original_id,value,unit,year,metric_type,context_preview,reason,confidence
-205,0.0,millions_usd,2024,employment_metric,"administrations, g being a larger municipality with over 5,000 employees while h has 200. cases c to...",Duplicate record (keeping first occurrence),0.9
-207,2015.0,co2_emissions,2015,unknown_metric,such as the ‘not-invented-here syndrome’ (antons and piller 2015) and tech­ nology acceptance issues...,Problematic unit: co2_emissions,0.85
-3836,0.0,millions_usd,2024,employment_metric,"nal tier of government with over 1,000 (case c) and over 4,000 employees (case d). in cases e and f,...",Duplicate record (keeping first occurrence),0.9
-3837,0.0,millions_usd,2024,employment_metric,"administrations, g being a larger municipality with over 5,000 employees while h has 200. cases c to...",Duplicate record (keeping first occurrence),0.9
-3838,2024.0,number,2024,unknown_metric,"article: oliver neumann, katharina guirguis & reto steiner (2024) exploring artiﬁcial intelligence a...",Duplicate record (keeping first occurrence),0.9
-3839,2015.0,co2_emissions,2015,unknown_metric,such as the ‘not-invented-here syndrome’ (antons and piller 2015) and tech­ nology acceptance issues...,Duplicate record (keeping first occurrence),0.9
-3841,0.0,number,2025,labor_metrics,"administrations, g being a larger municipality with over 5,000 employees while h has 200. cases c to...",Duplicate record (keeping first occurrence),0.9
-4930,0.0,millions_usd,2024,employment_metric,"nal tier of government with over 1,000 (case c) and over 4,000 employees (case d). in cases e and f,...",Duplicate record (keeping first occurrence),0.9
-4931,0.0,millions_usd,2024,employment_metric,"administrations, g being a larger municipality with over 5,000 employees while h has 200. cases c to...",Duplicate record (keeping first occurrence),0.9
-4932,2024.0,number,2024,unknown_metric,"article: oliver neumann, katharina guirguis & reto steiner (2024) exploring artiﬁcial intelligence a...",Duplicate record (keeping first occurrence),0.9
-4933,2015.0,co2_emissions,2015,unknown_metric,such as the ‘not-invented-here syndrome’ (antons and piller 2015) and tech­ nology acceptance issues...,Duplicate record (keeping first occurrence),0.9
-8562,0.0,millions_usd,2024,employment_metric,"nal tier of government with over 1,000 (case c) and over 4,000 employees (case d). in cases e and f,...",Duplicate record (keeping first occurrence),0.9
-8563,0.0,millions_usd,2024,employment_metric,"administrations, g being a larger municipality with over 5,000 employees while h has 200. cases c to...",Duplicate record (keeping first occurrence),0.9
-8564,2024.0,number,2024,unknown_metric,"article: oliver neumann, katharina guirguis & reto steiner (2024) exploring artiﬁcial intelligence a...",Duplicate record (keeping first occurrence),0.9
-8565,2015.0,co2_emissions,2015,unknown_metric,such as the ‘not-invented-here syndrome’ (antons and piller 2015) and tech­ nology acceptance issues...,Duplicate record (keeping first occurrence),0.9
-8566,0.0,number,2025,labor_metrics,"nal tier of government with over 1,000 (case c) and over 4,000 employees (case d). in cases e and f,...",Duplicate record (keeping first occurrence),0.9
-8567,0.0,number,2025,labor_metrics,"administrations, g being a larger municipality with over 5,000 employees while h has 200. cases c to...",Duplicate record (keeping first occurrence),0.9
+original_id,value,unit,year,metric_type,context_preview,reason,confidence,kept_record_id
+787,0.0,millions_usd,2024,employment_metric,"nal tier of government with over 1,000 (case c) and over 4,000 employees (case d). in cases e and f,...",Financial units should not appear with employment metrics,0.95,
+788,0.0,millions_usd,2024,employment_metric,"administrations, g being a larger municipality with over 5,000 employees while h has 200. cases c to...",Duplicate record (keeping first occurrence),0.9,787.0
+789,2024.0,number,2024,unknown_metric,"article: oliver neumann, katharina guirguis & reto steiner (2024) exploring artiﬁcial intelligence a...",Citation year extracted as metric value,0.95,
+790,2015.0,co2_emissions,2015,unknown_metric,such as the ‘not-invented-here syndrome’ (antons and piller 2015) and tech­ nology acceptance issues...,Citation year extracted as metric value,0.95,
+5239,0.0,millions_usd,2024,employment_metric,"nal tier of government with over 1,000 (case c) and over 4,000 employees (case d). in cases e and f,...",Duplicate record (keeping first occurrence),0.9,787.0
+5240,0.0,millions_usd,2024,employment_metric,"administrations, g being a larger municipality with over 5,000 employees while h has 200. cases c to...",Duplicate record (keeping first occurrence),0.9,787.0
+5241,2024.0,number,2024,unknown_metric,"article: oliver neumann, katharina guirguis & reto steiner (2024) exploring artiﬁcial intelligence a...",Citation year extracted as metric value,0.95,
+5242,2015.0,co2_emissions,2015,unknown_metric,such as the ‘not-invented-here syndrome’ (antons and piller 2015) and tech­ nology acceptance issues...,Citation year extracted as metric value,0.95,
+5244,0.0,number,2025,labor_metrics,"administrations, g being a larger municipality with over 5,000 employees while h has 200. cases c to...",Duplicate record (keeping first occurrence),0.9,5243.0
+6916,0.0,millions_usd,2024,employment_metric,"nal tier of government with over 1,000 (case c) and over 4,000 employees (case d). in cases e and f,...",Duplicate record (keeping first occurrence),0.9,787.0
+6917,0.0,millions_usd,2024,employment_metric,"administrations, g being a larger municipality with over 5,000 employees while h has 200. cases c to...",Duplicate record (keeping first occurrence),0.9,787.0
+6918,2024.0,number,2024,unknown_metric,"article: oliver neumann, katharina guirguis & reto steiner (2024) exploring artiﬁcial intelligence a...",Citation year extracted as metric value,0.95,
+6919,2015.0,co2_emissions,2015,unknown_metric,such as the ‘not-invented-here syndrome’ (antons and piller 2015) and tech­ nology acceptance issues...,Citation year extracted as metric value,0.95,
+11368,0.0,millions_usd,2024,employment_metric,"nal tier of government with over 1,000 (case c) and over 4,000 employees (case d). in cases e and f,...",Duplicate record (keeping first occurrence),0.9,787.0
+11369,0.0,millions_usd,2024,employment_metric,"administrations, g being a larger municipality with over 5,000 employees while h has 200. cases c to...",Duplicate record (keeping first occurrence),0.9,787.0
+11370,2024.0,number,2024,unknown_metric,"article: oliver neumann, katharina guirguis & reto steiner (2024) exploring artiﬁcial intelligence a...",Citation year extracted as metric value,0.95,
+11371,2015.0,co2_emissions,2015,unknown_metric,such as the ‘not-invented-here syndrome’ (antons and piller 2015) and tech­ nology acceptance issues...,Citation year extracted as metric value,0.95,
+11372,0.0,number,2025,labor_metrics,"nal tier of government with over 1,000 (case c) and over 4,000 employees (case d). in cases e and f,...",Duplicate record (keeping first occurrence),0.9,5243.0
+11373,0.0,number,2025,labor_metrics,"administrations, g being a larger municipality with over 5,000 employees while h has 200. cases c to...",Duplicate record (keeping first occurrence),0.9,5243.0

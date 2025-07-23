@@ -1,0 +1,239 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence,proposed_action,kept_record_id
+864,7.0,percentage,2023,general_rate,"ficial intelligence generative ai could raise global gdp by 7% apr 5, 2023 share share download tran...",Passed all validation checks,0.85,KEEP,
+865,60.0,percentage,2024,general_rate,udy by economist david autor cited in the report found that 60% of today’s workers are employed in o...,Reclassify: general_rate → employment_metric,0.8,MODIFY,
+866,85.0,percentage,2024,general_rate,ions that didn’t exist in 1940. this implies that more than 85% of employment growth over the last 8...,Reclassify: general_rate → employment_metric,0.8,MODIFY,
+867,0.0,percentage,2024,general_rate,share of occupational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80%...,Passed all validation checks,0.85,KEEP,
+868,70.0,percentage,2024,general_rate,of occupational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 4...,Passed all validation checks,0.85,KEEP,
+869,50.0,percentage,2024,general_rate,ational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% s...,Passed all validation checks,0.85,KEEP,
+870,40.0,percentage,2024,general_rate,nal workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% sourc...,Passed all validation checks,0.85,KEEP,
+871,30.0,percentage,2024,general_rate,workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: g...,Passed all validation checks,0.85,KEEP,
+872,20.0,percentage,2024,general_rate,load exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldm...,Passed all validation checks,0.85,KEEP,
+873,10.0,percentage,2024,general_rate,exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldman sa...,Passed all validation checks,0.85,KEEP,
+874,0.0,percentage,2024,general_rate,osed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldman sachs...,Duplicate record (keeping first occurrence),0.9,REMOVE,867.0
+875,7.0,billions_usd,2024,financial_metric,"to businesses and society, they could drive a 7% (or almost $7 trillion) increase in global gdp and ...",Passed all validation checks,0.85,KEEP,
+876,150.0,billions_usd,2024,financial_metric,"e total addressable market for generative ai software to be $150 billion, compared with $685 billion...",Passed all validation checks,0.85,KEEP,
+877,685.0,billions_usd,2024,financial_metric,"or generative ai software to be $150 billion, compared with $685 billion for the global software ind...",Passed all validation checks,0.85,KEEP,
+878,2023.0,number,2023,unknown_metric,"elligence generative ai could raise global gdp by 7% apr 5, 2023 share share download transcript dow...",Passed all validation checks,0.85,KEEP,
+879,7.0,percentage,2023,gdp_metric,"artificial intelligence
+generative ai could raise global gdp by 7%
+apr 5, 2023
+share share
+downl...",Duplicate record (keeping first occurrence),0.9,REMOVE,864.0
+880,2.0,percentage,2024,gdp_metric,"ai's impact on labor productivity depends on its
+capability and adoption timeline
+effect of ai ado...",Passed all validation checks,0.85,KEEP,
+881,7.0,percentage,2024,productivity_metric,"as tools using advances in natural language processing work their way into
+businesses and society, ...",Passed all validation checks,0.85,KEEP,
+882,2.0,percentage,2024,productivity_metric,"ai's impact on labor productivity depends on its
+capability and adoption timeline
+effect of ai ado...",Duplicate record (keeping first occurrence),0.9,REMOVE,880.0
+883,10.0,billions_usd,2024,revenue_metric,"they see multiple ways that such businesses can leverage generative ai for
+innovation leads to new ...",Passed all validation checks,0.85,KEEP,
+884,2.0,percentage,2024,labor_metric,"ai's impact on labor productivity depends on its
+capability and adoption timeline
+effect of ai ado...",Duplicate record (keeping first occurrence),0.9,REMOVE,880.0
+885,7.0,percentage,2024,labor_metric,"ai's impact on labor productivity depends on its
+capability and adoption timeline
+effect of ai ado...",Duplicate record (keeping first occurrence),0.9,REMOVE,881.0
+886,85.0,percentage,2024,labor_metric,"this implies that more than 85% of employment growth over the last 80 years is
+explained by the tec...",Duplicate record (keeping first occurrence),0.9,REMOVE,866.0
+887,2.0,percentage,2024,energy_metric,"ai's impact on labor productivity depends on its
+capability and adoption timeline
+effect of ai ado...",Duplicate record (keeping first occurrence),0.9,REMOVE,880.0
+888,7.0,percentage,2024,energy_metric,"ai's impact on labor productivity depends on its
+capability and adoption timeline
+effect of ai ado...",Duplicate record (keeping first occurrence),0.9,REMOVE,881.0
+5441,7.0,percentage,2023,general_rate,"ficial intelligence generative ai could raise global gdp by 7% apr 5, 2023 share share download tran...",Duplicate record (keeping first occurrence),0.9,REMOVE,864.0
+5442,60.0,percentage,2024,general_rate,udy by economist david autor cited in the report found that 60% of today’s workers are employed in o...,Duplicate record (keeping first occurrence),0.9,REMOVE,865.0
+5443,85.0,percentage,2024,general_rate,ions that didn’t exist in 1940. this implies that more than 85% of employment growth over the last 8...,Duplicate record (keeping first occurrence),0.9,REMOVE,866.0
+5444,0.0,percentage,2024,general_rate,share of occupational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80%...,Duplicate record (keeping first occurrence),0.9,REMOVE,867.0
+5445,70.0,percentage,2024,general_rate,of occupational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 4...,Duplicate record (keeping first occurrence),0.9,REMOVE,868.0
+5446,50.0,percentage,2024,general_rate,ational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% s...,Duplicate record (keeping first occurrence),0.9,REMOVE,869.0
+5447,40.0,percentage,2024,general_rate,nal workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% sourc...,Duplicate record (keeping first occurrence),0.9,REMOVE,870.0
+5448,30.0,percentage,2024,general_rate,workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: g...,Duplicate record (keeping first occurrence),0.9,REMOVE,871.0
+5449,20.0,percentage,2024,general_rate,load exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldm...,Duplicate record (keeping first occurrence),0.9,REMOVE,872.0
+5450,10.0,percentage,2024,general_rate,exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldman sa...,Duplicate record (keeping first occurrence),0.9,REMOVE,873.0
+5451,0.0,percentage,2024,general_rate,osed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldman sachs...,Duplicate record (keeping first occurrence),0.9,REMOVE,867.0
+5452,7.0,billions_usd,2024,financial_metric,"to businesses and society, they could drive a 7% (or almost $7 trillion) increase in global gdp and ...",Duplicate record (keeping first occurrence),0.9,REMOVE,875.0
+5453,150.0,billions_usd,2024,financial_metric,"e total addressable market for generative ai software to be $150 billion, compared with $685 billion...",Duplicate record (keeping first occurrence),0.9,REMOVE,876.0
+5454,685.0,billions_usd,2024,financial_metric,"or generative ai software to be $150 billion, compared with $685 billion for the global software ind...",Duplicate record (keeping first occurrence),0.9,REMOVE,877.0
+5455,2023.0,number,2023,unknown_metric,"elligence generative ai could raise global gdp by 7% apr 5, 2023 share share download transcript dow...",Duplicate record (keeping first occurrence),0.9,REMOVE,878.0
+5456,7.0,percentage,2023,gdp_metric,"artificial intelligence
+generative ai could raise global gdp by 7%
+apr 5, 2023
+share share
+downl...",Duplicate record (keeping first occurrence),0.9,REMOVE,864.0
+5457,2.0,percentage,2024,gdp_metric,"ai's impact on labor productivity depends on its
+capability and adoption timeline
+effect of ai ado...",Duplicate record (keeping first occurrence),0.9,REMOVE,880.0
+5458,7.0,percentage,2024,productivity_metric,"as tools using advances in natural language processing work their way into
+businesses and society, ...",Duplicate record (keeping first occurrence),0.9,REMOVE,881.0
+5459,2.0,percentage,2024,productivity_metric,"ai's impact on labor productivity depends on its
+capability and adoption timeline
+effect of ai ado...",Duplicate record (keeping first occurrence),0.9,REMOVE,880.0
+5460,10.0,billions_usd,2024,revenue_metric,"they see multiple ways that such businesses can leverage generative ai for
+innovation leads to new ...",Duplicate record (keeping first occurrence),0.9,REMOVE,883.0
+5461,2.0,percentage,2024,labor_metric,"ai's impact on labor productivity depends on its
+capability and adoption timeline
+effect of ai ado...",Duplicate record (keeping first occurrence),0.9,REMOVE,880.0
+5462,7.0,percentage,2024,labor_metric,"ai's impact on labor productivity depends on its
+capability and adoption timeline
+effect of ai ado...",Duplicate record (keeping first occurrence),0.9,REMOVE,881.0
+5463,85.0,percentage,2024,labor_metric,"this implies that more than 85% of employment growth over the last 80 years is
+explained by the tec...",Duplicate record (keeping first occurrence),0.9,REMOVE,866.0
+5464,2.0,percentage,2024,energy_metric,"ai's impact on labor productivity depends on its
+capability and adoption timeline
+effect of ai ado...",Duplicate record (keeping first occurrence),0.9,REMOVE,880.0
+5465,7.0,percentage,2024,energy_metric,"ai's impact on labor productivity depends on its
+capability and adoption timeline
+effect of ai ado...",Duplicate record (keeping first occurrence),0.9,REMOVE,881.0
+5466,7.0,percentage,2023,percentages,"ficial intelligence generative ai could raise global gdp by 7% apr 5, 2023 share share download tran...",Duplicate record (keeping first occurrence),0.9,REMOVE,864.0
+5467,7.0,percentage,2025,growth_rate,"k their way into businesses and society, they could drive a 7% (or almost $7 trillion) increase in g...",Passed all validation checks,0.85,KEEP,
+5468,7.0,percentage,2025,percentages,"e 6/20/25, 12:45 pm generative ai could raise global gdp by 7% | goldman sachs https://w w w.goldman...",Duplicate record (keeping first occurrence),0.9,REMOVE,5467.0
+5469,7.0,percentage,2025,percentages,"h 6/20/25, 12:45 pm generative ai could raise global gdp by 7% | goldman sachs https://w w w.goldman...",Duplicate record (keeping first occurrence),0.9,REMOVE,5467.0
+5470,60.0,percentage,2025,employment,udy by economist david autor cited in the report found that 60% of today’s workers are employed in o...,Passed all validation checks,0.85,KEEP,
+5471,85.0,percentage,2025,employment,ions that didn’t exist in 1940. this implies that more than 85% of employment growth over the last 8...,Passed all validation checks,0.85,KEEP,
+5472,0.0,percentage,2025,percentages,share of occupational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80%...,Passed all validation checks,0.85,KEEP,
+5473,80.0,percentage,2025,percentages,are of occupational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 6...,Passed all validation checks,0.85,KEEP,
+5474,70.0,percentage,2025,percentages,of occupational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 4...,Passed all validation checks,0.85,KEEP,
+5475,60.0,percentage,2025,percentages,ccupational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 2...,Duplicate record (keeping first occurrence),0.9,REMOVE,5470.0
+5476,50.0,percentage,2025,percentages,ational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% s...,Passed all validation checks,0.85,KEEP,
+5477,40.0,percentage,2025,percentages,nal workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% sourc...,Passed all validation checks,0.85,KEEP,
+5478,30.0,percentage,2025,percentages,workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: g...,Passed all validation checks,0.85,KEEP,
+5479,20.0,percentage,2025,percentages,load exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldm...,Passed all validation checks,0.85,KEEP,
+5480,10.0,percentage,2025,percentages,exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldman sa...,Passed all validation checks,0.85,KEEP,
+5481,0.0,percentage,2025,percentages,osed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldman sachs...,Duplicate record (keeping first occurrence),0.9,REMOVE,5472.0
+5482,80.0,percentage,2025,percentages,d to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldman sachs re...,Duplicate record (keeping first occurrence),0.9,REMOVE,5473.0
+5483,60.0,percentage,2025,percentages,automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldman sachs researc...,Duplicate record (keeping first occurrence),0.9,REMOVE,5470.0
+5484,40.0,percentage,2025,percentages,omation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldman sachs research 6...,Duplicate record (keeping first occurrence),0.9,REMOVE,5477.0
+5485,20.0,percentage,2025,percentages,ion by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldman sachs research 6/20/...,Duplicate record (keeping first occurrence),0.9,REMOVE,5479.0
+5486,7.0,percentage,2025,percentages,"h 6/20/25, 12:45 pm generative ai could raise global gdp by 7% | goldman sachs https://w w w.goldman...",Duplicate record (keeping first occurrence),0.9,REMOVE,5467.0
+5487,7.0,percentage,2025,percentages,"h 6/20/25, 12:45 pm generative ai could raise global gdp by 7% | goldman sachs https://w w w.goldman...",Duplicate record (keeping first occurrence),0.9,REMOVE,5467.0
+5488,7.0,percentage,2025,percentages,"e 6/20/25, 12:45 pm generative ai could raise global gdp by 7% | goldman sachs https://w w w.goldman...",Duplicate record (keeping first occurrence),0.9,REMOVE,5467.0
+5489,7.0,percentage,2025,percentages,"5 6/20/25, 12:45 pm generative ai could raise global gdp by 7% | goldman sachs https://w w w.goldman...",Duplicate record (keeping first occurrence),0.9,REMOVE,5467.0
+5490,7.0,percentage,2025,percentages,"5 6/20/25, 12:45 pm generative ai could raise global gdp by 7% | goldman sachs https://w w w.goldman...",Duplicate record (keeping first occurrence),0.9,REMOVE,5467.0
+5491,7.0,percentage,2025,percentages,"5 6/20/25, 12:45 pm generative ai could raise global gdp by 7% | goldman sachs https://w w w.goldman...",Duplicate record (keeping first occurrence),0.9,REMOVE,5467.0
+5492,7.0,percentage,2025,percentages,"t 6/20/25, 12:45 pm generative ai could raise global gdp by 7% | goldman sachs https://w w w.goldman...",Duplicate record (keeping first occurrence),0.9,REMOVE,5467.0
+5493,7.0,percentage,2025,percentages,". 6/20/25, 12:45 pm generative ai could raise global gdp by 7% | goldman sachs https://w w w.goldman...",Duplicate record (keeping first occurrence),0.9,REMOVE,5467.0
+5494,7.0,usd,2025,productivity,"to businesses and society, they could drive a 7% (or almost $7 trillion) increase in global gdp and ...",Passed all validation checks,0.85,KEEP,
+5495,150.0,billions_usd,2025,dollar_amounts,"e total addressable market for generative ai software to be $150 billion, compared with $685 billion...",Passed all validation checks,0.85,KEEP,
+5496,685.0,billions_usd,2025,dollar_amounts,"or generative ai software to be $150 billion, compared with $685 billion for the global software ind...",Passed all validation checks,0.85,KEEP,
+6993,7.0,percentage,2023,general_rate,"ficial intelligence generative ai could raise global gdp by 7% apr 5, 2023 share share download tran...",Duplicate record (keeping first occurrence),0.9,REMOVE,864.0
+6994,60.0,percentage,2024,general_rate,udy by economist david autor cited in the report found that 60% of today’s workers are employed in o...,Duplicate record (keeping first occurrence),0.9,REMOVE,865.0
+6995,85.0,percentage,2024,general_rate,ions that didn’t exist in 1940. this implies that more than 85% of employment growth over the last 8...,Duplicate record (keeping first occurrence),0.9,REMOVE,866.0
+6996,0.0,percentage,2024,general_rate,share of occupational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80%...,Duplicate record (keeping first occurrence),0.9,REMOVE,867.0
+6997,70.0,percentage,2024,general_rate,of occupational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 4...,Duplicate record (keeping first occurrence),0.9,REMOVE,868.0
+6998,50.0,percentage,2024,general_rate,ational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% s...,Duplicate record (keeping first occurrence),0.9,REMOVE,869.0
+6999,40.0,percentage,2024,general_rate,nal workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% sourc...,Duplicate record (keeping first occurrence),0.9,REMOVE,870.0
+7000,30.0,percentage,2024,general_rate,workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: g...,Duplicate record (keeping first occurrence),0.9,REMOVE,871.0
+7001,20.0,percentage,2024,general_rate,load exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldm...,Duplicate record (keeping first occurrence),0.9,REMOVE,872.0
+7002,10.0,percentage,2024,general_rate,exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldman sa...,Duplicate record (keeping first occurrence),0.9,REMOVE,873.0
+7003,0.0,percentage,2024,general_rate,osed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldman sachs...,Duplicate record (keeping first occurrence),0.9,REMOVE,867.0
+7004,7.0,billions_usd,2024,financial_metric,"to businesses and society, they could drive a 7% (or almost $7 trillion) increase in global gdp and ...",Duplicate record (keeping first occurrence),0.9,REMOVE,875.0
+7005,150.0,billions_usd,2024,financial_metric,"e total addressable market for generative ai software to be $150 billion, compared with $685 billion...",Duplicate record (keeping first occurrence),0.9,REMOVE,876.0
+7006,685.0,billions_usd,2024,financial_metric,"or generative ai software to be $150 billion, compared with $685 billion for the global software ind...",Duplicate record (keeping first occurrence),0.9,REMOVE,877.0
+7007,2023.0,number,2023,unknown_metric,"elligence generative ai could raise global gdp by 7% apr 5, 2023 share share download transcript dow...",Duplicate record (keeping first occurrence),0.9,REMOVE,878.0
+7008,7.0,percentage,2023,gdp_metric,"artificial intelligence
+generative ai could raise global gdp by 7%
+apr 5, 2023
+share share
+downl...",Duplicate record (keeping first occurrence),0.9,REMOVE,864.0
+7009,2.0,percentage,2024,gdp_metric,"ai's impact on labor productivity depends on its
+capability and adoption timeline
+effect of ai ado...",Duplicate record (keeping first occurrence),0.9,REMOVE,880.0
+7010,7.0,percentage,2024,productivity_metric,"as tools using advances in natural language processing work their way into
+businesses and society, ...",Duplicate record (keeping first occurrence),0.9,REMOVE,881.0
+7011,2.0,percentage,2024,productivity_metric,"ai's impact on labor productivity depends on its
+capability and adoption timeline
+effect of ai ado...",Duplicate record (keeping first occurrence),0.9,REMOVE,880.0
+7012,10.0,billions_usd,2024,revenue_metric,"they see multiple ways that such businesses can leverage generative ai for
+innovation leads to new ...",Duplicate record (keeping first occurrence),0.9,REMOVE,883.0
+7013,2.0,percentage,2024,labor_metric,"ai's impact on labor productivity depends on its
+capability and adoption timeline
+effect of ai ado...",Duplicate record (keeping first occurrence),0.9,REMOVE,880.0
+7014,7.0,percentage,2024,labor_metric,"ai's impact on labor productivity depends on its
+capability and adoption timeline
+effect of ai ado...",Duplicate record (keeping first occurrence),0.9,REMOVE,881.0
+7015,85.0,percentage,2024,labor_metric,"this implies that more than 85% of employment growth over the last 80 years is
+explained by the tec...",Duplicate record (keeping first occurrence),0.9,REMOVE,866.0
+7016,2.0,percentage,2024,energy_metric,"ai's impact on labor productivity depends on its
+capability and adoption timeline
+effect of ai ado...",Duplicate record (keeping first occurrence),0.9,REMOVE,880.0
+7017,7.0,percentage,2024,energy_metric,"ai's impact on labor productivity depends on its
+capability and adoption timeline
+effect of ai ado...",Duplicate record (keeping first occurrence),0.9,REMOVE,881.0
+11570,7.0,percentage,2023,general_rate,"ficial intelligence generative ai could raise global gdp by 7% apr 5, 2023 share share download tran...",Duplicate record (keeping first occurrence),0.9,REMOVE,864.0
+11571,60.0,percentage,2024,general_rate,udy by economist david autor cited in the report found that 60% of today’s workers are employed in o...,Duplicate record (keeping first occurrence),0.9,REMOVE,865.0
+11572,85.0,percentage,2024,general_rate,ions that didn’t exist in 1940. this implies that more than 85% of employment growth over the last 8...,Duplicate record (keeping first occurrence),0.9,REMOVE,866.0
+11573,0.0,percentage,2024,general_rate,share of occupational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80%...,Duplicate record (keeping first occurrence),0.9,REMOVE,867.0
+11574,70.0,percentage,2024,general_rate,of occupational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 4...,Duplicate record (keeping first occurrence),0.9,REMOVE,868.0
+11575,50.0,percentage,2024,general_rate,ational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% s...,Duplicate record (keeping first occurrence),0.9,REMOVE,869.0
+11576,40.0,percentage,2024,general_rate,nal workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% sourc...,Duplicate record (keeping first occurrence),0.9,REMOVE,870.0
+11577,30.0,percentage,2024,general_rate,workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: g...,Duplicate record (keeping first occurrence),0.9,REMOVE,871.0
+11578,20.0,percentage,2024,general_rate,load exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldm...,Duplicate record (keeping first occurrence),0.9,REMOVE,872.0
+11579,10.0,percentage,2024,general_rate,exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldman sa...,Duplicate record (keeping first occurrence),0.9,REMOVE,873.0
+11580,0.0,percentage,2024,general_rate,osed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldman sachs...,Duplicate record (keeping first occurrence),0.9,REMOVE,867.0
+11581,7.0,billions_usd,2024,financial_metric,"to businesses and society, they could drive a 7% (or almost $7 trillion) increase in global gdp and ...",Duplicate record (keeping first occurrence),0.9,REMOVE,875.0
+11582,150.0,billions_usd,2024,financial_metric,"e total addressable market for generative ai software to be $150 billion, compared with $685 billion...",Duplicate record (keeping first occurrence),0.9,REMOVE,876.0
+11583,685.0,billions_usd,2024,financial_metric,"or generative ai software to be $150 billion, compared with $685 billion for the global software ind...",Duplicate record (keeping first occurrence),0.9,REMOVE,877.0
+11584,2023.0,number,2023,unknown_metric,"elligence generative ai could raise global gdp by 7% apr 5, 2023 share share download transcript dow...",Duplicate record (keeping first occurrence),0.9,REMOVE,878.0
+11585,7.0,percentage,2023,gdp_metric,"artificial intelligence
+generative ai could raise global gdp by 7%
+apr 5, 2023
+share share
+downl...",Duplicate record (keeping first occurrence),0.9,REMOVE,864.0
+11586,2.0,percentage,2024,gdp_metric,"ai's impact on labor productivity depends on its
+capability and adoption timeline
+effect of ai ado...",Duplicate record (keeping first occurrence),0.9,REMOVE,880.0
+11587,7.0,percentage,2024,productivity_metric,"as tools using advances in natural language processing work their way into
+businesses and society, ...",Duplicate record (keeping first occurrence),0.9,REMOVE,881.0
+11588,2.0,percentage,2024,productivity_metric,"ai's impact on labor productivity depends on its
+capability and adoption timeline
+effect of ai ado...",Duplicate record (keeping first occurrence),0.9,REMOVE,880.0
+11589,10.0,billions_usd,2024,revenue_metric,"they see multiple ways that such businesses can leverage generative ai for
+innovation leads to new ...",Duplicate record (keeping first occurrence),0.9,REMOVE,883.0
+11590,2.0,percentage,2024,labor_metric,"ai's impact on labor productivity depends on its
+capability and adoption timeline
+effect of ai ado...",Duplicate record (keeping first occurrence),0.9,REMOVE,880.0
+11591,7.0,percentage,2024,labor_metric,"ai's impact on labor productivity depends on its
+capability and adoption timeline
+effect of ai ado...",Duplicate record (keeping first occurrence),0.9,REMOVE,881.0
+11592,85.0,percentage,2024,labor_metric,"this implies that more than 85% of employment growth over the last 80 years is
+explained by the tec...",Duplicate record (keeping first occurrence),0.9,REMOVE,866.0
+11593,2.0,percentage,2024,energy_metric,"ai's impact on labor productivity depends on its
+capability and adoption timeline
+effect of ai ado...",Duplicate record (keeping first occurrence),0.9,REMOVE,880.0
+11594,7.0,percentage,2024,energy_metric,"ai's impact on labor productivity depends on its
+capability and adoption timeline
+effect of ai ado...",Duplicate record (keeping first occurrence),0.9,REMOVE,881.0
+11595,7.0,percentage,2023,percentages,"ficial intelligence generative ai could raise global gdp by 7% apr 5, 2023 share share download tran...",Duplicate record (keeping first occurrence),0.9,REMOVE,864.0
+11596,7.0,percentage,2025,growth_rate,"k their way into businesses and society, they could drive a 7% (or almost $7 trillion) increase in g...",Duplicate record (keeping first occurrence),0.9,REMOVE,5467.0
+11597,7.0,percentage,2025,percentages,"e 6/20/25, 12:45 pm generative ai could raise global gdp by 7% | goldman sachs https://w w w.goldman...",Duplicate record (keeping first occurrence),0.9,REMOVE,5467.0
+11598,7.0,percentage,2025,percentages,"h 6/20/25, 12:45 pm generative ai could raise global gdp by 7% | goldman sachs https://w w w.goldman...",Duplicate record (keeping first occurrence),0.9,REMOVE,5467.0
+11599,60.0,percentage,2025,employment,udy by economist david autor cited in the report found that 60% of today’s workers are employed in o...,Duplicate record (keeping first occurrence),0.9,REMOVE,5470.0
+11600,85.0,percentage,2025,employment,ions that didn’t exist in 1940. this implies that more than 85% of employment growth over the last 8...,Duplicate record (keeping first occurrence),0.9,REMOVE,5471.0
+11601,0.0,percentage,2025,percentages,share of occupational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80%...,Duplicate record (keeping first occurrence),0.9,REMOVE,5472.0
+11602,80.0,percentage,2025,percentages,are of occupational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 6...,Duplicate record (keeping first occurrence),0.9,REMOVE,5473.0
+11603,70.0,percentage,2025,percentages,of occupational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 4...,Duplicate record (keeping first occurrence),0.9,REMOVE,5474.0
+11604,60.0,percentage,2025,percentages,ccupational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 2...,Duplicate record (keeping first occurrence),0.9,REMOVE,5470.0
+11605,50.0,percentage,2025,percentages,ational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% s...,Duplicate record (keeping first occurrence),0.9,REMOVE,5476.0
+11606,40.0,percentage,2025,percentages,nal workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% sourc...,Duplicate record (keeping first occurrence),0.9,REMOVE,5477.0
+11607,30.0,percentage,2025,percentages,workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: g...,Duplicate record (keeping first occurrence),0.9,REMOVE,5478.0
+11608,20.0,percentage,2025,percentages,load exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldm...,Duplicate record (keeping first occurrence),0.9,REMOVE,5479.0
+11609,10.0,percentage,2025,percentages,exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldman sa...,Duplicate record (keeping first occurrence),0.9,REMOVE,5480.0
+11610,0.0,percentage,2025,percentages,osed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldman sachs...,Duplicate record (keeping first occurrence),0.9,REMOVE,5472.0
+11611,80.0,percentage,2025,percentages,d to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldman sachs re...,Duplicate record (keeping first occurrence),0.9,REMOVE,5473.0
+11612,60.0,percentage,2025,percentages,automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldman sachs researc...,Duplicate record (keeping first occurrence),0.9,REMOVE,5470.0
+11613,40.0,percentage,2025,percentages,omation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldman sachs research 6...,Duplicate record (keeping first occurrence),0.9,REMOVE,5477.0
+11614,20.0,percentage,2025,percentages,ion by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldman sachs research 6/20/...,Duplicate record (keeping first occurrence),0.9,REMOVE,5479.0
+11615,7.0,percentage,2025,percentages,"h 6/20/25, 12:45 pm generative ai could raise global gdp by 7% | goldman sachs https://w w w.goldman...",Duplicate record (keeping first occurrence),0.9,REMOVE,5467.0
+11616,7.0,percentage,2025,percentages,"h 6/20/25, 12:45 pm generative ai could raise global gdp by 7% | goldman sachs https://w w w.goldman...",Duplicate record (keeping first occurrence),0.9,REMOVE,5467.0
+11617,7.0,percentage,2025,percentages,"e 6/20/25, 12:45 pm generative ai could raise global gdp by 7% | goldman sachs https://w w w.goldman...",Duplicate record (keeping first occurrence),0.9,REMOVE,5467.0
+11618,7.0,percentage,2025,percentages,"5 6/20/25, 12:45 pm generative ai could raise global gdp by 7% | goldman sachs https://w w w.goldman...",Duplicate record (keeping first occurrence),0.9,REMOVE,5467.0
+11619,7.0,percentage,2025,percentages,"5 6/20/25, 12:45 pm generative ai could raise global gdp by 7% | goldman sachs https://w w w.goldman...",Duplicate record (keeping first occurrence),0.9,REMOVE,5467.0
+11620,7.0,percentage,2025,percentages,"5 6/20/25, 12:45 pm generative ai could raise global gdp by 7% | goldman sachs https://w w w.goldman...",Duplicate record (keeping first occurrence),0.9,REMOVE,5467.0
+11621,7.0,percentage,2025,percentages,"t 6/20/25, 12:45 pm generative ai could raise global gdp by 7% | goldman sachs https://w w w.goldman...",Duplicate record (keeping first occurrence),0.9,REMOVE,5467.0
+11622,7.0,percentage,2025,percentages,". 6/20/25, 12:45 pm generative ai could raise global gdp by 7% | goldman sachs https://w w w.goldman...",Duplicate record (keeping first occurrence),0.9,REMOVE,5467.0
+11623,7.0,usd,2025,productivity,"to businesses and society, they could drive a 7% (or almost $7 trillion) increase in global gdp and ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5494.0
+11624,150.0,billions_usd,2025,dollar_amounts,"e total addressable market for generative ai software to be $150 billion, compared with $685 billion...",Duplicate record (keeping first occurrence),0.9,REMOVE,5495.0
+11625,685.0,billions_usd,2025,dollar_amounts,"or generative ai software to be $150 billion, compared with $685 billion for the global software ind...",Duplicate record (keeping first occurrence),0.9,REMOVE,5496.0

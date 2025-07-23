@@ -17,6 +17,26 @@ class MetricValidator:
         self.cross_rules = CROSS_METRIC_RULES
         self.reclassification_priority = RECLASSIFICATION_PRIORITY
         
+        # ICT sector patterns - MUST BE PRESERVED
+        self.ict_patterns = [
+            r'\bict\b',
+            r'\binformation.*communication.*technology\b',
+            r'\btelecom\b',
+            r'\bdigital.*infrastructure\b',
+            r'\binformation.*technology\b',
+            r'\bcommunication.*technology\b'
+        ]
+        
+        # Meaningful zero context patterns
+        self.meaningful_zero_patterns = [
+            'survey', 'study', 'finding', 'result', 'observed', 
+            'measured', 'no change', 'zero growth', 'unchanged',
+            'remained flat', 'no increase', 'no decrease', 'stable at',
+            'respondents reported', 'participants indicated', 'reported no',
+            'participants reported', 'companies reported', 'firms reported',
+            'analysis found', 'research shows', 'data indicates'
+        ]
+        
     def validate_against_schema(self, metric_type: str, value: float, unit: str, context: str) -> List[Dict]:
         """
         Validate a record against the schema for its metric type
@@ -58,14 +78,16 @@ class MetricValidator:
                 
         # Check zero values
         if value == 0 and not schema.get('zero_value_valid', True):
-            # Check if context suggests it's a change metric
-            change_patterns = ['change', 'increase', 'decrease', 'growth', 'reduction', 'decline']
-            if not any(pattern in context.lower() for pattern in change_patterns):
-                issues.append({
-                    'reason': f"Zero value suspicious for {metric_type}",
-                    'confidence': 0.80,
-                    'severity': 'low'
-                })
+            # First check if this is a meaningful zero from a survey/study
+            if not self.is_meaningful_zero(value, context):
+                # Then check if context suggests it's a change metric
+                change_patterns = ['change', 'increase', 'decrease', 'growth', 'reduction', 'decline']
+                if not any(pattern in context.lower() for pattern in change_patterns):
+                    issues.append({
+                        'reason': f"Zero value suspicious for {metric_type}",
+                        'confidence': 0.80,
+                        'severity': 'low'
+                    })
                 
         # Check required patterns
         patterns_required = schema.get('patterns_required', [])
@@ -269,3 +291,44 @@ class MetricValidator:
             'by_severity': severity_counts,
             'top_issues': [{'reason': reason, 'count': count} for reason, count in top_issues]
         }
+    
+    def is_ict_data(self, context: str) -> bool:
+        """
+        Check if context contains ICT (Information & Communication Technology) references
+        
+        Args:
+            context: Text context to check
+            
+        Returns:
+            True if ICT-related content detected
+        """
+        context_lower = context.lower()
+        
+        for pattern in self.ict_patterns:
+            if re.search(pattern, context_lower, re.IGNORECASE):
+                return True
+                
+        return False
+    
+    def is_meaningful_zero(self, value: float, context: str) -> bool:
+        """
+        Check if a zero value represents a meaningful economic finding
+        
+        Args:
+            value: The numeric value
+            context: Text context describing the value
+            
+        Returns:
+            True if this is a meaningful zero (e.g., "survey found 0% growth")
+        """
+        if value != 0:
+            return False
+            
+        context_lower = context.lower()
+        
+        # Check for survey/study context patterns
+        for pattern in self.meaningful_zero_patterns:
+            if pattern in context_lower:
+                return True
+                
+        return False

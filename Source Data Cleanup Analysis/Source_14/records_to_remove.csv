@@ -1,0 +1,64 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence,kept_record_id
+946,20.0,multiple,2024,cost_metric,"in one case,
+integrating software optimizations and adopting the latest generation nvidia gpus redu...",Unexpected unit 'multiple' for cost_metric,0.85,
+947,25.0,multiple,2024,cost_metric,"in one case,
+integrating software optimizations and adopting the latest generation nvidia gpus redu...",Unexpected unit 'multiple' for cost_metric,0.85,
+948,20.0,multiple,2024,revenue_metric,"in one case,
+integrating software optimizations and adopting the latest generation nvidia gpus redu...",Duplicate record (keeping first occurrence),0.9,946.0
+949,25.0,multiple,2024,revenue_metric,"in one case,
+integrating software optimizations and adopting the latest generation nvidia gpus redu...",Duplicate record (keeping first occurrence),0.9,947.0
+5926,40.0,percentage,2024,general_rate,"partner to advance germany’s sovereign ai turn rtx on with 40% off performance day passes 6/20/25, 1...",Duplicate record (keeping first occurrence),0.9,944.0
+5927,2025.0,number,2025,unknown_metric,"e, enabling prediction, generation and reasoning. march 17, 2025 by dave salvator 6/20/25, 1:55 pm e...",Duplicate record (keeping first occurrence),0.9,945.0
+5928,20.0,multiple,2024,cost_metric,"in one case,
+integrating software optimizations and adopting the latest generation nvidia gpus redu...",Duplicate record (keeping first occurrence),0.9,946.0
+5929,25.0,multiple,2024,cost_metric,"in one case,
+integrating software optimizations and adopting the latest generation nvidia gpus redu...",Duplicate record (keeping first occurrence),0.9,947.0
+5930,20.0,multiple,2024,revenue_metric,"in one case,
+integrating software optimizations and adopting the latest generation nvidia gpus redu...",Duplicate record (keeping first occurrence),0.9,946.0
+5931,25.0,multiple,2024,revenue_metric,"in one case,
+integrating software optimizations and adopting the latest generation nvidia gpus redu...",Duplicate record (keeping first occurrence),0.9,947.0
+5932,6.0,billions_usd,2024,tokens_metric,"u share
+f
+h
+d
+reading time: 6 mins
+under the hood of every ai application are algorithms that c...",Duplicate record (keeping first occurrence),0.9,950.0
+5933,25.0,number,2024,comparison_metrics,nan,Duplicate record (keeping first occurrence),0.9,951.0
+5934,100.0,number,2024,comparison_metrics,nan,Duplicate record (keeping first occurrence),0.9,952.0
+7073,40.0,percentage,2024,general_rate,"partner to advance germany’s sovereign ai turn rtx on with 40% off performance day passes 6/20/25, 1...",Duplicate record (keeping first occurrence),0.9,944.0
+7074,2025.0,number,2025,unknown_metric,"e, enabling prediction, generation and reasoning. march 17, 2025 by dave salvator 6/20/25, 1:55 pm e...",Duplicate record (keeping first occurrence),0.9,945.0
+7075,20.0,multiple,2024,cost_metric,"in one case,
+integrating software optimizations and adopting the latest generation nvidia gpus redu...",Duplicate record (keeping first occurrence),0.9,946.0
+7076,25.0,multiple,2024,cost_metric,"in one case,
+integrating software optimizations and adopting the latest generation nvidia gpus redu...",Duplicate record (keeping first occurrence),0.9,947.0
+7077,20.0,multiple,2024,revenue_metric,"in one case,
+integrating software optimizations and adopting the latest generation nvidia gpus redu...",Duplicate record (keeping first occurrence),0.9,946.0
+7078,25.0,multiple,2024,revenue_metric,"in one case,
+integrating software optimizations and adopting the latest generation nvidia gpus redu...",Duplicate record (keeping first occurrence),0.9,947.0
+7079,6.0,billions_usd,2024,tokens_metric,"u share
+f
+h
+d
+reading time: 6 mins
+under the hood of every ai application are algorithms that c...",Duplicate record (keeping first occurrence),0.9,950.0
+7080,25.0,number,2024,comparison_metrics,nan,Duplicate record (keeping first occurrence),0.9,951.0
+7081,100.0,number,2024,comparison_metrics,nan,Duplicate record (keeping first occurrence),0.9,952.0
+12055,40.0,percentage,2024,general_rate,"partner to advance germany’s sovereign ai turn rtx on with 40% off performance day passes 6/20/25, 1...",Duplicate record (keeping first occurrence),0.9,944.0
+12056,2025.0,number,2025,unknown_metric,"e, enabling prediction, generation and reasoning. march 17, 2025 by dave salvator 6/20/25, 1:55 pm e...",Duplicate record (keeping first occurrence),0.9,945.0
+12057,20.0,multiple,2024,cost_metric,"in one case,
+integrating software optimizations and adopting the latest generation nvidia gpus redu...",Duplicate record (keeping first occurrence),0.9,946.0
+12058,25.0,multiple,2024,cost_metric,"in one case,
+integrating software optimizations and adopting the latest generation nvidia gpus redu...",Duplicate record (keeping first occurrence),0.9,947.0
+12059,20.0,multiple,2024,revenue_metric,"in one case,
+integrating software optimizations and adopting the latest generation nvidia gpus redu...",Duplicate record (keeping first occurrence),0.9,946.0
+12060,25.0,multiple,2024,revenue_metric,"in one case,
+integrating software optimizations and adopting the latest generation nvidia gpus redu...",Duplicate record (keeping first occurrence),0.9,947.0
+12061,6.0,billions_usd,2024,tokens_metric,"u share
+f
+h
+d
+reading time: 6 mins
+under the hood of every ai application are algorithms that c...",Duplicate record (keeping first occurrence),0.9,950.0
+12062,25.0,number,2024,comparison_metrics,nan,Duplicate record (keeping first occurrence),0.9,951.0
+12063,100.0,number,2024,comparison_metrics,nan,Duplicate record (keeping first occurrence),0.9,952.0
+12064,40.0,percentage,2025,percentages,"partner to advance germany’s sovereign ai turn rtx on with 40% off performance day passes 6/20/25, 1...",Duplicate record (keeping first occurrence),0.9,5935.0

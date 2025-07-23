@@ -1,0 +1,8 @@
+original_id,value,unit,year,current_metric_type,new_metric_type,context_preview,sector,country,company_size,reason,confidence
+821,15.0,percentage,2024,general_rate,productivity_metric,"r productivity, as measured by issues resolved per hour, by 15% on average, with substantial heterog...",,,,Reclassify: general_rate → productivity_metric,0.8
+822,30.0,percentage,2024,general_rate,productivity_metric,"gniﬁ- cantly across all productivity measures, including a 30% increase in the number of issues reso...",,,,Reclassify: general_rate → productivity_metric,0.8
+824,60.0,percentage,2024,general_rate,cost_metric,ctive. turnover is high: industry estimates sug- gest that 60% of agents in contact centers leave ea...,,,,Reclassify: general_rate → cost_metric,0.8
+825,20.0,percentage,2024,general_rate,productivity_metric,rviewed esti- mated that performance bonuses accounted for 20% to 40% of a typical agent’s total tak...,,,,Reclassify: general_rate → productivity_metric,0.8
+826,40.0,percentage,2024,general_rate,productivity_metric,esti- mated that performance bonuses accounted for 20% to 40% of a typical agent’s total take-home p...,,,,Reclassify: general_rate → productivity_metric,0.8
+835,10.0,percentage,2024,general_rate,productivity_metric,"rence. among agents in the lowest quintile, we still see a 10% gain in productivity, but for agents ...",,,,Reclassify: general_rate → productivity_metric,0.8
+839,12.0,percentage,2024,general_rate,employment_metric,"ould ﬁeld the same number of customer- support issues with 12% fewer worker-hours. conversely, in- d...",,,,Reclassify: general_rate → employment_metric,0.8

@@ -1,0 +1,16 @@
+SOURCE 20 CLEANUP ANALYSIS SUMMARY
+Generated: 2025-07-23T15:13:03.229359
+
+FILE: Machines of mind_ The case for an AI-powered productivity boom.pdf
+Original Records: 36
+
+PROPOSED ACTIONS:
+- Records to KEEP: 14
+- Records to REMOVE: 22
+- Records to MODIFY: 0
+
+Quality Score: 38.89%
+
+Top removal reason: Duplicate record (22 records)
+
+Please review the detailed reports before proceeding with cleanup.

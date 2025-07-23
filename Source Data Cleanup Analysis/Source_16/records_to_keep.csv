@@ -1,0 +1,61 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence
+988,10.0,percentage,2024,general_rate,stimates that ai could reduce 90:10 wage inequality by 5 to 10%. this finding is under the assumptio...,Passed all validation checks,0.85
+994,0.4,percentage,2024,general_rate,".4% to augmentation from ai, while the same percentages are 0.4% and 10.4% for low-income countries,...",Passed all validation checks,0.85
+996,8.0,percentage,2024,general_rate,"rk, production and transportation stand to lose the most (6-8%), while higher-skilled occupations li...",Passed all validation checks,0.85
+999,3.0,percentage,2024,general_rate,"egal professional occupations, to 4% in production work and 3% in agriculture. however, when factori...",Passed all validation checks,0.85
+1000,17.0,percentage,2024,general_rate,"and professional services industries, as a well as a 13 to 17% salary premium for job postings deman...",Passed all validation checks,0.85
+1002,11.7,percentage,2024,general_rate,"nland 15.8%, netherlands 13.1%, luxembourg 13% and slovenia 11.7% are the countries with the highest...",Passed all validation checks,0.85
+1003,98.0,percentage,2022,general_rate,"ized clienteles, which would 24in 2022, china accounted for 98% of worldwide primary low-purity gall...",Passed all validation checks,0.85
+1004,1.5,percentage,2024,general_rate,ure to notify unacceptable applications; and 7.5 million or 1.5% of turnover for less severe cases (...,Passed all validation checks,0.85
+1006,2024.0,number,2024,unknown_metric,"views of the imf, its executive board, or imf management. 2024 mar © 2024 international monetary fun...",Passed all validation checks,0.85
+1011,10.0,percentage,2023,labor_metric,"(2023) estimate
+that up to 80% of us workforce could have at least 10% of their tasks replaced and ...",Passed all validation checks,0.85
+1012,19.0,percentage,2023,labor_metric,"(2023) estimate
+that up to 80% of us workforce could have at least 10% of their tasks replaced and ...",Passed all validation checks,0.85
+1013,50.0,percentage,2023,labor_metric,"(2023) estimate
+that up to 80% of us workforce could have at least 10% of their tasks replaced and ...",Passed all validation checks,0.85
+1016,16.0,percentage,2030,training_metric,"(2023) offers somewhat smaller estimates,
+predicting that 8% of hours currently worked will be auto...",Passed all validation checks,0.85
+1017,4.0,percentage,2030,training_metric,"(2023) offers somewhat smaller estimates,
+predicting that 8% of hours currently worked will be auto...",Passed all validation checks,0.85
+1018,3.0,percentage,2030,training_metric,"(2023) offers somewhat smaller estimates,
+predicting that 8% of hours currently worked will be auto...",Passed all validation checks,0.85
+1020,1.0,billions_usd,2024,energy_metric,"1
+market competition
+concern over monopoly power in ai-related sectors permeate the public debate,...",Passed all validation checks,0.85
+6077,6.8,percentage,2025,revenue,"pting firms may see sales per worker increase between 0 and 6.8%. in this discussion, we also includ...",Passed all validation checks,0.85
+6078,50.0,percentage,2025,percentages,"effects. when applied to the data, this framework explains 50% of the labor share declines across us...",Passed all validation checks,0.85
+6079,10.0,percentage,2025,percentages,stimates that ai could reduce 90:10 wage inequality by 5 to 10%. this finding is under the assumptio...,Passed all validation checks,0.85
+6082,19.0,percentage,2025,employment,rkforce could have at least 10% of their tasks replaced and 19% of workers stand to lose at least 50...,Passed all validation checks,0.85
+6084,15.0,percentage,2025,employment,of their tasks to llms. this analysis also shows that about 15% of all worker tasks in the us could ...,Passed all validation checks,0.85
+6085,5.5,percentage,2025,revenue,h low- and high-income countries. high-income countries see 5.5% of total employment exposed to auto...,Passed all validation checks,0.85
+6086,13.4,percentage,2025,employment,"ries see 5.5% of total employment exposed to automation and 13.4% to augmentation from ai, while the...",Passed all validation checks,0.85
+6087,0.4,percentage,2025,revenue,".4% to augmentation from ai, while the same percentages are 0.4% and 10.4% for low-income countries,...",Passed all validation checks,0.85
+6088,10.4,percentage,2025,revenue,"gmentation from ai, while the same percentages are 0.4% and 10.4% for low-income countries, respecti...",Passed all validation checks,0.85
+6090,4.0,percentage,2025,employment,"gy by occupational group. on average, workers stand to lose 4% of their earnings. this effect stems ...",Passed all validation checks,0.85
+6091,8.0,percentage,2025,percentages,"rk, production and transportation stand to lose the most (6-8%), while higher-skilled occupations li...",Passed all validation checks,0.85
+6092,2.0,percentage,2025,employment,nd social service occupations log the lowest losses (around 2%). estimates of aggregate employment i...,Passed all validation checks,0.85
+6095,24.0,percentage,2023,employment,"dnani (2023) find an employment exposure of 25% for the us, 24% for the euro area, and 18% worldwide...",Passed all validation checks,0.85
+6096,18.0,percentage,2025,percentages,"ment exposure of 25% for the us, 24% for the euro area, and 18% worldwide, with effects concentrated...",Passed all validation checks,0.85
+6097,8.0,percentage,2023,percentages,". (2023) offers somewhat smaller estimates, predicting that 8% of hours currently worked will be aut...",Passed all validation checks,0.85
+6100,3.0,percentage,2025,percentages,"egal professional occupations, to 4% in production work and 3% in agriculture. however, when factori...",Passed all validation checks,0.85
+6101,23.0,percentage,2025,employment,sses would not automate most tasks with high exposure. only 23% of exposed jobs (8% of total jobs) i...,Passed all validation checks,0.85
+6104,5.0,percentage,2010,employment,period 2010-2019. job postings listing ai skills command a 5% wage premium compared to other same-fi...,Passed all validation checks,0.85
+6105,17.0,percentage,2025,employment,"and professional services industries, as a well as a 13 to 17% salary premium for job postings deman...",Passed all validation checks,0.85
+6106,23.0,percentage,2023,employment,re of jobs survey (world economic forum 2023) predicts that 23% of global jobs will change in the ne...,Passed all validation checks,0.85
+6108,33.0,percentage,2025,productivity,"23), argue that ai could increase aggregate productivity by 33% over 20 years through its impact on ...",Passed all validation checks,0.85
+6111,4.4,percentage,2022,productivity,"zarnitzki, fern´andez, and rammer (2022) put this number at 4.4%. aggregate productivity impacts fro...",Passed all validation checks,0.85
+6112,18.0,percentage,2018,adoption_rate,"that the average adoption of ai technologies was just over 18% in 2018, when weighted by employment,...",Passed all validation checks,0.85
+6113,7.9,percentage,2021,percentages,technologies.12 the average in eu in 2021 (pre-chatgpt) is 7.9% and big data used by business stands...,Passed all validation checks,0.85
+6114,14.0,percentage,2025,percentages,atgpt) is 7.9% and big data used by business stands only at 14%. 21 out of 27 countries do not excee...,Passed all validation checks,0.85
+6116,23.9,percentage,2025,percentages,"f 27 countries do not exceed 10% of ai usage, while denmark 23.9%, portugal 17.3%, finland 15.8%, ne...",Passed all validation checks,0.85
+6117,17.3,percentage,2025,percentages,"o not exceed 10% of ai usage, while denmark 23.9%, portugal 17.3%, finland 15.8%, netherlands 13.1%,...",Passed all validation checks,0.85
+6118,15.8,percentage,2025,percentages,"% of ai usage, while denmark 23.9%, portugal 17.3%, finland 15.8%, netherlands 13.1%, luxembourg 13%...",Passed all validation checks,0.85
+6119,13.1,percentage,2025,percentages,"e denmark 23.9%, portugal 17.3%, finland 15.8%, netherlands 13.1%, luxembourg 13% and slovenia 11.7%...",Passed all validation checks,0.85
+6120,13.0,percentage,2025,percentages,"ortugal 17.3%, finland 15.8%, netherlands 13.1%, luxembourg 13% and slovenia 11.7% are the countries...",Passed all validation checks,0.85
+6121,11.7,percentage,2025,percentages,"nland 15.8%, netherlands 13.1%, luxembourg 13% and slovenia 11.7% are the countries with the highest...",Passed all validation checks,0.85
+6122,75.0,percentage,2030,percentages,e path to the digital decade target requires that more than 75% of eu companies adopt ai technologie...,Passed all validation checks,0.85
+6124,95.0,percentage,2023,percentages,"in the design of chips, with a market share estimated at 80-95%, see https://www.cnbc.com/ 2023/08/0...",Passed all validation checks,0.85
+6125,7.0,percentage,2025,percentages,proposal. the penalties are as follows: 35 million euro or 7% of worldwide annual turnover for the p...,Passed all validation checks,0.85
+6127,1.5,percentage,2025,percentages,ure to notify unacceptable applications; and 7.5 million or 1.5% of turnover for less severe cases (...,Passed all validation checks,0.85
+6128,11.3,number,2025,employment,ure of jobs survey covers 803 companies employing more than 11.3 million workers in total. these spa...,Passed all validation checks,0.85

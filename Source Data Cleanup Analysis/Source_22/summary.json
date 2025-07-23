@@ -1,0 +1,32 @@
+{
+  "source_id": 22,
+  "source_name": "The Productivity Puzzle_ AI, Technology Adoption and the Workforce _ Richmond Fed.pdf",
+  "timestamp": "2025-07-23T15:13:06.226596",
+  "schema_version": "1.1",
+  "total_records": 4,
+  "kept_records": 2,
+  "removed_records": 2,
+  "modified_records": 0,
+  "duplicate_groups": 2,
+  "duplicates_removed": 2,
+  "removal_reasons": {
+    "Duplicate record": 2
+  },
+  "modification_types": {},
+  "confidence_distribution": {
+    "high": 2,
+    "medium": 2,
+    "low": 0,
+    "high_pct": 50.0,
+    "medium_pct": 50.0,
+    "low_pct": 0.0
+  },
+  "quality_metrics": {
+    "quality_score": 50.0,
+    "issues_found": 2,
+    "removal_rate": 50.0,
+    "modification_rate": 0.0
+  },
+  "top_removal_reason": "Duplicate record",
+  "top_removal_count": 2
+}

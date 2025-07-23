@@ -1,0 +1,16 @@
+SOURCE 3 CLEANUP ANALYSIS SUMMARY
+Generated: 2025-07-23T14:54:15.672598
+
+FILE: AI use case.pdf
+Original Records: 68
+
+PROPOSED ACTIONS:
+- Records to KEEP: 15
+- Records to REMOVE: 51
+- Records to MODIFY: 2
+
+Quality Score: 22.06%
+
+Top removal reason: Duplicate record (51 records)
+
+Please review the detailed reports before proceeding with cleanup.

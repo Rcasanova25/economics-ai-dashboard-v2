@@ -1,0 +1,219 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence,kept_record_id
+978,0.0,number,2024,employment_metric,"h potential implications for the workforce. there are 3,504,000 workers for whom we lack data on edu...",Zero employment with specific numbers in context,0.9,
+979,2019.0,number,2019,unknown_metric,"re not limited to transformer-based models (devlin et al.,, 2019). llms can process and produce vari...",Citation year extracted as metric value,0.95,
+981,10.0,percentage,2024,labor_metric,"workforce could have at least 10% of their work tasks affected by the intro-
+duction of llms, while...",Duplicate record (keeping first occurrence),0.9,954.0
+982,19.0,percentage,2024,labor_metric,"workforce could have at least 10% of their work tasks affected by the intro-
+duction of llms, while...",Duplicate record (keeping first occurrence),0.9,955.0
+983,50.0,percentage,2024,labor_metric,"workforce could have at least 10% of their work tasks affected by the intro-
+duction of llms, while...",Duplicate record (keeping first occurrence),0.9,956.0
+984,3.0,billions_usd,2024,training_metric,"this paper’s primary contributions are to provide a set of measurements of llm impact po-
+3baumol’s...",Duplicate record (keeping first occurrence),0.9,980.0
+985,50.0,percentage,2024,impact_metrics,nan,Duplicate record (keeping first occurrence),0.9,956.0
+5939,80.0,percentage,2024,general_rate,and gpt-4 classifications. our findings reveal that around 80% of the u.s. workforce could have at l...,Duplicate record (keeping first occurrence),0.9,953.0
+5940,10.0,percentage,2024,general_rate,l that around 80% of the u.s. workforce could have at least 10% of their work tasks affected by the ...,Duplicate record (keeping first occurrence),0.9,954.0
+5941,19.0,percentage,2024,general_rate,"affected by the intro- duction of llms, while approximately 19% of workers may see at least 50% of t...",Duplicate record (keeping first occurrence),0.9,955.0
+5942,50.0,percentage,2024,general_rate,"f llms, while approximately 19% of workers may see at least 50% of their tasks im- pacted. we do not...",Duplicate record (keeping first occurrence),0.9,956.0
+5943,15.0,percentage,2024,general_rate,"h. our analysis suggests that, with access to an llm, about 15% of all worker tasks in the us could ...",Duplicate record (keeping first occurrence),0.9,957.0
+5944,56.0,percentage,2024,general_rate,"uilt on top of llms, this share increases to between 47 and 56% of all tasks. this finding implies t...",Duplicate record (keeping first occurrence),0.9,958.0
+5945,3.0,percentage,2024,general_rate,tools built upon them. human assessments suggest that only 3% of u.s. workers have over half of thei...,Duplicate record (keeping first occurrence),0.9,959.0
+5946,72.0,percentage,2023,general_rate,"et al.,, 2023), along with wage controls, ranges from 60 to 72%, indicating that 28 to 40% of the va...",Duplicate record (keeping first occurrence),0.9,960.0
+5947,40.0,percentage,2024,general_rate,"wage controls, ranges from 60 to 72%, indicating that 28 to 40% of the variation in our ai exposure ...",Duplicate record (keeping first occurrence),0.9,961.0
+5948,91.1,percentage,2024,general_rate,"𝜁 e1 + e2 79.5% 0.589 gpt-4, rubric 1; gpt-4, rubric 2 𝛼 e1 91.1% 0.611 6/20/25, 12:55 pm [2303.1013...",Duplicate record (keeping first occurrence),0.9,962.0
+5949,30.0,percentage,2024,general_rate,are directly exposed to llms. this figure increases to over 30% for 𝛽 and surpasses 50% for 𝜁. coinc...,Duplicate record (keeping first occurrence),0.9,963.0
+5950,2.3,percentage,2024,general_rate,"asks exposed. for example, human annotators determined that 2.3% of occupations are 𝛼50-exposed, 21....",Duplicate record (keeping first occurrence),0.9,964.0
+5951,21.6,percentage,2024,general_rate,"tators determined that 2.3% of occupations are 𝛼50-exposed, 21.6% are 𝛽50-exposed, and 47.3% are 𝜁50...",Duplicate record (keeping first occurrence),0.9,965.0
+5952,0.0,percentage,2024,general_rate,"er than 50% 𝛽 ex- posure in job zones 1 through 5 have 𝛽 at 0.00% (job zone 1), 6.11% (job zone 2), ...",Duplicate record (keeping first occurrence),0.9,966.0
+5953,6.11,percentage,2024,general_rate,"sure in job zones 1 through 5 have 𝛽 at 0.00% (job zone 1), 6.11% (job zone 2), 10.57% (job zone 3),...",Duplicate record (keeping first occurrence),0.9,967.0
+5954,34.5,percentage,2024,general_rate,".00% (job zone 1), 6.11% (job zone 2), 10.57% (job zone 3), 34.5% (job zone 4), and 26.45% (job zone...",Duplicate record (keeping first occurrence),0.9,968.0
+5955,26.45,percentage,2024,general_rate,"(job zone 2), 10.57% (job zone 3), 34.5% (job zone 4), and 26.45% (job zone 5), respectively. job zo...",Duplicate record (keeping first occurrence),0.9,969.0
+5956,1.0,percentage,2020,general_rate,ly significant as- sociations with llm exposure scores at a 1% level. coefficients on ai scores from...,Duplicate record (keeping first occurrence),0.9,970.0
+5957,5.0,percentage,2020,general_rate,"2020) are also positive and statistically significant at a 5% level, but our secondary prompt on ove...",Duplicate record (keeping first occurrence),0.9,971.0
+5958,30.0,billions_usd,2024,financial_metric,"lso increases, with the median worker in job zone 1 earning $ 30,230 and the median worker in job zo...",Duplicate record (keeping first occurrence),0.9,972.0
+5959,80.0,billions_usd,2024,financial_metric,"arning $ 30,230 and the median worker in job zone 5 earning $ 80,980. all of our measures (𝛼, 𝛽, and...",Duplicate record (keeping first occurrence),0.9,973.0
+5960,38.0,billions_usd,2024,financial_metric,"a orderlies, cus- tomer service rep- resentatives, tellers $38,215 73,962 0.07 0.12 0.16 0.20 0.24 0...",Duplicate record (keeping first occurrence),0.9,974.0
+5961,54.0,billions_usd,2024,financial_metric,"iate’s degree electricians, bar- bers, medical assistants $54,815 37,881 0.11 0.14 0.26 0.32 0.41 0....",Duplicate record (keeping first occurrence),0.9,975.0
+5962,46.0,billions_usd,2024,financial_metric,"0.15 0.21 0.25 0.32 0.34 moderate-term on-the-job training $46,880 31,285 0.09 0.12 0.21 0.25 0.32 0...",Duplicate record (keeping first occurrence),0.9,976.0
+5963,60.0,billions_usd,2024,financial_metric,",970 2,898 0.23 0.34 0.39 0.53 0.55 0.72 associate’s degree $60,360 3,537 0.12 0.14 0.31 0.36 0.49 0...",Duplicate record (keeping first occurrence),0.9,977.0
+5964,0.0,number,2024,employment_metric,"h potential implications for the workforce. there are 3,504,000 workers for whom we lack data on edu...",Duplicate record (keeping first occurrence),0.9,978.0
+5965,2019.0,number,2019,unknown_metric,"re not limited to transformer-based models (devlin et al.,, 2019). llms can process and produce vari...",Citation year extracted as metric value,0.95,
+5966,3.0,billions_usd,2024,cost_metric,"this paper’s primary contributions are to provide a set of measurements of llm impact po-
+3baumol’s...",Duplicate record (keeping first occurrence),0.9,980.0
+5967,10.0,percentage,2024,labor_metric,"workforce could have at least 10% of their work tasks affected by the intro-
+duction of llms, while...",Duplicate record (keeping first occurrence),0.9,954.0
+5968,19.0,percentage,2024,labor_metric,"workforce could have at least 10% of their work tasks affected by the intro-
+duction of llms, while...",Duplicate record (keeping first occurrence),0.9,955.0
+5969,50.0,percentage,2024,labor_metric,"workforce could have at least 10% of their work tasks affected by the intro-
+duction of llms, while...",Duplicate record (keeping first occurrence),0.9,956.0
+5970,3.0,billions_usd,2024,training_metric,"this paper’s primary contributions are to provide a set of measurements of llm impact po-
+3baumol’s...",Duplicate record (keeping first occurrence),0.9,980.0
+5971,50.0,percentage,2024,impact_metrics,nan,Duplicate record (keeping first occurrence),0.9,956.0
+5978,19.0,percentage,2025,employment,omation outcomes. our analysis indicates that approximately 19% of jobs have at least 50% of their t...,Duplicate record (keeping first occurrence),0.9,5974.0
+5979,50.0,percentage,2025,employment,ysis indicates that approximately 19% of jobs have at least 50% of their tasks exposed when consider...,Duplicate record (keeping first occurrence),0.9,5975.0
+5982,72.0,percentage,2023,percentages,"et al.,, 2023), along with wage controls, ranges from 60 to 72%, indicating that 28 to 40% of the va...",Duplicate record (keeping first occurrence),0.9,960.0
+5984,50.0,percentage,2025,percentages,xposure rubric we set the exposure threshold at a potential 50% reduction in time required to comple...,Duplicate record (keeping first occurrence),0.9,5975.0
+5989,65.6,percentage,2025,percentages,"0.654 gpt-4, rubric 2; human 𝛼 e1 81.8% 0.221 𝛽 e1 + .5*e2 65.6% 0.538 𝜁 e1 + e2 79.5% 0.589 gpt-4, ...",Duplicate record (keeping first occurrence),0.9,5986.0
+5994,15.0,percentage,2025,percentages,"n 0.14 and 0.15, suggesting that, on average, approximately 15% of tasks within an occupation are di...",Duplicate record (keeping first occurrence),0.9,5976.0
+5996,50.0,percentage,2025,growth_rate,"llms. this figure increases to over 30% for 𝛽 and surpasses 50% for 𝜁. coincidentally, human and gpt...",Duplicate record (keeping first occurrence),0.9,5975.0
+5997,15.0,percentage,2025,percentages,"oincidentally, human and gpt-4 annotations also tag between 15% and 14% of total tasks in the datase...",Duplicate record (keeping first occurrence),0.9,5976.0
+5999,80.0,percentage,2025,employment,"ex- posed to llms. based on the 𝛽 values, we estimate that 80% of workers belong to an occupa- tion ...",Duplicate record (keeping first occurrence),0.9,5972.0
+6000,10.0,percentage,2025,employment,"that 80% of workers belong to an occupa- tion with at least 10% of its tasks exposed to llms, while ...",Duplicate record (keeping first occurrence),0.9,5973.0
+6001,19.0,percentage,2025,employment,"tion with at least 10% of its tasks exposed to llms, while 19% of workers are in an occupa- tion whe...",Duplicate record (keeping first occurrence),0.9,5974.0
+6005,50.0,percentage,2025,percentages,"-exposed, and 47.3% are 𝜁50-exposed, where the threshold of 50% comes from the x-axis and the percen...",Duplicate record (keeping first occurrence),0.9,5975.0
+6006,50.0,percentage,2025,percentages,"reduction in time it takes to complete the task by at least 50% (see exposure rubric a.1). as such, ...",Duplicate record (keeping first occurrence),0.9,5975.0
+6007,50.0,percentage,2025,employment,the percentage of workers in occupations with greater than 50% 𝛽 ex- posure in job zones 1 through 5...,Duplicate record (keeping first occurrence),0.9,5975.0
+6013,1.0,percentage,2020,percentages,ly significant as- sociations with llm exposure scores at a 1% level. coefficients on ai scores from...,Duplicate record (keeping first occurrence),0.9,970.0
+6014,5.0,percentage,2020,percentages,"2020) are also positive and statistically significant at a 5% level, but our secondary prompt on ove...",Duplicate record (keeping first occurrence),0.9,971.0
+6017,40.0,percentage,2025,percentages,"explicitly focuses on llm capabilities, has between 28 and 40% unexplained variance compared to othe...",Duplicate record (keeping first occurrence),0.9,5983.0
+6018,19.0,percentage,2025,employment,th high exposure. our analysis indicates that approximately 19% of jobs have at least 50% of their t...,Duplicate record (keeping first occurrence),0.9,5974.0
+6019,50.0,percentage,2025,employment,ysis indicates that approximately 19% of jobs have at least 50% of their tasks exposed to llms when ...,Duplicate record (keeping first occurrence),0.9,5975.0
+6022,30.0,usd,2025,employment,") food preparation workers, dish- washers, floor sanders $30,230 13,100 0.03 0.04 0.06 0.06 0.09 0.0...",Duplicate record (keeping first occurrence),0.9,6020.0
+6027,77.0,usd,2025,revenue,"d median income tot emp (000s) h 𝜶 m 𝜶 h 𝜷 m 𝜷 h 𝜻 m 𝜻 none $77,440 90,776 0.20 0.16 0.42 0.46 0.63 ...",Duplicate record (keeping first occurrence),0.9,6025.0
+6029,77.0,usd,2025,dollar_amounts,"95 3,066 0.01 0.02 0.04 0.06 0.07 0.10 internship/residency $77,110 3,063 0.16 0.06 0.36 0.38 0.55 0...",Duplicate record (keeping first occurrence),0.9,6025.0
+6035,48.0,usd,2025,dollar_amounts,"0.09 0.13 0.20 0.25 0.31 0.37 postsecondary nondegree award $48,315 9,636 0.07 0.15 0.19 0.28 0.31 0...",Duplicate record (keeping first occurrence),0.9,6032.0
+7082,80.0,percentage,2024,general_rate,and gpt-4 classifications. our findings reveal that around 80% of the u.s. workforce could have at l...,Duplicate record (keeping first occurrence),0.9,953.0
+7083,10.0,percentage,2024,general_rate,l that around 80% of the u.s. workforce could have at least 10% of their work tasks affected by the ...,Duplicate record (keeping first occurrence),0.9,954.0
+7084,19.0,percentage,2024,general_rate,"affected by the intro- duction of llms, while approximately 19% of workers may see at least 50% of t...",Duplicate record (keeping first occurrence),0.9,955.0
+7085,50.0,percentage,2024,general_rate,"f llms, while approximately 19% of workers may see at least 50% of their tasks im- pacted. we do not...",Duplicate record (keeping first occurrence),0.9,956.0
+7086,15.0,percentage,2024,general_rate,"h. our analysis suggests that, with access to an llm, about 15% of all worker tasks in the us could ...",Duplicate record (keeping first occurrence),0.9,957.0
+7087,56.0,percentage,2024,general_rate,"uilt on top of llms, this share increases to between 47 and 56% of all tasks. this finding implies t...",Duplicate record (keeping first occurrence),0.9,958.0
+7088,3.0,percentage,2024,general_rate,tools built upon them. human assessments suggest that only 3% of u.s. workers have over half of thei...,Duplicate record (keeping first occurrence),0.9,959.0
+7089,72.0,percentage,2023,general_rate,"et al.,, 2023), along with wage controls, ranges from 60 to 72%, indicating that 28 to 40% of the va...",Duplicate record (keeping first occurrence),0.9,960.0
+7090,40.0,percentage,2024,general_rate,"wage controls, ranges from 60 to 72%, indicating that 28 to 40% of the variation in our ai exposure ...",Duplicate record (keeping first occurrence),0.9,961.0
+7091,91.1,percentage,2024,general_rate,"𝜁 e1 + e2 79.5% 0.589 gpt-4, rubric 1; gpt-4, rubric 2 𝛼 e1 91.1% 0.611 6/20/25, 12:55 pm [2303.1013...",Duplicate record (keeping first occurrence),0.9,962.0
+7092,30.0,percentage,2024,general_rate,are directly exposed to llms. this figure increases to over 30% for 𝛽 and surpasses 50% for 𝜁. coinc...,Duplicate record (keeping first occurrence),0.9,963.0
+7093,2.3,percentage,2024,general_rate,"asks exposed. for example, human annotators determined that 2.3% of occupations are 𝛼50-exposed, 21....",Duplicate record (keeping first occurrence),0.9,964.0
+7094,21.6,percentage,2024,general_rate,"tators determined that 2.3% of occupations are 𝛼50-exposed, 21.6% are 𝛽50-exposed, and 47.3% are 𝜁50...",Duplicate record (keeping first occurrence),0.9,965.0
+7095,0.0,percentage,2024,general_rate,"er than 50% 𝛽 ex- posure in job zones 1 through 5 have 𝛽 at 0.00% (job zone 1), 6.11% (job zone 2), ...",Duplicate record (keeping first occurrence),0.9,966.0
+7096,6.11,percentage,2024,general_rate,"sure in job zones 1 through 5 have 𝛽 at 0.00% (job zone 1), 6.11% (job zone 2), 10.57% (job zone 3),...",Duplicate record (keeping first occurrence),0.9,967.0
+7097,34.5,percentage,2024,general_rate,".00% (job zone 1), 6.11% (job zone 2), 10.57% (job zone 3), 34.5% (job zone 4), and 26.45% (job zone...",Duplicate record (keeping first occurrence),0.9,968.0
+7098,26.45,percentage,2024,general_rate,"(job zone 2), 10.57% (job zone 3), 34.5% (job zone 4), and 26.45% (job zone 5), respectively. job zo...",Duplicate record (keeping first occurrence),0.9,969.0
+7099,1.0,percentage,2020,general_rate,ly significant as- sociations with llm exposure scores at a 1% level. coefficients on ai scores from...,Duplicate record (keeping first occurrence),0.9,970.0
+7100,5.0,percentage,2020,general_rate,"2020) are also positive and statistically significant at a 5% level, but our secondary prompt on ove...",Duplicate record (keeping first occurrence),0.9,971.0
+7101,30.0,billions_usd,2024,financial_metric,"lso increases, with the median worker in job zone 1 earning $ 30,230 and the median worker in job zo...",Duplicate record (keeping first occurrence),0.9,972.0
+7102,80.0,billions_usd,2024,financial_metric,"arning $ 30,230 and the median worker in job zone 5 earning $ 80,980. all of our measures (𝛼, 𝛽, and...",Duplicate record (keeping first occurrence),0.9,973.0
+7103,38.0,billions_usd,2024,financial_metric,"a orderlies, cus- tomer service rep- resentatives, tellers $38,215 73,962 0.07 0.12 0.16 0.20 0.24 0...",Duplicate record (keeping first occurrence),0.9,974.0
+7104,54.0,billions_usd,2024,financial_metric,"iate’s degree electricians, bar- bers, medical assistants $54,815 37,881 0.11 0.14 0.26 0.32 0.41 0....",Duplicate record (keeping first occurrence),0.9,975.0
+7105,46.0,billions_usd,2024,financial_metric,"0.15 0.21 0.25 0.32 0.34 moderate-term on-the-job training $46,880 31,285 0.09 0.12 0.21 0.25 0.32 0...",Duplicate record (keeping first occurrence),0.9,976.0
+7106,60.0,billions_usd,2024,financial_metric,",970 2,898 0.23 0.34 0.39 0.53 0.55 0.72 associate’s degree $60,360 3,537 0.12 0.14 0.31 0.36 0.49 0...",Duplicate record (keeping first occurrence),0.9,977.0
+7107,0.0,number,2024,employment_metric,"h potential implications for the workforce. there are 3,504,000 workers for whom we lack data on edu...",Duplicate record (keeping first occurrence),0.9,978.0
+7108,2019.0,number,2019,unknown_metric,"re not limited to transformer-based models (devlin et al.,, 2019). llms can process and produce vari...",Citation year extracted as metric value,0.95,
+7109,3.0,billions_usd,2024,cost_metric,"this paper’s primary contributions are to provide a set of measurements of llm impact po-
+3baumol’s...",Duplicate record (keeping first occurrence),0.9,980.0
+7110,10.0,percentage,2024,labor_metric,"workforce could have at least 10% of their work tasks affected by the intro-
+duction of llms, while...",Duplicate record (keeping first occurrence),0.9,954.0
+7111,19.0,percentage,2024,labor_metric,"workforce could have at least 10% of their work tasks affected by the intro-
+duction of llms, while...",Duplicate record (keeping first occurrence),0.9,955.0
+7112,50.0,percentage,2024,labor_metric,"workforce could have at least 10% of their work tasks affected by the intro-
+duction of llms, while...",Duplicate record (keeping first occurrence),0.9,956.0
+7113,3.0,billions_usd,2024,training_metric,"this paper’s primary contributions are to provide a set of measurements of llm impact po-
+3baumol’s...",Duplicate record (keeping first occurrence),0.9,980.0
+7114,50.0,percentage,2024,impact_metrics,nan,Duplicate record (keeping first occurrence),0.9,956.0
+12068,80.0,percentage,2024,general_rate,and gpt-4 classifications. our findings reveal that around 80% of the u.s. workforce could have at l...,Duplicate record (keeping first occurrence),0.9,953.0
+12069,10.0,percentage,2024,general_rate,l that around 80% of the u.s. workforce could have at least 10% of their work tasks affected by the ...,Duplicate record (keeping first occurrence),0.9,954.0
+12070,19.0,percentage,2024,general_rate,"affected by the intro- duction of llms, while approximately 19% of workers may see at least 50% of t...",Duplicate record (keeping first occurrence),0.9,955.0
+12071,50.0,percentage,2024,general_rate,"f llms, while approximately 19% of workers may see at least 50% of their tasks im- pacted. we do not...",Duplicate record (keeping first occurrence),0.9,956.0
+12072,15.0,percentage,2024,general_rate,"h. our analysis suggests that, with access to an llm, about 15% of all worker tasks in the us could ...",Duplicate record (keeping first occurrence),0.9,957.0
+12073,56.0,percentage,2024,general_rate,"uilt on top of llms, this share increases to between 47 and 56% of all tasks. this finding implies t...",Duplicate record (keeping first occurrence),0.9,958.0
+12074,3.0,percentage,2024,general_rate,tools built upon them. human assessments suggest that only 3% of u.s. workers have over half of thei...,Duplicate record (keeping first occurrence),0.9,959.0
+12075,72.0,percentage,2023,general_rate,"et al.,, 2023), along with wage controls, ranges from 60 to 72%, indicating that 28 to 40% of the va...",Duplicate record (keeping first occurrence),0.9,960.0
+12076,40.0,percentage,2024,general_rate,"wage controls, ranges from 60 to 72%, indicating that 28 to 40% of the variation in our ai exposure ...",Duplicate record (keeping first occurrence),0.9,961.0
+12077,91.1,percentage,2024,general_rate,"𝜁 e1 + e2 79.5% 0.589 gpt-4, rubric 1; gpt-4, rubric 2 𝛼 e1 91.1% 0.611 6/20/25, 12:55 pm [2303.1013...",Duplicate record (keeping first occurrence),0.9,962.0
+12078,30.0,percentage,2024,general_rate,are directly exposed to llms. this figure increases to over 30% for 𝛽 and surpasses 50% for 𝜁. coinc...,Duplicate record (keeping first occurrence),0.9,963.0
+12079,2.3,percentage,2024,general_rate,"asks exposed. for example, human annotators determined that 2.3% of occupations are 𝛼50-exposed, 21....",Duplicate record (keeping first occurrence),0.9,964.0
+12080,21.6,percentage,2024,general_rate,"tators determined that 2.3% of occupations are 𝛼50-exposed, 21.6% are 𝛽50-exposed, and 47.3% are 𝜁50...",Duplicate record (keeping first occurrence),0.9,965.0
+12081,0.0,percentage,2024,general_rate,"er than 50% 𝛽 ex- posure in job zones 1 through 5 have 𝛽 at 0.00% (job zone 1), 6.11% (job zone 2), ...",Duplicate record (keeping first occurrence),0.9,966.0
+12082,6.11,percentage,2024,general_rate,"sure in job zones 1 through 5 have 𝛽 at 0.00% (job zone 1), 6.11% (job zone 2), 10.57% (job zone 3),...",Duplicate record (keeping first occurrence),0.9,967.0
+12083,34.5,percentage,2024,general_rate,".00% (job zone 1), 6.11% (job zone 2), 10.57% (job zone 3), 34.5% (job zone 4), and 26.45% (job zone...",Duplicate record (keeping first occurrence),0.9,968.0
+12084,26.45,percentage,2024,general_rate,"(job zone 2), 10.57% (job zone 3), 34.5% (job zone 4), and 26.45% (job zone 5), respectively. job zo...",Duplicate record (keeping first occurrence),0.9,969.0
+12085,1.0,percentage,2020,general_rate,ly significant as- sociations with llm exposure scores at a 1% level. coefficients on ai scores from...,Duplicate record (keeping first occurrence),0.9,970.0
+12086,5.0,percentage,2020,general_rate,"2020) are also positive and statistically significant at a 5% level, but our secondary prompt on ove...",Duplicate record (keeping first occurrence),0.9,971.0
+12087,30.0,billions_usd,2024,financial_metric,"lso increases, with the median worker in job zone 1 earning $ 30,230 and the median worker in job zo...",Duplicate record (keeping first occurrence),0.9,972.0
+12088,80.0,billions_usd,2024,financial_metric,"arning $ 30,230 and the median worker in job zone 5 earning $ 80,980. all of our measures (𝛼, 𝛽, and...",Duplicate record (keeping first occurrence),0.9,973.0
+12089,38.0,billions_usd,2024,financial_metric,"a orderlies, cus- tomer service rep- resentatives, tellers $38,215 73,962 0.07 0.12 0.16 0.20 0.24 0...",Duplicate record (keeping first occurrence),0.9,974.0
+12090,54.0,billions_usd,2024,financial_metric,"iate’s degree electricians, bar- bers, medical assistants $54,815 37,881 0.11 0.14 0.26 0.32 0.41 0....",Duplicate record (keeping first occurrence),0.9,975.0
+12091,46.0,billions_usd,2024,financial_metric,"0.15 0.21 0.25 0.32 0.34 moderate-term on-the-job training $46,880 31,285 0.09 0.12 0.21 0.25 0.32 0...",Duplicate record (keeping first occurrence),0.9,976.0
+12092,60.0,billions_usd,2024,financial_metric,",970 2,898 0.23 0.34 0.39 0.53 0.55 0.72 associate’s degree $60,360 3,537 0.12 0.14 0.31 0.36 0.49 0...",Duplicate record (keeping first occurrence),0.9,977.0
+12093,0.0,number,2024,employment_metric,"h potential implications for the workforce. there are 3,504,000 workers for whom we lack data on edu...",Duplicate record (keeping first occurrence),0.9,978.0
+12094,2019.0,number,2019,unknown_metric,"re not limited to transformer-based models (devlin et al.,, 2019). llms can process and produce vari...",Citation year extracted as metric value,0.95,
+12095,3.0,billions_usd,2024,cost_metric,"this paper’s primary contributions are to provide a set of measurements of llm impact po-
+3baumol’s...",Duplicate record (keeping first occurrence),0.9,980.0
+12096,10.0,percentage,2024,labor_metric,"workforce could have at least 10% of their work tasks affected by the intro-
+duction of llms, while...",Duplicate record (keeping first occurrence),0.9,954.0
+12097,19.0,percentage,2024,labor_metric,"workforce could have at least 10% of their work tasks affected by the intro-
+duction of llms, while...",Duplicate record (keeping first occurrence),0.9,955.0
+12098,50.0,percentage,2024,labor_metric,"workforce could have at least 10% of their work tasks affected by the intro-
+duction of llms, while...",Duplicate record (keeping first occurrence),0.9,956.0
+12099,3.0,billions_usd,2024,training_metric,"this paper’s primary contributions are to provide a set of measurements of llm impact po-
+3baumol’s...",Duplicate record (keeping first occurrence),0.9,980.0
+12100,50.0,percentage,2024,impact_metrics,nan,Duplicate record (keeping first occurrence),0.9,956.0
+12101,80.0,percentage,2025,percentages,and gpt-4 classifications. our findings reveal that around 80% of the u.s. workforce could have at l...,Duplicate record (keeping first occurrence),0.9,5972.0
+12102,10.0,percentage,2025,percentages,l that around 80% of the u.s. workforce could have at least 10% of their work tasks affected by the ...,Duplicate record (keeping first occurrence),0.9,5973.0
+12103,19.0,percentage,2025,employment,"affected by the intro- duction of llms, while approximately 19% of workers may see at least 50% of t...",Duplicate record (keeping first occurrence),0.9,5974.0
+12104,50.0,percentage,2025,employment,"f llms, while approximately 19% of workers may see at least 50% of their tasks im- pacted. we do not...",Duplicate record (keeping first occurrence),0.9,5975.0
+12105,15.0,percentage,2025,employment,"h. our analysis suggests that, with access to an llm, about 15% of all worker tasks in the us could ...",Duplicate record (keeping first occurrence),0.9,5976.0
+12106,56.0,percentage,2025,growth_rate,"uilt on top of llms, this share increases to between 47 and 56% of all tasks. this finding implies t...",Duplicate record (keeping first occurrence),0.9,5977.0
+12107,19.0,percentage,2025,employment,omation outcomes. our analysis indicates that approximately 19% of jobs have at least 50% of their t...,Duplicate record (keeping first occurrence),0.9,5974.0
+12108,50.0,percentage,2025,employment,ysis indicates that approximately 19% of jobs have at least 50% of their tasks exposed when consider...,Duplicate record (keeping first occurrence),0.9,5975.0
+12109,3.0,percentage,2025,employment,tools built upon them. human assessments suggest that only 3% of u.s. workers have over half of thei...,Duplicate record (keeping first occurrence),0.9,5980.0
+12110,49.0,percentage,2025,employment,"ntary technologies, our human estimates indicate that up to 49% of workers could have half or more o...",Duplicate record (keeping first occurrence),0.9,5981.0
+12111,72.0,percentage,2023,percentages,"et al.,, 2023), along with wage controls, ranges from 60 to 72%, indicating that 28 to 40% of the va...",Duplicate record (keeping first occurrence),0.9,960.0
+12112,40.0,percentage,2025,percentages,"wage controls, ranges from 60 to 72%, indicating that 28 to 40% of the variation in our ai exposure ...",Duplicate record (keeping first occurrence),0.9,5983.0
+12113,50.0,percentage,2025,percentages,xposure rubric we set the exposure threshold at a potential 50% reduction in time required to comple...,Duplicate record (keeping first occurrence),0.9,5975.0
+12114,80.8,percentage,2025,percentages,"𝛾 weighting agreement pearson’s gpt-4, rubric 1; human 𝛼 e1 80.8% 0.223 𝛽 e1 + .5*e2 65.6% 0.591 𝜁 e...",Duplicate record (keeping first occurrence),0.9,5985.0
+12115,65.6,percentage,2025,percentages,"rson’s gpt-4, rubric 1; human 𝛼 e1 80.8% 0.223 𝛽 e1 + .5*e2 65.6% 0.591 𝜁 e1 + e2 82.1% 0.654 gpt-4,...",Duplicate record (keeping first occurrence),0.9,5986.0
+12116,82.1,percentage,2025,percentages,"; human 𝛼 e1 80.8% 0.223 𝛽 e1 + .5*e2 65.6% 0.591 𝜁 e1 + e2 82.1% 0.654 gpt-4, rubric 2; human 𝛼 e1 ...",Duplicate record (keeping first occurrence),0.9,5987.0
+12117,81.8,percentage,2025,percentages,".6% 0.591 𝜁 e1 + e2 82.1% 0.654 gpt-4, rubric 2; human 𝛼 e1 81.8% 0.221 𝛽 e1 + .5*e2 65.6% 0.538 𝜁 e...",Duplicate record (keeping first occurrence),0.9,5988.0
+12118,65.6,percentage,2025,percentages,"0.654 gpt-4, rubric 2; human 𝛼 e1 81.8% 0.221 𝛽 e1 + .5*e2 65.6% 0.538 𝜁 e1 + e2 79.5% 0.589 gpt-4, ...",Duplicate record (keeping first occurrence),0.9,5986.0
+12119,79.5,percentage,2025,percentages,"; human 𝛼 e1 81.8% 0.221 𝛽 e1 + .5*e2 65.6% 0.538 𝜁 e1 + e2 79.5% 0.589 gpt-4, rubric 1; gpt-4, rubr...",Duplicate record (keeping first occurrence),0.9,5990.0
+12120,91.1,percentage,2025,percentages,"𝜁 e1 + e2 79.5% 0.589 gpt-4, rubric 1; gpt-4, rubric 2 𝛼 e1 91.1% 0.611 6/20/25, 12:55 pm [2303.1013...",Duplicate record (keeping first occurrence),0.9,5991.0
+12121,76.0,percentage,2025,percentages,://ar5iv.labs.arxiv.org/html/2303.10130 11/56 𝛽 e1 + .5*e2 76.0% 0.705 𝜁 e1 + e2 82.4% 0.680 table 2...,Duplicate record (keeping first occurrence),0.9,5992.0
+12122,82.4,percentage,2025,percentages,g/html/2303.10130 11/56 𝛽 e1 + .5*e2 76.0% 0.705 𝜁 e1 + e2 82.4% 0.680 table 2: model and human comp...,Duplicate record (keeping first occurrence),0.9,5993.0
+12123,15.0,percentage,2025,percentages,"n 0.14 and 0.15, suggesting that, on average, approximately 15% of tasks within an occupation are di...",Duplicate record (keeping first occurrence),0.9,5976.0
+12124,30.0,percentage,2025,growth_rate,are directly exposed to llms. this figure increases to over 30% for 𝛽 and surpasses 50% for 𝜁. coinc...,Duplicate record (keeping first occurrence),0.9,5995.0
+12125,50.0,percentage,2025,growth_rate,"llms. this figure increases to over 30% for 𝛽 and surpasses 50% for 𝜁. coincidentally, human and gpt...",Duplicate record (keeping first occurrence),0.9,5975.0
+12126,15.0,percentage,2025,percentages,"oincidentally, human and gpt-4 annotations also tag between 15% and 14% of total tasks in the datase...",Duplicate record (keeping first occurrence),0.9,5976.0
+12127,14.0,percentage,2025,percentages,"tally, human and gpt-4 annotations also tag between 15% and 14% of total tasks in the dataset as bei...",Duplicate record (keeping first occurrence),0.9,5998.0
+12128,80.0,percentage,2025,employment,"ex- posed to llms. based on the 𝛽 values, we estimate that 80% of workers belong to an occupa- tion ...",Duplicate record (keeping first occurrence),0.9,5972.0
+12129,10.0,percentage,2025,employment,"that 80% of workers belong to an occupa- tion with at least 10% of its tasks exposed to llms, while ...",Duplicate record (keeping first occurrence),0.9,5973.0
+12130,19.0,percentage,2025,employment,"tion with at least 10% of its tasks exposed to llms, while 19% of workers are in an occupa- tion whe...",Duplicate record (keeping first occurrence),0.9,5974.0
+12131,2.3,percentage,2025,percentages,"asks exposed. for example, human annotators determined that 2.3% of occupations are 𝛼50-exposed, 21....",Duplicate record (keeping first occurrence),0.9,6002.0
+12132,21.6,percentage,2025,percentages,"tators determined that 2.3% of occupations are 𝛼50-exposed, 21.6% are 𝛽50-exposed, and 47.3% are 𝜁50...",Duplicate record (keeping first occurrence),0.9,6003.0
+12133,47.3,percentage,2025,percentages,"of occupations are 𝛼50-exposed, 21.6% are 𝛽50-exposed, and 47.3% are 𝜁50-exposed, where the threshol...",Duplicate record (keeping first occurrence),0.9,6004.0
+12134,50.0,percentage,2025,percentages,"-exposed, and 47.3% are 𝜁50-exposed, where the threshold of 50% comes from the x-axis and the percen...",Duplicate record (keeping first occurrence),0.9,5975.0
+12135,50.0,percentage,2025,percentages,"reduction in time it takes to complete the task by at least 50% (see exposure rubric a.1). as such, ...",Duplicate record (keeping first occurrence),0.9,5975.0
+12136,50.0,percentage,2025,employment,the percentage of workers in occupations with greater than 50% 𝛽 ex- posure in job zones 1 through 5...,Duplicate record (keeping first occurrence),0.9,5975.0
+12137,0.0,percentage,2025,employment,"er than 50% 𝛽 ex- posure in job zones 1 through 5 have 𝛽 at 0.00% (job zone 1), 6.11% (job zone 2), ...",Duplicate record (keeping first occurrence),0.9,6008.0
+12138,6.11,percentage,2025,employment,"sure in job zones 1 through 5 have 𝛽 at 0.00% (job zone 1), 6.11% (job zone 2), 10.57% (job zone 3),...",Duplicate record (keeping first occurrence),0.9,6009.0
+12139,10.57,percentage,2025,employment,"through 5 have 𝛽 at 0.00% (job zone 1), 6.11% (job zone 2), 10.57% (job zone 3), 34.5% (job zone 4),...",Duplicate record (keeping first occurrence),0.9,6010.0
+12140,34.5,percentage,2025,employment,".00% (job zone 1), 6.11% (job zone 2), 10.57% (job zone 3), 34.5% (job zone 4), and 26.45% (job zone...",Duplicate record (keeping first occurrence),0.9,6011.0
+12141,26.45,percentage,2025,employment,"(job zone 2), 10.57% (job zone 3), 34.5% (job zone 4), and 26.45% (job zone 5), respectively. job zo...",Duplicate record (keeping first occurrence),0.9,6012.0
+12142,1.0,percentage,2020,percentages,ly significant as- sociations with llm exposure scores at a 1% level. coefficients on ai scores from...,Duplicate record (keeping first occurrence),0.9,970.0
+12143,5.0,percentage,2020,percentages,"2020) are also positive and statistically significant at a 5% level, but our secondary prompt on ove...",Duplicate record (keeping first occurrence),0.9,971.0
+12144,60.7,percentage,2025,percentages,"t of occupations. in all regressions, the 𝑅2 ranges between 60.7% (column 3) and 72.8% (column 5). t...",Duplicate record (keeping first occurrence),0.9,6015.0
+12145,72.8,percentage,2025,percentages,"all regressions, the 𝑅2 ranges between 60.7% (column 3) and 72.8% (column 5). this sug- gests that o...",Duplicate record (keeping first occurrence),0.9,6016.0
+12146,40.0,percentage,2025,percentages,"explicitly focuses on llm capabilities, has between 28 and 40% unexplained variance compared to othe...",Duplicate record (keeping first occurrence),0.9,5983.0
+12147,19.0,percentage,2025,employment,th high exposure. our analysis indicates that approximately 19% of jobs have at least 50% of their t...,Duplicate record (keeping first occurrence),0.9,5974.0
+12148,50.0,percentage,2025,employment,ysis indicates that approximately 19% of jobs have at least 50% of their tasks exposed to llms when ...,Duplicate record (keeping first occurrence),0.9,5975.0
+12149,30.0,usd,2025,employment,"lso increases, with the median worker in job zone 1 earning $ 30,230 and the median worker in job zo...",Duplicate record (keeping first occurrence),0.9,6020.0
+12150,80.0,usd,2025,employment,"arning $ 30,230 and the median worker in job zone 5 earning $ 80,980. all of our measures (𝛼, 𝛽, and...",Duplicate record (keeping first occurrence),0.9,6021.0
+12151,30.0,usd,2025,employment,") food preparation workers, dish- washers, floor sanders $30,230 13,100 0.03 0.04 0.06 0.06 0.09 0.0...",Duplicate record (keeping first occurrence),0.9,6020.0
+12152,38.0,usd,2025,dollar_amounts,"a orderlies, cus- tomer service rep- resentatives, tellers $38,215 73,962 0.07 0.12 0.16 0.20 0.24 0...",Duplicate record (keeping first occurrence),0.9,6023.0
+12153,54.0,usd,2025,dollar_amounts,"iate’s degree electricians, bar- bers, medical assistants $54,815 37,881 0.11 0.14 0.26 0.32 0.41 0....",Duplicate record (keeping first occurrence),0.9,6024.0
+12154,77.0,usd,2025,cost,"ase adminis- trators, graphic de- signers, cost estimators $77,345 56,833 0.23 0.18 0.47 0.51 0.71 0...",Duplicate record (keeping first occurrence),0.9,6025.0
+12155,81.0,usd,2025,dollar_amounts,"master’s degree or higher pharmacists, lawyers, astronomers $81,980 21,221 0.23 0.13 0.43 0.45 0.63 ...",Duplicate record (keeping first occurrence),0.9,6026.0
+12156,77.0,usd,2025,revenue,"d median income tot emp (000s) h 𝜶 m 𝜶 h 𝜷 m 𝜷 h 𝜻 m 𝜻 none $77,440 90,776 0.20 0.16 0.42 0.46 0.63 ...",Duplicate record (keeping first occurrence),0.9,6025.0
+12157,55.0,usd,2025,dollar_amounts,"$77,440 90,776 0.20 0.16 0.42 0.46 0.63 0.76 apprenticeship $55,995 3,066 0.01 0.02 0.04 0.06 0.07 0...",Duplicate record (keeping first occurrence),0.9,6028.0
+12158,77.0,usd,2025,dollar_amounts,"95 3,066 0.01 0.02 0.04 0.06 0.07 0.10 internship/residency $77,110 3,063 0.16 0.06 0.36 0.38 0.55 0...",Duplicate record (keeping first occurrence),0.9,6025.0
+12159,33.0,usd,2025,employment,".16 0.06 0.36 0.38 0.55 0.71 short-term on-the-job training $33,370 66,234 0.11 0.15 0.21 0.25 0.32 ...",Duplicate record (keeping first occurrence),0.9,6030.0
+12160,46.0,usd,2025,employment,"0.15 0.21 0.25 0.32 0.34 moderate-term on-the-job training $46,880 31,285 0.09 0.12 0.21 0.25 0.32 0...",Duplicate record (keeping first occurrence),0.9,6031.0
+12161,48.0,usd,2025,employment,"0.09 0.12 0.21 0.25 0.32 0.38 long-term on-the-job training $48,925 5,070 0.08 0.10 0.18 0.22 0.28 0...",Duplicate record (keeping first occurrence),0.9,6032.0
+12162,31.0,usd,2025,dollar_amounts,"s) h 𝜶 m 𝜶 h 𝜷 m 𝜷 h 𝜻 m 𝜻 no formal educational credential $31,900 36,187 0.05 0.06 0.10 0.10 0.15 ...",Duplicate record (keeping first occurrence),0.9,6033.0
+12163,45.0,usd,2025,dollar_amounts,"0.06 0.10 0.10 0.15 0.15 high school diploma or equivalent $45,470 67,033 0.09 0.13 0.20 0.25 0.31 0...",Duplicate record (keeping first occurrence),0.9,6034.0
+12164,48.0,usd,2025,dollar_amounts,"0.09 0.13 0.20 0.25 0.31 0.37 postsecondary nondegree award $48,315 9,636 0.07 0.15 0.19 0.28 0.31 0...",Duplicate record (keeping first occurrence),0.9,6032.0
+12165,40.0,usd,2025,dollar_amounts,"9,636 0.07 0.15 0.19 0.28 0.31 0.41 some college, no degree $40,970 2,898 0.23 0.34 0.39 0.53 0.55 0...",Duplicate record (keeping first occurrence),0.9,6036.0
+12166,60.0,usd,2025,dollar_amounts,",970 2,898 0.23 0.34 0.39 0.53 0.55 0.72 associate’s degree $60,360 3,537 0.12 0.14 0.31 0.36 0.49 0...",Duplicate record (keeping first occurrence),0.9,6037.0
+12167,78.0,usd,2025,dollar_amounts,"0,360 3,537 0.12 0.14 0.31 0.36 0.49 0.59 bachelor’s degree $78,375 71,698 0.23 0.17 0.47 0.51 0.70 ...",Duplicate record (keeping first occurrence),0.9,6038.0
+12168,79.0,usd,2025,dollar_amounts,"78,375 71,698 0.23 0.17 0.47 0.51 0.70 0.84 master’s degree $79,605 3,216 0.26 0.14 0.46 0.44 0.66 0...",Duplicate record (keeping first occurrence),0.9,6039.0
+12169,82.0,usd,2025,dollar_amounts,"26 0.14 0.46 0.44 0.66 0.74 doctoral or professional degree $82,420 5,290 0.21 0.13 0.41 0.43 0.60 0...",Duplicate record (keeping first occurrence),0.9,6040.0
+12170,0.0,number,2025,employment,"h potential implications for the workforce. there are 3,504,000 workers for whom we lack data on edu...",Duplicate record (keeping first occurrence),0.9,6041.0

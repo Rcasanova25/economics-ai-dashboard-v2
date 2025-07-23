@@ -1,0 +1,16 @@
+SOURCE 7 CLEANUP ANALYSIS SUMMARY
+Generated: 2025-07-23T16:30:25.991726
+
+FILE: cost-benefit-analysis-artificial-intelligence-evidence-from-a-field-experiment-on-gpt-4o-1.pdf
+Original Records: 2472
+
+PROPOSED ACTIONS:
+- Records to KEEP: 1097
+- Records to REMOVE: 1366
+- Records to MODIFY: 9
+
+Quality Score: 44.38%
+
+Top removal reason: Duplicate record (1351 records)
+
+Please review the detailed reports before proceeding with cleanup.

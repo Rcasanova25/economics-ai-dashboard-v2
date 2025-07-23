@@ -1,0 +1,38 @@
+{
+  "source_id": 16,
+  "source_name": "wpiea2024231-print-pdf.pdf",
+  "timestamp": "2025-07-23T15:12:56.363797",
+  "schema_version": "1.1",
+  "total_records": 244,
+  "kept_records": 52,
+  "removed_records": 181,
+  "modified_records": 11,
+  "duplicate_groups": 67,
+  "duplicates_removed": 177,
+  "removal_reasons": {
+    "Duplicate record": 168,
+    "Citation year extracted as metric value": 12,
+    "Financial units should not appear with employment metrics": 1
+  },
+  "modification_types": {
+    "general_rate \u2192 employment_metric": 9,
+    "general_rate \u2192 adoption_metric": 1,
+    "general_rate \u2192 productivity_metric": 1
+  },
+  "confidence_distribution": {
+    "high": 181,
+    "medium": 63,
+    "low": 0,
+    "high_pct": 74.2,
+    "medium_pct": 25.8,
+    "low_pct": 0.0
+  },
+  "quality_metrics": {
+    "quality_score": 21.31,
+    "issues_found": 192,
+    "removal_rate": 74.18,
+    "modification_rate": 4.51
+  },
+  "top_removal_reason": "Duplicate record",
+  "top_removal_count": 168
+}

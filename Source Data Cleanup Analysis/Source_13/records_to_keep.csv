@@ -1,0 +1,128 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence
+895,25.0,percentage,2024,general_rate,"ions greater than 250,000 in each pillar. those in the top 25% on a pillar earn a “t” (for “top”) fo...",Passed all validation checks,0.85
+897,4.0,percentage,2025,general_rate,ai in the production of goods or services rose from around 4% in early 2023 to 8.7% by mid-2025. exp...,Passed all validation checks,0.85
+898,8.7,percentage,2025,general_rate,of goods or services rose from around 4% in early 2023 to 8.7% by mid-2025. expectations for near-te...,Passed all validation checks,0.85
+900,1.0,percentage,2024,general_rate,"2024, surging their share of all tech startups from around 1% to 28% (see figure 4). 15 figure 4.",Passed all validation checks,0.85
+904,20.1,percentage,2024,general_rate,"ely to use ai in the production of goods and services, with 20.1% reporting active use. this is foll...",Passed all validation checks,0.85
+905,15.9,percentage,2024,general_rate,"ific, and technical services sector (18.2%) and utilities (15.9%). in contrast, sectors such as tran...",Passed all validation checks,0.85
+908,110.0,percentage,2025,general_rate,"ril 2018 to 13,000 in april 2025); and san jose rising by 110% (from 5,800 to 12,200). these metro a...",Passed all validation checks,0.85
+910,250.0,percentage,2025,general_rate,iami and gainesville in florida saw even higher gains—over 250%—from 2018 to 2025. many metro areas ...,Passed all validation checks,0.85
+911,56.0,percentage,2024,general_rate,"cluster generates 51% of the nation’s filed ai patents and 56% of its ai publications, with universi...",Passed all validation checks,0.85
+915,7.5,percentage,2024,general_rate,"nearly 3.5% of ai patent filings, while driving more than 7.5% of hpc usage—a footprint that sits ju...",Passed all validation checks,0.85
+917,800.0,percentage,2025,general_rate,"nd savannah, ga., have seen ai job postings grow more than 800% between april 2018 and 2025, highlig...",Passed all validation checks,0.85
+920,0.16,percentage,2024,general_rate,"scanter: overall, metro areas in the others group generate 0.16% of patents and claim just 0.3% of c...",Passed all validation checks,0.85
+921,0.3,percentage,2024,general_rate,n the others group generate 0.16% of patents and claim just 0.3% of competitive ai contracts and 1.1...,Passed all validation checks,0.85
+922,10.0,billions_usd,2024,financial_metric,ies in the two metro areas. the largest deal of 2024—worth $10 billion—was raised by the san francis...,Passed all validation checks,0.85
+923,109.1,billions_usd,2024,financial_metric,"uced 15. as to private investment, u.s. companies invested $109.1 billion in ai research in 2024, va...",Passed all validation checks,0.85
+924,3.21,billions_usd,2024,financial_metric,overnment investment in ai research actually decreased from $3.21 billion in 2023 to 37 $2.98 billio...,Passed all validation checks,0.85
+925,32.0,billions_usd,2026,financial_metric,doubling non-defense ai r&d investments annually to reach $32 billion by 2026.16 the nation’s curren...,Passed all validation checks,0.85
+926,40.0,billions_usd,2024,financial_metric,"er, the founding partners have pledged to invest more than $40 million to support the hub's success:...",Passed all validation checks,0.85
+927,25.0,billions_usd,2024,financial_metric,ore than $40 million to support the hub's success: njeda's $25 million commitment anchors state supp...,Passed all validation checks,0.85
+928,7.5,billions_usd,2024,financial_metric,"illion commitment anchors state support, while microsoft's $7.5 million investment leverages its tec...",Passed all validation checks,0.85
+929,5.0,billions_usd,2024,financial_metric,"n seattle, microsoft’s ai for good open call has set aside $5 million in azure credits, paired with ...",Passed all validation checks,0.85
+930,275.0,billions_usd,2024,financial_metric,"hy hochul launched empire ai as part of a historic 10-year, $275 million commitment (combined with a...",Passed all validation checks,0.85
+931,125.0,billions_usd,2024,financial_metric,"year, $275 million commitment (combined with an additional $125 million in private investment) to es...",Passed all validation checks,0.85
+932,90.0,billions_usd,2026,financial_metric,m: the new fy 2026 budget proposal announced an additional $90 million investment. empire ai has alr...,Passed all validation checks,0.85
+933,1.5,billions_usd,2024,financial_metric,"h north dakota state university, it was established with a $1.5 million grant from microsoft’s techs...",Passed all validation checks,0.85
+934,160.0,billions_usd,2024,financial_metric,regional innovation engines award that could provide up to $160 million over 10 years to accelerate ...,Passed all validation checks,0.85
+935,13.0,billions_usd,2027,financial_metric,"china’s genai sector investment surges, projected to reach $13 billion by 2027,” march 28, 2024. 65 ...",Passed all validation checks,0.85
+936,1.0,billions_usd,2025,financial_metric,"community foundation. (2025, april 4). google.org announces $1m to austin community foundation to pr...",Passed all validation checks,0.85
+937,19.0,number,2024,employment_metric,"falls to just 6.5% for businesses employing between 10 and 19 workers. interestingly, the smallest f...",Passed all validation checks,0.85
+939,2025.0,number,2025,unknown_metric,t technological leap? mark muro and shriya methkupally july 2025 table of contents executive summary...,Passed all validation checks,0.85
+942,8.7,percentage,2024,adoption_metrics,"s also show that the overall adoption rate remains relatively modest across the economy, with only 8...",Passed all validation checks,0.85
+5796,2.5,percentage,2025,employment,"w at an annual rate of 28.5%, yet still comprise only about 2.5% of all u.s. job openings. • extreme...",Passed all validation checks,0.85
+5797,13.0,percentage,2025,employment,nings. • extreme concentration. the bay area accounts for 13% of national job postings featuring ai ...,Passed all validation checks,0.85
+5798,67.0,percentage,2025,employment,"hubs, this group of 30 top- performing metro areas captures 67% of total ai job postings. • signs of...",Passed all validation checks,0.85
+5799,25.0,percentage,2025,percentages,"ions greater than 250,000 in each pillar. those in the top 25% on a pillar earn a “t” (for “top”) fo...",Passed all validation checks,0.85
+5800,50.0,percentage,2025,percentages,arn a “t” (for “top”) for that pillar. those in the middle 50% garner an “m” (for “middle” performan...,Passed all validation checks,0.85
+5802,4.0,percentage,2023,percentages,ai in the production of goods or services rose from around 4% in early 2023 to 8.7% by mid-2025. exp...,Passed all validation checks,0.85
+5803,8.7,percentage,2023,percentages,of goods or services rose from around 4% in early 2023 to 8.7% by mid-2025. expectations for near-te...,Passed all validation checks,0.85
+5804,11.0,percentage,2025,percentages,"for near-term ai use are higher: as of the latest survey, 11% of firms reported that they plan to ad...",Passed all validation checks,0.85
+5805,28.5,percentage,2010,employment,from tech giants (see figure 2). that increase amounted to 28.5% average annualized growth for ai jo...,Passed all validation checks,0.85
+5806,11.1,percentage,2010,growth_rate,"stings over the 2010-to-2025 period, which outstripped the 11.1% average annualized growth of postin...",Passed all validation checks,0.85
+5807,13.3,percentage,2025,growth_rate,nualized growth of postings in the general economy and the 13.3% annualized growth of those in the i...,Passed all validation checks,0.85
+5809,28.0,percentage,2025,percentages,surging their share of all tech startups from around 1% to 28% (see figure 4). 15 figure 4. in shor,Passed all validation checks,0.85
+5810,2.2,percentage,2025,employment,"e 287,000 job postings with ai skills accounted for merely 2.2% of all u.s. job postings (see figure...",Passed all validation checks,0.85
+5811,5.0,percentage,2025,percentages,"al business survey (abs), for example, show that only about 5% of u.s. firms were using at least a l...",Passed all validation checks,0.85
+5812,1.0,percentage,2021,percentages,t least a little ai in their operations in 2021.12 and only 1% of firms reported investing in ai pro...,Passed all validation checks,0.85
+5814,14.2,percentage,2025,adoption_rate,"ai use in producing goods and services, with a use rate of 14.2% according to 2025 btos data. this f...",Passed all validation checks,0.85
+5815,6.5,percentage,2025,employment,"ption rates among smaller firms, where usage falls to just 6.5% for businesses employing between 10 ...",Passed all validation checks,0.85
+5816,9.5,percentage,2025,percentages,"s (one to four employees) report relatively higher ai use (9.5%) than many midsized businesses, sugg...",Passed all validation checks,0.85
+5817,20.1,percentage,2025,percentages,"ely to use ai in the production of goods and services, with 20.1% reporting active use. this is foll...",Passed all validation checks,0.85
+5818,18.2,percentage,2025,percentages,"e professional, scientific, and technical services sector (18.2%) and utilities (15.9%). in contrast...",Passed all validation checks,0.85
+5819,15.9,percentage,2025,percentages,"ific, and technical services sector (18.2%) and utilities (15.9%). in contrast, sectors such as tran...",Passed all validation checks,0.85
+5820,2.3,percentage,2025,percentages,"contrast, sectors such as transportation and warehousing (2.3%), accommodation and food services (2....",Passed all validation checks,0.85
+5821,2.9,percentage,2025,percentages,"n and warehousing (2.3%), accommodation and food services (2.9%), and construction (3.1%) trail well...",Passed all validation checks,0.85
+5822,3.1,percentage,2025,percentages,", accommodation and food services (2.9%), and construction (3.1%) trail well behind, reflecting stru...",Passed all validation checks,0.85
+5824,54.0,percentage,2025,employment,"indicated by ai-related job postings in 2025, with another 54% of activity occurring within the 28 s...",Passed all validation checks,0.85
+5825,7.0,percentage,2025,employment,"activity occurring within the 28 star hubs. beyond that, 7%, 8%, 11%, and 2% of ai job posting activ...",Passed all validation checks,0.85
+5826,8.0,percentage,2025,employment,"ivity occurring within the 28 star hubs. beyond that, 7%, 8%, 11%, and 2% of ai job posting activity...",Passed all validation checks,0.85
+5828,2.0,percentage,2025,employment,"ng within the 28 star hubs. beyond that, 7%, 8%, 11%, and 2% of ai job posting activity took place i...",Passed all validation checks,0.85
+5830,1.0,percentage,2018,employment,"the share of job postings in those two clusters falling by 1% and 2%, respectively, since 2018. turn...",Passed all validation checks,0.85
+5831,2.0,percentage,2018,employment,"re of job postings in those two clusters falling by 1% and 2%, respectively, since 2018. turning to ...",Passed all validation checks,0.85
+5832,145.0,percentage,2018,employment,"job postings rise since 2018, with san francisco rising by 145% (from 5,300 postings in april 2018 t...",Passed all validation checks,0.85
+5833,110.0,percentage,2018,percentages,"ril 2018 to 13,000 in april 2025); and san jose rising by 110% (from 5,800 to 12,200). these metro a...",Passed all validation checks,0.85
+5834,2.7,percentage,2025,employment,"in terms of size: together, the two accounted for about 2.7% of all metro area employment in q1 2025...",Passed all validation checks,0.85
+5837,14.0,percentage,2025,percentages,he unrivaled depth and breadth of its ai readiness assets: 14% of online profiles with ai skills con...,Passed all validation checks,0.85
+5839,9.0,percentage,2025,cost,"lects 8% of federal ai r&d contract spending, it generates 9% of ai publications and 34% of ai paten...",Passed all validation checks,0.85
+5840,34.0,percentage,2025,cost,"d contract spending, it generates 9% of ai publications and 34% of ai patents. ai research is anchor...",Passed all validation checks,0.85
+5841,31.0,percentage,2014,adoption_rate,tand as by far the most commanding ai adoption hubs. fully 31% of private ai startups founded after ...,Passed all validation checks,0.85
+5842,32.0,percentage,2025,investment,"these two metro areas. for that matter, nearly one-third (32%) of the total seed and early-stage vc ...",Passed all validation checks,0.85
+5843,46.0,percentage,2025,employment,"he rest of the country. together, in 2025, they constituted 46% of the nation’s metro area employmen...",Passed all validation checks,0.85
+5845,139.0,percentage,2018,employment,"i job postings across the analyzed metro areas, growing by 139% in aggregate between 2018 and 2025. ...",Passed all validation checks,0.85
+5846,250.0,percentage,2018,percentages,iami and gainesville in florida saw even higher gains—over 250%—from 2018 to 2025. many metro areas ...,Passed all validation checks,0.85
+5848,64.0,percentage,2025,percentages,"innovation, these places are responsible for an impressive 64% of all ai- related contracts awarded ...",Passed all validation checks,0.85
+5850,51.0,percentage,2025,percentages,"oping ai applications). in addition, this cluster generates 51% of the nation’s filed ai patents and...",Passed all validation checks,0.85
+5851,56.0,percentage,2025,percentages,"cluster generates 51% of the nation’s filed ai patents and 56% of its ai publications, with universi...",Passed all validation checks,0.85
+5852,36.0,percentage,2025,percentages,umbers. the generative ai exposure level for this cluster (36%) is 4% above the national exposure le...,Passed all validation checks,0.85
+5854,53.0,percentage,2025,investment,"l also recognizes the potential of these metro areas, with 53% of funding deals flowing into this gr...",Passed all validation checks,0.85
+5857,88.0,percentage,2018,employment,"ostings across the analyzed metro areas. overall, they saw 88% growth in their ai job postings betwe...",Passed all validation checks,0.85
+5860,14.6,percentage,2025,percentages,"nal average of 13. altogether, the emerging centers produce 14.6% of the nation’s ai publications, 4...",Passed all validation checks,0.85
+5862,8.4,percentage,2025,percentages,".6% of the nation’s ai publications, 4% of ai patents, and 8.4% of ai contracts, and represent 21.3%...",Passed all validation checks,0.85
+5863,21.3,percentage,2025,percentages,"4% of ai patents, and 8.4% of ai contracts, and represent 21.3% of hpc usage. the group outperforms ...",Passed all validation checks,0.85
+5864,28.3,percentage,2025,percentages,"ers mostly outperform national density levels. on average, 28.3% of firms in these hubs have files i...",Passed all validation checks,0.85
+5865,27.0,percentage,2025,percentages,"s in these hubs have files in digital formats (compared to 27% nationally), and 23% have cloud-ready...",Passed all validation checks,0.85
+5866,23.0,percentage,2025,percentages,"files in digital formats (compared to 27% nationally), and 23% have cloud-ready data (versus 20% nat...",Passed all validation checks,0.85
+5867,20.0,percentage,2025,percentages,"to 27% nationally), and 23% have cloud-ready data (versus 20% nationally). ai use among these metro ...",Passed all validation checks,0.85
+5869,3.4,percentage,2025,investment,"r with the national average, at 4%. these hubs are home to 3.4% of the total startups analyzed. vent...",Passed all validation checks,0.85
+5872,8.3,percentage,2025,employment,"9% of the nation’s metro area employment, produced roughly 8.3% of all computer science and engineer...",Passed all validation checks,0.85
+5873,7.9,percentage,2025,employment,"l computer science and engineering graduates, and supplied 7.9% of all ai job postings. looking at a...",Passed all validation checks,0.85
+5874,100.0,percentage,2025,growth_rate,", 24 of the 29 metro areas have seen growth greater than 100%. several of the focused movers stand o...",Passed all validation checks,0.85
+5876,5.5,percentage,2025,percentages,"dly. 31 as a group, the focused movers have secured 5.5% of national ai contracts and generated near...",Passed all validation checks,0.85
+5877,3.5,percentage,2025,percentages,"cured 5.5% of national ai contracts and generated nearly 3.5% of ai patent filings, while driving mo...",Passed all validation checks,0.85
+5878,7.5,percentage,2025,percentages,"nearly 3.5% of ai patent filings, while driving more than 7.5% of hpc usage—a footprint that sits ju...",Passed all validation checks,0.85
+5879,3.7,percentage,2025,adoption_rate,"d in the national adoption journey. as a whole, they host 3.7% of the country’s ai startups and pull...",Passed all validation checks,0.85
+5880,3.6,percentage,2025,percentages,"le, they host 3.7% of the country’s ai startups and pull in 3.6% of ai- focused vc, demonstrating in...",Passed all validation checks,0.85
+5881,18.0,percentage,2025,employment,s widely dispersed set of regional economies accounted for 18% of the nation’s metro area employment...,Passed all validation checks,0.85
+5882,11.2,percentage,2025,employment,"employment as measured by job postings, but generated just 11.2% of metro area ai job postings—under...",Passed all validation checks,0.85
+5883,800.0,percentage,2018,employment,"nd savannah, ga., have seen ai job postings grow more than 800% between april 2018 and 2025, highlig...",Passed all validation checks,0.85
+5884,16.7,percentage,2025,adoption_rate,"on business adoption. on talent, these metro areas supply 16.7% of the nation’s computer 32 science ...",Passed all validation checks,0.85
+5885,8.9,percentage,2025,percentages,"ion’s computer 32 science bachelor’s degree graduates, 8.9% of its computer science ph.d. graduates,...",Passed all validation checks,0.85
+5886,7.2,percentage,2025,employment,"aduates, 8.9% of its computer science ph.d. graduates, and 7.2% of all ai-profiled workers—solid con...",Passed all validation checks,0.85
+5888,5.9,percentage,2025,percentages,"dest: nascent adopters produce 2.5% of ai publications and 5.9% of patents, and claim 10.3% of ai co...",Passed all validation checks,0.85
+5889,10.3,percentage,2025,adoption_rate,"uce 2.5% of ai publications and 5.9% of patents, and claim 10.3% of ai contracts and 4% of hpc usage...",Passed all validation checks,0.85
+5891,4.1,percentage,2025,percentages,"in step with broader trends. firms here score, on average, 4.1% on ai-use metrics (versus 4.2% natio...",Passed all validation checks,0.85
+5892,4.2,percentage,2025,percentages,"irms here score, on average, 4.1% on ai-use metrics (versus 4.2% nationally), 28.6% on data readines...",Passed all validation checks,0.85
+5893,28.6,percentage,2025,percentages,"average, 4.1% on ai-use metrics (versus 4.2% nationally), 28.6% on data readiness (versus 27% nation...",Passed all validation checks,0.85
+5897,9.3,billions_usd,2024,dollar_amounts,"1 billion in ai research in 2024, vastly outpacing china's $9.3 billion.13 yet recent developments s...",Passed all validation checks,0.85
+5898,3.21,billions_usd,2023,investment,overnment investment in ai research actually decreased from $3.21 billion in 2023 to 37 $2.98 billio...,Passed all validation checks,0.85
+5899,2.98,billions_usd,2023,dollar_amounts,ch actually decreased from $3.21 billion in 2023 to 37 $2.98 billion in 2024.15 this came at a momen...,Passed all validation checks,0.85
+5901,100.0,millions_usd,2025,dollar_amounts,n ai innovation. the ai hub will be supported by more than $100 million over the next five years as ...,Passed all validation checks,0.85
+5902,3.0,millions_usd,2025,dollar_amounts,"models innovation challenge, which will provide more than $3 million to support groundbreaking ai mo...",Passed all validation checks,0.85
+5903,10.5,millions_usd,2025,dollar_amounts,"york’s secunda family foundation, which recently announced $10.5 million to fund ai-related research...",Passed all validation checks,0.85
+5904,100.0,usd,2025,dollar_amounts,"ys. the stem city program in baltimore, which was awarded a $100,000 grant from the state of marylan...",Passed all validation checks,0.85
+5905,40.0,millions_usd,2025,dollar_amounts,"er, the founding partners have pledged to invest more than $40 million to support the hub's success:...",Passed all validation checks,0.85
+5906,25.0,millions_usd,2025,dollar_amounts,ore than $40 million to support the hub's success: njeda's $25 million commitment anchors state supp...,Passed all validation checks,0.85
+5907,7.5,millions_usd,2025,investment,"illion commitment anchors state support, while microsoft's $7.5 million investment leverages its tec...",Passed all validation checks,0.85
+5910,5.0,millions_usd,2025,dollar_amounts,"n seattle, microsoft’s ai for good open call has set aside $5 million in azure credits, paired with ...",Passed all validation checks,0.85
+5911,31.0,millions_usd,2025,dollar_amounts,"for its part, the massachusetts ai hub recently obtained a $31 million state grant to establish the ...",Passed all validation checks,0.85
+5913,275.0,millions_usd,2025,dollar_amounts,"hy hochul launched empire ai as part of a historic 10-year, $275 million commitment (combined with a...",Passed all validation checks,0.85
+5914,125.0,millions_usd,2025,investment,"year, $275 million commitment (combined with an additional $125 million in private investment) to es...",Passed all validation checks,0.85
+5915,90.0,millions_usd,2026,investment,m: the new fy 2026 budget proposal announced an additional $90 million investment. empire ai has alr...,Passed all validation checks,0.85
+5916,90.0,millions_usd,2025,dollar_amounts,"athy hochul. (2025, february 21). governor hochul announces $90 million plan to expand historic empi...",Passed all validation checks,0.85
+5917,1.5,millions_usd,2025,dollar_amounts,"h north dakota state university, it was established with a $1.5 million grant from microsoft’s techs...",Passed all validation checks,0.85
+5918,160.0,millions_usd,2025,dollar_amounts,regional innovation engines award that could provide up to $160 million over 10 years to accelerate ...,Passed all validation checks,0.85
+5919,160.0,usd,2025,dollar_amounts,automated agriculture partners get major boost from up to $160m federal grant. inforum. retrieved ma...,Passed all validation checks,0.85
+5923,1.0,usd,2025,dollar_amounts,"community foundation. (2025, april 4). google.org announces $1m to austin community foundation to pr...",Passed all validation checks,0.85
+5924,19.0,number,2025,employment,"falls to just 6.5% for businesses employing between 10 and 19 workers. interestingly, the smallest f...",Passed all validation checks,0.85
+5925,0.0,number,2025,employment,"ith populations below 250,000 and average employment of 64,000 workers—supported just about 5% of th...",Passed all validation checks,0.85

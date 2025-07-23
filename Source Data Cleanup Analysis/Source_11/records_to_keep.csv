@@ -1,0 +1,34 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence
+864,7.0,percentage,2023,general_rate,"ficial intelligence generative ai could raise global gdp by 7% apr 5, 2023 share share download tran...",Passed all validation checks,0.85
+867,0.0,percentage,2024,general_rate,share of occupational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80%...,Passed all validation checks,0.85
+868,70.0,percentage,2024,general_rate,of occupational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 4...,Passed all validation checks,0.85
+869,50.0,percentage,2024,general_rate,ational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% s...,Passed all validation checks,0.85
+870,40.0,percentage,2024,general_rate,nal workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% sourc...,Passed all validation checks,0.85
+871,30.0,percentage,2024,general_rate,workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: g...,Passed all validation checks,0.85
+872,20.0,percentage,2024,general_rate,load exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldm...,Passed all validation checks,0.85
+873,10.0,percentage,2024,general_rate,exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldman sa...,Passed all validation checks,0.85
+875,7.0,billions_usd,2024,financial_metric,"to businesses and society, they could drive a 7% (or almost $7 trillion) increase in global gdp and ...",Passed all validation checks,0.85
+876,150.0,billions_usd,2024,financial_metric,"e total addressable market for generative ai software to be $150 billion, compared with $685 billion...",Passed all validation checks,0.85
+877,685.0,billions_usd,2024,financial_metric,"or generative ai software to be $150 billion, compared with $685 billion for the global software ind...",Passed all validation checks,0.85
+878,2023.0,number,2023,unknown_metric,"elligence generative ai could raise global gdp by 7% apr 5, 2023 share share download transcript dow...",Passed all validation checks,0.85
+880,2.0,percentage,2024,gdp_metric,"ai's impact on labor productivity depends on its
+capability and adoption timeline
+effect of ai ado...",Passed all validation checks,0.85
+881,7.0,percentage,2024,productivity_metric,"as tools using advances in natural language processing work their way into
+businesses and society, ...",Passed all validation checks,0.85
+883,10.0,billions_usd,2024,revenue_metric,"they see multiple ways that such businesses can leverage generative ai for
+innovation leads to new ...",Passed all validation checks,0.85
+5467,7.0,percentage,2025,growth_rate,"k their way into businesses and society, they could drive a 7% (or almost $7 trillion) increase in g...",Passed all validation checks,0.85
+5470,60.0,percentage,2025,employment,udy by economist david autor cited in the report found that 60% of today’s workers are employed in o...,Passed all validation checks,0.85
+5471,85.0,percentage,2025,employment,ions that didn’t exist in 1940. this implies that more than 85% of employment growth over the last 8...,Passed all validation checks,0.85
+5472,0.0,percentage,2025,percentages,share of occupational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80%...,Passed all validation checks,0.85
+5473,80.0,percentage,2025,percentages,are of occupational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 6...,Passed all validation checks,0.85
+5474,70.0,percentage,2025,percentages,of occupational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 4...,Passed all validation checks,0.85
+5476,50.0,percentage,2025,percentages,ational workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% s...,Passed all validation checks,0.85
+5477,40.0,percentage,2025,percentages,nal workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% sourc...,Passed all validation checks,0.85
+5478,30.0,percentage,2025,percentages,workload exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: g...,Passed all validation checks,0.85
+5479,20.0,percentage,2025,percentages,load exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldm...,Passed all validation checks,0.85
+5480,10.0,percentage,2025,percentages,exposed to automation by ai 0% 80% 70% 60% 50% 40% 30% 20% 10% 0% 80% 60% 40% 20% source: goldman sa...,Passed all validation checks,0.85
+5494,7.0,usd,2025,productivity,"to businesses and society, they could drive a 7% (or almost $7 trillion) increase in global gdp and ...",Passed all validation checks,0.85
+5495,150.0,billions_usd,2025,dollar_amounts,"e total addressable market for generative ai software to be $150 billion, compared with $685 billion...",Passed all validation checks,0.85
+5496,685.0,billions_usd,2025,dollar_amounts,"or generative ai software to be $150 billion, compared with $685 billion for the global software ind...",Passed all validation checks,0.85

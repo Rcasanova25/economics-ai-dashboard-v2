@@ -1,0 +1,39 @@
+{
+  "source_id": 13,
+  "source_name": "Mapping-AI-readiness-final.pdf",
+  "timestamp": "2025-07-23T15:08:38.251722",
+  "schema_version": "1.1",
+  "total_records": 474,
+  "kept_records": 127,
+  "removed_records": 329,
+  "modified_records": 18,
+  "duplicate_groups": 147,
+  "duplicates_removed": 327,
+  "removal_reasons": {
+    "Duplicate record": 327,
+    "Zero employment with specific numbers in context": 1,
+    "Invalid unit 'billions_usd' for adoption_metric": 1
+  },
+  "modification_types": {
+    "general_rate \u2192 employment_metric": 12,
+    "general_rate \u2192 adoption_metric": 3,
+    "general_rate \u2192 investment_metric": 2,
+    "general_rate \u2192 productivity_metric": 1
+  },
+  "confidence_distribution": {
+    "high": 329,
+    "medium": 145,
+    "low": 0,
+    "high_pct": 69.4,
+    "medium_pct": 30.6,
+    "low_pct": 0.0
+  },
+  "quality_metrics": {
+    "quality_score": 26.79,
+    "issues_found": 347,
+    "removal_rate": 69.41,
+    "modification_rate": 3.8
+  },
+  "top_removal_reason": "Duplicate record",
+  "top_removal_count": 327
+}

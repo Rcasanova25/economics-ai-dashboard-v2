@@ -1,0 +1,241 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence,proposed_action,kept_record_id
+791,96.0,percentage,2024,general_rate,"gly critical part of the modern economy, to the point where 96% of corporate codebases contain some ...",Passed all validation checks,0.85,KEEP,
+792,78.81,percentage,2024,general_rate,"he engagement platform 6sense, github had a market share of 78.81% on march 18, 2024. further, 93% o...",Reclassify: general_rate → adoption_metric,0.8,MODIFY,
+793,16.0,percentage,2024,general_rate,eloper uses copilot for approximately 8 days and on average 16% of the top developers use copilot at...,Passed all validation checks,0.85,KEEP,
+794,3.0,percentage,2023,general_rate,"june 2023. during each week, usage is relatively low, with 3% weekly exposure and 0.17 days of copil...",Reclassify: general_rate → adoption_metric,0.8,MODIFY,
+795,44.0,percentage,2024,general_rate,re- sponse to ai adoption. the average developer allocates 44% of their engagement towards coding an...,Reclassify: general_rate → adoption_metric,0.8,MODIFY,
+796,37.0,percentage,2024,general_rate,"loper allocates 44% of their engagement towards coding and, 37% towards project management.16 finall...",Passed all validation checks,0.85,KEEP,
+797,321.0,percentage,2024,general_rate,"for the cross-section, we observe an increase of 6.90 days (321% relative to the baseline) overall i...",Passed all validation checks,0.85,KEEP,
+798,61.2,percentage,2024,general_rate,l in ai adoption and an increase of 6.14 percentage points (61.2% relative to the baseline) of devel...,Reclassify: general_rate → adoption_metric,0.8,MODIFY,
+799,223.0,percentage,2024,general_rate,". for the panel, we find an increase of 0.12 days per week (223% relative to the baseline) and an ex...",Passed all validation checks,0.85,KEEP,
+800,12.4,percentage,2024,general_rate,rcentage of all activity increase by 5.4 percentage points (12.4% relative to the baseline) while pr...,Passed all validation checks,0.85,KEEP,
+801,24.9,percentage,2024,general_rate,a percentage of all activity drops by 10 percentage points (24.9% relative to the baseline). this in...,Passed all validation checks,0.85,KEEP,
+802,10.0,percentage,2024,general_rate,"the peak of the third quarter where effects increases up to 10% and 27% in absolute terms, respectiv...",Passed all validation checks,0.85,KEEP,
+803,21.8,percentage,2024,general_rate,e their cumulative exposure to new programming languages by 21.8% relative to the baseline. we also ...,Passed all validation checks,0.85,KEEP,
+804,1.4,percentage,2024,general_rate,ers to experiment with programming languages that command a 1.4% higher salary relative to a baselin...,Passed all validation checks,0.85,KEEP,
+805,50.0,percentage,2024,general_rate,"tivities are also occurring. as such, we expect that around 50% of the activity of highly active pro...",Passed all validation checks,0.85,KEEP,
+806,7.0,percentage,2023,general_rate,"hs, goldman. 2023. “generative ai could raise global gdp by 7%.” goldmansachs.com . stack overflow. ...",Passed all validation checks,0.85,KEEP,
+807,30.0,percentage,2024,general_rate,two years panel a: coding 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to...,Passed all validation checks,0.85,KEEP,
+808,0.0,percentage,2024,general_rate,nel a: coding 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baseline pa...,Passed all validation checks,0.85,KEEP,
+809,0.0,percentage,2024,general_rate,ct management 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baseline no...,Duplicate record (keeping first occurrence),0.9,REMOVE,808.0
+810,1.0,percentage,2024,general_rate,0.05 64 table c6: windsorization coding project management 1% 5% 10% 1% 5% 10% 1(eligible) 0.058∗∗∗ ...,Passed all validation checks,0.85,KEEP,
+811,5.0,percentage,2024,general_rate,5 64 table c6: windsorization coding project management 1% 5% 10% 1% 5% 10% 1(eligible) 0.058∗∗∗ 0.0...,Passed all validation checks,0.85,KEEP,
+812,10.0,billions_usd,2024,financial_metric,"nd later for 30 days. after the trial period, they must pay $10 per month (or $100 dollars per year)...",Passed all validation checks,0.85,KEEP,
+813,100.0,billions_usd,2024,financial_metric,"ys. after the trial period, they must pay $10 per month (or $100 dollars per year) for continued acc...",Passed all validation checks,0.85,KEEP,
+814,0.0,billions_usd,2024,financial_metric,"chnical preview period. students can obtain copilot and pay $0 per month. similarly, github rewards ...",Passed all validation checks,0.85,KEEP,
+815,19.0,billions_usd,2024,financial_metric,r their employee access to copilot with the employer paying $19 per employee for each month.9 in thi...,Passed all validation checks,0.85,KEEP,
+816,119.0,billions_usd,2024,financial_metric,"that command a 1.4% higher salary relative to a baseline of $119,371 (an increase of $1,683). togeth...",Passed all validation checks,0.85,KEEP,
+817,1.0,billions_usd,2024,financial_metric,"r salary relative to a baseline of $119,371 (an increase of $1,683). together, these estimates indic...",Passed all validation checks,0.85,KEEP,
+818,468.0,billions_usd,2024,financial_metric,ve the aggregate value of labor market potential by roughly $468 million per year. while this measur...,Passed all validation checks,0.85,KEEP,
+819,2024.0,number,2025,unknown_metric,"n kevin xu github inc. working paper 25-021 copyright © 2024 and 2025 by manuel hoffmann, sam boysel...",Passed all validation checks,0.85,KEEP,
+820,7.0,percentage,2024,gdp_metric,“generative ai could raise global gdp by 7%,Passed all validation checks,0.85,KEEP,
+5245,96.0,percentage,2024,general_rate,"gly critical part of the modern economy, to the point where 96% of corporate codebases contain some ...",Duplicate record (keeping first occurrence),0.9,REMOVE,791.0
+5246,78.81,percentage,2024,general_rate,"he engagement platform 6sense, github had a market share of 78.81% on march 18, 2024. further, 93% o...",Duplicate record (keeping first occurrence),0.9,REMOVE,792.0
+5247,16.0,percentage,2024,general_rate,eloper uses copilot for approximately 8 days and on average 16% of the top developers use copilot at...,Duplicate record (keeping first occurrence),0.9,REMOVE,793.0
+5248,3.0,percentage,2023,general_rate,"june 2023. during each week, usage is relatively low, with 3% weekly exposure and 0.17 days of copil...",Duplicate record (keeping first occurrence),0.9,REMOVE,794.0
+5249,44.0,percentage,2024,general_rate,re- sponse to ai adoption. the average developer allocates 44% of their engagement towards coding an...,Duplicate record (keeping first occurrence),0.9,REMOVE,795.0
+5250,37.0,percentage,2024,general_rate,"loper allocates 44% of their engagement towards coding and, 37% towards project management.16 finall...",Duplicate record (keeping first occurrence),0.9,REMOVE,796.0
+5251,321.0,percentage,2024,general_rate,"for the cross-section, we observe an increase of 6.90 days (321% relative to the baseline) overall i...",Duplicate record (keeping first occurrence),0.9,REMOVE,797.0
+5252,61.2,percentage,2024,general_rate,l in ai adoption and an increase of 6.14 percentage points (61.2% relative to the baseline) of devel...,Duplicate record (keeping first occurrence),0.9,REMOVE,798.0
+5253,223.0,percentage,2024,general_rate,". for the panel, we find an increase of 0.12 days per week (223% relative to the baseline) and an ex...",Duplicate record (keeping first occurrence),0.9,REMOVE,799.0
+5254,12.4,percentage,2024,general_rate,rcentage of all activity increase by 5.4 percentage points (12.4% relative to the baseline) while pr...,Duplicate record (keeping first occurrence),0.9,REMOVE,800.0
+5255,24.9,percentage,2024,general_rate,a percentage of all activity drops by 10 percentage points (24.9% relative to the baseline). this in...,Duplicate record (keeping first occurrence),0.9,REMOVE,801.0
+5256,10.0,percentage,2024,general_rate,"the peak of the third quarter where effects increases up to 10% and 27% in absolute terms, respectiv...",Duplicate record (keeping first occurrence),0.9,REMOVE,802.0
+5257,21.8,percentage,2024,general_rate,e their cumulative exposure to new programming languages by 21.8% relative to the baseline. we also ...,Duplicate record (keeping first occurrence),0.9,REMOVE,803.0
+5258,1.4,percentage,2024,general_rate,ers to experiment with programming languages that command a 1.4% higher salary relative to a baselin...,Duplicate record (keeping first occurrence),0.9,REMOVE,804.0
+5259,50.0,percentage,2024,general_rate,"tivities are also occurring. as such, we expect that around 50% of the activity of highly active pro...",Duplicate record (keeping first occurrence),0.9,REMOVE,805.0
+5260,7.0,percentage,2023,general_rate,"hs, goldman. 2023. “generative ai could raise global gdp by 7%.” goldmansachs.com . stack overflow. ...",Duplicate record (keeping first occurrence),0.9,REMOVE,806.0
+5261,30.0,percentage,2024,general_rate,two years panel a: coding 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to...,Duplicate record (keeping first occurrence),0.9,REMOVE,807.0
+5262,0.0,percentage,2024,general_rate,nel a: coding 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baseline pa...,Duplicate record (keeping first occurrence),0.9,REMOVE,808.0
+5263,0.0,percentage,2024,general_rate,ct management 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baseline no...,Duplicate record (keeping first occurrence),0.9,REMOVE,808.0
+5264,1.0,percentage,2024,general_rate,0.05 64 table c6: windsorization coding project management 1% 5% 10% 1% 5% 10% 1(eligible) 0.058∗∗∗ ...,Duplicate record (keeping first occurrence),0.9,REMOVE,810.0
+5265,5.0,percentage,2024,general_rate,5 64 table c6: windsorization coding project management 1% 5% 10% 1% 5% 10% 1(eligible) 0.058∗∗∗ 0.0...,Duplicate record (keeping first occurrence),0.9,REMOVE,811.0
+5266,10.0,billions_usd,2024,financial_metric,"nd later for 30 days. after the trial period, they must pay $10 per month (or $100 dollars per year)...",Duplicate record (keeping first occurrence),0.9,REMOVE,812.0
+5267,100.0,billions_usd,2024,financial_metric,"ys. after the trial period, they must pay $10 per month (or $100 dollars per year) for continued acc...",Duplicate record (keeping first occurrence),0.9,REMOVE,813.0
+5268,0.0,billions_usd,2024,financial_metric,"chnical preview period. students can obtain copilot and pay $0 per month. similarly, github rewards ...",Duplicate record (keeping first occurrence),0.9,REMOVE,814.0
+5269,19.0,billions_usd,2024,financial_metric,r their employee access to copilot with the employer paying $19 per employee for each month.9 in thi...,Duplicate record (keeping first occurrence),0.9,REMOVE,815.0
+5270,119.0,billions_usd,2024,financial_metric,"that command a 1.4% higher salary relative to a baseline of $119,371 (an increase of $1,683). togeth...",Duplicate record (keeping first occurrence),0.9,REMOVE,816.0
+5271,1.0,billions_usd,2024,financial_metric,"r salary relative to a baseline of $119,371 (an increase of $1,683). together, these estimates indic...",Duplicate record (keeping first occurrence),0.9,REMOVE,817.0
+5272,468.0,billions_usd,2024,financial_metric,ve the aggregate value of labor market potential by roughly $468 million per year. while this measur...,Duplicate record (keeping first occurrence),0.9,REMOVE,818.0
+5273,2024.0,number,2025,unknown_metric,"n kevin xu github inc. working paper 25-021 copyright © 2024 and 2025 by manuel hoffmann, sam boysel...",Duplicate record (keeping first occurrence),0.9,REMOVE,819.0
+5274,7.0,percentage,2024,gdp_metric,“generative ai could raise global gdp by 7%,Duplicate record (keeping first occurrence),0.9,REMOVE,820.0
+5275,96.0,percentage,2025,percentages,"gly critical part of the modern economy, to the point where 96% of corporate codebases contain some ...",Passed all validation checks,0.85,KEEP,
+5276,78.81,percentage,2024,percentages,"he engagement platform 6sense, github had a market share of 78.81% on march 18, 2024. further, 93% o...",Duplicate record (keeping first occurrence),0.9,REMOVE,792.0
+5277,93.0,percentage,2024,percentages,"ub had a market share of 78.81% on march 18, 2024. further, 93% of individuals are using git as a ve...",Passed all validation checks,0.85,KEEP,
+5278,92.0,percentage,2023,percentages,"ilot which was launched after github copilot. in june 2023, 92% of programmers had used some coding ...",Passed all validation checks,0.85,KEEP,
+5279,16.0,percentage,2025,percentages,eloper uses copilot for approximately 8 days and on average 16% of the top developers use copilot at...,Passed all validation checks,0.85,KEEP,
+5280,3.0,percentage,2023,adoption_rate,"june 2023. during each week, usage is relatively low, with 3% weekly exposure and 0.17 days of copil...",Duplicate record (keeping first occurrence),0.9,REMOVE,794.0
+5281,44.0,percentage,2025,adoption_rate,re- sponse to ai adoption. the average developer allocates 44% of their engagement towards coding an...,Passed all validation checks,0.85,KEEP,
+5282,37.0,percentage,2025,percentages,"loper allocates 44% of their engagement towards coding and, 37% towards project management.16 finall...",Passed all validation checks,0.85,KEEP,
+5283,321.0,percentage,2025,adoption_rate,"for the cross-section, we observe an increase of 6.90 days (321% relative to the baseline) overall i...",Passed all validation checks,0.85,KEEP,
+5284,61.2,percentage,2025,adoption_rate,l in ai adoption and an increase of 6.14 percentage points (61.2% relative to the baseline) of devel...,Passed all validation checks,0.85,KEEP,
+5285,223.0,percentage,2025,growth_rate,". for the panel, we find an increase of 0.12 days per week (223% relative to the baseline) and an ex...",Passed all validation checks,0.85,KEEP,
+5286,214.0,percentage,2025,growth_rate,eline) and an exposure21 increase of 1.8 percentage points (214% relative to the baseline). despite ...,Passed all validation checks,0.85,KEEP,
+5287,61.0,percentage,2025,percentages,"developer access, we find very strong effects ranging from 61% to 321% adop- tion, depending on the ...",Passed all validation checks,0.85,KEEP,
+5288,321.0,percentage,2025,percentages,"per access, we find very strong effects ranging from 61% to 321% adop- tion, depending on the defini...",Duplicate record (keeping first occurrence),0.9,REMOVE,5283.0
+5289,12.4,percentage,2025,growth_rate,rcentage of all activity increase by 5.4 percentage points (12.4% relative to the baseline) while pr...,Passed all validation checks,0.85,KEEP,
+5290,24.9,percentage,2025,percentages,a percentage of all activity drops by 10 percentage points (24.9% relative to the baseline). this in...,Passed all validation checks,0.85,KEEP,
+5291,100.0,percentage,2025,percentages,"e in the 22indeed, developers could theoretically engage in 100% coding but are unlikely to engage i...",Passed all validation checks,0.85,KEEP,
+5292,100.0,percentage,2025,percentages,tically engage in 100% coding but are unlikely to engage in 100% project manage- ment because there ...,Duplicate record (keeping first occurrence),0.9,REMOVE,5291.0
+5293,10.0,percentage,2025,growth_rate,"the peak of the third quarter where effects increases up to 10% and 27% in absolute terms, respectiv...",Passed all validation checks,0.85,KEEP,
+5294,27.0,percentage,2025,growth_rate,"of the third quarter where effects increases up to 10% and 27% in absolute terms, respectively. the ...",Passed all validation checks,0.85,KEEP,
+5295,33.9,percentage,2025,percentages,", we find that the frequency of critical vulnerabilities is 33.9% lower for copilot-eligible reposit...",Passed all validation checks,0.85,KEEP,
+5296,79.3,percentage,2025,percentages,ositories with 17 fewer peers relative to a baseline of 22 (79.3% lower). this drop off is signif- i...,Passed all validation checks,0.85,KEEP,
+5297,21.8,percentage,2025,percentages,e their cumulative exposure to new programming languages by 21.8% relative to the baseline. we also ...,Passed all validation checks,0.85,KEEP,
+5298,1.4,percentage,2025,percentages,ers to experiment with programming languages that command a 1.4% higher salary relative to a baselin...,Passed all validation checks,0.85,KEEP,
+5299,45.5,percentage,2025,percentages,"ject manage- ment behavior. based on our data, we find that 45.5% of copilot usage happens in weeks ...",Passed all validation checks,0.85,KEEP,
+5300,50.0,percentage,2025,percentages,"tivities are also occurring. as such, we expect that around 50% of the activity of highly active pro...",Passed all validation checks,0.85,KEEP,
+5301,50.0,percentage,2025,percentages,"ctivity of highly active programmers happens on private and 50% on public repositories. hence, a rea...",Duplicate record (keeping first occurrence),0.9,REMOVE,5300.0
+5302,7.0,percentage,2023,percentages,"hs, goldman. 2023. “generative ai could raise global gdp by 7%.” goldmansachs.com . stack overflow. ...",Duplicate record (keeping first occurrence),0.9,REMOVE,806.0
+5303,30.0,percentage,2025,percentages,two years panel a: coding 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to...,Passed all validation checks,0.85,KEEP,
+5304,20.0,percentage,2025,percentages,years panel a: coding 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to bas...,Passed all validation checks,0.85,KEEP,
+5305,10.0,percentage,2025,percentages,s panel a: coding 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baselin...,Duplicate record (keeping first occurrence),0.9,REMOVE,5293.0
+5306,0.0,percentage,2025,percentages,nel a: coding 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baseline pa...,Passed all validation checks,0.85,KEEP,
+5307,10.0,percentage,2025,percentages,a: coding 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baseline panel ...,Duplicate record (keeping first occurrence),0.9,REMOVE,5293.0
+5308,20.0,percentage,2025,percentages,coding 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baseline panel b: ...,Duplicate record (keeping first occurrence),0.9,REMOVE,5304.0
+5309,30.0,percentage,2025,percentages,ng 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baseline panel b: proj...,Duplicate record (keeping first occurrence),0.9,REMOVE,5303.0
+5310,30.0,percentage,2025,percentages,nel b: project management 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to...,Duplicate record (keeping first occurrence),0.9,REMOVE,5303.0
+5311,20.0,percentage,2025,percentages,b: project management 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to bas...,Duplicate record (keeping first occurrence),0.9,REMOVE,5304.0
+5312,10.0,percentage,2025,percentages,roject management 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baselin...,Duplicate record (keeping first occurrence),0.9,REMOVE,5293.0
+5313,0.0,percentage,2025,percentages,ct management 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baseline no...,Duplicate record (keeping first occurrence),0.9,REMOVE,5306.0
+5314,10.0,percentage,2025,percentages,management 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baseline note:...,Duplicate record (keeping first occurrence),0.9,REMOVE,5293.0
+5315,20.0,percentage,2025,percentages,gement 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baseline note: the...,Duplicate record (keeping first occurrence),0.9,REMOVE,5304.0
+5316,30.0,percentage,2025,percentages,nt 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baseline note: the fig...,Duplicate record (keeping first occurrence),0.9,REMOVE,5303.0
+5317,95.0,percentage,2022,percentages,me: june 2022 to june 2023. horizontal error bars represent 95% condfidence intervals for the coeffi...,Passed all validation checks,0.85,KEEP,
+5318,95.0,percentage,2022,percentages,me: june 2022 to june 2023. horizontal error bars represent 95% condfidence intervals for the coeffi...,Duplicate record (keeping first occurrence),0.9,REMOVE,5317.0
+5319,1.0,percentage,2025,percentages,0.05 64 table c6: windsorization coding project management 1% 5% 10% 1% 5% 10% 1(eligible) 0.058∗∗∗ ...,Passed all validation checks,0.85,KEEP,
+5320,5.0,percentage,2025,percentages,5 64 table c6: windsorization coding project management 1% 5% 10% 1% 5% 10% 1(eligible) 0.058∗∗∗ 0.0...,Passed all validation checks,0.85,KEEP,
+5321,10.0,percentage,2025,percentages,4 table c6: windsorization coding project management 1% 5% 10% 1% 5% 10% 1(eligible) 0.058∗∗∗ 0.044∗...,Duplicate record (keeping first occurrence),0.9,REMOVE,5293.0
+5322,1.0,percentage,2025,percentages,able c6: windsorization coding project management 1% 5% 10% 1% 5% 10% 1(eligible) 0.058∗∗∗ 0.044∗∗∗ ...,Duplicate record (keeping first occurrence),0.9,REMOVE,5319.0
+5323,5.0,percentage,2025,percentages,e c6: windsorization coding project management 1% 5% 10% 1% 5% 10% 1(eligible) 0.058∗∗∗ 0.044∗∗∗ 0.0...,Duplicate record (keeping first occurrence),0.9,REMOVE,5320.0
+5324,10.0,percentage,2025,percentages,6: windsorization coding project management 1% 5% 10% 1% 5% 10% 1(eligible) 0.058∗∗∗ 0.044∗∗∗ 0.022∗...,Duplicate record (keeping first occurrence),0.9,REMOVE,5293.0
+5325,10.0,usd,2025,dollar_amounts,"nd later for 30 days. after the trial period, they must pay $10 per month (or $100 dollars per year)...",Passed all validation checks,0.85,KEEP,
+5326,100.0,usd,2025,dollar_amounts,"ys. after the trial period, they must pay $10 per month (or $100 dollars per year) for continued acc...",Passed all validation checks,0.85,KEEP,
+5327,0.0,usd,2025,dollar_amounts,"chnical preview period. students can obtain copilot and pay $0 per month. similarly, github rewards ...",Passed all validation checks,0.85,KEEP,
+5328,19.0,usd,2025,dollar_amounts,r their employee access to copilot with the employer paying $19 per employee for each month.9 in thi...,Passed all validation checks,0.85,KEEP,
+5329,119.0,usd,2025,growth_rate,"that command a 1.4% higher salary relative to a baseline of $119,371 (an increase of $1,683). togeth...",Passed all validation checks,0.85,KEEP,
+5330,1.0,usd,2025,growth_rate,"r salary relative to a baseline of $119,371 (an increase of $1,683). together, these estimates indic...",Passed all validation checks,0.85,KEEP,
+5331,1.0,usd,2025,dollar_amounts,"ers. the language-specific labor market potential is around $1,683 per year. when developers pay a p...",Duplicate record (keeping first occurrence),0.9,REMOVE,5330.0
+5332,120.0,usd,2025,dollar_amounts,"$1,683 per year. when developers pay a price for copilot of $120 per year, we arrive at an average n...",Passed all validation checks,0.85,KEEP,
+5333,1.0,usd,2025,dollar_amounts,"of $120 per year, we arrive at an average net potential of $1,563. although we only use a subset of ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5330.0
+5334,468.0,millions_usd,2025,dollar_amounts,ve the aggregate value of labor market potential by roughly $468 million per year. while this measur...,Passed all validation checks,0.85,KEEP,
+6920,96.0,percentage,2024,general_rate,"gly critical part of the modern economy, to the point where 96% of corporate codebases contain some ...",Duplicate record (keeping first occurrence),0.9,REMOVE,791.0
+6921,78.81,percentage,2024,general_rate,"he engagement platform 6sense, github had a market share of 78.81% on march 18, 2024. further, 93% o...",Duplicate record (keeping first occurrence),0.9,REMOVE,792.0
+6922,16.0,percentage,2024,general_rate,eloper uses copilot for approximately 8 days and on average 16% of the top developers use copilot at...,Duplicate record (keeping first occurrence),0.9,REMOVE,793.0
+6923,3.0,percentage,2023,general_rate,"june 2023. during each week, usage is relatively low, with 3% weekly exposure and 0.17 days of copil...",Duplicate record (keeping first occurrence),0.9,REMOVE,794.0
+6924,44.0,percentage,2024,general_rate,re- sponse to ai adoption. the average developer allocates 44% of their engagement towards coding an...,Duplicate record (keeping first occurrence),0.9,REMOVE,795.0
+6925,37.0,percentage,2024,general_rate,"loper allocates 44% of their engagement towards coding and, 37% towards project management.16 finall...",Duplicate record (keeping first occurrence),0.9,REMOVE,796.0
+6926,321.0,percentage,2024,general_rate,"for the cross-section, we observe an increase of 6.90 days (321% relative to the baseline) overall i...",Duplicate record (keeping first occurrence),0.9,REMOVE,797.0
+6927,61.2,percentage,2024,general_rate,l in ai adoption and an increase of 6.14 percentage points (61.2% relative to the baseline) of devel...,Duplicate record (keeping first occurrence),0.9,REMOVE,798.0
+6928,223.0,percentage,2024,general_rate,". for the panel, we find an increase of 0.12 days per week (223% relative to the baseline) and an ex...",Duplicate record (keeping first occurrence),0.9,REMOVE,799.0
+6929,12.4,percentage,2024,general_rate,rcentage of all activity increase by 5.4 percentage points (12.4% relative to the baseline) while pr...,Duplicate record (keeping first occurrence),0.9,REMOVE,800.0
+6930,24.9,percentage,2024,general_rate,a percentage of all activity drops by 10 percentage points (24.9% relative to the baseline). this in...,Duplicate record (keeping first occurrence),0.9,REMOVE,801.0
+6931,10.0,percentage,2024,general_rate,"the peak of the third quarter where effects increases up to 10% and 27% in absolute terms, respectiv...",Duplicate record (keeping first occurrence),0.9,REMOVE,802.0
+6932,21.8,percentage,2024,general_rate,e their cumulative exposure to new programming languages by 21.8% relative to the baseline. we also ...,Duplicate record (keeping first occurrence),0.9,REMOVE,803.0
+6933,1.4,percentage,2024,general_rate,ers to experiment with programming languages that command a 1.4% higher salary relative to a baselin...,Duplicate record (keeping first occurrence),0.9,REMOVE,804.0
+6934,50.0,percentage,2024,general_rate,"tivities are also occurring. as such, we expect that around 50% of the activity of highly active pro...",Duplicate record (keeping first occurrence),0.9,REMOVE,805.0
+6935,7.0,percentage,2023,general_rate,"hs, goldman. 2023. “generative ai could raise global gdp by 7%.” goldmansachs.com . stack overflow. ...",Duplicate record (keeping first occurrence),0.9,REMOVE,806.0
+6936,30.0,percentage,2024,general_rate,two years panel a: coding 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to...,Duplicate record (keeping first occurrence),0.9,REMOVE,807.0
+6937,0.0,percentage,2024,general_rate,nel a: coding 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baseline pa...,Duplicate record (keeping first occurrence),0.9,REMOVE,808.0
+6938,0.0,percentage,2024,general_rate,ct management 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baseline no...,Duplicate record (keeping first occurrence),0.9,REMOVE,808.0
+6939,1.0,percentage,2024,general_rate,0.05 64 table c6: windsorization coding project management 1% 5% 10% 1% 5% 10% 1(eligible) 0.058∗∗∗ ...,Duplicate record (keeping first occurrence),0.9,REMOVE,810.0
+6940,5.0,percentage,2024,general_rate,5 64 table c6: windsorization coding project management 1% 5% 10% 1% 5% 10% 1(eligible) 0.058∗∗∗ 0.0...,Duplicate record (keeping first occurrence),0.9,REMOVE,811.0
+6941,10.0,billions_usd,2024,financial_metric,"nd later for 30 days. after the trial period, they must pay $10 per month (or $100 dollars per year)...",Duplicate record (keeping first occurrence),0.9,REMOVE,812.0
+6942,100.0,billions_usd,2024,financial_metric,"ys. after the trial period, they must pay $10 per month (or $100 dollars per year) for continued acc...",Duplicate record (keeping first occurrence),0.9,REMOVE,813.0
+6943,0.0,billions_usd,2024,financial_metric,"chnical preview period. students can obtain copilot and pay $0 per month. similarly, github rewards ...",Duplicate record (keeping first occurrence),0.9,REMOVE,814.0
+6944,19.0,billions_usd,2024,financial_metric,r their employee access to copilot with the employer paying $19 per employee for each month.9 in thi...,Duplicate record (keeping first occurrence),0.9,REMOVE,815.0
+6945,119.0,billions_usd,2024,financial_metric,"that command a 1.4% higher salary relative to a baseline of $119,371 (an increase of $1,683). togeth...",Duplicate record (keeping first occurrence),0.9,REMOVE,816.0
+6946,1.0,billions_usd,2024,financial_metric,"r salary relative to a baseline of $119,371 (an increase of $1,683). together, these estimates indic...",Duplicate record (keeping first occurrence),0.9,REMOVE,817.0
+6947,468.0,billions_usd,2024,financial_metric,ve the aggregate value of labor market potential by roughly $468 million per year. while this measur...,Duplicate record (keeping first occurrence),0.9,REMOVE,818.0
+6948,2024.0,number,2025,unknown_metric,"n kevin xu github inc. working paper 25-021 copyright © 2024 and 2025 by manuel hoffmann, sam boysel...",Duplicate record (keeping first occurrence),0.9,REMOVE,819.0
+6949,7.0,percentage,2024,gdp_metric,“generative ai could raise global gdp by 7%,Duplicate record (keeping first occurrence),0.9,REMOVE,820.0
+11374,96.0,percentage,2024,general_rate,"gly critical part of the modern economy, to the point where 96% of corporate codebases contain some ...",Duplicate record (keeping first occurrence),0.9,REMOVE,791.0
+11375,78.81,percentage,2024,general_rate,"he engagement platform 6sense, github had a market share of 78.81% on march 18, 2024. further, 93% o...",Duplicate record (keeping first occurrence),0.9,REMOVE,792.0
+11376,16.0,percentage,2024,general_rate,eloper uses copilot for approximately 8 days and on average 16% of the top developers use copilot at...,Duplicate record (keeping first occurrence),0.9,REMOVE,793.0
+11377,3.0,percentage,2023,general_rate,"june 2023. during each week, usage is relatively low, with 3% weekly exposure and 0.17 days of copil...",Duplicate record (keeping first occurrence),0.9,REMOVE,794.0
+11378,44.0,percentage,2024,general_rate,re- sponse to ai adoption. the average developer allocates 44% of their engagement towards coding an...,Duplicate record (keeping first occurrence),0.9,REMOVE,795.0
+11379,37.0,percentage,2024,general_rate,"loper allocates 44% of their engagement towards coding and, 37% towards project management.16 finall...",Duplicate record (keeping first occurrence),0.9,REMOVE,796.0
+11380,321.0,percentage,2024,general_rate,"for the cross-section, we observe an increase of 6.90 days (321% relative to the baseline) overall i...",Duplicate record (keeping first occurrence),0.9,REMOVE,797.0
+11381,61.2,percentage,2024,general_rate,l in ai adoption and an increase of 6.14 percentage points (61.2% relative to the baseline) of devel...,Duplicate record (keeping first occurrence),0.9,REMOVE,798.0
+11382,223.0,percentage,2024,general_rate,". for the panel, we find an increase of 0.12 days per week (223% relative to the baseline) and an ex...",Duplicate record (keeping first occurrence),0.9,REMOVE,799.0
+11383,12.4,percentage,2024,general_rate,rcentage of all activity increase by 5.4 percentage points (12.4% relative to the baseline) while pr...,Duplicate record (keeping first occurrence),0.9,REMOVE,800.0
+11384,24.9,percentage,2024,general_rate,a percentage of all activity drops by 10 percentage points (24.9% relative to the baseline). this in...,Duplicate record (keeping first occurrence),0.9,REMOVE,801.0
+11385,10.0,percentage,2024,general_rate,"the peak of the third quarter where effects increases up to 10% and 27% in absolute terms, respectiv...",Duplicate record (keeping first occurrence),0.9,REMOVE,802.0
+11386,21.8,percentage,2024,general_rate,e their cumulative exposure to new programming languages by 21.8% relative to the baseline. we also ...,Duplicate record (keeping first occurrence),0.9,REMOVE,803.0
+11387,1.4,percentage,2024,general_rate,ers to experiment with programming languages that command a 1.4% higher salary relative to a baselin...,Duplicate record (keeping first occurrence),0.9,REMOVE,804.0
+11388,50.0,percentage,2024,general_rate,"tivities are also occurring. as such, we expect that around 50% of the activity of highly active pro...",Duplicate record (keeping first occurrence),0.9,REMOVE,805.0
+11389,7.0,percentage,2023,general_rate,"hs, goldman. 2023. “generative ai could raise global gdp by 7%.” goldmansachs.com . stack overflow. ...",Duplicate record (keeping first occurrence),0.9,REMOVE,806.0
+11390,30.0,percentage,2024,general_rate,two years panel a: coding 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to...,Duplicate record (keeping first occurrence),0.9,REMOVE,807.0
+11391,0.0,percentage,2024,general_rate,nel a: coding 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baseline pa...,Duplicate record (keeping first occurrence),0.9,REMOVE,808.0
+11392,0.0,percentage,2024,general_rate,ct management 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baseline no...,Duplicate record (keeping first occurrence),0.9,REMOVE,808.0
+11393,1.0,percentage,2024,general_rate,0.05 64 table c6: windsorization coding project management 1% 5% 10% 1% 5% 10% 1(eligible) 0.058∗∗∗ ...,Duplicate record (keeping first occurrence),0.9,REMOVE,810.0
+11394,5.0,percentage,2024,general_rate,5 64 table c6: windsorization coding project management 1% 5% 10% 1% 5% 10% 1(eligible) 0.058∗∗∗ 0.0...,Duplicate record (keeping first occurrence),0.9,REMOVE,811.0
+11395,10.0,billions_usd,2024,financial_metric,"nd later for 30 days. after the trial period, they must pay $10 per month (or $100 dollars per year)...",Duplicate record (keeping first occurrence),0.9,REMOVE,812.0
+11396,100.0,billions_usd,2024,financial_metric,"ys. after the trial period, they must pay $10 per month (or $100 dollars per year) for continued acc...",Duplicate record (keeping first occurrence),0.9,REMOVE,813.0
+11397,0.0,billions_usd,2024,financial_metric,"chnical preview period. students can obtain copilot and pay $0 per month. similarly, github rewards ...",Duplicate record (keeping first occurrence),0.9,REMOVE,814.0
+11398,19.0,billions_usd,2024,financial_metric,r their employee access to copilot with the employer paying $19 per employee for each month.9 in thi...,Duplicate record (keeping first occurrence),0.9,REMOVE,815.0
+11399,119.0,billions_usd,2024,financial_metric,"that command a 1.4% higher salary relative to a baseline of $119,371 (an increase of $1,683). togeth...",Duplicate record (keeping first occurrence),0.9,REMOVE,816.0
+11400,1.0,billions_usd,2024,financial_metric,"r salary relative to a baseline of $119,371 (an increase of $1,683). together, these estimates indic...",Duplicate record (keeping first occurrence),0.9,REMOVE,817.0
+11401,468.0,billions_usd,2024,financial_metric,ve the aggregate value of labor market potential by roughly $468 million per year. while this measur...,Duplicate record (keeping first occurrence),0.9,REMOVE,818.0
+11402,2024.0,number,2025,unknown_metric,"n kevin xu github inc. working paper 25-021 copyright © 2024 and 2025 by manuel hoffmann, sam boysel...",Duplicate record (keeping first occurrence),0.9,REMOVE,819.0
+11403,7.0,percentage,2024,gdp_metric,“generative ai could raise global gdp by 7%,Duplicate record (keeping first occurrence),0.9,REMOVE,820.0
+11404,96.0,percentage,2025,percentages,"gly critical part of the modern economy, to the point where 96% of corporate codebases contain some ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5275.0
+11405,78.81,percentage,2024,percentages,"he engagement platform 6sense, github had a market share of 78.81% on march 18, 2024. further, 93% o...",Duplicate record (keeping first occurrence),0.9,REMOVE,792.0
+11406,93.0,percentage,2024,percentages,"ub had a market share of 78.81% on march 18, 2024. further, 93% of individuals are using git as a ve...",Duplicate record (keeping first occurrence),0.9,REMOVE,5277.0
+11407,92.0,percentage,2023,percentages,"ilot which was launched after github copilot. in june 2023, 92% of programmers had used some coding ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5278.0
+11408,16.0,percentage,2025,percentages,eloper uses copilot for approximately 8 days and on average 16% of the top developers use copilot at...,Duplicate record (keeping first occurrence),0.9,REMOVE,5279.0
+11409,3.0,percentage,2023,adoption_rate,"june 2023. during each week, usage is relatively low, with 3% weekly exposure and 0.17 days of copil...",Duplicate record (keeping first occurrence),0.9,REMOVE,794.0
+11410,44.0,percentage,2025,adoption_rate,re- sponse to ai adoption. the average developer allocates 44% of their engagement towards coding an...,Duplicate record (keeping first occurrence),0.9,REMOVE,5281.0
+11411,37.0,percentage,2025,percentages,"loper allocates 44% of their engagement towards coding and, 37% towards project management.16 finall...",Duplicate record (keeping first occurrence),0.9,REMOVE,5282.0
+11412,321.0,percentage,2025,adoption_rate,"for the cross-section, we observe an increase of 6.90 days (321% relative to the baseline) overall i...",Duplicate record (keeping first occurrence),0.9,REMOVE,5283.0
+11413,61.2,percentage,2025,adoption_rate,l in ai adoption and an increase of 6.14 percentage points (61.2% relative to the baseline) of devel...,Duplicate record (keeping first occurrence),0.9,REMOVE,5284.0
+11414,223.0,percentage,2025,growth_rate,". for the panel, we find an increase of 0.12 days per week (223% relative to the baseline) and an ex...",Duplicate record (keeping first occurrence),0.9,REMOVE,5285.0
+11415,214.0,percentage,2025,growth_rate,eline) and an exposure21 increase of 1.8 percentage points (214% relative to the baseline). despite ...,Duplicate record (keeping first occurrence),0.9,REMOVE,5286.0
+11416,61.0,percentage,2025,percentages,"developer access, we find very strong effects ranging from 61% to 321% adop- tion, depending on the ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5287.0
+11417,321.0,percentage,2025,percentages,"per access, we find very strong effects ranging from 61% to 321% adop- tion, depending on the defini...",Duplicate record (keeping first occurrence),0.9,REMOVE,5283.0
+11418,12.4,percentage,2025,growth_rate,rcentage of all activity increase by 5.4 percentage points (12.4% relative to the baseline) while pr...,Duplicate record (keeping first occurrence),0.9,REMOVE,5289.0
+11419,24.9,percentage,2025,percentages,a percentage of all activity drops by 10 percentage points (24.9% relative to the baseline). this in...,Duplicate record (keeping first occurrence),0.9,REMOVE,5290.0
+11420,100.0,percentage,2025,percentages,"e in the 22indeed, developers could theoretically engage in 100% coding but are unlikely to engage i...",Duplicate record (keeping first occurrence),0.9,REMOVE,5291.0
+11421,100.0,percentage,2025,percentages,tically engage in 100% coding but are unlikely to engage in 100% project manage- ment because there ...,Duplicate record (keeping first occurrence),0.9,REMOVE,5291.0
+11422,10.0,percentage,2025,growth_rate,"the peak of the third quarter where effects increases up to 10% and 27% in absolute terms, respectiv...",Duplicate record (keeping first occurrence),0.9,REMOVE,5293.0
+11423,27.0,percentage,2025,growth_rate,"of the third quarter where effects increases up to 10% and 27% in absolute terms, respectively. the ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5294.0
+11424,33.9,percentage,2025,percentages,", we find that the frequency of critical vulnerabilities is 33.9% lower for copilot-eligible reposit...",Duplicate record (keeping first occurrence),0.9,REMOVE,5295.0
+11425,79.3,percentage,2025,percentages,ositories with 17 fewer peers relative to a baseline of 22 (79.3% lower). this drop off is signif- i...,Duplicate record (keeping first occurrence),0.9,REMOVE,5296.0
+11426,21.8,percentage,2025,percentages,e their cumulative exposure to new programming languages by 21.8% relative to the baseline. we also ...,Duplicate record (keeping first occurrence),0.9,REMOVE,5297.0
+11427,1.4,percentage,2025,percentages,ers to experiment with programming languages that command a 1.4% higher salary relative to a baselin...,Duplicate record (keeping first occurrence),0.9,REMOVE,5298.0
+11428,45.5,percentage,2025,percentages,"ject manage- ment behavior. based on our data, we find that 45.5% of copilot usage happens in weeks ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5299.0
+11429,50.0,percentage,2025,percentages,"tivities are also occurring. as such, we expect that around 50% of the activity of highly active pro...",Duplicate record (keeping first occurrence),0.9,REMOVE,5300.0
+11430,50.0,percentage,2025,percentages,"ctivity of highly active programmers happens on private and 50% on public repositories. hence, a rea...",Duplicate record (keeping first occurrence),0.9,REMOVE,5300.0
+11431,7.0,percentage,2023,percentages,"hs, goldman. 2023. “generative ai could raise global gdp by 7%.” goldmansachs.com . stack overflow. ...",Duplicate record (keeping first occurrence),0.9,REMOVE,806.0
+11432,30.0,percentage,2025,percentages,two years panel a: coding 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to...,Duplicate record (keeping first occurrence),0.9,REMOVE,5303.0
+11433,20.0,percentage,2025,percentages,years panel a: coding 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to bas...,Duplicate record (keeping first occurrence),0.9,REMOVE,5304.0
+11434,10.0,percentage,2025,percentages,s panel a: coding 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baselin...,Duplicate record (keeping first occurrence),0.9,REMOVE,5293.0
+11435,0.0,percentage,2025,percentages,nel a: coding 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baseline pa...,Duplicate record (keeping first occurrence),0.9,REMOVE,5306.0
+11436,10.0,percentage,2025,percentages,a: coding 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baseline panel ...,Duplicate record (keeping first occurrence),0.9,REMOVE,5293.0
+11437,20.0,percentage,2025,percentages,coding 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baseline panel b: ...,Duplicate record (keeping first occurrence),0.9,REMOVE,5304.0
+11438,30.0,percentage,2025,percentages,ng 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baseline panel b: proj...,Duplicate record (keeping first occurrence),0.9,REMOVE,5303.0
+11439,30.0,percentage,2025,percentages,nel b: project management 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to...,Duplicate record (keeping first occurrence),0.9,REMOVE,5303.0
+11440,20.0,percentage,2025,percentages,b: project management 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to bas...,Duplicate record (keeping first occurrence),0.9,REMOVE,5304.0
+11441,10.0,percentage,2025,percentages,roject management 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baselin...,Duplicate record (keeping first occurrence),0.9,REMOVE,5293.0
+11442,0.0,percentage,2025,percentages,ct management 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baseline no...,Duplicate record (keeping first occurrence),0.9,REMOVE,5306.0
+11443,10.0,percentage,2025,percentages,management 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baseline note:...,Duplicate record (keeping first occurrence),0.9,REMOVE,5293.0
+11444,20.0,percentage,2025,percentages,gement 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baseline note: the...,Duplicate record (keeping first occurrence),0.9,REMOVE,5304.0
+11445,30.0,percentage,2025,percentages,nt 1 2 3 4 5 6 7 8 quarters since ga 30% 20% 10% 0% 10% 20% 30% % relative to baseline note: the fig...,Duplicate record (keeping first occurrence),0.9,REMOVE,5303.0
+11446,95.0,percentage,2022,percentages,me: june 2022 to june 2023. horizontal error bars represent 95% condfidence intervals for the coeffi...,Duplicate record (keeping first occurrence),0.9,REMOVE,5317.0
+11447,95.0,percentage,2022,percentages,me: june 2022 to june 2023. horizontal error bars represent 95% condfidence intervals for the coeffi...,Duplicate record (keeping first occurrence),0.9,REMOVE,5317.0
+11448,1.0,percentage,2025,percentages,0.05 64 table c6: windsorization coding project management 1% 5% 10% 1% 5% 10% 1(eligible) 0.058∗∗∗ ...,Duplicate record (keeping first occurrence),0.9,REMOVE,5319.0
+11449,5.0,percentage,2025,percentages,5 64 table c6: windsorization coding project management 1% 5% 10% 1% 5% 10% 1(eligible) 0.058∗∗∗ 0.0...,Duplicate record (keeping first occurrence),0.9,REMOVE,5320.0
+11450,10.0,percentage,2025,percentages,4 table c6: windsorization coding project management 1% 5% 10% 1% 5% 10% 1(eligible) 0.058∗∗∗ 0.044∗...,Duplicate record (keeping first occurrence),0.9,REMOVE,5293.0
+11451,1.0,percentage,2025,percentages,able c6: windsorization coding project management 1% 5% 10% 1% 5% 10% 1(eligible) 0.058∗∗∗ 0.044∗∗∗ ...,Duplicate record (keeping first occurrence),0.9,REMOVE,5319.0
+11452,5.0,percentage,2025,percentages,e c6: windsorization coding project management 1% 5% 10% 1% 5% 10% 1(eligible) 0.058∗∗∗ 0.044∗∗∗ 0.0...,Duplicate record (keeping first occurrence),0.9,REMOVE,5320.0
+11453,10.0,percentage,2025,percentages,6: windsorization coding project management 1% 5% 10% 1% 5% 10% 1(eligible) 0.058∗∗∗ 0.044∗∗∗ 0.022∗...,Duplicate record (keeping first occurrence),0.9,REMOVE,5293.0
+11454,10.0,usd,2025,dollar_amounts,"nd later for 30 days. after the trial period, they must pay $10 per month (or $100 dollars per year)...",Duplicate record (keeping first occurrence),0.9,REMOVE,5325.0
+11455,100.0,usd,2025,dollar_amounts,"ys. after the trial period, they must pay $10 per month (or $100 dollars per year) for continued acc...",Duplicate record (keeping first occurrence),0.9,REMOVE,5326.0
+11456,0.0,usd,2025,dollar_amounts,"chnical preview period. students can obtain copilot and pay $0 per month. similarly, github rewards ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5327.0
+11457,19.0,usd,2025,dollar_amounts,r their employee access to copilot with the employer paying $19 per employee for each month.9 in thi...,Duplicate record (keeping first occurrence),0.9,REMOVE,5328.0
+11458,119.0,usd,2025,growth_rate,"that command a 1.4% higher salary relative to a baseline of $119,371 (an increase of $1,683). togeth...",Duplicate record (keeping first occurrence),0.9,REMOVE,5329.0
+11459,1.0,usd,2025,growth_rate,"r salary relative to a baseline of $119,371 (an increase of $1,683). together, these estimates indic...",Duplicate record (keeping first occurrence),0.9,REMOVE,5330.0
+11460,1.0,usd,2025,dollar_amounts,"ers. the language-specific labor market potential is around $1,683 per year. when developers pay a p...",Duplicate record (keeping first occurrence),0.9,REMOVE,5330.0
+11461,120.0,usd,2025,dollar_amounts,"$1,683 per year. when developers pay a price for copilot of $120 per year, we arrive at an average n...",Duplicate record (keeping first occurrence),0.9,REMOVE,5332.0
+11462,1.0,usd,2025,dollar_amounts,"of $120 per year, we arrive at an average net potential of $1,563. although we only use a subset of ...",Duplicate record (keeping first occurrence),0.9,REMOVE,5330.0
+11463,468.0,millions_usd,2025,dollar_amounts,ve the aggregate value of labor market potential by roughly $468 million per year. while this measur...,Duplicate record (keeping first occurrence),0.9,REMOVE,5334.0

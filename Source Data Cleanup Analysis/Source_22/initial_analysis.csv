@@ -1,0 +1,5 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence,proposed_action,kept_record_id
+5937,7.0,percentage,2023,percentages,"e the 2023 article ""generative ai could raise global gdp by 7%."" see the 2024 paper ""the simple macr...",Passed all validation checks,0.85,KEEP,
+5938,7.0,usd,2025,growth_rate,ore sedate: goldman sachs predicted that ai would lead to a $7 trillion increase in global gdp and a...,Passed all validation checks,0.85,KEEP,
+12066,7.0,percentage,2023,percentages,"e the 2023 article ""generative ai could raise global gdp by 7%."" see the 2024 paper ""the simple macr...",Duplicate record (keeping first occurrence),0.9,REMOVE,5937.0
+12067,7.0,usd,2025,growth_rate,ore sedate: goldman sachs predicted that ai would lead to a $7 trillion increase in global gdp and a...,Duplicate record (keeping first occurrence),0.9,REMOVE,5938.0

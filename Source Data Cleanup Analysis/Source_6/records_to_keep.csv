@@ -1,0 +1,111 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence
+196,8.0,percentage,2024,general_rate,german firms introducing new products or processes by about 8%. babina et al. [19] reported signific...,Passed all validation checks,0.85
+199,13.8,percentage,2024,general_rate,"customer service, with ai-assisted support agents handling 13.8% more inquiries per hour [24]. autom...",Passed all validation checks,0.85
+201,126.0,percentage,2024,general_rate,"produce 59% more documents per hour and programmers to code 126% more projects per week [20,21]. 2.4...",Passed all validation checks,0.85
+202,95.0,percentage,2024,general_rate,"z-value for the desired level of confidence (e.g., 1.96 for 95% confidence). • zβ is the z-value for...",Passed all validation checks,0.85
+203,80.0,percentage,2024,general_rate,". • zβ is the z-value for the desired power (e.g., 0.84 for 80% power). • p is the estimated proport...",Passed all validation checks,0.85
+204,2.58,percentage,2024,general_rate,"rcentage what is your age? age (1–6 scale, 6 for 41+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21...",Passed all validation checks,0.85
+205,22.75,percentage,2024,general_rate,"t is your age? age (1–6 scale, 6 for 41+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 1...",Passed all validation checks,0.85
+208,53.22,percentage,2024,general_rate,doctorate) high school 18.88% undergraduate 20.60% graduate 53.22% doctorate 7.30% you currently use...,Passed all validation checks,0.85
+211,46.78,percentage,2024,general_rate,"uctivity_change_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80...",Passed all validation checks,0.85
+212,26.18,percentage,2024,general_rate,"e_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100...",Passed all validation checks,0.85
+213,0.86,percentage,2024,general_rate,20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100% 0.86% for how many years have you been w...,Passed all validation checks,0.85
+214,3.0,percentage,2024,general_rate,52.36% 1–2 years 32.62% 2–5 years 12.02% more than 5 years 3.00% has your organization provided any ...,Passed all validation checks,0.85
+215,15.88,percentage,2024,general_rate,"reation (1–5 scale, 5 for strongly agree) strongly disagree 15.88% disagree 28.76% neither agree nor...",Passed all validation checks,0.85
+217,66.95,percentage,2024,general_rate,"nerships) partnerships_experience (0–2 scale, 2 for yes) no 66.95% unsure 27.47% yes 5.58% to what e...",Passed all validation checks,0.85
+218,5.58,percentage,2024,general_rate,"perience (0–2 scale, 2 for yes) no 66.95% unsure 27.47% yes 5.58% to what extent do you agree with t...",Passed all validation checks,0.85
+219,0.0,percentage,2024,general_rate,"es (1–5, 5 for significant improvement) significant decline 0.00% slight decline 2.15% no change 56....",Passed all validation checks,0.85
+220,2.15,percentage,2024,general_rate,icant improvement) significant decline 0.00% slight decline 2.15% no change 56.65% slight improvemen...,Passed all validation checks,0.85
+221,0.43,percentage,2024,general_rate,residence austria 0.86% belgium 4.29% canada 3.00% croatia 0.43% denmark 0.43% finland 1.29% france ...,Passed all validation checks,0.85
+222,1.29,percentage,2024,general_rate,gium 4.29% canada 3.00% croatia 0.43% denmark 0.43% finland 1.29% france 4.29% freelancer 0.43% germ...,Passed all validation checks,0.85
+223,1.72,percentage,2024,general_rate,dence poland 14.59% portugal 18.45% romania 16.74% slovenia 1.72% spain 2.15% sweden 0.86% switzerla...,Passed all validation checks,0.85
+225,15.7,billions_usd,2030,financial_metric,"(pwc) report predicted that ai could increase global gdp by $15.7 trillion between 2018 and 2030, wi...",Passed all validation checks,0.85
+227,2024.0,number,2024,unknown_metric,"insights from a comprehensive survey analysis. electronics 2024, 13, 3758. https:// doi.org/10.3390/...",Passed all validation checks,0.85
+229,72.0,percentage,2024,revenue_metric,"72%
+sales
+0",Passed all validation checks,0.85
+230,60.0,percentage,2024,labor_metric,"60%
+in your opinion, how well-prepared is your
+organization to adapt to future ai-driven changes i...",Passed all validation checks,0.85
+231,1.0,billions_usd,2024,training_metric,"ai_integration_level (scale 1–10)
+scale
+numeric
+on a scale of 1–10, how would you rate the comple...",Passed all validation checks,0.85
+232,10.0,billions_usd,2024,training_metric,"ai_integration_level (scale 1–10)
+scale
+numeric
+on a scale of 1–10, how would you rate the comple...",Passed all validation checks,0.85
+4391,33.0,percentage,2025,productivity,[7] argue that ai could increase aggregate productivity by 33% over 20 years through its impact on k...,Passed all validation checks,0.85
+4392,8.0,percentage,2025,growth_rate,german firms introducing new products or processes by about 8%. babina et al. [19] reported signific...,Passed all validation checks,0.85
+4393,6.8,percentage,2025,revenue,"ease in sales per worker. conversely, ref. [20] estimated a 6.8% increase in sales per worker for fi...",Passed all validation checks,0.85
+4394,4.4,percentage,2025,productivity,"innovating in ai technologies, while [5] put this number at 4.4%. 2.2. measurement challenges and th...",Passed all validation checks,0.85
+4395,13.8,percentage,2025,percentages,"customer service, with ai-assisted support agents handling 13.8% more inquiries per hour [24]. autom...",Passed all validation checks,0.85
+4396,59.0,percentage,2025,productivity,"onal efficiency, enabling business professionals to produce 59% more documents per hour and programm...",Passed all validation checks,0.85
+4397,126.0,percentage,2025,percentages,"produce 59% more documents per hour and programmers to code 126% more projects per week [20,21]. 2.4...",Passed all validation checks,0.85
+4398,95.0,percentage,2025,energy,"z-value for the desired level of confidence (e.g., 1.96 for 95% confidence). • zβ is the z-value for...",Passed all validation checks,0.85
+4399,80.0,percentage,2025,energy,". • zβ is the z-value for the desired power (e.g., 0.84 for 80% power). • p is the estimated proport...",Passed all validation checks,0.85
+4400,2.58,percentage,2025,percentages,"rcentage what is your age? age (1–6 scale, 6 for 41+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21...",Passed all validation checks,0.85
+4401,22.75,percentage,2025,percentages,"t is your age? age (1–6 scale, 6 for 41+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 1...",Passed all validation checks,0.85
+4403,21.03,percentage,2025,percentages,"ale, 6 for 41+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 12.02% 41+ 18.88% rate the ...",Passed all validation checks,0.85
+4404,12.02,percentage,2025,percentages,+) 18–20 2.58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 12.02% 41+ 18.88% rate the level of ai i...,Passed all validation checks,0.85
+4405,18.88,percentage,2025,percentages,58% 21–25 22.75% 26–30 22.75% 31–35 21.03% 36–40 12.02% 41+ 18.88% rate the level of ai integration ...,Passed all validation checks,0.85
+4407,20.6,percentage,2025,percentages,"–4 scale, 4 for doctorate) high school 18.88% undergraduate 20.60% graduate 53.22% doctorate 7.30% y...",Passed all validation checks,0.85
+4408,53.22,percentage,2025,percentages,doctorate) high school 18.88% undergraduate 20.60% graduate 53.22% doctorate 7.30% you currently use...,Passed all validation checks,0.85
+4409,7.3,percentage,2025,percentages,chool 18.88% undergraduate 20.60% graduate 53.22% doctorate 7.30% you currently use artificial intel...,Passed all validation checks,0.85
+4410,17.17,percentage,2025,percentages,"ai_tools_usage (scale 1–4 scale, 4 for all the time) never 17.17% occasionally 42.06% often 31.76% a...",Passed all validation checks,0.85
+4412,31.76,percentage,2024,percentages,4 for all the time) never 17.17% occasionally 42.06% often 31.76% all the time 9.01% electronics 202...,Passed all validation checks,0.85
+4414,100.0,percentage,2025,productivity,"of ai? productivity_change_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 1...",Passed all validation checks,0.85
+4415,20.0,percentage,2025,productivity,"productivity_change_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 6...",Passed all validation checks,0.85
+4416,46.78,percentage,2025,percentages,"uctivity_change_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80...",Passed all validation checks,0.85
+4417,40.0,percentage,2025,percentages,"hange_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80...",Passed all validation checks,0.85
+4418,26.18,percentage,2025,percentages,"e_percentage (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100...",Passed all validation checks,0.85
+4419,60.0,percentage,2025,percentages,"ge (1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100% 0.86% fo...",Passed all validation checks,0.85
+4420,18.45,percentage,2025,percentages,"1–5 scale, 5 for 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100% 0.86% for ho...",Passed all validation checks,0.85
+4422,7.73,percentage,2025,percentages,or 80–100%) 0–20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100% 0.86% for how many years h...,Passed all validation checks,0.85
+4424,0.86,percentage,2025,percentages,20% 46.78% 20–40% 26.18% 40–60% 18.45% 60–80% 7.73% 80–100% 0.86% for how many years have you been w...,Passed all validation checks,0.85
+4425,39.91,percentage,2025,percentages,"h_company (1–4 scale, 4 for longer than 10 years) 0–2 years 39.91% 2–4 years 22.32% 4–10 years 23.61...",Passed all validation checks,0.85
+4426,22.32,percentage,2025,percentages,"ale, 4 for longer than 10 years) 0–2 years 39.91% 2–4 years 22.32% 4–10 years 23.61% longer than 10 ...",Passed all validation checks,0.85
+4427,23.61,percentage,2025,percentages,than 10 years) 0–2 years 39.91% 2–4 years 22.32% 4–10 years 23.61% longer than 10 years 14.16% how l...,Passed all validation checks,0.85
+4428,14.16,percentage,2025,adoption_rate,91% 2–4 years 22.32% 4–10 years 23.61% longer than 10 years 14.16% how long has your company been us...,Passed all validation checks,0.85
+4429,52.36,percentage,2025,percentages,"ng_ai (1–4 scale, 4 for more than 5 years) less than a year 52.36% 1–2 years 32.62% 2–5 years 12.02%...",Passed all validation checks,0.85
+4430,32.62,percentage,2025,percentages,4 for more than 5 years) less than a year 52.36% 1–2 years 32.62% 2–5 years 12.02% more than 5 years...,Passed all validation checks,0.85
+4432,3.0,percentage,2025,percentages,52.36% 1–2 years 32.62% 2–5 years 12.02% more than 5 years 3.00% has your organization provided any ...,Passed all validation checks,0.85
+4433,63.95,percentage,2025,percentages,"s employees? ai_training_provided (0–2 scale, 2 for yes) no 63.95% currently in development 12.88% y...",Passed all validation checks,0.85
+4434,12.88,percentage,2025,percentages,"d (0–2 scale, 2 for yes) no 63.95% currently in development 12.88% yes 23.18% to what extent do you ...",Passed all validation checks,0.85
+4435,23.18,percentage,2025,percentages,"e, 2 for yes) no 63.95% currently in development 12.88% yes 23.18% to what extent do you agree with ...",Passed all validation checks,0.85
+4436,15.88,percentage,2025,percentages,"reation (1–5 scale, 5 for strongly agree) strongly disagree 15.88% disagree 28.76% neither agree nor...",Passed all validation checks,0.85
+4437,28.76,percentage,2025,percentages,"le, 5 for strongly agree) strongly disagree 15.88% disagree 28.76% neither agree nor disagree 36.48%...",Passed all validation checks,0.85
+4438,36.48,percentage,2025,percentages,disagree 15.88% disagree 28.76% neither agree nor disagree 36.48% agree 14.16% strongly agree 4.72% ...,Passed all validation checks,0.85
+4440,4.72,percentage,2025,percentages,ither agree nor disagree 36.48% agree 14.16% strongly agree 4.72% has the implementation of ai led t...,Passed all validation checks,0.85
+4441,72.53,percentage,2025,percentages,"ur company? org_structure_changes (0–2 scale, 2 for yes) no 72.53% unsure 23.18% yes 4.29% has your ...",Passed all validation checks,0.85
+4443,4.29,percentage,2025,percentages,"_changes (0–2 scale, 2 for yes) no 72.53% unsure 23.18% yes 4.29% has your organization experienced ...",Passed all validation checks,0.85
+4444,66.95,percentage,2025,percentages,"nerships) partnerships_experience (0–2 scale, 2 for yes) no 66.95% unsure 27.47% yes 5.58% to what e...",Passed all validation checks,0.85
+4445,27.47,percentage,2025,percentages,"nerships_experience (0–2 scale, 2 for yes) no 66.95% unsure 27.47% yes 5.58% to what extent do you a...",Passed all validation checks,0.85
+4446,5.58,percentage,2025,percentages,"perience (0–2 scale, 2 for yes) no 66.95% unsure 27.47% yes 5.58% to what extent do you agree with t...",Passed all validation checks,0.85
+4447,5.15,percentage,2025,percentages,"ovement (1–5 scale, 5 for strongly agree) strongly disagree 5.15% disagree 12.45% neither agree nor ...",Passed all validation checks,0.85
+4448,12.45,percentage,2025,percentages,"ale, 5 for strongly agree) strongly disagree 5.15% disagree 12.45% neither agree nor disagree 38.20%...",Passed all validation checks,0.85
+4449,38.2,percentage,2025,percentages,y disagree 5.15% disagree 12.45% neither agree nor disagree 38.20% agree 36.91% strongly agree 7.30%...,Passed all validation checks,0.85
+4450,36.91,percentage,2025,percentages,15% disagree 12.45% neither agree nor disagree 38.20% agree 36.91% strongly agree 7.30% has the impl...,Passed all validation checks,0.85
+4452,73.39,percentage,2024,percentages,"cation_and_ collaboration_changes (0–2 scale, 2 for yes) no 73.39% unsure 17.17% yes 9.44% electroni...",Passed all validation checks,0.85
+4453,17.17,percentage,2024,percentages,"llaboration_changes (0–2 scale, 2 for yes) no 73.39% unsure 17.17% yes 9.44% electronics 2024, 13, 3...",Passed all validation checks,0.85
+4454,9.44,percentage,2024,percentages,"_changes (0–2 scale, 2 for yes) no 73.39% unsure 17.17% yes 9.44% electronics 2024, 13, 3758 9 of 29...",Passed all validation checks,0.85
+4455,59.23,percentage,2025,percentages,"agement 0–4 scale, 4 for significant improvement) no change 59.23% slight improvement 33.48% signifi...",Passed all validation checks,0.85
+4456,33.48,percentage,2025,percentages,ignificant improvement) no change 59.23% slight improvement 33.48% significant improvement 3.00% sli...,Passed all validation checks,0.85
+4460,33.05,percentage,2025,percentages,"(0–3 scale, 3 for extensively) not at all 23.61% minimally 33.05% moderately 33.91% extensively 9.44...",Passed all validation checks,0.85
+4461,33.91,percentage,2025,adoption_rate,extensively) not at all 23.61% minimally 33.05% moderately 33.91% extensively 9.44% has your organiz...,Passed all validation checks,0.85
+4462,9.44,percentage,2025,adoption_rate,t all 23.61% minimally 33.05% moderately 33.91% extensively 9.44% has your organization implemented ...,Passed all validation checks,0.85
+4463,63.09,percentage,2025,percentages,"? ethical_policies_implementation (0–2 scale, 2 for yes) no 63.09% currently in development 19.31% y...",Passed all validation checks,0.85
+4464,19.31,percentage,2025,percentages,"n (0–2 scale, 2 for yes) no 63.09% currently in development 19.31% yes 17.60% in your opinion, how w...",Passed all validation checks,0.85
+4465,17.6,percentage,2025,percentages,"e, 2 for yes) no 63.09% currently in development 19.31% yes 17.60% in your opinion, how well-prepare...",Passed all validation checks,0.85
+4469,31.33,percentage,2025,percentages,somewhat unprepared 23.18% neutral 27.47% somewhat prepared 31.33% very well-prepared 8.58% how has ...,Passed all validation checks,0.85
+4470,8.58,percentage,2025,percentages,neutral 27.47% somewhat prepared 31.33% very well-prepared 8.58% how has the implementation of ai af...,Passed all validation checks,0.85
+4471,0.0,percentage,2025,percentages,"es (1–5, 5 for significant improvement) significant decline 0.00% slight decline 2.15% no change 56....",Passed all validation checks,0.85
+4472,2.15,percentage,2025,percentages,icant improvement) significant decline 0.00% slight decline 2.15% no change 56.65% slight improvemen...,Passed all validation checks,0.85
+4473,56.65,percentage,2025,percentages,t) significant decline 0.00% slight decline 2.15% no change 56.65% slight improvement 34.76% signifi...,Passed all validation checks,0.85
+4474,34.76,percentage,2025,percentages,0% slight decline 2.15% no change 56.65% slight improvement 34.76% significant improvement 6.44% wha...,Passed all validation checks,0.85
+4475,6.44,percentage,2025,percentages,ge 56.65% slight improvement 34.76% significant improvement 6.44% what is your gender? gender (male-...,Passed all validation checks,0.85
+4477,42.49,percentage,2025,percentages,"e-1, female-2. prefer not to say-minus1) male 56.65% female 42.49% prefer not to say 0.86% what is y...",Passed all validation checks,0.85
+4482,0.43,percentage,2025,percentages,residence austria 0.86% belgium 4.29% canada 3.00% croatia 0.43% denmark 0.43% finland 1.29% france ...,Passed all validation checks,0.85
+4484,1.29,percentage,2025,percentages,gium 4.29% canada 3.00% croatia 0.43% denmark 0.43% finland 1.29% france 4.29% freelancer 0.43% germ...,Passed all validation checks,0.85
+4491,15.7,usd,2018,growth_rate,"(pwc) report predicted that ai could increase global gdp by $15.7 trillion between 2018 and 2030, wi...",Passed all validation checks,0.85
+4492,233.0,number,2025,labor_metrics,ne learning models and bayesian network analysis. data from 233 employees across various industries ...,Passed all validation checks,0.85

@@ -1,0 +1,32 @@
+{
+  "source_id": 20,
+  "source_name": "Machines of mind_ The case for an AI-powered productivity boom.pdf",
+  "timestamp": "2025-07-23T15:13:03.229359",
+  "schema_version": "1.1",
+  "total_records": 36,
+  "kept_records": 14,
+  "removed_records": 22,
+  "modified_records": 0,
+  "duplicate_groups": 14,
+  "duplicates_removed": 22,
+  "removal_reasons": {
+    "Duplicate record": 22
+  },
+  "modification_types": {},
+  "confidence_distribution": {
+    "high": 22,
+    "medium": 14,
+    "low": 0,
+    "high_pct": 61.1,
+    "medium_pct": 38.9,
+    "low_pct": 0.0
+  },
+  "quality_metrics": {
+    "quality_score": 38.89,
+    "issues_found": 22,
+    "removal_rate": 61.11,
+    "modification_rate": 0.0
+  },
+  "top_removal_reason": "Duplicate record",
+  "top_removal_count": 22
+}

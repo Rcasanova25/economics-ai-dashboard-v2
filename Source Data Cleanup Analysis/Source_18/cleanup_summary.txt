@@ -1,0 +1,16 @@
+SOURCE 18 CLEANUP ANALYSIS SUMMARY
+Generated: 2025-07-23T15:13:00.081815
+
+FILE: Artificial Intelligence, Scientific Discovery, and Product Innovation.pdf
+Original Records: 202
+
+PROPOSED ACTIONS:
+- Records to KEEP: 53
+- Records to REMOVE: 149
+- Records to MODIFY: 0
+
+Quality Score: 26.24%
+
+Top removal reason: Duplicate record (149 records)
+
+Please review the detailed reports before proceeding with cleanup.
