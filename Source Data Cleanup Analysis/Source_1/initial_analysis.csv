@@ -1,4 +1,0 @@
-original_id,value,unit,year,metric_type,context_preview,reason,confidence,proposed_action
-0,,percentage,2024,general_rate,nan,general_rate - needs manual review,0.5,KEEP
-1,invalid,,2024,general_rate,nan,general_rate - needs manual review,0.5,KEEP
-2,50.0,percentage,2024,general_rate,valid context,general_rate - needs manual review,0.5,KEEP

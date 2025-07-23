@@ -1,0 +1,21 @@
+original_id,value,unit,year,metric_type,context_preview,reason,confidence,proposed_action
+204,0.0,millions_usd,2024,employment_metric,"nal tier of government with over 1,000 (case c) and over 4,000 employees (case d). in cases e and f,...",No issues detected,0.8,KEEP
+205,0.0,millions_usd,2024,employment_metric,"administrations, g being a larger municipality with over 5,000 employees while h has 200. cases c to...",Duplicate record (keeping first occurrence),0.9,REMOVE
+206,2024.0,number,2024,unknown_metric,"article: oliver neumann, katharina guirguis & reto steiner (2024) exploring artiﬁcial intelligence a...",Reclassify based on context: adoption_metric,0.8,MODIFY
+207,2015.0,co2_emissions,2015,unknown_metric,such as the ‘not-invented-here syndrome’ (antons and piller 2015) and tech­ nology acceptance issues...,Problematic unit: co2_emissions,0.85,REMOVE
+3836,0.0,millions_usd,2024,employment_metric,"nal tier of government with over 1,000 (case c) and over 4,000 employees (case d). in cases e and f,...",Duplicate record (keeping first occurrence),0.9,REMOVE
+3837,0.0,millions_usd,2024,employment_metric,"administrations, g being a larger municipality with over 5,000 employees while h has 200. cases c to...",Duplicate record (keeping first occurrence),0.9,REMOVE
+3838,2024.0,number,2024,unknown_metric,"article: oliver neumann, katharina guirguis & reto steiner (2024) exploring artiﬁcial intelligence a...",Duplicate record (keeping first occurrence),0.9,REMOVE
+3839,2015.0,co2_emissions,2015,unknown_metric,such as the ‘not-invented-here syndrome’ (antons and piller 2015) and tech­ nology acceptance issues...,Duplicate record (keeping first occurrence),0.9,REMOVE
+3840,0.0,number,2025,labor_metrics,"nal tier of government with over 1,000 (case c) and over 4,000 employees (case d). in cases e and f,...",No issues detected,0.8,KEEP
+3841,0.0,number,2025,labor_metrics,"administrations, g being a larger municipality with over 5,000 employees while h has 200. cases c to...",Duplicate record (keeping first occurrence),0.9,REMOVE
+4930,0.0,millions_usd,2024,employment_metric,"nal tier of government with over 1,000 (case c) and over 4,000 employees (case d). in cases e and f,...",Duplicate record (keeping first occurrence),0.9,REMOVE
+4931,0.0,millions_usd,2024,employment_metric,"administrations, g being a larger municipality with over 5,000 employees while h has 200. cases c to...",Duplicate record (keeping first occurrence),0.9,REMOVE
+4932,2024.0,number,2024,unknown_metric,"article: oliver neumann, katharina guirguis & reto steiner (2024) exploring artiﬁcial intelligence a...",Duplicate record (keeping first occurrence),0.9,REMOVE
+4933,2015.0,co2_emissions,2015,unknown_metric,such as the ‘not-invented-here syndrome’ (antons and piller 2015) and tech­ nology acceptance issues...,Duplicate record (keeping first occurrence),0.9,REMOVE
+8562,0.0,millions_usd,2024,employment_metric,"nal tier of government with over 1,000 (case c) and over 4,000 employees (case d). in cases e and f,...",Duplicate record (keeping first occurrence),0.9,REMOVE
+8563,0.0,millions_usd,2024,employment_metric,"administrations, g being a larger municipality with over 5,000 employees while h has 200. cases c to...",Duplicate record (keeping first occurrence),0.9,REMOVE
+8564,2024.0,number,2024,unknown_metric,"article: oliver neumann, katharina guirguis & reto steiner (2024) exploring artiﬁcial intelligence a...",Duplicate record (keeping first occurrence),0.9,REMOVE
+8565,2015.0,co2_emissions,2015,unknown_metric,such as the ‘not-invented-here syndrome’ (antons and piller 2015) and tech­ nology acceptance issues...,Duplicate record (keeping first occurrence),0.9,REMOVE
+8566,0.0,number,2025,labor_metrics,"nal tier of government with over 1,000 (case c) and over 4,000 employees (case d). in cases e and f,...",Duplicate record (keeping first occurrence),0.9,REMOVE
+8567,0.0,number,2025,labor_metrics,"administrations, g being a larger municipality with over 5,000 employees while h has 200. cases c to...",Duplicate record (keeping first occurrence),0.9,REMOVE

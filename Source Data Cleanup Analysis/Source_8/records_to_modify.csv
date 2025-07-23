@@ -1,0 +1,2 @@
+original_id,value,unit,year,current_metric_type,new_metric_type,context_preview,sector,country,company_size,reason,confidence
+206,2024.0,number,2024,unknown_metric,adoption_metric,"article: oliver neumann, katharina guirguis & reto steiner (2024) exploring artiﬁcial intelligence a...",,,,Reclassify based on context: adoption_metric,0.8

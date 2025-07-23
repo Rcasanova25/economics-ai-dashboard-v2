@@ -1,6 +1,0 @@
-original_id,value,unit,year,current_metric_type,new_metric_type,context_preview,sector,country,company_size,reason,confidence
-84,32.8,percentage,2028,general_rate,growth_metric,"to $749 billion at a compound annual growth rate (cagr) of 32.8% for 2023–2028.1 the next question, ...",,,,Reclassify based on context: growth_metric,0.8
-85,56.0,percentage,2024,general_rate,performance_metric,"platforms, data, and infrastructure to get the most value. 56% of organizations say productivity and...",,,,Reclassify based on context: performance_metric,0.8
-86,43.0,percentage,2024,general_rate,adoption_metric,th are the two most important business outcomes for ai.1 43% of leaders say productivity use cases a...,,,,Reclassify based on context: adoption_metric,0.8
-87,26.0,percentage,2024,general_rate,cost_metric,tivity use cases are providing the greatest roi for ai.1 26% of leaders say industry ai use cases (n...,,,,Reclassify based on context: cost_metric,0.8
-93,2024.0,number,2024,unknown_metric,cost_metric,ai solutions—$44 billion in generative ai specifically—in 2024. and this spending is expected to gro...,,,,Reclassify based on context: cost_metric,0.8

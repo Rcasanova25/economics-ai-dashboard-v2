@@ -1,7 +1,0 @@
-timestamp,action
-2025-07-21T14:43:26.670342,Removing 242 records
-2025-07-21T14:43:26.671719,Modified 56 records: general_rate -> productivity_metric
-2025-07-21T14:43:26.671725,Modified 4 records: general_rate -> employment_metric
-2025-07-21T14:43:26.671727,Modified 8 records: general_rate -> growth_metric
-2025-07-21T14:43:26.671729,Modified 8 records: general_rate -> adoption_metric
-2025-07-21T14:43:26.671731,Modified 4 records: unknown_metric -> reference_year

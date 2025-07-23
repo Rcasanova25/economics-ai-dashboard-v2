@@ -1,2 +1,0 @@
-original_id,value,unit,year,current_metric_type,new_metric_type,context_preview,sector,country,company_size,reason,confidence
-0,100.0,billions_usd,2024,financial_metric,financial_metric,investment of 100k usd,,,,Fix unit: billions_usd should be thousands based on context,0.9
