@@ -1,2 +1,2 @@
 original_id,value,unit,year,metric_type,context_preview,reason,confidence
-5243,0.0,number,2025,labor_metrics,"nal tier of government with over 1,000 (case c) and over 4,000 employees (case d). in cases e and f,...",Passed all validation checks,0.85
+5243,0.0,number,2025,labor_metrics,"nal tier of government with over 1,000 (Case C) and over 4,000 employees (Case D). In Cases E and F,...",Passed all validation checks,0.85

@@ -1,0 +1,34 @@
+{
+  "total_metrics": 60,
+  "extraction_stats": {
+    "total_pages": 13,
+    "metrics_found": 67,
+    "duplicates_skipped": 117,
+    "low_confidence_skipped": 0,
+    "citations_skipped": 3
+  },
+  "sectors": {
+    "unknown": 56,
+    "professional_services": 2,
+    "energy_utilities": 2
+  },
+  "metric_types": {
+    "ai_implementation_count": 40,
+    "productivity_improvement": 7,
+    "net_employment_change": 1,
+    "ai_adoption_rate": 8,
+    "workforce_augmentation": 2,
+    "ai_budget_percentage": 1,
+    "ai_investment_amount": 1
+  },
+  "confidence": {
+    "mean": 0.55048,
+    "min": 0.44799999999999995,
+    "max": 0.76,
+    "low_confidence_count": 18
+  },
+  "quality_indicators": {
+    "duplicate_rate": 0.6358695652173914,
+    "citation_filter_rate": 0.04285714285714286
+  }
+}

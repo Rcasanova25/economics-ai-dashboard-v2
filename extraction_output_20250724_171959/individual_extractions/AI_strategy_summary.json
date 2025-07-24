@@ -1,0 +1,43 @@
+{
+  "total_metrics": 240,
+  "extraction_stats": {
+    "total_pages": 65,
+    "metrics_found": 258,
+    "duplicates_skipped": 315,
+    "low_confidence_skipped": 0,
+    "citations_skipped": 0
+  },
+  "sectors": {
+    "unknown": 134,
+    "information_communication_technology": 8,
+    "professional_services": 39,
+    "education": 14,
+    "retail_ecommerce": 24,
+    "transportation_logistics": 4,
+    "financial_services": 11,
+    "energy_utilities": 3,
+    "manufacturing": 3
+  },
+  "metric_types": {
+    "ai_implementation_count": 141,
+    "ai_patents_filed": 11,
+    "rd_investment": 1,
+    "ai_adoption_rate": 56,
+    "job_creation": 11,
+    "ai_budget_percentage": 9,
+    "productivity_improvement": 2,
+    "net_employment_change": 4,
+    "ai_investment_amount": 2,
+    "workforce_augmentation": 3
+  },
+  "confidence": {
+    "mean": 0.584317900697256,
+    "min": 0.3584,
+    "max": 0.8461538461538461,
+    "low_confidence_count": 63
+  },
+  "quality_indicators": {
+    "duplicate_rate": 0.5497382198952879,
+    "citation_filter_rate": 0.0
+  }
+}

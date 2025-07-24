@@ -1,0 +1,6 @@
+value,unit,metric_type,sector,context,source_page,source_paragraph,confidence,year,extraction_method,validation_issues,company,source_pdf,extraction_date,metric_id
+2022.0,number,ai_implementation_count,hospitality_tourism,,430,27,0.4864000000000001,2024,pattern_matching,['Missing required context keywords'],,hai_ai_index_report_2025.pdf,2025-07-24T17:20:36.379904,9936
+7958.0,number,ai_implementation_count,hospitality_tourism,,430,27,0.4864000000000001,2024,pattern_matching,['Missing required context keywords'],,hai_ai_index_report_2025.pdf,2025-07-24T17:20:36.379905,9938
+2109.07958,number,ai_implementation_count,hospitality_tourism,,430,27,0.4864000000000001,2024,pattern_matching,['Missing required context keywords'],,hai_ai_index_report_2025.pdf,2025-07-24T17:20:36.379904,9937
+5.0,number,ai_implementation_count,hospitality_tourism,,280,13,0.4672,2024,pattern_matching,['Missing required context keywords'],,hai_ai_index_report_2025.pdf,2025-07-24T17:20:36.379562,9431
+2.5,number,ai_implementation_count,hospitality_tourism,,280,13,0.4672,2024,pattern_matching,['Missing required context keywords'],,hai_ai_index_report_2025.pdf,2025-07-24T17:20:36.379561,9430

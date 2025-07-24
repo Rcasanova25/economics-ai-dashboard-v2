@@ -1,0 +1,36 @@
+{
+  "total_metrics": 61,
+  "extraction_stats": {
+    "total_pages": 10,
+    "metrics_found": 62,
+    "duplicates_skipped": 89,
+    "low_confidence_skipped": 0,
+    "citations_skipped": 1
+  },
+  "sectors": {
+    "unknown": 38,
+    "financial_services": 15,
+    "professional_services": 1,
+    "energy_utilities": 7
+  },
+  "metric_types": {
+    "ai_budget_percentage": 2,
+    "ai_implementation_count": 33,
+    "productivity_improvement": 5,
+    "ai_investment_amount": 3,
+    "job_displacement": 2,
+    "job_creation": 5,
+    "ai_adoption_rate": 9,
+    "ai_patents_filed": 2
+  },
+  "confidence": {
+    "mean": 0.5526754098360657,
+    "min": 0.38,
+    "max": 0.8360000000000001,
+    "low_confidence_count": 31
+  },
+  "quality_indicators": {
+    "duplicate_rate": 0.5894039735099338,
+    "citation_filter_rate": 0.015873015873015872
+  }
+}

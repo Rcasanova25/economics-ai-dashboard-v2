@@ -1,7 +1,7 @@
 # Source 8 Cleanup Analysis Report
 
 **File**: Exploring artificial intelligence adoption in public organizations  a comparative case study.pdf  
-**Analyzed**: 2025-07-23T15:05:57.356640  
+**Analyzed**: 2025-07-24T14:29:32.896344  
 **Schema Version**: 1.1
 
 ## Summary

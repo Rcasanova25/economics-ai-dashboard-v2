@@ -1,0 +1,37 @@
+{
+  "total_metrics": 323,
+  "extraction_stats": {
+    "total_pages": 26,
+    "metrics_found": 356,
+    "duplicates_skipped": 285,
+    "low_confidence_skipped": 0,
+    "citations_skipped": 0
+  },
+  "sectors": {
+    "education": 22,
+    "government_public": 104,
+    "professional_services": 65,
+    "unknown": 101,
+    "information_communication_technology": 4,
+    "healthcare": 27
+  },
+  "metric_types": {
+    "revenue_increase": 4,
+    "ai_implementation_count": 269,
+    "ai_adoption_rate": 29,
+    "job_creation": 8,
+    "workforce_augmentation": 1,
+    "net_employment_change": 11,
+    "productivity_improvement": 1
+  },
+  "confidence": {
+    "mean": 0.6194497261252678,
+    "min": 0.44799999999999995,
+    "max": 0.8461538461538461,
+    "low_confidence_count": 54
+  },
+  "quality_indicators": {
+    "duplicate_rate": 0.44461778471138846,
+    "citation_filter_rate": 0.0
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "total_metrics": 51,
+  "extraction_stats": {
+    "total_pages": 14,
+    "metrics_found": 52,
+    "duplicates_skipped": 15,
+    "low_confidence_skipped": 0,
+    "citations_skipped": 0
+  },
+  "sectors": {
+    "unknown": 17,
+    "professional_services": 17,
+    "information_communication_technology": 15,
+    "retail_ecommerce": 2
+  },
+  "metric_types": {
+    "job_creation": 5,
+    "ai_implementation_count": 33,
+    "ai_investment_amount": 4,
+    "cost_reduction": 1,
+    "ai_adoption_rate": 1,
+    "net_employment_change": 1,
+    "workforce_augmentation": 5,
+    "time_savings": 1
+  },
+  "confidence": {
+    "mean": 0.5928941176470589,
+    "min": 0.4256,
+    "max": 0.8360000000000001,
+    "low_confidence_count": 22
+  },
+  "quality_indicators": {
+    "duplicate_rate": 0.22388059701492538,
+    "citation_filter_rate": 0.0
+  }
+}

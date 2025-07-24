@@ -1,16 +1,16 @@
 SOURCE 17 CLEANUP ANALYSIS SUMMARY
-Generated: 2025-07-23T15:12:58.386813
+Generated: 2025-07-24T14:36:56.777745
 
 FILE: Acemoglu_Macroeconomics-of-AI_May-2024.pdf
 Original Records: 5356
 
 PROPOSED ACTIONS:
-- Records to KEEP: 791
-- Records to REMOVE: 4510
-- Records to MODIFY: 55
+- Records to KEEP: 1303
+- Records to REMOVE: 3999
+- Records to MODIFY: 54
 
-Quality Score: 14.77%
+Quality Score: 24.33%
 
-Top removal reason: Duplicate record (4470 records)
+Top removal reason: Duplicate record (3959 records)
 
 Please review the detailed reports before proceeding with cleanup.

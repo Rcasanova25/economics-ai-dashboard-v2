@@ -30,3 +30,5 @@ timestamp,source_id,source_name,total_records,kept_records,removed_records,modif
 2025-07-23T16:20:15.968181,99,Source_99,4,3,1,0,25.0,0.0,75.0,Duplicate record,1,1,1,1.1,
 2025-07-23T16:21:11.686835,99,Source_99,4,3,1,0,25.0,0.0,75.0,Duplicate record,1,1,1,1.1,
 2025-07-23T16:30:25.793706,7,cost-benefit-analysis-artificial-intelligence-evidence-from-a-field-experiment-on-gpt-4o-1.pdf,2472,1097,1366,9,55.26,0.36,44.56,Duplicate record,1351,129,2343,1.1,
+2025-07-24T14:29:32.834746,8,Exploring artificial intelligence adoption in public organizations  a comparative case study.pdf,20,1,19,0,95.0,0.0,5.0,Duplicate record,10,4,16,1.1,
+2025-07-24T14:36:56.350236,17,Acemoglu_Macroeconomics-of-AI_May-2024.pdf,5356,1303,3999,54,74.66,1.01,24.83,Duplicate record,3959,874,4482,1.1,

@@ -1,0 +1,156 @@
+{
+  "extraction_summary": {
+    "date": "2025-07-24T17:20:42.017514",
+    "total_pdfs_processed": 23,
+    "successful_extractions": 23,
+    "failed_extractions": 0,
+    "total_metrics_extracted": 12858
+  },
+  "quality_metrics": {
+    "average_confidence": 0.6012653103916921,
+    "confidence_distribution": {
+      "high_confidence": 3562,
+      "medium_confidence": 5776,
+      "low_confidence": 3520
+    },
+    "validation_issues": {
+      "total_issues": 9605,
+      "metrics_with_issues": 9205
+    }
+  },
+  "sector_distribution": {
+    "unknown": 6000,
+    "education": 1646,
+    "professional_services": 1500,
+    "government_public": 1038,
+    "information_communication_technology": 833,
+    "energy_utilities": 455,
+    "transportation_logistics": 344,
+    "financial_services": 293,
+    "retail_ecommerce": 229,
+    "manufacturing": 206,
+    "entertainment_media": 120,
+    "real_estate_construction": 96,
+    "healthcare": 88,
+    "agriculture": 5,
+    "hospitality_tourism": 5
+  },
+  "metric_type_distribution": {
+    "ai_implementation_count": 8242,
+    "ai_adoption_rate": 1330,
+    "job_creation": 732,
+    "workforce_augmentation": 694,
+    "net_employment_change": 595,
+    "ai_patents_filed": 396,
+    "job_displacement": 242,
+    "ai_investment_amount": 186,
+    "ai_budget_percentage": 131,
+    "productivity_improvement": 100,
+    "cost_reduction": 80,
+    "time_savings": 55,
+    "rd_investment": 27,
+    "revenue_increase": 25,
+    "operational_cost": 10,
+    "ai_infrastructure_investment": 7,
+    "energy_efficiency_improvement": 5,
+    "ai_energy_consumption": 1
+  },
+  "source_details": {
+    "Acemoglu_Macroeconomics-of-AI_May-2024.pdf": {
+      "metrics_count": 440,
+      "status": "success"
+    },
+    "Affects of GenAI on Highskilled Work.pdf": {
+      "metrics_count": 514,
+      "status": "success"
+    },
+    "AI strategy.pdf": {
+      "metrics_count": 240,
+      "status": "success"
+    },
+    "AI use case.pdf": {
+      "metrics_count": 51,
+      "status": "success"
+    },
+    "ai-and-the-global-economy.pdf": {
+      "metrics_count": 231,
+      "status": "success"
+    },
+    "AI100Report_MT_10.pdf": {
+      "metrics_count": 1422,
+      "status": "success"
+    },
+    "Artificial Intelligence, Scientific Discovery, and Product Innovation.pdf": {
+      "metrics_count": 637,
+      "status": "success"
+    },
+    "Assessing the Impact of Artificial Intelligence Tools on Employee.pdf": {
+      "metrics_count": 507,
+      "status": "success"
+    },
+    "cost-benefit-analysis-artificial-intelligence-evidence-from-a-field-experiment-on-gpt-4o-1.pdf": {
+      "metrics_count": 1782,
+      "status": "success"
+    },
+    "Economic_Impacts_Paper.pdf": {
+      "metrics_count": 339,
+      "status": "success"
+    },
+    "Exploring artificial intelligence adoption in public organizations  a comparative case study.pdf": {
+      "metrics_count": 612,
+      "status": "success"
+    },
+    "GenAi and the Nature of Work.pdf": {
+      "metrics_count": 611,
+      "status": "success"
+    },
+    "Generative AI at Work.pdf": {
+      "metrics_count": 681,
+      "status": "success"
+    },
+    "gs-new-decade-begins.pdf": {
+      "metrics_count": 61,
+      "status": "success"
+    },
+    "hai_ai_index_report_2025.pdf": {
+      "metrics_count": 2007,
+      "status": "success"
+    },
+    "Machines of mind_ The case for an AI-powered productivity boom.pdf": {
+      "metrics_count": 60,
+      "status": "success"
+    },
+    "Mapping-AI-readiness-final.pdf": {
+      "metrics_count": 718,
+      "status": "success"
+    },
+    "nvidia-cost-trends-ai-inference-at-scale.pdf": {
+      "metrics_count": 68,
+      "status": "success"
+    },
+    "oecd-artificial-intelligence-review-2025.pdf": {
+      "metrics_count": 213,
+      "status": "success"
+    },
+    "The Productivity Puzzle_ AI, Technology Adoption and the Workforce _ Richmond Fed.pdf": {
+      "metrics_count": 150,
+      "status": "success"
+    },
+    "the-economic-impact-of-large-language-models.pdf": {
+      "metrics_count": 629,
+      "status": "success"
+    },
+    "the-state-of-ai-how-organizations-are-rewiring-to-capture-value_final.pdf": {
+      "metrics_count": 323,
+      "status": "success"
+    },
+    "wpiea2024231-print-pdf.pdf": {
+      "metrics_count": 562,
+      "status": "success"
+    }
+  },
+  "recommendations": [
+    "27.4% of metrics have low confidence. Consider manual review.",
+    "6000 metrics have unknown sector. Improve sector classification."
+  ]
+}

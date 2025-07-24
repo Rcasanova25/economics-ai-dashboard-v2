@@ -1,5 +1,5 @@
 SOURCE 8 CLEANUP ANALYSIS SUMMARY
-Generated: 2025-07-23T15:05:57.356640
+Generated: 2025-07-24T14:29:32.896344
 
 FILE: Exploring artificial intelligence adoption in public organizations  a comparative case study.pdf
 Original Records: 20
