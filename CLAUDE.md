@@ -93,6 +93,20 @@ python source_cleanup_enhanced.py 1 data/exports/ai_metrics_20250719.csv
 for i in {1..5}; do python source_cleanup_enhanced.py $i data/exports/ai_metrics_20250719.csv; done
 ```
 
+## Holistic Data Quality Approach
+
+### IMPORTANT: Focus on Overall Data Quality
+While specific issues like ICT preservation and meaningful zeros are important, they are just examples of a broader data quality mission. The real goal is:
+
+1. **Cross-Sector Analysis** - Enable meaningful comparisons across ALL sectors (Manufacturing, Healthcare, Financial, etc.)
+2. **Data Integrity** - Every metric should make economic sense in context
+3. **Continuous Improvement** - Each iteration teaches us new patterns to handle
+4. **Celebrate Progress** - Extraction improved from 82.7% duplicates to proper deduplication!
+
+### New Issues Discovered (2025-01-24)
+- Numbers in compound terms extracted as metrics (COVID-19 → 19, Fortune 500 → 500)
+- This is GOOD - we're learning and improving the system
+
 ## Communication and Collaboration Standards
 
 ### Senior Developer Role Expectations

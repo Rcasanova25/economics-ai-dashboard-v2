@@ -119,9 +119,31 @@ Source_X/
 - Check MD5 hash matches
 - Test restore process on sample data
 
-## New Mantra
+## New Learnings - Week 3 Day 3 (2025-01-24)
 
-> "Test with one before processing all. The cost of fixing one source is minutes; the cost of fixing all sources is hours."
+### Compound Term Number Extraction
+**Issue Discovered**: Extractor captures numbers from compound terms
+- COVID-19 extracted as "19 employees"
+- Fortune 500 potentially extracted as "500 companies"
+- S&P 500, 24/7, and similar patterns at risk
+
+**Solution**: Add compound term detection to validation rules
+
+### Holistic Data Quality Focus
+**Key Insight**: Don't get tunnel vision on specific issues (ICT, zeros)
+- Think about ALL sectors equally
+- Every issue discovered makes the system better
+- Celebrate incremental improvements
+
+### Progress Milestones
+- Old system: 82.7% duplicates → New system: Deduplication at extraction
+- Old system: No sector classification → New system: 15 sectors identified
+- Old system: Flat confidence → New system: Context-based scoring
+- Each iteration teaches us something new!
+
+## Updated Mantra
+
+> "Test with one before processing all. The cost of fixing one source is minutes; the cost of fixing all sources is hours. Every bug discovered is a future bug prevented."
 
 ## Red Flags - Updated List
 

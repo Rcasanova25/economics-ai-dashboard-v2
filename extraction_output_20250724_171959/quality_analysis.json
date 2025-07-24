@@ -1,0 +1,569 @@
+{
+  "total_metrics": 12858,
+  "issues": {
+    "compound_terms": [
+      {
+        "metric_id": 2316,
+        "value": 19.0,
+        "pattern": "COVID[\\-\\s]?19",
+        "context": "net 2021 03 google-and-the-university-of-oxford-launch-global-covid-19-tracker-platform  195 https: ",
+        "metric_type": "net_employment_change"
+      },
+      {
+        "metric_id": 2301,
+        "value": 19.0,
+        "pattern": "COVID[\\-\\s]?19",
+        "context": "For example, Oxford and Google collaborated on tracking COVID-19 variants,194 and, in the US, severa",
+        "metric_type": "ai_implementation_count"
+      },
+      {
+        "metric_id": 1510,
+        "value": 19.0,
+        "pattern": "COVID[\\-\\s]?19",
+        "context": "During 2020, robotics development was driven in part by the need to support social distancing during",
+        "metric_type": "workforce_augmentation"
+      },
+      {
+        "metric_id": 2729,
+        "value": 19.0,
+        "pattern": "COVID[\\-\\s]?19",
+        "context": "ss their impacts 305 Should models be given expiration dates to ensure that they are not creating pr",
+        "metric_type": "job_creation"
+      },
+      {
+        "metric_id": 2700,
+        "value": 19.0,
+        "pattern": "COVID[\\-\\s]?19",
+        "context": "A heartbreaking example of how the integration process can go wrong is found in the use of AI to hel",
+        "metric_type": "ai_implementation_count"
+      },
+      {
+        "metric_id": 2762,
+        "value": 19.0,
+        "pattern": "COVID[\\-\\s]?19",
+        "context": "The demand for physical separation and sterility during the COVID-19 pandemic has only brought new q",
+        "metric_type": "workforce_augmentation"
+      },
+      {
+        "metric_id": 2516,
+        "value": 19.0,
+        "pattern": "COVID[\\-\\s]?19",
+        "context": "255 And, after a decade of sluggish recovery, in early 2020 (on the eve of the COVID-19 pandemic), t",
+        "metric_type": "job_creation"
+      },
+      {
+        "metric_id": 1595,
+        "value": 19.0,
+        "pattern": "COVID[\\-\\s]?19",
+        "context": "During 2020, robotics development was driven in part by the need to support social distancing during",
+        "metric_type": "ai_implementation_count"
+      },
+      {
+        "metric_id": 4786,
+        "value": 19.0,
+        "pattern": "COVID[\\-\\s]?19",
+        "context": "A separate study suggests that US enterprises  AI adoption has accelerated recently, in part as a re",
+        "metric_type": "ai_implementation_count"
+      },
+      {
+        "metric_id": 1482,
+        "value": 19.0,
+        "pattern": "COVID[\\-\\s]?19",
+        "context": "The accomplishment of the Study Panel is that much more impressive considering the inability to meet",
+        "metric_type": "ai_implementation_count"
+      },
+      {
+        "metric_id": 7482,
+        "value": 500.0,
+        "pattern": "Fortune\\s+500",
+        "context": "Our data \ufb01rm is a Fortune 500 company that specializes in business- process software for small and m",
+        "metric_type": "ai_implementation_count"
+      },
+      {
+        "metric_id": 5060,
+        "value": 19.0,
+        "pattern": "COVID[\\-\\s]?19",
+        "context": "1 A PricewaterhouseCoopers (PwC) study found that 52% of surveyed companies accelerated their plans ",
+        "metric_type": "ai_implementation_count"
+      },
+      {
+        "metric_id": 4369,
+        "value": 19.0,
+        "pattern": "COVID[\\-\\s]?19",
+        "context": "Digital security incidents appear to be increasing in sophistication, frequency and impact and inten",
+        "metric_type": "ai_implementation_count"
+      }
+    ],
+    "suspicious_values": [
+      {
+        "metric_id": 2316,
+        "value": 19.0,
+        "unit": "number",
+        "metric_type": "net_employment_change",
+        "context": "net 2021 03 google-and-the-university-of-oxford-launch-global-covid-19-tracker-platform  195 https: ",
+        "sector": "education"
+      },
+      {
+        "metric_id": 4103,
+        "value": 4.2,
+        "unit": "number",
+        "metric_type": "ai_implementation_count",
+        "context": "Institutions interviewed for this study and the diffusion mechanisms they use 101 Table 4.2. AI Sing",
+        "sector": "education"
+      },
+      {
+        "metric_id": 4081,
+        "value": 23.0,
+        "unit": "number",
+        "metric_type": "ai_implementation_count",
+        "context": "The 11 applications of AI considered in the 2022-23 OECD BCG INSEAD Survey of AI-Adopting Enterprise",
+        "sector": "education"
+      },
+      {
+        "metric_id": 4084,
+        "value": 7.0,
+        "unit": "number",
+        "metric_type": "ai_implementation_count",
+        "context": "Average number of active AI uses across 840 enterprises by G7 country and industry, 2022-23 71 Table",
+        "sector": "education"
+      },
+      {
+        "metric_id": 4083,
+        "value": 3.2,
+        "unit": "number",
+        "metric_type": "ai_implementation_count",
+        "context": "The 11 applications of AI considered in the 2022-23 OECD BCG INSEAD Survey of AI-Adopting Enterprise",
+        "sector": "education"
+      },
+      {
+        "metric_id": 6282,
+        "value": 0.0,
+        "unit": "count",
+        "metric_type": "workforce_augmentation",
+        "context": "Cases C and D represent ministries at the national tier of government with over 1,000 (Case C) and o",
+        "sector": "government_public"
+      },
+      {
+        "metric_id": 6281,
+        "value": 1.0,
+        "unit": "count",
+        "metric_type": "workforce_augmentation",
+        "context": "Cases C and D represent ministries at the national tier of government with over 1,000 (Case C) and o",
+        "sector": "government_public"
+      },
+      {
+        "metric_id": 6285,
+        "value": 20.0,
+        "unit": "count",
+        "metric_type": "workforce_augmentation",
+        "context": "In Cases E and F, the organizations are agencies at the regional level with over 400 and over 20 emp",
+        "sector": "government_public"
+      },
+      {
+        "metric_id": 6283,
+        "value": 4.0,
+        "unit": "count",
+        "metric_type": "workforce_augmentation",
+        "context": "Cases C and D represent ministries at the national tier of government with over 1,000 (Case C) and o",
+        "sector": "government_public"
+      },
+      {
+        "metric_id": 12552,
+        "value": 6.0,
+        "unit": "number",
+        "metric_type": "ai_implementation_count",
+        "context": "These high risk systems are listed in Annex III of the provisional EU AI Act, referring to Article 6",
+        "sector": "education"
+      },
+      {
+        "metric_id": 5341,
+        "value": 11.0,
+        "unit": "number",
+        "metric_type": "net_employment_change",
+        "context": "Based on the success of the Vector Institute s industry programmes, it is now adapting them to help ",
+        "sector": "education"
+      },
+      {
+        "metric_id": 12553,
+        "value": 2.0,
+        "unit": "number",
+        "metric_type": "ai_implementation_count",
+        "context": "These high risk systems are listed in Annex III of the provisional EU AI Act, referring to Article 6",
+        "sector": "education"
+      },
+      {
+        "metric_id": 12551,
+        "value": 8.0,
+        "unit": "number",
+        "metric_type": "ai_implementation_count",
+        "context": "r relevant Union or national law  7) migration and border control management, insofar as their use i",
+        "sector": "education"
+      },
+      {
+        "metric_id": 8028,
+        "value": 23.0,
+        "unit": "number",
+        "metric_type": "workforce_augmentation",
+        "context": "o Users Write More Insecure Code with AI Assistants ,  in Proceedings of the 2023 ACM SIGSAC Confere",
+        "sector": "education"
+      },
+      {
+        "metric_id": 8032,
+        "value": 21.0,
+        "unit": "number",
+        "metric_type": "ai_implementation_count",
+        "context": "a Wallach,  Manipulating and Measuring Model Interpretability,  in Proceedings of the 2021 CHI Confe",
+        "sector": "education"
+      },
+      {
+        "metric_id": 5359,
+        "value": 2.0,
+        "unit": "number",
+        "metric_type": "ai_implementation_count",
+        "context": "In its mission statement, it pledges to support: 1) investments in developing AI applications across",
+        "sector": "transportation_logistics"
+      },
+      {
+        "metric_id": 5360,
+        "value": 3.0,
+        "unit": "number",
+        "metric_type": "ai_implementation_count",
+        "context": "atement, it pledges to support: 1) investments in developing AI applications across supply chains  2",
+        "sector": "transportation_logistics"
+      },
+      {
+        "metric_id": 1998,
+        "value": 9.0,
+        "unit": "number",
+        "metric_type": "net_employment_change",
+        "context": "nest Davis and Gary Marcus,  Commonsense reasoning and commonsense knowledge in artificial intellige",
+        "sector": "education"
+      },
+      {
+        "metric_id": 5364,
+        "value": 21.0,
+        "unit": "number",
+        "metric_type": "job_displacement",
+        "context": "20 Scale AI provides grants for industry-led projects21 in demand forecasting, automated in-plant lo",
+        "sector": "transportation_logistics"
+      },
+      {
+        "metric_id": 5362,
+        "value": 5.0,
+        "unit": "number",
+        "metric_type": "ai_implementation_count",
+        "context": "pplications across supply chains  2) the commercialisation of AI- powered solutions  3) the AI start",
+        "sector": "transportation_logistics"
+      }
+    ],
+    "context_mismatches": [
+      {
+        "metric_id": 4306,
+        "value": 23.0,
+        "metric_type": "net_employment_change",
+        "context": "This chapter reports the overall findings of the OECD Boston Consulting Group INSEAD study, conducte"
+      },
+      {
+        "metric_id": 4305,
+        "value": 2022.0,
+        "metric_type": "net_employment_change",
+        "context": "This chapter reports the overall findings of the OECD Boston Consulting Group INSEAD study, conducte"
+      },
+      {
+        "metric_id": 2202,
+        "value": 2016.0,
+        "metric_type": "job_creation",
+        "context": "Efforts developed in the last five years include the Partnership on AI, a nonprofit multi- stakehold"
+      },
+      {
+        "metric_id": 2729,
+        "value": 19.0,
+        "metric_type": "job_creation",
+        "context": "ss their impacts 305 Should models be given expiration dates to ensure that they are not creating pr"
+      },
+      {
+        "metric_id": 12052,
+        "value": 6.0,
+        "metric_type": "job_creation",
+        "context": "Thirteen percent of respondents say their organizations have hired AI compliance specialists, and 6 "
+      },
+      {
+        "metric_id": 12053,
+        "value": 6.0,
+        "metric_type": "job_creation",
+        "context": "Thirteen percent of respondents say their organizations have hired AI compliance specialists, and 6 "
+      },
+      {
+        "metric_id": 3868,
+        "value": 0.0,
+        "metric_type": "net_employment_change",
+        "context": "01,  max_depth : 3,  n_estimators : 100, and  subsample : 0.6. This setup ensures that the model is "
+      },
+      {
+        "metric_id": 3867,
+        "value": 0.6,
+        "metric_type": "net_employment_change",
+        "context": "01,  max_depth : 3,  n_estimators : 100, and  subsample : 0.6. This setup ensures that the model is "
+      },
+      {
+        "metric_id": 12065,
+        "value": 491.0,
+        "metric_type": "net_employment_change",
+        "context": "n s workforce do you expect will be reskilled over the next 3 years as a result of AI adoption   Sou"
+      },
+      {
+        "metric_id": 12064,
+        "value": 1.0,
+        "metric_type": "net_employment_change",
+        "context": "ion s workforce do you expect will be reskilled over the next 3 years as a result of AI adoption   S"
+      },
+      {
+        "metric_id": 2065,
+        "value": 136.0,
+        "metric_type": "net_employment_change",
+        "context": "org article the-dark-past-of-algorithms-that-associate-appearance-and-criminality 136 https:  www.zd"
+      },
+      {
+        "metric_id": 3587,
+        "value": 16.0,
+        "metric_type": "net_employment_change",
+        "context": "7 trillion between 2018 and 2030, with varying regional impacts  16 . Eisfeldt et al.  17  construct"
+      },
+      {
+        "metric_id": 5858,
+        "value": 4.1,
+        "metric_type": "net_employment_change",
+        "context": "However, we acknowledge multiple key limitations (discussed in Section 4.1)  for example, our usage "
+      },
+      {
+        "metric_id": 124,
+        "value": 50.0,
+        "metric_type": "job_creation",
+        "context": "However, a doubling of GPU capacity will not necessarily translate into a 50% decline in costs in ge"
+      },
+      {
+        "metric_id": 1394,
+        "value": 16.0,
+        "metric_type": "job_creation",
+        "context": "In 2024, hiring for AI technical talent grew 30% faster than overall talent, while supply typically "
+      },
+      {
+        "metric_id": 5336,
+        "value": 200.0,
+        "metric_type": "job_displacement",
+        "context": "Over the past two years, the Institute has run around 200 projects.6 Many of these are carried out i"
+      },
+      {
+        "metric_id": 12082,
+        "value": 38.0,
+        "metric_type": "net_employment_change",
+        "context": "Overall, though, a plurality of respondents (38 percent) whose organizations use AI predict that use"
+      },
+      {
+        "metric_id": 125,
+        "value": 50.0,
+        "metric_type": "job_creation",
+        "context": "However, a doubling of GPU capacity will not necessarily translate into a 50% decline in costs in ge"
+      },
+      {
+        "metric_id": 11414,
+        "value": 2017.0,
+        "metric_type": "job_displacement",
+        "context": "ial for a subset of US occupations and using machine learning classifiers to estimate this potential"
+      },
+      {
+        "metric_id": 6022,
+        "value": 20.0,
+        "metric_type": "net_employment_change",
+        "context": "However, a key challenge is the size of the O NET task database we use ( 20K tasks), which makes dir"
+      }
+    ],
+    "extreme_outliers": [
+      {
+        "metric_id": 4305,
+        "value": 2022.0,
+        "metric_type": "net_employment_change",
+        "context": "This chapter reports the overall findings of the OECD Boston Consulting Group INSEAD study, conducte",
+        "bounds": "[-1168.5, 1572.0]"
+      },
+      {
+        "metric_id": 4324,
+        "value": 2017.0,
+        "metric_type": "net_employment_change",
+        "context": "An early example of this work is (Frey and Osborne, 2017 3 ), which examined the probability of comp",
+        "bounds": "[-1168.5, 1572.0]"
+      },
+      {
+        "metric_id": 4567,
+        "value": 2022.0,
+        "metric_type": "net_employment_change",
+        "context": "This corroborates previous research in Brazil, such as (Brazilian Network Information Center, Brazil",
+        "bounds": "[-1168.5, 1572.0]"
+      },
+      {
+        "metric_id": 5864,
+        "value": 2025.0,
+        "metric_type": "net_employment_change",
+        "context": "Department of Labor  National Center for O NET Development, 2025b . For example, Frey and Osborne  2",
+        "bounds": "[-1168.5, 1572.0]"
+      },
+      {
+        "metric_id": 5353,
+        "value": 2013.0,
+        "metric_type": "net_employment_change",
+        "context": "Set up by United Kingdom Research and Innovation (UKRI) in 2013 and part of the Catapult Network, th",
+        "bounds": "[-1168.5, 1572.0]"
+      },
+      {
+        "metric_id": 5642,
+        "value": 2022.0,
+        "metric_type": "net_employment_change",
+        "context": "Network Information Center, Regional Center for Studies on the Development of the Information Societ",
+        "bounds": "[-1168.5, 1572.0]"
+      },
+      {
+        "metric_id": 11443,
+        "value": 2031.0,
+        "metric_type": "net_employment_change",
+        "context": "This dataset encompasses occupational ti- tles, the number of workers in each occupation, and occupa",
+        "bounds": "[-1168.5, 1572.0]"
+      },
+      {
+        "metric_id": 10354,
+        "value": 2025.0,
+        "metric_type": "net_employment_change",
+        "context": "Altogether, then, 67% of the nation s total AI employment  about two-thirds of it as indicated by ab",
+        "bounds": "[-1168.5, 1572.0]"
+      },
+      {
+        "metric_id": 2862,
+        "value": 2021.0,
+        "metric_type": "net_employment_change",
+        "context": "A  low-resource communities  public safety and security  employment and workplace  and entertainment",
+        "bounds": "[-1168.5, 1572.0]"
+      },
+      {
+        "metric_id": 2309,
+        "value": 2021.0,
+        "metric_type": "net_employment_change",
+        "context": "html 194 https:  www.digitalhealth.net 2021 03 google-and-the-unive",
+        "bounds": "[-1168.5, 1572.0]"
+      },
+      {
+        "metric_id": 7933,
+        "value": 2023.0,
+        "metric_type": "net_employment_change",
+        "context": "24-013, Harvard Business School, Cambridge, MA, 2023. Dixon, Jay , Bryan Hong, and Lynn Wu,  The Rob",
+        "bounds": "[-1168.5, 1572.0]"
+      },
+      {
+        "metric_id": 7934,
+        "value": 2020.0,
+        "metric_type": "net_employment_change",
+        "context": "Dixon, Jay , Bryan Hong, and Lynn Wu,  The Robot Revolution: Managerial and Employment Consequences ",
+        "bounds": "[-1168.5, 1572.0]"
+      },
+      {
+        "metric_id": 8010,
+        "value": 2586.0,
+        "metric_type": "net_employment_change",
+        "context": "adh2586 OECD , OECD Employment Outlook2023: Arti\ufb01cial Intelligence and the Labour Market , (Paris: O",
+        "bounds": "[-1168.5, 1572.0]"
+      },
+      {
+        "metric_id": 8011,
+        "value": 2023.0,
+        "metric_type": "net_employment_change",
+        "context": "adh2586 OECD , OECD Employment Outlook2023: Arti\ufb01cial Intelligence and the Labour Market , (Paris: O",
+        "bounds": "[-1168.5, 1572.0]"
+      },
+      {
+        "metric_id": 2488,
+        "value": 1960.0,
+        "metric_type": "net_employment_change",
+        "context": "construction technology due to its potential labor market impact 248 the Luddites destroyed textile ",
+        "bounds": "[-1168.5, 1572.0]"
+      },
+      {
+        "metric_id": 1831,
+        "value": 2012.0,
+        "metric_type": "net_employment_change",
+        "context": "), Social judgment and decision making, Psychology Press, 2012. https:  psycnet.apa.org record 2011-",
+        "bounds": "[-1168.5, 1572.0]"
+      },
+      {
+        "metric_id": 3438,
+        "value": 2018.0,
+        "metric_type": "net_employment_change",
+        "context": "2018.  Graph Attention Networks.  International Conference on Learning Representations (ICLR). ,  p.",
+        "bounds": "[-1168.5, 1572.0]"
+      },
+      {
+        "metric_id": 3342,
+        "value": 2015.0,
+        "metric_type": "net_employment_change",
+        "context": "2015.  Deep Convolutional Networks on Graph-Structured Data.  ,  p. 9  Hill, Ryan, and Carolyn Stein",
+        "bounds": "[-1168.5, 1572.0]"
+      },
+      {
+        "metric_id": 3414,
+        "value": 2016.0,
+        "metric_type": "net_employment_change",
+        "context": "2016.  Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks.",
+        "bounds": "[-1168.5, 1572.0]"
+      },
+      {
+        "metric_id": 1999,
+        "value": 2015.0,
+        "metric_type": "net_employment_change",
+        "context": "d Gary Marcus,  Commonsense reasoning and commonsense knowledge in artificial intelligence,  Communi",
+        "bounds": "[-1168.5, 1572.0]"
+      }
+    ]
+  },
+  "patterns": {},
+  "summary": {
+    "confidence_distribution": {
+      "high": 3562,
+      "medium": 5776,
+      "low": 3520
+    },
+    "sectors": {
+      "unknown": 6000,
+      "education": 1646,
+      "professional_services": 1500,
+      "government_public": 1038,
+      "information_communication_technology": 833,
+      "energy_utilities": 455,
+      "transportation_logistics": 344,
+      "financial_services": 293,
+      "retail_ecommerce": 229,
+      "manufacturing": 206,
+      "entertainment_media": 120,
+      "real_estate_construction": 96,
+      "healthcare": 88,
+      "agriculture": 5,
+      "hospitality_tourism": 5
+    },
+    "metric_types": {
+      "ai_implementation_count": 8242,
+      "ai_adoption_rate": 1330,
+      "job_creation": 732,
+      "workforce_augmentation": 694,
+      "net_employment_change": 595,
+      "ai_patents_filed": 396,
+      "job_displacement": 242,
+      "ai_investment_amount": 186,
+      "ai_budget_percentage": 131,
+      "productivity_improvement": 100
+    },
+    "units": {
+      "number": 10135,
+      "percentage": 1822,
+      "count": 631,
+      "millions_usd": 269,
+      "megawatts": 1
+    }
+  },
+  "estimated_removal_rate": 39.1429460258205
+}
