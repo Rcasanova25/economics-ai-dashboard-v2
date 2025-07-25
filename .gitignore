@@ -1,1 +1,55 @@
 # Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# Data files (too large for GitHub)
+data/exports/*.csv
+data/database/
+data/processed/Stanford AI Index Data/
+extraction_output_*/individual_extractions/
+extraction_output_*/by_sector/
+
+# Source cleanup folders (keep summaries, exclude CSVs)
+Source Data Cleanup Analysis/Source_*/initial_analysis.csv
+Source Data Cleanup Analysis/Source_*/records_*.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+nul
+
+# Backups
+backups/
+*.backup*
+
+# Temporary files
+*.tmp
+*.temp
+debug_*.py
+
+# Archives
+archived_scripts/
+
+# Large binary files
+*.pdf
