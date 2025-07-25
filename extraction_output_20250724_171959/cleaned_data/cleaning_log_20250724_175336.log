@@ -1,0 +1,6 @@
+2025-07-24 17:53:36,191 - INFO - Loading data from extraction_output_20250724_171959\all_metrics_extracted.csv
+2025-07-24 17:53:36,242 - INFO - Starting data cleaning process...
+2025-07-24 17:53:37,153 - INFO - Original metrics: 12858
+2025-07-24 17:53:37,154 - INFO - Removed: 528 (4.1%)
+2025-07-24 17:53:37,154 - INFO - Kept: 12330
+2025-07-24 17:53:37,238 - INFO - Cleaned data saved to: extraction_output_20250724_171959\cleaned_data\cleaned_metrics.csv

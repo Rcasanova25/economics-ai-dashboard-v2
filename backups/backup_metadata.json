@@ -1,0 +1,25 @@
+{
+  "backups": [
+    {
+      "filename": "economics_ai__cleanup_source3_20250721_184652.db",
+      "path": "backups\\economics_ai__cleanup_source3_20250721_184652.db",
+      "timestamp": "20250721_184652",
+      "tag": "_cleanup",
+      "source_id": 3,
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e",
+      "size_bytes": 0,
+      "original_size_bytes": 0
+    },
+    {
+      "filename": "economics_ai__cleanup_source3_20250721_184758.db",
+      "path": "backups\\economics_ai__cleanup_source3_20250721_184758.db",
+      "timestamp": "20250721_184758",
+      "tag": "_cleanup",
+      "source_id": 3,
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e",
+      "size_bytes": 0,
+      "original_size_bytes": 0
+    }
+  ],
+  "last_backup": "20250721_184758"
+}
