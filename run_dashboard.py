@@ -14,8 +14,8 @@ sys.path.insert(0, project_root)
 from src.dashboard.app import app
 
 if __name__ == "__main__":
-    print("🚀 Starting Economics of AI Dashboard...")
-    print("📊 Open your browser to: http://localhost:8050")
+    print("Starting Economics of AI Dashboard...")
+    print("Open your browser to: http://localhost:8050")
     print("Press Ctrl+C to stop the server\n")
     
     app.run_server(debug=True, host="127.0.0.1", port=8050)
