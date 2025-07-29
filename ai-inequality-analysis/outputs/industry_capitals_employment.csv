@@ -1,0 +1,25 @@
+year,industry,msa_code,msa_name,employment,avg_wage,is_capital
+2004,Finance,C3562,"New York-Newark, NY",329321,2066.0,True
+2004,Finance,C1446,"Boston, MA",49905,967.8,True
+2004,Healthcare,C3798,"Philadelphia, PA",195252,871.0,True
+2004,Manufacturing,C1982,"Detroit, MI",138024,1110.6,True
+2004,Tech,C4186,"San Francisco, CA",54965,1300.75,True
+2004,Tech,C4266,"Seattle, WA",54094,905.75,True
+2004,Tech,C1242,"Austin, TX",15470,987.25,True
+2004,Tech,C1446,"Boston, MA",37637,474.0,True
+2015,Finance,C3562,"New York-Newark, NY",298619,3164.2,True
+2015,Finance,C1446,"Boston, MA",56838,2453.2,True
+2015,Healthcare,C3798,"Philadelphia, PA",182365,756.4,True
+2015,Manufacturing,C1982,"Detroit, MI",96402,1370.4,True
+2015,Tech,C4186,"San Francisco, CA",123807,2399.25,True
+2015,Tech,C4266,"Seattle, WA",99542,1984.25,True
+2015,Tech,C1242,"Austin, TX",2034,353.0,True
+2015,Tech,C1446,"Boston, MA",76481,1330.0,True
+2024,Finance,C3562,"New York-Newark, NY",302382,4288.4,True
+2024,Finance,C1446,"Boston, MA",83099,4660.6,True
+2024,Healthcare,C3798,"Philadelphia, PA",248541,1551.6,True
+2024,Manufacturing,C1982,"Detroit, MI",44595,696.8,True
+2024,Tech,C4186,"San Francisco, CA",132593,6170.0,True
+2024,Tech,C4266,"Seattle, WA",77115,4951.0,True
+2024,Tech,C1242,"Austin, TX",68673,4350.0,True
+2024,Tech,C1446,"Boston, MA",63691,2029.0,True

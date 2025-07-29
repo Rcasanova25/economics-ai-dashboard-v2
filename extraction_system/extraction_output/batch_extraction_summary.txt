@@ -1,0 +1,12 @@
+Batch Extraction Summary
+========================
+Date: 2025-07-25 13:33:45
+PDFs processed: 4
+Total candidates: 1040
+Total time: 71.8 seconds
+
+Files processed:
+- ai-and-the-global-economy.pdf (Score: 70.3)
+- the-state-of-ai-how-organizations-are-rewiring-to-capture-value_final.pdf (Score: 64.5)
+- hai_ai_index_report_2025.pdf (Score: 59.8)
+- Mapping-AI-readiness-final.pdf (Score: 60.5)

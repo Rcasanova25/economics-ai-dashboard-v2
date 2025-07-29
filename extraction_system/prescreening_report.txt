@@ -1,0 +1,44 @@
+PDF PRE-SCREENING REPORT
+============================================================
+Generated: 2025-07-25 13:04:45
+Total PDFs analyzed: 5
+
+HIGH PRIORITY PDFs:
+----------------------------------------
+
+ai-and-the-global-economy.pdf
+  Score: 70.3/100
+  Economic keywords: 8
+  Sample metric: [percentage] me savings and half report a revenue increase of 10% or more. With many companies still at the early s
+
+
+MEDIUM PRIORITY PDFs:
+----------------------------------------
+
+the-state-of-ai-how-organizations-are-rewiring-to-capture-value_final.pdf
+  Score: 64.5/100
+  Metrics found: 32
+
+Mapping-AI-readiness-final.pdf
+  Score: 60.5/100
+  Metrics found: 23
+
+hai_ai_index_report_2025.pdf
+  Score: 59.8/100
+  Metrics found: 194
+
+
+LOW PRIORITY PDFs (Skip):
+----------------------------------------
+
+oecd-artificial-intelligence-review-2025.pdf: Score 15.3/100
+
+
+SUMMARY:
+----------------------------------------
+High priority: 1 PDFs
+Medium priority: 3 PDFs
+Low priority: 1 PDFs
+
+Average quality score: 54.1/100
+Total analysis time: 0.3 seconds

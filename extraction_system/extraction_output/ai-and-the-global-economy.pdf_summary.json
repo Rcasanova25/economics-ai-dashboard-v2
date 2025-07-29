@@ -1,0 +1,20 @@
+{
+  "source_document": "ai-and-the-global-economy.pdf",
+  "total_candidates": 61,
+  "by_extraction_method": {
+    "table": 28,
+    "text": 33
+  },
+  "by_confidence": {
+    "high": 28,
+    "medium": 32,
+    "low": 1
+  },
+  "by_category": {
+    "unknown": 32,
+    "adoption": 10,
+    "investment": 8,
+    "productivity": 1,
+    "labor_market": 10
+  }
+}

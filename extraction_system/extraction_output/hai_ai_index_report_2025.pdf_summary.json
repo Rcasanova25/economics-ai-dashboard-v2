@@ -1,0 +1,20 @@
+{
+  "source_document": "hai_ai_index_report_2025.pdf",
+  "total_candidates": 323,
+  "by_extraction_method": {
+    "text": 323
+  },
+  "by_confidence": {
+    "high": 0,
+    "medium": 316,
+    "low": 7
+  },
+  "by_category": {
+    "adoption": 14,
+    "investment": 144,
+    "unknown": 126,
+    "productivity": 10,
+    "labor_market": 18,
+    "cost": 11
+  }
+}

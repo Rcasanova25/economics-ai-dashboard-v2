@@ -1,0 +1,812 @@
+page,category,type,value,unit,year,geography,sector,context,quality,confidence
+6,adoption,adoption_rate,71.0,percentage,,Uk,Technology,"Top ways in which generative AI is being used by businesses who report  
+using the technology  
+Percentage of businesses, %
+Small 
+businesses
+Medium 
+businesses
+Large
+businesses
+Increasing  
+innovatio",medium,0.8
+6,adoption,adoption_rate,69.0,percentage,,Uk,Technology,"Top ways in which generative AI is being used by businesses who report  
+using the technology  
+Percentage of businesses, %
+Small 
+businesses
+Medium 
+businesses
+Large
+businesses
+Increasing  
+innovatio",medium,0.8
+6,adoption,adoption_rate,61.0,percentage,,Uk,Technology,"Top ways in which generative AI is being used by businesses who report  
+using the technology  
+Percentage of businesses, %
+Small 
+businesses
+Medium 
+businesses
+Large
+businesses
+Increasing  
+innovatio",medium,0.8
+6,adoption,adoption_rate,51.0,percentage,,Uk,Technology,"Top ways in which generative AI is being used by businesses who report  
+using the technology  
+Percentage of businesses, %
+Small 
+businesses
+Medium 
+businesses
+Large
+businesses
+Increasing  
+innovatio",medium,0.8
+6,adoption,adoption_rate,50.0,percentage,,Uk,Technology,"Top ways in which generative AI is being used by businesses who report  
+using the technology  
+Percentage of businesses, %
+Small 
+businesses
+Medium 
+businesses
+Large
+businesses
+Increasing  
+innovatio",medium,0.8
+6,adoption,adoption_rate,45.0,percentage,,Uk,Technology,"Top ways in which generative AI is being used by businesses who report  
+using the technology  
+Percentage of businesses, %
+Small 
+businesses
+Medium 
+businesses
+Large
+businesses
+Increasing  
+innovatio",medium,0.8
+8,labor_market,job_postings_rate,63.0,percentage,,global,Technology,"Among businesses considering the impact of technology 
+like GAI in their workforce planning, 63% plan to increase headcount through hiring or greater retention",medium,0.8999999999999999
+8,adoption,adoption_rate,54.0,percentage,,global,all_sectors,"Reasons for increasing headcount due to generative AI 
+Percentage of businesses, %
+54%
+52%
+49%
+To drive the generative AI transition (e.g., development 
+and deployment of generative AI applications)
+T",medium,0.8
+8,adoption,adoption_rate,52.0,percentage,,global,all_sectors,"Reasons for increasing headcount due to generative AI 
+Percentage of businesses, %
+54%
+52%
+49%
+To drive the generative AI transition (e.g., development 
+and deployment of generative AI applications)
+T",medium,0.8
+8,adoption,adoption_rate,49.0,percentage,,global,all_sectors,"Reasons for increasing headcount due to generative AI 
+Percentage of businesses, %
+54%
+52%
+49%
+To drive the generative AI transition (e.g., development 
+and deployment of generative AI applications)
+T",medium,0.8
+9,adoption,adoption_rate,90.0,percentage,,global,Technology,"SMBs, which represent over 90 percent of businesses globally, are 
+critical to realizing the full economic benefits of GAI but lag behind 
+large businesses in adoption
+ 
+The massive economic potential",medium,0.6
+9,adoption,adoption_rate,25.0,percentage,,global,all_sectors,"Meanwhile, medium businesses are more likely to have a strategy for 
+organization-wide adoption compared to large businesses (25% vs",medium,0.8
+9,adoption,adoption_rate,38.0,percentage,,global,all_sectors,"38% of businesses indicated that creating GAI adoption grants and 
+subsidies for SMBs would significantly reduce the barriers associated with deploying GAI solutions",medium,0.8
+10,adoption,adoption_rate,62.0,percentage,,Uk,all_sectors,"10
+Businesses in India and the US lead in GAI adoption compared to their 
+European counterparts
+Overall, India (62%) and the US (51%) report the highest adoption rates, followed by Germany (41%), the ",medium,0.8
+10,adoption,adoption_rate,51.0,percentage,,Uk,all_sectors,"10
+Businesses in India and the US lead in GAI adoption compared to their 
+European counterparts
+Overall, India (62%) and the US (51%) report the highest adoption rates, followed by Germany (41%), the ",medium,0.8
+10,adoption,adoption_rate,41.0,percentage,,Uk,all_sectors,"10
+Businesses in India and the US lead in GAI adoption compared to their 
+European counterparts
+Overall, India (62%) and the US (51%) report the highest adoption rates, followed by Germany (41%), the ",medium,0.8
+10,adoption,adoption_rate,40.0,percentage,,Uk,all_sectors,"10
+Businesses in India and the US lead in GAI adoption compared to their 
+European counterparts
+Overall, India (62%) and the US (51%) report the highest adoption rates, followed by Germany (41%), the ",medium,0.8
+10,adoption,adoption_rate,32.0,percentage,,Uk,all_sectors,"10
+Businesses in India and the US lead in GAI adoption compared to their 
+European counterparts
+Overall, India (62%) and the US (51%) report the highest adoption rates, followed by Germany (41%), the ",medium,0.8
+10,adoption,adoption_rate,52.0,percentage,,Uk,all_sectors,"Generative AI adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+42%
+42%
+48%
+25%
+36%
+34%
+24%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+US
+Germany
+India
+UK
+France
+Source: Access Partnersh",medium,0.8
+10,adoption,adoption_rate,56.0,percentage,,Uk,all_sectors,"Generative AI adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+42%
+42%
+48%
+25%
+36%
+34%
+24%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+US
+Germany
+India
+UK
+France
+Source: Access Partnersh",medium,0.8
+10,adoption,adoption_rate,42.0,percentage,,Uk,all_sectors,"Generative AI adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+42%
+42%
+48%
+25%
+36%
+34%
+24%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+US
+Germany
+India
+UK
+France
+Source: Access Partnersh",medium,0.8
+10,adoption,adoption_rate,36.0,percentage,,Uk,all_sectors,"Generative AI adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+42%
+42%
+48%
+25%
+36%
+34%
+24%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+US
+Germany
+India
+UK
+France
+Source: Access Partnersh",medium,0.8
+10,adoption,adoption_rate,44.0,percentage,,Uk,all_sectors,"Generative AI adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+42%
+42%
+48%
+25%
+36%
+34%
+24%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+US
+Germany
+India
+UK
+France
+Source: Access Partnersh",medium,0.8
+10,adoption,adoption_rate,30.0,percentage,,Uk,all_sectors,"Generative AI adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+42%
+42%
+48%
+25%
+36%
+34%
+24%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+US
+Germany
+India
+UK
+France
+Source: Access Partnersh",medium,0.8
+10,adoption,adoption_rate,68.0,percentage,,Uk,all_sectors,"Generative AI adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+42%
+42%
+48%
+25%
+36%
+34%
+24%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+US
+Germany
+India
+UK
+France
+Source: Access Partnersh",medium,0.8
+10,adoption,adoption_rate,63.0,percentage,,Uk,all_sectors,"Generative AI adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+42%
+42%
+48%
+25%
+36%
+34%
+24%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+US
+Germany
+India
+UK
+France
+Source: Access Partnersh",medium,0.8
+10,adoption,adoption_rate,42.0,percentage,,Uk,all_sectors,"Generative AI adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+42%
+42%
+48%
+25%
+36%
+34%
+24%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+US
+Germany
+India
+UK
+France
+Source: Access Partnersh",medium,0.8
+10,adoption,adoption_rate,42.0,percentage,,Uk,all_sectors,"Generative AI adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+42%
+42%
+48%
+25%
+36%
+34%
+24%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+US
+Germany
+India
+UK
+France
+Source: Access Partnersh",medium,0.8
+10,adoption,adoption_rate,48.0,percentage,,Uk,all_sectors,"Generative AI adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+42%
+42%
+48%
+25%
+36%
+34%
+24%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+US
+Germany
+India
+UK
+France
+Source: Access Partnersh",medium,0.8
+10,adoption,adoption_rate,25.0,percentage,,Uk,all_sectors,"Generative AI adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+42%
+42%
+48%
+25%
+36%
+34%
+24%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+US
+Germany
+India
+UK
+France
+Source: Access Partnersh",medium,0.8
+10,adoption,adoption_rate,36.0,percentage,,Uk,all_sectors,"Generative AI adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+42%
+42%
+48%
+25%
+36%
+34%
+24%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+US
+Germany
+India
+UK
+France
+Source: Access Partnersh",medium,0.8
+10,adoption,adoption_rate,34.0,percentage,,Uk,all_sectors,"Generative AI adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+42%
+42%
+48%
+25%
+36%
+34%
+24%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+US
+Germany
+India
+UK
+France
+Source: Access Partnersh",medium,0.8
+10,adoption,adoption_rate,24.0,percentage,,Uk,all_sectors,"Generative AI adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+42%
+42%
+48%
+25%
+36%
+34%
+24%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+US
+Germany
+India
+UK
+France
+Source: Access Partnersh",medium,0.8
+10,adoption,adoption_rate,0.0,percentage,,Uk,all_sectors,"Generative AI adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+42%
+42%
+48%
+25%
+36%
+34%
+24%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+US
+Germany
+India
+UK
+France
+Source: Access Partnersh",medium,0.8
+10,adoption,adoption_rate,10.0,percentage,,Uk,all_sectors,"Generative AI adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+42%
+42%
+48%
+25%
+36%
+34%
+24%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+US
+Germany
+India
+UK
+France
+Source: Access Partnersh",medium,0.8
+10,adoption,adoption_rate,20.0,percentage,,Uk,all_sectors,"Generative AI adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+42%
+42%
+48%
+25%
+36%
+34%
+24%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+US
+Germany
+India
+UK
+France
+Source: Access Partnersh",medium,0.8
+10,adoption,adoption_rate,30.0,percentage,,Uk,all_sectors,"Generative AI adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+42%
+42%
+48%
+25%
+36%
+34%
+24%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+US
+Germany
+India
+UK
+France
+Source: Access Partnersh",medium,0.8
+10,adoption,adoption_rate,40.0,percentage,,Uk,all_sectors,"Generative AI adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+42%
+42%
+48%
+25%
+36%
+34%
+24%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+US
+Germany
+India
+UK
+France
+Source: Access Partnersh",medium,0.8
+10,adoption,adoption_rate,50.0,percentage,,Uk,all_sectors,"Generative AI adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+42%
+42%
+48%
+25%
+36%
+34%
+24%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+US
+Germany
+India
+UK
+France
+Source: Access Partnersh",medium,0.8
+10,adoption,adoption_rate,60.0,percentage,,Uk,all_sectors,"Generative AI adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+42%
+42%
+48%
+25%
+36%
+34%
+24%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+US
+Germany
+India
+UK
+France
+Source: Access Partnersh",medium,0.8
+10,adoption,adoption_rate,70.0,percentage,,Uk,all_sectors,"Generative AI adoption rates by country and business size
+52%
+56%
+42%
+36%
+44%
+30%
+68%
+63%
+42%
+42%
+48%
+25%
+36%
+34%
+24%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+US
+Germany
+India
+UK
+France
+Source: Access Partnersh",medium,0.8

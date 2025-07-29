@@ -1,0 +1,105 @@
+year,msa,industry_code,industry_name,employment,avg_wage
+2004,San Francisco,3341,Manufacturing - Computers,9287,2007
+2004,San Francisco,4451,Retail - Grocery,35133,612
+2004,San Francisco,4541,Retail - E-commerce,3576,1542
+2004,San Francisco,5182,Tech - Data Processing,0,0
+2004,San Francisco,5221,Finance - Banks,35808,1484
+2004,San Francisco,5223,Finance - Securities,5956,1522
+2004,San Francisco,5415,Tech - Computer Systems,37455,1989
+2004,San Francisco,6211,Healthcare - Physicians,20330,1334
+2004,San Francisco,6221,Healthcare - Hospitals,54740,1284
+2004,Seattle,3341,Manufacturing - Computers,2861,1602
+2004,Seattle,4451,Retail - Grocery,26951,498
+2004,Seattle,4541,Retail - E-commerce,0,0
+2004,Seattle,5182,Tech - Data Processing,0,0
+2004,Seattle,5221,Finance - Banks,22490,1078
+2004,Seattle,5223,Finance - Securities,3604,1083
+2004,Seattle,5415,Tech - Computer Systems,16068,1580
+2004,Seattle,6211,Healthcare - Physicians,20815,1061
+2004,Seattle,6221,Healthcare - Hospitals,0,0
+2004,Boston,3341,Manufacturing - Computers,14149,1954
+2004,Boston,4451,Retail - Grocery,52019,377
+2004,Boston,4541,Retail - E-commerce,0,0
+2004,Boston,5182,Tech - Data Processing,0,0
+2004,Boston,5221,Finance - Banks,38620,1594
+2004,Boston,5223,Finance - Securities,3114,1416
+2004,Boston,5415,Tech - Computer Systems,37637,1896
+2004,Boston,6211,Healthcare - Physicians,33954,1373
+2004,Boston,6221,Healthcare - Hospitals,102941,972
+2004,Austin,3341,Manufacturing - Computers,10800,2399
+2004,Austin,4451,Retail - Grocery,0,0
+2004,Austin,4541,Retail - E-commerce,0,0
+2004,Austin,5182,Tech - Data Processing,0,0
+2004,Austin,5221,Finance - Banks,0,0
+2004,Austin,5223,Finance - Securities,0,0
+2004,Austin,5415,Tech - Computer Systems,10175,1562
+2004,Austin,6211,Healthcare - Physicians,9896,1373
+2004,Austin,6221,Healthcare - Hospitals,12885,810
+2015,San Francisco,3341,Manufacturing - Computers,0,0
+2015,San Francisco,4451,Retail - Grocery,41071,646
+2015,San Francisco,4541,Retail - E-commerce,9769,1475
+2015,San Francisco,5182,Tech - Data Processing,8525,3066
+2015,San Francisco,5221,Finance - Banks,19778,2011
+2015,San Francisco,5223,Finance - Securities,7406,2081
+2015,San Francisco,5415,Tech - Computer Systems,94705,3026
+2015,San Francisco,6211,Healthcare - Physicians,28593,2004
+2015,San Francisco,6221,Healthcare - Hospitals,39405,1847
+2015,Seattle,3341,Manufacturing - Computers,2003,2963
+2015,Seattle,4451,Retail - Grocery,31451,582
+2015,Seattle,4541,Retail - E-commerce,28362,2231
+2015,Seattle,5182,Tech - Data Processing,5891,1855
+2015,Seattle,5221,Finance - Banks,14648,1501
+2015,Seattle,5223,Finance - Securities,1677,1704
+2015,Seattle,5415,Tech - Computer Systems,40086,2081
+2015,Seattle,6211,Healthcare - Physicians,26918,1795
+2015,Seattle,6221,Healthcare - Hospitals,0,0
+2015,Boston,3341,Manufacturing - Computers,10908,2947
+2015,Boston,4451,Retail - Grocery,63382,415
+2015,Boston,4541,Retail - E-commerce,7245,1437
+2015,Boston,5182,Tech - Data Processing,0,0
+2015,Boston,5221,Finance - Banks,37369,2131
+2015,Boston,5223,Finance - Securities,2329,2344
+2015,Boston,5415,Tech - Computer Systems,67188,2669
+2015,Boston,6211,Healthcare - Physicians,42036,2044
+2015,Boston,6221,Healthcare - Hospitals,125001,1440
+2015,Austin,3341,Manufacturing - Computers,0,0
+2015,Austin,4451,Retail - Grocery,18121,523
+2015,Austin,4541,Retail - E-commerce,2290,1345
+2015,Austin,5182,Tech - Data Processing,0,0
+2015,Austin,5221,Finance - Banks,7419,1343
+2015,Austin,5223,Finance - Securities,2158,1426
+2015,Austin,5415,Tech - Computer Systems,0,0
+2015,Austin,6211,Healthcare - Physicians,0,0
+2015,Austin,6221,Healthcare - Hospitals,21797,1235
+2024,San Francisco,3341,Manufacturing - Computers,5566,4173
+2024,San Francisco,4451,Retail - Grocery,42906,911
+2024,San Francisco,5182,Tech - Data Processing,30707,6659
+2024,San Francisco,5221,Finance - Banks,18491,3602
+2024,San Francisco,5223,Finance - Securities,5701,6918
+2024,San Francisco,5415,Tech - Computer Systems,101886,5681
+2024,San Francisco,6211,Healthcare - Physicians,30069,2688
+2024,San Francisco,6221,Healthcare - Hospitals,32231,2470
+2024,Seattle,3341,Manufacturing - Computers,641,4131
+2024,Seattle,4451,Retail - Grocery,34722,828
+2024,Seattle,5182,Tech - Data Processing,21116,5610
+2024,Seattle,5221,Finance - Banks,14076,2358
+2024,Seattle,5223,Finance - Securities,2261,4516
+2024,Seattle,5415,Tech - Computer Systems,55999,4292
+2024,Seattle,6211,Healthcare - Physicians,32458,2487
+2024,Seattle,6221,Healthcare - Hospitals,0,0
+2024,Boston,3341,Manufacturing - Computers,4846,4531
+2024,Boston,4451,Retail - Grocery,60412,639
+2024,Boston,5182,Tech - Data Processing,0,0
+2024,Boston,5221,Finance - Banks,31206,2814
+2024,Boston,5223,Finance - Securities,2502,3363
+2024,Boston,5415,Tech - Computer Systems,63691,4058
+2024,Boston,6211,Healthcare - Physicians,46092,2674
+2024,Boston,6221,Healthcare - Hospitals,131334,1871
+2024,Austin,3341,Manufacturing - Computers,7779,5459
+2024,Austin,4451,Retail - Grocery,0,0
+2024,Austin,5182,Tech - Data Processing,10903,4395
+2024,Austin,5221,Finance - Banks,8176,2026
+2024,Austin,5223,Finance - Securities,4648,3560
+2024,Austin,5415,Tech - Computer Systems,57770,4305
+2024,Austin,6211,Healthcare - Physicians,21740,2115
+2024,Austin,6221,Healthcare - Hospitals,26683,1654

@@ -1,0 +1,20 @@
+{
+  "source_document": "Mapping-AI-readiness-final.pdf",
+  "total_candidates": 153,
+  "by_extraction_method": {
+    "table": 47,
+    "text": 106
+  },
+  "by_confidence": {
+    "high": 35,
+    "medium": 118,
+    "low": 0
+  },
+  "by_category": {
+    "unknown": 60,
+    "labor_market": 37,
+    "investment": 31,
+    "adoption": 23,
+    "cost": 2
+  }
+}

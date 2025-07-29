@@ -1,0 +1,28 @@
+
+BLS DATA DOWNLOAD INSTRUCTIONS
+==============================
+
+1. Go to: https://www.bls.gov/cew/downloadable-data-files.htm
+
+2. Download QCEW Annual Averages (Single Files) for years 2019-2023:
+   - Click on each year
+   - Download "Annual Averages, All Counties, All Industries"
+   - Files will be named like: 2023.annual.singlefile.csv
+
+3. Save all files to: ai-inequality-analysis/data/bls/
+
+4. File sizes are large (~500MB each) but contain all US employment data
+
+Alternative: MSA-specific downloads
+-----------------------------------
+For smaller files, you can download MSA-specific data:
+1. Go to: https://data.bls.gov/cew/apps/data_views/data_views.htm
+2. Select "Metropolitan Statistical Area (MSA)"
+3. Choose each MSA:
+   - San Francisco-Oakland-Hayward, CA (41860)
+   - Seattle-Tacoma-Bellevue, WA (42660)
+   - Boston-Cambridge-Newton, MA-NH (14460)
+   - Austin-Round Rock-Georgetown, TX (12420)
+4. Select NAICS 5415 (Computer Systems Design)
+5. Download CSV for each
+    

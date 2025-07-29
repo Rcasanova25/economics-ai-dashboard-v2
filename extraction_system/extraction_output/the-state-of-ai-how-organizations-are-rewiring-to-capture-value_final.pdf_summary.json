@@ -1,0 +1,18 @@
+{
+  "source_document": "the-state-of-ai-how-organizations-are-rewiring-to-capture-value_final.pdf",
+  "total_candidates": 503,
+  "by_extraction_method": {
+    "table": 481,
+    "text": 22
+  },
+  "by_confidence": {
+    "high": 476,
+    "medium": 27,
+    "low": 0
+  },
+  "by_category": {
+    "unknown": 464,
+    "adoption": 36,
+    "investment": 3
+  }
+}
