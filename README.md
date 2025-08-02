@@ -22,7 +22,7 @@ This repo is the practical companion to my [Medium blog post](https://medium.com
 |-----------------|-------------------------------------------------------------------------|
 | `/src/`         | Scripts, notebooks, and interaction logic                               |
 | `/data/`        | Raw PDFs used in the final attempt                                      |
-| `/data/         | Prompt templates and role descriptions used in AI interaction           |
+| `/session logs/ | Prompt, AI feedback logs, and role descriptions used in AI interaction  |
 | `/docs/manuals/`| Internal documentation, process notes, AI feedback logs                 |
 | `/reports/`     | Visualizations, figures, and final analysis artifacts                   |
 | `/archive/data` | Extraction, early exports, and dead ends                                |
