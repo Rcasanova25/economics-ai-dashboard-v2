@@ -18,14 +18,14 @@ This repo is the practical companion to my [Medium blog post](https://medium.com
 
 ## 📂 Repo Structure
 
-| Folder       | Purpose                                                                 |
-|--------------|-------------------------------------------------------------------------|
-| `/src/`      | Scripts, notebooks, and interaction logic                               |
-| `/data/`     | Raw and cleaned data inputs (TFP, GVA, BLS, OECD, etc.)                 |
-| `/templates/`| Prompt templates and role descriptions used in AI interaction           |
-| `/docs/`     | Internal documentation, process notes, AI feedback logs                 |
-| `/reports/`  | Visualizations, figures, and final analysis artifacts                   |
-| `/archive/`  | Deprecated drafts, early experiments, and dead ends                     |
+| Folder          | Purpose                                                                 |
+|-----------------|-------------------------------------------------------------------------|
+| `/src/`         | Scripts, notebooks, and interaction logic                               |
+| `/data/`        | Raw and cleaned data inputs (TFP, GVA, BLS, OECD, etc.)                 |
+| `/data/         | Prompt templates and role descriptions used in AI interaction           |
+| `/docs/manuals/`| Internal documentation, process notes, AI feedback logs                 |
+| `/reports/`     | Visualizations, figures, and final analysis artifacts                   |
+| `/archive/`     | Deprecated drafts, early experiments, and dead ends                     |
 
 ---
 
@@ -42,8 +42,8 @@ This repo is the practical companion to my [Medium blog post](https://medium.com
 ## 🗂 Notable Files
 
 - `docs/human_ai_collab_template.md` – A reusable prompt and workflow guide for human-AI collaboration
-- `src/ai_prompt_logs/` – Raw logs of every significant prompt interaction
-- `reports/final_tfp_trends.pdf` – Output visualizations and dashboard drafts
+- `Session Logs` – Raw logs of every significant prompt interaction
+- `reports/ai-inequality-analysis/` – Output visualizations and dashboard drafts
 
 ---
 
