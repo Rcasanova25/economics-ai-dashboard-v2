@@ -21,11 +21,11 @@ This repo is the practical companion to my [Medium blog post](https://medium.com
 | Folder          | Purpose                                                                 |
 |-----------------|-------------------------------------------------------------------------|
 | `/src/`         | Scripts, notebooks, and interaction logic                               |
-| `/data/`        | Raw and cleaned data inputs (TFP, GVA, BLS, OECD, etc.)                 |
+| `/data/`        | Raw PDFs used in the final attempt                                      |
 | `/data/         | Prompt templates and role descriptions used in AI interaction           |
 | `/docs/manuals/`| Internal documentation, process notes, AI feedback logs                 |
 | `/reports/`     | Visualizations, figures, and final analysis artifacts                   |
-| `/archive/`     | Deprecated drafts, early experiments, and dead ends                     |
+| `/archive/data` | Extraction, early exports, and dead ends                                |
 
 ---
 
