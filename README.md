@@ -4,7 +4,7 @@
 
 This repository documents my attempt to build a data dashboard exploring the economic impact of generative AI. The project itself didn’t fully succeed—at least not in the way I expected. But the failure surfaced something more important: a replicable, transparent process for working with AI like a junior collaborator.
 
-This repo is the practical companion to my [Medium blog post](https://medium.com/...), which outlines the hard lessons I learned about AI project scoping, prompt design, and managing hallucinations through documentation and iteration.
+This repo is the practical companion to my [Medium blog post](https://medium.com//@robert.casanova82/failing-with-purpose-what-a-broken-project-taught-me-about-working-with-genai-a0bf2285f71b), which outlines the hard lessons I learned about AI project scoping, prompt design, and managing hallucinations through documentation and iteration.
 
 ---
 
@@ -50,7 +50,7 @@ This repo is the practical companion to my [Medium blog post](https://medium.com
 ## 📖 Read the Full Story
 
 Want to know how this came together (and fell apart)?  
-👉 [Read the full blog post here](https://medium.com/...)
+👉 [Read the full blog post here](https://medium.com/@robert.casanova82/failing-with-purpose-what-a-broken-project-taught-me-about-working-with-genai-a0bf2285f71b)
 
 ---
 
